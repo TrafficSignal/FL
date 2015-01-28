@@ -1,0 +1,488 @@
+<markers>
+<marker lat="27.9333097939479" lng="-82.3686710255585" intname=" 78th St and Claire Mel ( mid-block )" intnum=" C001" />
+<marker lat="28.0007631486611" lng="-82.5627081978326" intname=" Hanley Rd andHenry Rd" intnum=" C003" />
+<marker lat="28.0995733415757" lng="-82.5221330624617" intname=" Northdale Blvd and Claywell Elem" intnum=" C006" />
+<marker lat="28.0804363475997" lng="-82.4398119415024" intname=" Bearss Ave and Mort Elem Sch" intnum=" C007" />
+<marker lat="28.0786862186706" lng="-82.5723640183511" intname=" Gunn Hwy (Ehrlich Rd and Citrus Park Elem)" intnum=" C008" />
+<marker lat="28.0070997360393" lng="-82.4974569752801" intname=" Lambright St and Egypt Lake Elem Sch" intnum=" C009" />
+<marker lat="28.0347538155233" lng="-82.566416319585" intname=" Wilsky Rd and Bellamy Elem" intnum=" C010" />
+<marker lat="27.8497763013556" lng="-82.3688073744659" intname=" Gibsonton Dr and Gibsonton Elem" intnum=" C011" />
+<marker lat="27.9921611039287" lng="-82.5751585676965" intname=" Webb Rd and Baycrest Elem Sch" intnum=" C012" />
+<marker lat="28.0613993838077" lng="-82.4345836107076" intname=" 22nd St Mid Block and University Retirement Cntr" intnum=" C013" />
+<marker lat="28.0571307900601" lng="-82.5005619953779" intname=" Orange Grove Dr and Independent Sch Entr" intnum=" C014" />
+<marker lat="28.0115300825332" lng="-82.5624938625013" intname=" Hanley Rd and Linear Park-Tampa Bay Trail" intnum=" C015" />
+<marker lat="28.0181536391233" lng="-82.5172279347237" intname=" Manhattan Ave and Crestwood Elem" intnum=" C016" />
+<marker lat="27.9293499495016" lng="-82.2873787248454" intname=" Vonderburg Dr and Clayton Park" intnum=" C017" />
+<marker lat="28.0300648555913" lng="-82.5830358854801" intname=" Sheldon Rd and Upper Tampa Bay Trails" intnum=" C018" />
+<marker lat="28.0271804497578" lng="-82.5917132224406" intname=" Waters Ave and UpperTampaBay Trail" intnum=" C019" />
+<marker lat="28.0753742123155" lng="-82.4345457514516" intname=" N 22ND ST. SOUTH OF E 142ND AVE. (MID-BLOCK PED)and" intnum=" C020" />
+<marker lat="28.0122431372765" lng="-82.5832172248112" intname=" SHELDON RD and TOWN N COUNTRY GREENWAY" intnum=" C021" />
+<marker lat="28.0707029820617" lng="-82.4345626664356" intname=" N 22nd St north of 136th Ave (Mid-Block)and" intnum=" C022" />
+<marker lat="28.0776317524834" lng="-82.4345983646054" intname=" N 22ND ST NORTH OF CEDAR TRACE CIR (MID-BLOCK PED)and" intnum=" C023" />
+<marker lat="27.9894543480827" lng="-82.3588166234505" intname=" Fairgrounds and US 301" intnum=" D004" />
+<marker lat="27.9818524039261" lng="-82.5650198167553" intname=" Kelly Rd and Memorial Hwy" intnum=" D009" />
+<marker lat="27.9850373350196" lng="-82.5698875778452" intname=" Memorial Hwy and Town - Country Blvd" intnum=" D010" />
+<marker lat="27.986622810133" lng="-82.5714210238216" intname=" Normandy-Lopez and Memorial Hwy" intnum=" D013" />
+<marker lat="28.0398262189196" lng="-82.393520248364" intname=" 56th St and Mission Hills Ave" intnum=" D020" />
+<marker lat="27.95968039429" lng="-82.277649099616" intname=" Kingsway Ave and Windhorst Rd" intnum=" E001" />
+<marker lat="27.7131270974735" lng="-82.4341076340407" intname=" College Ave and US 41" intnum=" E002" />
+<marker lat="27.8497639351712" lng="-82.381742198932" intname=" Gibsonton Dr and US 41" intnum=" E003" />
+<marker lat="28.0568186479391" lng="-82.5313729677571" intname=" Gunn Hwy and Four Oaks Rd" intnum=" E004" />
+<marker lat="27.9323060682613" lng="-82.2775576336527" intname=" Bryan Rd-Kingsway Ave and Lithia Rd" intnum=" E005" />
+<marker lat="28.0536974507459" lng="-82.3316273546719" intname=" Fowler Ave and US 301" intnum=" E009" />
+<marker lat="28.0073776048202" lng="-82.5419702091198" intname=" Benjamin Rd and Johns Rd" intnum=" E011" />
+<marker lat="27.8991880504505" lng="-82.3653225599471" intname=" 82nd St and Progress Blvd" intnum=" E012" />
+<marker lat="27.8503635732375" lng="-82.1454429283604" intname=" CR 39 and Lithia Rd-CR 640" intnum=" E013" />
+<marker lat="27.8644643192519" lng="-82.385168157918" intname=" Riverview Dr and US 41" intnum=" E019" />
+<marker lat="27.9902504297737" lng="-82.5751853924226" intname=" Memorial Hwy and Webb Rd-Stillbrook" intnum=" E020" />
+<marker lat="28.0655903908443" lng="-82.4511608419577" intname=" 131st St and Nebraska Ave" intnum=" E024" />
+<marker lat="28.0202550351019" lng="-82.3933814008242" intname=" 56th St and Puritan Rd" intnum=" E026" />
+<marker lat="27.8991898753575" lng="-82.3686343266306" intname=" 78th St and Madison Ave" intnum=" E029" />
+<marker lat="27.9450805553589" lng="-82.2775882295191" intname=" Clay Rd and Kingsway Ave" intnum=" E030" />
+<marker lat="28.0655618507233" lng="-82.4428433360823" intname=" 131st Ave and 15th St" intnum=" E031" />
+<marker lat="28.1093703079718" lng="-82.4601684483202" intname=" Florida Ave and Nebraska Ave-Apex" intnum=" E033" />
+<marker lat="27.9942829512862" lng="-82.2196759917615" intname=" Dr M L King Blvd and S Dover Rd-Moores Lake Rd" intnum=" E034" />
+<marker lat="27.7206321084073" lng="-82.4340205928216" intname=" Shell Point Rd and US 41" intnum=" E035" />
+<marker lat="27.9376324702672" lng="-82.2814277152362" intname=" Lithia Pinecest and SR 60" intnum=" E036" />
+<marker lat="28.0131079780102" lng="-82.5751321616022" intname=" Webb Rd and Woodbridge Blvd" intnum=" E037" />
+<marker lat="28.0106857919961" lng="-82.4019109833096" intname=" 50th St and Sligh Ave" intnum=" E038" />
+<marker lat="28.0129897261426" lng="-82.5624883068071" intname=" Hanley Rd and Woodbridge Rd" intnum=" E039" />
+<marker lat="27.7351729513628" lng="-82.4307664053351" intname=" 19th Ave and US 41" intnum=" E041" />
+<marker lat="28.0692053211433" lng="-82.4675746911549" intname=" Fletcher Ave and North Blvd" intnum=" E044" />
+<marker lat="28.0065983340978" lng="-82.2777045555965" intname=" Kingsway Rd and US 92" intnum=" E045" />
+<marker lat="28.0471108201258" lng="-82.5171846667679" intname=" Casey Rd and Gunn Hwy" intnum=" E052" />
+<marker lat="28.0175563470319" lng="-82.5625065850161" intname=" Barry Rd and Hanley Rd" intnum=" E053" />
+<marker lat="27.9742403865029" lng="-82.2859063736379" intname=" Parsons Ave and Wheeler Rd" intnum=" E054" />
+<marker lat="27.9818000715519" lng="-82.5587384306524" intname=" Dana Shores Rd and Memorial Hwy" intnum=" E065" />
+<marker lat="28.0703147460731" lng="-82.5169771225323" intname=" Casey Rd and S Village Dr" intnum=" E066" />
+<marker lat="27.942553534706" lng="-82.331799638677" intname=" I-75 West Ramp A-West and SR 60" intnum=" E067" />
+<marker lat="28.0160139835697" lng="-82.2446506521286" intname=" McIntosh Rd and US 92" intnum=" E069" />
+<marker lat="28.0050046051844" lng="-82.2859777868082" intname=" Parsons Ave and US 92" intnum=" E070" />
+<marker lat="28.0691159395728" lng="-82.413977996531" intname=" Fletcher Ave and N Palm St-42nd St" intnum=" E072" />
+<marker lat="28.0613411315831" lng="-82.5419582205275" intname=" Anderson Rd-Lynn Turmer Rd and Gunn Hwy" intnum=" E073" />
+<marker lat="27.966968944059" lng="-82.1703658876727" intname=" Trapnell Rd and Turkey Creek Rd" intnum=" E075" />
+<marker lat="28.0976177574452" lng="-82.5124242565493" intname=" Dawnview Dr and Northdale Blvd" intnum=" E078" />
+<marker lat="27.9158020372915" lng="-82.2774859190122" intname=" Bryan Rd and Dewolf Rd" intnum=" E079" />
+<marker lat="27.9340767867979" lng="-82.3020946248052" intname=" Oakfield Dr and Pauls Dr" intnum=" E081" />
+<marker lat="27.7131358933447" lng="-82.4320398340488" intname=" 2nd St and SR 674" intnum=" E084" />
+<marker lat="28.1424290838194" lng="-82.4304762931092" intname=" Livingston Ave and Sunset Ln" intnum=" E085" />
+<marker lat="28.0334898721664" lng="-82.5829615721178" intname=" Meadow Brook Pkwy and Sheldon Rd" intnum=" E087" />
+<marker lat="27.9742635574182" lng="-82.2776695605591" intname=" Kingsway Ave and Wheeler Rd" intnum=" E088" />
+<marker lat="27.9667735384643" lng="-82.3351944410557" intname=" Columbus Dr and Falkenburg Rd" intnum=" E089" />
+<marker lat="27.9887848842952" lng="-82.302338004478" intname=" CR 579 and Claypit Rd" intnum=" E090" />
+<marker lat="27.8535343275831" lng="-82.3145275748205" intname=" Balm Riverview Rd and Boyette Rd" intnum=" E091" />
+<marker lat="27.9758186124953" lng="-82.3350632552445" intname=" Falkenburg Rd and Queen Palm Dr" intnum=" E092" />
+<marker lat="27.9522196904726" lng="-82.3746943445989" intname=" Orient Rd and SR 60" intnum=" E093" />
+<marker lat="27.942263164497" lng="-82.3854519259069" intname=" Maydell Dr and Palm River Rd" intnum=" E094" />
+<marker lat="27.9082687486602" lng="-82.2566888087871" intname=" Brooker Rd and Lithia Rd" intnum=" E095" />
+<marker lat="27.952223057841" lng="-82.3254872748782" intname=" Grand Regency Blvd and Woodberry Rd" intnum=" E096" />
+<marker lat="28.0601591036096" lng="-82.459357846993" intname=" 124th Ave and Florida Ave" intnum=" E097" />
+<marker lat="28.0392621200511" lng="-82.5496893985115" intname=" Henderson Rd and Capital One Entrance" intnum=" E098" />
+<marker lat="28.1143152333465" lng="-82.5804891281068" intname=" Gunn Hwy and N Mobley Rd" intnum=" E100" />
+<marker lat="27.9669675095717" lng="-82.2776590081548" intname=" Kingsway Rd and Cactus Rd" intnum=" E101" />
+<marker lat="28.0846153991232" lng="-82.5019375949559" intname=" Bearss Ave and Zambito Rd" intnum=" E102" />
+<marker lat="27.7130700155959" lng="-82.4065247668343" intname=" 21st St SE and SR 674" intnum=" E104" />
+<marker lat="27.7004022066397" lng="-82.4555067393411" intname=" Gulf City Rd and US 41" intnum=" E105" />
+<marker lat="27.8865603190808" lng="-82.1272861029717" intname=" Keysville Rd and CR 39" intnum=" E107" />
+<marker lat="27.9451502417908" lng="-82.2939452696471" intname=" Kings Ave and Victoria St" intnum=" E108" />
+<marker lat="27.8870855281792" lng="-82.2692690510465" intname=" Bell Shoals Rd and Rosemead Ln" intnum=" E109" />
+<marker lat="27.9052811613432" lng="-82.1704616109306" intname=" Durant Rd and Turkey Creek Rd" intnum=" E110" />
+<marker lat="27.9974142638743" lng="-82.2074202484084" intname=" Dr M L King Blvd and Sydney Dover" intnum=" E111" />
+<marker lat="27.8536051340224" lng="-82.2692568517068" intname=" Bell Shoals Rd and Boyette Rd" intnum=" E112" />
+<marker lat="28.0890993616429" lng="-82.4844306258466" intname=" Bearss Ave and Emerald Creek" intnum=" E113" />
+<marker lat="28.0325777042789" lng="-82.3564380010202" intname=" Davis Rd and Temple Terrace Hwy" intnum=" E114" />
+<marker lat="28.0317942074761" lng="-82.3522960231861" intname=" Morris Bridge-Harney and Temple Terrace Hwy" intnum=" E115" />
+<marker lat="28.0092829643181" lng="-82.5118163210855" intname=" Clark Av and Pinecrest Manor Blvd" intnum=" E116" />
+<marker lat="28.002028846376" lng="-82.5337519823415" intname=" Hoover Blvd and Idlewild Ave" intnum=" E117" />
+<marker lat="27.9984790679185" lng="-82.357160452765" intname=" I-4 North and US 301" intnum=" E118" />
+<marker lat="28.1284019326493" lng="-82.5460566865588" intname=" Van Dyke Rd and Fire Station" intnum=" E119" />
+<marker lat="27.941111018383" lng="-82.3366878485976" intname=" Falkenburg Rd and Palm River Dr" intnum=" E120" />
+<marker lat="28.0438070584869" lng="-82.5133578904086" intname=" Gunn Hwy and Mullis City Way" intnum=" E121" />
+<marker lat="27.8936415526598" lng="-82.2633956134879" intname=" Bloomingdale Ave and Springvale Dr" intnum=" E122" />
+<marker lat="27.9233711106402" lng="-82.2527747550269" intname=" Lumsden Rd and Valrico Rd" intnum=" E123" />
+<marker lat="28.0619075331387" lng="-82.5825856133151" intname=" Sheldon Rd and Fawn Ridge Blvd" intnum=" E124" />
+<marker lat="28.0402530150433" lng="-82.5733437123673" intname=" Linebaugh and Transfer Station-Angus Dr" intnum=" E125" />
+<marker lat="28.1421828221529" lng="-82.3259297659582" intname=" Cross Creek Blvd and Kinnan St" intnum=" E126" />
+<marker lat="27.7123287785961" lng="-82.3460297542683" intname=" SR 674 and Augusta-FireStation" intnum=" E127" />
+<marker lat="27.8970218889562" lng="-82.31861054286" intname=" Providence and Firestation #37" intnum=" E128" />
+<marker lat="28.1552430122349" lng="-82.4930780967095" intname=" Lutz Lake Fern Rd and Sunlake Blvd" intnum=" E129" />
+<marker lat="28.1554111917972" lng="-82.5254024509884" intname=" Lutz Lake Fern Rd and Boulevard of the Roses" intnum=" E130" />
+<marker lat="27.8886380311742" lng="-82.2384151111696" intname=" Lithia Pinecrest Rd and Erindale Dr" intnum=" E131" />
+<marker lat="27.7921365326196" lng="-82.3178183209963" intname=" Big Bend Rd and Summerfield Blvd." intnum=" E132" />
+<marker lat="28.0716146233889" lng="-82.6316215556473" intname=" Nine Eagles Dr and Bryant Elementary School" intnum=" E133" />
+<marker lat="28.0847313400608" lng="-82.5377389392764" intname=" Ehrlich Rd and Country Place Fire Station" intnum=" E134" />
+<marker lat="28.1027838548316" lng="-82.45556211684" intname=" US 41-Nebraskaand Chapman Fire Station" intnum=" E135" />
+<marker lat="27.7917523861233" lng="-82.3544582179137" intname=" Big Bend Rd and I-75" intnum=" E136" />
+<marker lat="28.0655494571136" lng="-82.4273531129655" intname=" 131st Ave and 29th St" intnum=" E137" />
+<marker lat="27.9965423458985" lng="-82.5628617554438" intname=" Hanley Rd and Hillsborough Ave" intnum=" F002" />
+<marker lat="28.0107228985756" lng="-82.3935062596094" intname=" 56th St and Sligh Ave" intnum=" F003" />
+<marker lat="27.9062582737097" lng="-82.4018359267266" intname=" Port Sutton Rd and US 41" intnum=" F004" />
+<marker lat="27.9827647779882" lng="-82.277659197731" intname=" Dr M L King Blvd and Kingsway Rd" intnum=" F005" />
+<marker lat="27.9010512631014" lng="-82.4018441593059" intname=" Madison Ave and US 41" intnum=" F006" />
+<marker lat="27.9669848841097" lng="-82.1214538555704" intname=" SR 39 and Trapnell Rd" intnum=" F007" />
+<marker lat="28.149589500781" lng="-82.5794133489638" intname=" Gunn Hwy and Tarpon Springs Rd" intnum=" F008" />
+<marker lat="27.9429788769044" lng="-82.4018781569601" intname=" Palm River Rd and US 41" intnum=" F009" />
+<marker lat="28.0542425722379" lng="-82.3620711976607" intname=" Fowler Ave and Morris Bridge Rd" intnum=" F010" />
+<marker lat="28.0804406235249" lng="-82.4513030397016" intname=" Nebraska Ave and Skipper Rd" intnum=" F011" />
+<marker lat="27.934197411663" lng="-82.2857452813904" intname=" Oakfield Dr and Parsons Ave" intnum=" F012" />
+<marker lat="27.9377169085607" lng="-82.2755476547792" intname=" Ridgewood Ave and SR 60" intnum=" F013" />
+<marker lat="28.0254342742655" lng="-82.5007657029891" intname=" Himes Ave and Waters Ave" intnum=" F014" />
+<marker lat="27.93757563628" lng="-82.1704436119692" intname=" SR 60 and Turkey Creek Rd" intnum=" F015" />
+<marker lat="28.0433884682601" lng="-82.5047893572651" intname=" Dale Mabry Hwy and Lake CarrollWay" intnum=" F016" />
+<marker lat="28.0659872101505" lng="-82.4840530122916" intname=" Armenia Ave and Fletcher Ave" intnum=" F017" />
+<marker lat="28.1278091893105" lng="-82.5024084529567" intname=" Dale Mabry Hwy and Van Dyke Rd" intnum=" F018" />
+<marker lat="27.9441279193399" lng="-82.2857923698509" intname=" Parsons Ave and Victoria St" intnum=" F019" />
+<marker lat="27.8937979207289" lng="-82.2185235280851" intname=" Bloomingdale Ave and Fire Station" intnum=" F020" />
+<marker lat="28.0691319977097" lng="-82.4204931534663" intname=" Fletcher Ave and Magnolia Dr" intnum=" F022" />
+<marker lat="27.9962270733642" lng="-82.3847912912518" intname=" Harney Rd and Hillsborough Ave" intnum=" F024" />
+<marker lat="27.9962069132033" lng="-82.3908887130328" intname=" East Lake Mall Entr and Hillsborough Ave" intnum=" F025" />
+<marker lat="27.8657502117273" lng="-82.3266135786072" intname=" Balm Riverview Rd and US 301" intnum=" F026" />
+<marker lat="28.0034033670956" lng="-82.3935085961083" intname=" 56th St and Hanna Rd" intnum=" F027" />
+<marker lat="27.9904246878619" lng="-82.3934598223646" intname=" 56th St and East Lake Mall Entr" intnum=" F028" />
+<marker lat="28.0259641967084" lng="-82.5830598594221" intname=" Sheldon Rd  and Waters Ave" intnum=" F029" />
+<marker lat="28.0265248329024" lng="-82.3934652662932" intname=" 56th St and Riverhills Dr" intnum=" F030" />
+<marker lat="27.9966490888454" lng="-82.5751005399414" intname=" Hillsborough Ave and Webb Rd" intnum=" F031" />
+<marker lat="27.9963774756466" lng="-82.5420707076832" intname=" Benjamin Rd and Hillsborough Ave" intnum=" F032" />
+<marker lat="27.8412365393086" lng="-82.3816629809687" intname=" Palm Ave and US 41" intnum=" F033" />
+<marker lat="28.0620948951102" lng="-82.5038290071282" intname=" Dale Mabry Hwy and Stall Rd" intnum=" F035" />
+<marker lat="28.0511231524597" lng="-82.5042121572844" intname=" Dale Mabry Hwy and Hudson Lane" intnum=" F036" />
+<marker lat="28.0804068019075" lng="-82.4347237481027" intname=" 22nd St and Bearss Ave" intnum=" F037" />
+<marker lat="28.0353473853419" lng="-82.4884925802087" intname=" Busch Blvd and Orange Grove Dr" intnum=" F038" />
+<marker lat="27.9962245366664" lng="-82.373054150737" intname=" Hillsborough Ave and Orient Rd" intnum=" F042" />
+<marker lat="27.7925430486459" lng="-82.3843644345463" intname=" Big Bend Rd and US 41" intnum=" F043" />
+<marker lat="27.7918499701434" lng="-82.359455894025" intname=" Big Bend Rd and I-75" intnum=" F045" />
+<marker lat="27.792026844476" lng="-82.3349787427975" intname=" Big Bend Rd and US 301" intnum=" F046" />
+<marker lat="28.1579994141526" lng="-82.5801561250346" intname=" Gunn Hwy and Lutz Lake Fern Rd" intnum=" F047" />
+<marker lat="28.067121084966" lng="-82.5053365654993" intname=" Dale Mabry Hwy and Fire Station # 19" intnum=" F049" />
+<marker lat="27.9986691568969" lng="-82.3188126606568" intname=" US 92 and Williams Rd" intnum=" F051" />
+<marker lat="27.9229949526876" lng="-82.3380478909965" intname=" Falkenburg Rd and Lumsden Rd" intnum=" F054" />
+<marker lat="27.9817909680999" lng="-82.5566939799791" intname=" Independence Hwy and Memorial Hwy" intnum=" F056" />
+<marker lat="27.9407580017919" lng="-82.3534563844365" intname=" Palm River Rd and US 301" intnum=" F057" />
+<marker lat="28.0256305543844" lng="-82.5417675877118" intname=" Benjamin Rd and Waters Ave" intnum=" F059" />
+<marker lat="28.0363124875017" lng="-82.5006639285489" intname=" Busch Blvd and Himes Ave" intnum=" F060" />
+<marker lat="28.0359343593352" lng="-82.4925383682777" intname=" Busch Blvd and Twin Lakes Blvd" intnum=" F062" />
+<marker lat="27.9298922905618" lng="-82.3510396543168" intname=" Crosstown Express Way and US 301" intnum=" F063" />
+<marker lat="27.7130686316737" lng="-82.3940692544218" intname=" 30th St and SR 674" intnum=" F064" />
+<marker lat="28.0691015935436" lng="-82.40989290908" intname=" 46th St and Fletcher Ave" intnum=" F065" />
+<marker lat="28.0291055522837" lng="-82.5049194835813" intname=" Dale Mabry Hwy and Humphrey Blvd" intnum=" F067" />
+<marker lat="27.9231516501364" lng="-82.2697686097634" intname=" Lithia Rd and Lumsden Rd" intnum=" F068" />
+<marker lat="28.0692140444242" lng="-82.3937272958492" intname=" 56th St and Fletcher Ave" intnum=" F069" />
+<marker lat="28.0544101776322" lng="-82.3770911968034" intname=" Fowler Ave and Gillette Ave" intnum=" F070" />
+<marker lat="28.0401113170823" lng="-82.5048705769185" intname=" Dale Mabry Hwy and Linebaugh Ave" intnum=" F071" />
+<marker lat="28.0657682336378" lng="-82.492236865606" intname=" Fletcher Ave and Lake Magdalene Blvd" intnum=" F072" />
+<marker lat="28.0656220931922" lng="-82.5005197112747" intname=" Fletcher Ave and Orange Grove Ln" intnum=" F073" />
+<marker lat="27.99659372696" lng="-82.564835841596" intname=" Hillsborough Ave and Kelly Rd" intnum=" F074" />
+<marker lat="27.9962242345691" lng="-82.3771291021896" intname=" CREDIT UNION and US 92" intnum=" F075" />
+<marker lat="28.0327212945468" lng="-82.3687695800551" intname=" 78th St and Temple Terrace Hwy" intnum=" F076" />
+<marker lat="27.9393884369993" lng="-82.3239103065689" intname=" Grand Regency and SR 60" intnum=" F077" />
+<marker lat="28.0368916455859" lng="-82.5067462031083" intname=" Busch Blvd and Dale Mabry West Ramp" intnum=" F080" />
+<marker lat="28.0543737246851" lng="-82.3687078862648" intname=" Fowler Ave and Riverhills Dr" intnum=" F081" />
+<marker lat="28.0364503595872" lng="-82.503436733081" intname=" Busch Blvd and Dale Mabry East Ramp" intnum=" F082" />
+<marker lat="28.0812305612917" lng="-82.4427366721724" intname=" 16th St and Bearss Ave" intnum=" F084" />
+<marker lat="28.0804142114015" lng="-82.4308170123049" intname=" Bearss Ave and Livingston Ave" intnum=" F085" />
+<marker lat="27.9406655129398" lng="-82.327043881583" intname=" I-75 East Ramp and SR 60" intnum=" F086" />
+<marker lat="28.116697208454" lng="-82.4616230388784" intname=" Crenshaw Lake Rd and US 41" intnum=" F087" />
+<marker lat="27.9812817072715" lng="-82.3287098967114" intname=" Dr M L King Blvd and I-75 ( West )" intnum=" F088" />
+<marker lat="28.1015009133834" lng="-82.5023266721491" intname=" Dale Mabry Hwy and Gaither High Sch" intnum=" F089" />
+<marker lat="28.07970739896" lng="-82.4252514417807" intname=" BB Downs Blvd and Bearss Ave" intnum=" F090" />
+<marker lat="27.996511381991" lng="-82.5565729752121" intname=" Hillsborough Ave and Sawyer Rd" intnum=" F091" />
+<marker lat="28.07321092125" lng="-82.5211656505033" intname=" S Village Dr and W Village Dr" intnum=" F092" />
+<marker lat="27.7687764600039" lng="-82.3920214640085" intname=" Apollo Beach Blvd and US 41" intnum=" F093" />
+<marker lat="27.8936230144543" lng="-82.2565136470601" intname=" Bloomingdale Ave and Bloomingdale HS-Cade Ln" intnum=" F095" />
+<marker lat="28.1578149091746" lng="-82.4835338935555" intname=" Dale Mabry Hwy and Lutz Lake Fern Rd" intnum=" F097" />
+<marker lat="28.0029085553035" lng="-82.2969258074589" intname=" Peach St and US 92" intnum=" F098" />
+<marker lat="28.0692213517343" lng="-82.4428523360177" intname=" 15th St and Fletcher Ave" intnum=" F099" />
+<marker lat="28.069195904236" lng="-82.4345482142095" intname=" 22nd St and Fletcher Ave" intnum=" F100" />
+<marker lat="27.9815395931909" lng="-82.2940901702285" intname=" Dr M L King Blvd and Pine St" intnum=" F101" />
+<marker lat="27.9896494410198" lng="-82.2443190136965" intname=" Dr M L King Blvd and McIntosh Rd" intnum=" F102" />
+<marker lat="27.7123077449117" lng="-82.3582957675429" intname=" SR 674 and Valley Forge Dr-King Point" intnum=" F103" />
+<marker lat="28.047484987648" lng="-82.1295001971578" intname=" Sam Allen Rd and SR 39" intnum=" F104" />
+<marker lat="28.1423592640131" lng="-82.4624554678802" intname=" Sunset Ln and US 41" intnum=" F105" />
+<marker lat="28.0067338010826" lng="-82.1705409326429" intname=" Dr M L King Blvd and Turkey Creek Rd" intnum=" F106" />
+<marker lat="27.9415423518387" lng="-82.2775832551385" intname=" Kingsway Ave and Sadie St" intnum=" F110" />
+<marker lat="28.0403542489973" lng="-82.5663482866617" intname=" Linebaugh Ave and Wilsky Rd" intnum=" F111" />
+<marker lat="28.1289222033394" lng="-82.575051252059" intname=" Gunn Hwy and Van Dyke Rd" intnum=" F112" />
+<marker lat="27.9815706439038" lng="-82.302296055809" intname=" CR 579 and Dr M L King Blvd" intnum=" F113" />
+<marker lat="28.0656969495994" lng="-82.5170056010721" intname=" Casey Rd and Lowell Rd" intnum=" F114" />
+<marker lat="28.0692150759806" lng="-82.3695562414188" intname=" Fletcher Ave and Lettuce Lake Park" intnum=" F115" />
+<marker lat="28.069358293054" lng="-82.4757676270713" intname=" Fletcher Ave and Rome Ave" intnum=" F116" />
+<marker lat="28.0832500573855" lng="-82.5419187712208" intname=" Ehrlich Rd and Lynn Turner Rd" intnum=" F117" />
+<marker lat="28.025413524021" lng="-82.4924672081445" intname=" Twin Lakes Blvd and Waters Ave" intnum=" F118" />
+<marker lat="28.0519230895917" lng="-82.5233583332442" intname=" Gunn Hwy and Plantation Blvd" intnum=" F119" />
+<marker lat="28.147602626958" lng="-82.4619506765291" intname=" US 41 and Lutz Elem Sch" intnum=" F120" />
+<marker lat="28.0692630089706" lng="-82.4542106576497" intname=" Fletcher Ave and I-275 Ramps" intnum=" F122" />
+<marker lat="28.0881379608296" lng="-82.4677819918897" intname=" Bearss Ave and North Blvd" intnum=" F123" />
+<marker lat="28.0109690837794" lng="-82.3547647661451" intname=" Sligh Ave and US 301" intnum=" F124" />
+<marker lat="27.9409383497519" lng="-82.3686526477214" intname=" 78th St and Palm River Rd" intnum=" F125" />
+<marker lat="28.0470519960766" lng="-82.3936531588744" intname=" 56th St and Whiteway Dr" intnum=" F126" />
+<marker lat="28.025466586663" lng="-82.5172170345466" intname=" Manhattan Ave and Waters Ave" intnum=" F127" />
+<marker lat="27.9814448890923" lng="-82.3792120891129" intname=" Dr M L King Blvd and Corporex Park Entr" intnum=" F128" />
+<marker lat="28.0845982423107" lng="-82.5172277955377" intname=" Casey Rd and Ehrlich Rd" intnum=" F129" />
+<marker lat="28.0892888170834" lng="-82.4810607962746" intname=" Bearss Ave and Lake Magdalene Blvd" intnum=" F130" />
+<marker lat="27.7742618735085" lng="-82.4008495682196" intname=" Apollo Beach Blvd and Dickman Dr" intnum=" F131" />
+<marker lat="28.1125477278738" lng="-82.5024964188103" intname=" Dale Mabry Hwy and North North Lakeview Dr" intnum=" F132" />
+<marker lat="28.103535811114" lng="-82.5023406941617" intname=" Dale Mabry Hwy and South North Lakeview Dr" intnum=" F133" />
+<marker lat="28.0583400696594" lng="-82.4779899718726" intname=" Oakleaf Dr and Pinelake Dr" intnum=" F134" />
+<marker lat="28.0765580133304" lng="-82.1378077850702" intname=" Knights-Griffin Rd and SR 39" intnum=" F135" />
+<marker lat="28.0988313606295" lng="-82.45303981937" intname=" Hanna Rd and US 41" intnum=" F136" />
+<marker lat="27.7123666272791" lng="-82.3770123570897" intname=" 33rd St SE - Cypress Village Dr and SR 674" intnum=" F137" />
+<marker lat="27.9523041297898" lng="-82.3690280385254" intname=" 78th St and SR 60" intnum=" F138" />
+<marker lat="27.8717096888257" lng="-82.3266755861466" intname=" Riverview Rd and US 301" intnum=" F139" />
+<marker lat="28.0256959436911" lng="-82.5515568458731" intname=" Twelve Oaks Blvd and Waters Ave" intnum=" F141" />
+<marker lat="27.7061606679699" lng="-82.4355638869802" intname=" 14th Ave SE (Ruskin) and US 41" intnum=" F142" />
+<marker lat="28.0108948020082" lng="-82.5321160978953" intname=" Anderson Rd and Sligh Ave" intnum=" F144" />
+<marker lat="28.0253419991665" lng="-82.4883606569679" intname=" Habana Ave and Waters Ave" intnum=" F145" />
+<marker lat="28.0071144042117" lng="-82.5008548814953" intname=" Himes Ave and Lambright Ave" intnum=" F146" />
+<marker lat="27.9955081636861" lng="-82.3351864729912" intname=" Falkenburg Rd and US 92" intnum=" F148" />
+<marker lat="28.0209503223727" lng="-82.1870562631414" intname=" Forbes Rd and US 92" intnum=" F149" />
+<marker lat="28.0040535089005" lng="-82.5626522873761" intname=" Hanley Rd and Hanna Ave" intnum=" F150" />
+<marker lat="28.0105413006939" lng="-82.5625028447313" intname=" Hanley Rd and Fountain Ave" intnum=" F151" />
+<marker lat="28.0259436959497" lng="-82.5713479741834" intname=" Pinehurst Dr and Waters Ave" intnum=" F152" />
+<marker lat="28.0259506720653" lng="-82.5757007171731" intname=" Northbridge Blvd and Waters Ave" intnum=" F153" />
+<marker lat="27.9378282628304" lng="-82.2364184696112" intname=" SR 60 and St Cloud Rd" intnum=" F154" />
+<marker lat="27.9339831543456" lng="-82.2882833505643" intname=" Oakfield Dr and Moon Ave" intnum=" F155" />
+<marker lat="27.9378507756032" lng="-82.2445786433262" intname=" Miller Rd and SR 60" intnum=" F156" />
+<marker lat="27.9767403354596" lng="-82.550616438225" intname=" George Rd and Independence Pkwy" intnum=" F159" />
+<marker lat="27.9817745691795" lng="-82.5505582496661" intname=" George Rd and Memorial Hwy" intnum=" F160" />
+<marker lat="27.9226782143668" lng="-82.3686888130093" intname=" 78th St and Causeway Blvd" intnum=" F161" />
+<marker lat="28.0847046698187" lng="-82.5337116521197" intname=" Ehrlich Rd and Pennington Ave" intnum=" F162" />
+<marker lat="28.0995147582117" lng="-82.5167260778335" intname=" Northdale Blvd and Northdale Blvd" intnum=" F163" />
+<marker lat="28.0851315461422" lng="-82.578895505753" intname=" Gunn Hwy and S Mobley Rd" intnum=" F164" />
+<marker lat="28.010993323051" lng="-82.5419540588032" intname=" Benjamin Rd and Sligh Ave" intnum=" F165" />
+<marker lat="27.9817465618999" lng="-82.5464377378902" intname=" Memorial Hwy and Veteran's Express Way" intnum=" F166" />
+<marker lat="28.0025520971775" lng="-82.1869074914422" intname=" Dr M L King Blvd and Forbes Rd" intnum=" F167" />
+<marker lat="28.0410211097109" lng="-82.5828017512724" intname=" Sheldon Rd and Old Linebaugh Ave" intnum=" F168" />
+<marker lat="27.9963961593861" lng="-82.5463101739583" intname=" Hillsborough Ave and Veteran's Express Way" intnum=" F170" />
+<marker lat="28.132738000477" lng="-82.5023776612223" intname=" Dale Mabry Hwy and Veterans Exp Way" intnum=" F171" />
+<marker lat="28.0352766906138" lng="-82.5416003143349" intname=" Anderson Rd and Veteran's Exp Ramps" intnum=" F172" />
+<marker lat="28.0970367827708" lng="-82.5423857368777" intname=" Hutchinson Rd and Veteran's Express Way" intnum=" F173" />
+<marker lat="28.0544130214836" lng="-82.3857821803794" intname=" Fowler Ave and Raintree Blvd" intnum=" F175" />
+<marker lat="28.095270296606" lng="-82.5082368913556" intname=" Mapledale Blvd and Northdale Blvd" intnum=" F176" />
+<marker lat="27.9450932035566" lng="-82.2858049137664" intname=" Clay Rd and Parsons Ave" intnum=" F177" />
+<marker lat="27.923136573911" lng="-82.326926478798" intname=" Lumsden Rd and Brandon Town Cntr S Entr" intnum=" F178" />
+<marker lat="28.0655308446668" lng="-82.4294272697612" intname=" 131st Ave and 27th St" intnum=" F179" />
+<marker lat="28.1282716108415" lng="-82.5441587840009" intname=" Carlton Arms Entr and Van Dyke Rd" intnum=" F180" />
+<marker lat="27.9881019587003" lng="-82.2529546889943" intname=" Dr M L King Blvd and Valrico Rd" intnum=" F181" />
+<marker lat="28.0728825870988" lng="-82.4260885200162" intname=" 138th Ave and BB Downs Blvd" intnum=" F182" />
+<marker lat="28.0692038678157" lng="-82.4018979550577" intname=" 50th St and Fletcher Ave" intnum=" F183" />
+<marker lat="27.9523761821131" lng="-82.285919968239" intname=" Jersey Ave and Parsons Ave" intnum=" F184" />
+<marker lat="27.7122769885848" lng="-82.37115426181" intname=" Cortaro Dr and SR 674" intnum=" F185" />
+<marker lat="28.0028179597022" lng="-82.5833120395992" intname=" Mohr Rd and Sheldon Rd" intnum=" F186" />
+<marker lat="28.025467532992" lng="-82.5218639109609" intname=" Waters Ave and Woodland Corp Blvd" intnum=" F187" />
+<marker lat="27.9962749634349" lng="-82.5338142000941" intname=" Hillsborough Ave and Hoover Blvd" intnum=" F188" />
+<marker lat="28.0197916932459" lng="-82.6228955031795" intname=" Countryway Blvd and Hillsborough Ave" intnum=" F190" />
+<marker lat="27.8936380852079" lng="-82.277483011462" intname=" Bloomingdale Ave and Bryan Rd" intnum=" F192" />
+<marker lat="27.9376959872107" lng="-82.3185543087595" intname=" Goronto Lake Rd and SR 60" intnum=" F193" />
+<marker lat="28.0256788196289" lng="-82.5498113389756" intname=" Henderson Rd and Waters Ave" intnum=" F194" />
+<marker lat="27.93776258374" lng="-82.2195702748778" intname=" SR 60 and South Dover Rd" intnum=" F195" />
+<marker lat="28.0786815525841" lng="-82.5700637106352" intname=" Ehrlic Rd and Walsh St" intnum=" F196" />
+<marker lat="28.080579150936" lng="-82.5581292400158" intname=" Bellamy Rd and Ehrlich Rd" intnum=" F198" />
+<marker lat="27.9965171981816" lng="-82.5599331178237" intname=" Fire Station Driveway and Hillsborough Ave" intnum=" F199" />
+<marker lat="28.0788053884142" lng="-82.5783533173857" intname=" Gunn Hwy and Sheldon Rd" intnum=" F200" />
+<marker lat="28.0256725048478" lng="-82.5469193473665" intname=" Sitka St and Waters Ave" intnum=" F201" />
+<marker lat="27.9815827599787" lng="-82.3064764997781" intname=" Dr M L King Blvd and Hewitt St" intnum=" F202" />
+<marker lat="27.9815294604086" lng="-82.2981609338844" intname=" Dr M L King Blvd and Highview Rd" intnum=" F203" />
+<marker lat="28.0282924513979" lng="-82.6362871258237" intname=" Hillsborough Ave and Double Branch Rd" intnum=" F204" />
+<marker lat="28.1356865199193" lng="-82.4632458289946" intname=" Crystal Lake Rd and US 41" intnum=" F205" />
+<marker lat="28.0915295885083" lng="-82.4307729828802" intname=" Livingston Ave and Sinclair Hills Rd" intnum=" F206" />
+<marker lat="28.0084097672924" lng="-82.3023837556631" intname=" CR 579 and I-4 ( North )" intnum=" F207" />
+<marker lat="28.0045259394385" lng="-82.3024265883723" intname=" CR 579 and I-4 ( South )" intnum=" F208" />
+<marker lat="28.0245742103096" lng="-82.244692096789" intname=" I-4 ( North ) and McIntosh" intnum=" F209" />
+<marker lat="28.0222818306504" lng="-82.2446798304819" intname=" I-4 ( South ) and McIntosh" intnum=" F210" />
+<marker lat="28.1509121126296" lng="-82.4615785181775" intname=" Lutz Lake Fern Rd and US 41" intnum=" F211" />
+<marker lat="28.0661365654386" lng="-82.5702353087598" intname=" Citrus Park Dr and Gunn Hwy" intnum=" F212" />
+<marker lat="27.9737977025048" lng="-82.318708861218" intname=" Broadway Ave(CR 574) and Williams Rd" intnum=" F213" />
+<marker lat="28.0646650386345" lng="-82.5825853149659" intname=" Citrus Park Dr and Sheldon Rd" intnum=" F214" />
+<marker lat="28.0023052643493" lng="-82.3564622838555" intname=" Brecken Ridge and US 301" intnum=" F215" />
+<marker lat="28.0806356644126" lng="-82.4205325434722" intname=" BB Downs Blvd and Lake Forest Rd" intnum=" F216" />
+<marker lat="28.0695930256161" lng="-82.541603334214" intname=" Essrig Elem and Lynn Turner Rd" intnum=" F217" />
+<marker lat="27.8535740316374" lng="-82.3021880202755" intname=" Boyette Rd and McMullen Rd" intnum=" F218" />
+<marker lat="28.0290264439475" lng="-82.5007661898121" intname=" Himes Ave and Humphrey St" intnum=" F219" />
+<marker lat="28.0144591014495" lng="-82.5050146168942" intname=" Dale Mabry Hwy and Hamilton" intnum=" F220" />
+<marker lat="28.0699015411117" lng="-82.570127602902" intname=" Gunn Hwy and Manhattan Dr" intnum=" F221" />
+<marker lat="27.893664905445" lng="-82.2468001984599" intname=" Bloomingdale Ave and Culbreath Rd" intnum=" F222" />
+<marker lat="28.0404556128042" lng="-82.5497888288268" intname=" Henderson Rd and Linebaugh Ave" intnum=" F223" />
+<marker lat="27.937820585322" lng="-82.2610931828863" intname=" SR 60 and MOUNT CARMEL RD" intnum=" F224" />
+<marker lat="27.9154982784477" lng="-82.3435492331761" intname=" Crescent Park Dr and Falkenburg Rd" intnum=" F225" />
+<marker lat="28.0403322749206" lng="-82.5333992631121" intname=" Linebaugh Ave and Nixon Rd" intnum=" F226" />
+<marker lat="28.0204029200406" lng="-82.1751937124316" intname=" Turkey Creek Rd and US 92" intnum=" F227" />
+<marker lat="27.9118832152601" lng="-82.3479537719223" intname=" Cresent Park and US 301" intnum=" F228" />
+<marker lat="27.9732912833919" lng="-82.3603869436031" intname=" Sabal Industrial Blvd and US 301" intnum=" F229" />
+<marker lat="27.9249837818966" lng="-82.3163322838752" intname=" Brandon Town Cnt and Providence Rd" intnum=" F230" />
+<marker lat="28.0692011658343" lng="-82.4304508776412" intname=" Fletcher Ave and Livingston Ave" intnum=" F231" />
+<marker lat="27.9120307825808" lng="-82.3186214544963" intname=" Providence Rd and Providence Lakes Blvd" intnum=" F234" />
+<marker lat="28.0335322943355" lng="-82.3490237783968" intname=" Harney Rd and US 301" intnum=" F235" />
+<marker lat="28.0402913712472" lng="-82.5258505717323" intname=" Linebaugh Ave and Plantation Blvd" intnum=" F236" />
+<marker lat="28.0702836649109" lng="-82.6313728050918" intname=" Nine Eagles Blvd and Race Track Rd" intnum=" F237" />
+<marker lat="28.0554810874377" lng="-82.6236038992317" intname=" Countryway Blvd and Linebaugh Ave" intnum=" F238" />
+<marker lat="28.1286032621261" lng="-82.5490287250027" intname=" Suncoast Pkway West Ramp and Van Dyke Rd" intnum=" F239" />
+<marker lat="28.1284632190985" lng="-82.5470079522686" intname=" Suncoast Pkway East Ramp and Van Dyke Rd" intnum=" F240" />
+<marker lat="28.032755112056" lng="-82.3732772384131" intname=" Bullard Prkwy and Temple Park Dr" intnum=" F241" />
+<marker lat="27.9294493602151" lng="-82.3380810356135" intname=" Crosstown Expressway and Faulkenburg Rd" intnum=" F242" />
+<marker lat="28.0291296112942" lng="-82.5962702373219" intname=" Montague St and Waters Ave" intnum=" F243" />
+<marker lat="28.0361814123993" lng="-82.3934558039035" intname=" 56th St and Temple Heights Rd" intnum=" F244" />
+<marker lat="27.8991577670193" lng="-82.3565142926901" intname=" Falkenburg Rd and Progress Village Blvd" intnum=" F245" />
+<marker lat="28.0324922526207" lng="-82.383947744571" intname=" Bullard Prkwy and Glenn Arven Ave" intnum=" F246" />
+<marker lat="28.0402348785408" lng="-82.5172757044591" intname=" Linebaugh Ave and Mullis City Way" intnum=" F247" />
+<marker lat="28.0156955402329" lng="-82.6164247767883" intname=" Hillsborough Ave and Montague St" intnum=" F248" />
+<marker lat="28.065543897386" lng="-82.4345714610312" intname=" 131st Ave and 22nd St" intnum=" F249" />
+<marker lat="27.9834571032469" lng="-82.3350944375723" intname=" Falkenburg Rd and Highland Manor Dr" intnum=" F250" />
+<marker lat="28.0443809933081" lng="-82.5969068778061" intname=" Linebaugh Ave and Montague St" intnum=" F251" />
+<marker lat="28.077097956231" lng="-82.5785640772267" intname=" Old Hixon Rd and Sheldon Rd" intnum=" F252" />
+<marker lat="28.0809877831285" lng="-82.5782884970978" intname=" Gunn Hwy and Sickles HS" intnum=" F253" />
+<marker lat="28.1029875144074" lng="-82.5806203947788" intname=" Gunn Hwy and Racetrack Rd" intnum=" F254" />
+<marker lat="28.0106435057788" lng="-82.3024457545058" intname=" CR 579 and Sligh Ave" intnum=" F255" />
+<marker lat="28.0692253070901" lng="-82.3596204728744" intname=" Fletcher Ave and Morris Bridge Rd" intnum=" F256" />
+<marker lat="27.9628139527685" lng="-82.3351723609484" intname=" Falkenburg Rd and Windhorst Rd" intnum=" F257" />
+<marker lat="27.8518333365925" lng="-82.3465116027291" intname=" Gibsonton Dr and I-75" intnum=" F258" />
+<marker lat="28.0465677551886" lng="-82.6038974761436" intname=" Gretna Green Dr and Linebaugh Ave" intnum=" F259" />
+<marker lat="27.8798466179305" lng="-82.3267403128067" intname=" Lake St Charles and US 301" intnum=" F260" />
+<marker lat="28.0562566931914" lng="-82.6484041533339" intname=" Linebaugh Ave and Race Track Rd" intnum=" F261" />
+<marker lat="28.0636526695008" lng="-82.549692692546" intname=" Gunn Hwy and Henderson Rd" intnum=" F262" />
+<marker lat="27.8626579644607" lng="-82.2009505503053" intname=" Fishhawk Blvd and Lithia Pinecrest Rd" intnum=" F263" />
+<marker lat="27.8936661349107" lng="-82.2541575570711" intname=" Bloomingdale Ave and Bloomingdale HS" intnum=" F264" />
+<marker lat="28.1712178957847" lng="-82.4281681580653" intname=" Livingston Ave and Collier Pkwy\/CountyLine Rd" intnum=" F265" />
+<marker lat="28.1279078967016" lng="-82.5334194810534" intname=" Van Dyke Rd and Lakeshore Rd" intnum=" F266" />
+<marker lat="27.9378075902876" lng="-82.2280718242316" intname=" SR 60 and Mulrennan Rd" intnum=" F267" />
+<marker lat="28.0893496070417" lng="-82.5032413144558" intname=" DALE MABRY and Carrollwood Springs" intnum=" F268" />
+<marker lat="27.934275216791" lng="-82.3104186562089" intname=" Lakewood Dr and Oakfield Dr" intnum=" F269" />
+<marker lat="27.9304021960158" lng="-82.3105835337097" intname=" Lakewood Dr and Brandon Main St" intnum=" F270" />
+<marker lat="27.923311429181" lng="-82.3024025142633" intname=" Lumsden Rd and Brandon Parkway" intnum=" F271" />
+<marker lat="27.8535872096377" lng="-82.2890335651116" intname=" Boyette Rd and Tarragon" intnum=" F272" />
+<marker lat="27.8535660871726" lng="-82.2781085132857" intname=" Boyette Rd and Sedgebrook" intnum=" F273" />
+<marker lat="28.0951470565438" lng="-82.4610929822615" intname=" Florida Ave and Lake Magdalene Blvd." intnum=" F274" />
+<marker lat="27.8532130592276" lng="-82.2311276104417" intname=" Fishhawk Blvd and Osprey Ridge" intnum=" F275" />
+<marker lat="27.8351638113886" lng="-82.3287050950408" intname=" US 301 and SYMMES RD." intnum=" F276" />
+<marker lat="27.9920303471255" lng="-82.3730832743976" intname=" Orient Rd and Draper Rd" intnum=" F277" />
+<marker lat="27.88703424995" lng="-82.3307560516425" intname=" US 301 and DUNCAN RD\/KRYCUL AVE" intnum=" F278" />
+<marker lat="27.8124057108029" lng="-82.3328617892427" intname=" US 301 and Panther Trace Blvd." intnum=" F279" />
+<marker lat="28.0118983910828" lng="-82.6104909133661" intname=" Hillsborough Ave andSilvermill Dr" intnum=" F280" />
+<marker lat="27.7920426412254" lng="-82.367807054949" intname=" Big Bend and Covington" intnum=" F281" />
+<marker lat="27.9266373149339" lng="-82.2857273815014" intname=" Parsons Ave and Parsons Park Dr" intnum=" F282" />
+<marker lat="28.0589570376987" lng="-82.5358578327061" intname=" Gunn Hwy and Hampton Park Blvd." intnum=" F283" />
+<marker lat="27.974358748092" lng="-82.2528427700567" intname=" N Valrico Rd and E Wheeler Rd" intnum=" F284" />
+<marker lat="27.857103423997" lng="-82.3313110010302" intname=" Gibsonton Dr and Lowe's" intnum=" F285" />
+<marker lat="27.8953598919714" lng="-82.2453093600333" intname=" Lithia Pinecrest Rd and Miller Rd" intnum=" F286" />
+<marker lat="27.8496731489869" lng="-82.3531023646556" intname=" Gibsonton Dr and New East Bay Rd" intnum=" F287" />
+<marker lat="27.8936209939297" lng="-82.3103652098421" intname=" Bloomingdale Ave and Watson Rd" intnum=" F288" />
+<marker lat="27.8758156614334" lng="-82.2692884013635" intname=" BELL SHOALS RD and GLENHAVEN DR" intnum=" F289" />
+<marker lat="28.0764993011778" lng="-82.6233457962275" intname=" RACE TRACK RD and WATERCHASE BLVD" intnum=" F290" />
+<marker lat="28.0824574296945" lng="-82.6155423600473" intname=" FOUNTAINHEAD DR and RACETRACK RD" intnum=" F291" />
+<marker lat="27.8831671374131" lng="-82.3577260511849" intname=" Falkenburg Rd and Eagle Palm Dr" intnum=" F292" />
+<marker lat="27.7154153100938" lng="-82.3352196269651" intname=" US 301 and Walmart Entrance (Sun City)" intnum=" F293" />
+<marker lat="27.9233460791633" lng="-82.2611168578976" intname=" MOUNT CARMEL RD and LUMSDEN RD" intnum=" F294" />
+<marker lat="28.0854646034709" lng="-82.6123799710909" intname=" Race Track Rd and South Mobley Rd" intnum=" F295" />
+<marker lat="28.0224402338935" lng="-82.3503889099134" intname=" US 301 and Maislin Dr" intnum=" F296" />
+<marker lat="28.06918158472" lng="-82.3742293963536" intname=" Fletcher Ave and Telcom Drive" intnum=" F297" />
+<marker lat="27.9121068812709" lng="-82.3469339630882" intname=" Crescent Park Dr and Driveway A" intnum=" F298" />
+<marker lat="27.9142048658821" lng="-82.3434747309185" intname=" Crescent Park Dr and Driveway C" intnum=" F299" />
+<marker lat="27.9155443353269" lng="-82.3410690257064" intname=" Falkenburg Rd and Driveway D" intnum=" F300" />
+<marker lat="28.0633309698253" lng="-82.6250820716463" intname=" Countryway Blvd and Citrus Park Dr" intnum=" F301" />
+<marker lat="28.0271804497578" lng="-82.5917132224406" intname=" Waters Ave and Hartline-YMCA" intnum=" F302" />
+<marker lat="27.9249040055181" lng="-82.338049049218" intname=" Falkenburg Rd and Crossroads Town Center" intnum=" F303" />
+<marker lat="27.8535440772463" lng="-82.3120553051729" intname=" Boyette Rd and Christina Dr" intnum=" F304" />
+<marker lat="28.0107563374815" lng="-82.3731402739368" intname=" Sligh Ave and Orient Rd" intnum=" F305" />
+<marker lat="27.8350833749742" lng="-82.3817184690143" intname=" Symmes Rd - US Hwy 41and" intnum=" F306" />
+<marker lat="27.86061019714" lng="-82.1980139928347" intname=" Lithia Pinecrest Rd and Boyette Rd" intnum=" F307" />
+<marker lat="27.9227544810278" lng="-82.3850402995737" intname=" Causeway Blvd and Maydell Dr" intnum=" F308" />
+<marker lat="28.0655292729285" lng="-82.4304309811988" intname=" 131st St and Livingston Ave" intnum=" F309" />
+<marker lat="27.981533863941" lng="-82.384179169901" intname=" Dr. MLK Blvd and I-4" intnum=" F310" />
+<marker lat="27.9020678677738" lng="-82.2939524823261" intname=" Kings Ave and Providence Lakes Blvd" intnum=" F311" />
+<marker lat="27.857108547108" lng="-82.3333828521067" intname=" GIBSONTON DR and MATHOG DR" intnum=" F312" />
+<marker lat="27.9288311774764" lng="-82.2857440935699" intname=" Parson's Ave and Vonderburg Rd" intnum=" F313" />
+<marker lat="28.0671902567195" lng="-82.5145023154933" intname=" SOUTH VILLAGE DR and LOWELL RD" intnum=" F314" />
+<marker lat="27.9129075686437" lng="-82.3247917104903" intname=" Gornto Lake Rd and Providence Lakes Blvd" intnum=" F315" />
+<marker lat="28.0648816361187" lng="-82.553763009024" intname=" Gunn Highway and Normandie Road" intnum=" F319" />
+<marker lat="27.9494593540012" lng="-82.3541832484873" intname=" SR 60 and US 301" intnum=" G001" />
+<marker lat="27.9377150529681" lng="-82.2857630693448" intname=" Parsons Ave and SR 60" intnum=" G002" />
+<marker lat="27.9229596441504" lng="-82.4018838497946" intname=" Causeway Blvd and US 41" intnum=" G003" />
+<marker lat="27.9966162080651" lng="-82.5688623766593" intname=" Hillsborough Ave and Town - Country Blvd" intnum=" G004" />
+<marker lat="28.0326110395049" lng="-82.3934431805359" intname=" 56th St and Busch Blvd" intnum=" G005" />
+<marker lat="28.0655529912028" lng="-82.4260701198749" intname=" 131st Ave and BB Downs Blvd" intnum=" G006" />
+<marker lat="28.0254319938323" lng="-82.5049734787091" intname=" Dale Mabry Hwy and Waters Ave" intnum=" G007" />
+<marker lat="28.0544226011778" lng="-82.3936402753733" intname=" 56th St and Fowler Ave" intnum=" G008" />
+<marker lat="28.0258353379912" lng="-82.5623732129109" intname=" Hanley Rd and Waters Ave" intnum=" G009" />
+<marker lat="28.0074184304643" lng="-82.5625907254753" intname=" Hanley Rd and Jackson Springs Rd" intnum=" G010" />
+<marker lat="27.9967471519909" lng="-82.5819480400723" intname=" Hillsborough Ave and Memorial Hwy" intnum=" G011" />
+<marker lat="27.7124598467584" lng="-82.33519318744" intname=" SR 674 and US 301" intnum=" G012" />
+<marker lat="27.9377293445087" lng="-82.2938740393373" intname=" Kings Ave and SR 60" intnum=" G013" />
+<marker lat="27.9377042421807" lng="-82.2775126761953" intname=" Kingsway Rd and SR 60" intnum=" G014" />
+<marker lat="27.9342904816308" lng="-82.2939153732542" intname=" Kings Ave and Oakfield Dr" intnum=" G015" />
+<marker lat="27.9814778838969" lng="-82.3601009973054" intname=" Dr M L King Blvd and US 301" intnum=" G016" />
+<marker lat="27.7919468195601" lng="-82.363953281584" intname=" Big Bend Rd and East Bay High Sch" intnum=" G018" />
+<marker lat="27.9376552565203" lng="-82.12121818292" intname=" SR 39 and SR 60" intnum=" G019" />
+<marker lat="27.9962125548893" lng="-82.3934393814152" intname=" 56th St and Hillsborough" intnum=" G020" />
+<marker lat="27.9376984870677" lng="-82.3102676681772" intname=" Lakewood Dr and SR 60" intnum=" G021" />
+<marker lat="28.0691886454259" lng="-82.4260761939923" intname=" BB Downs Blvd and Fletcher Ave" intnum=" G022" />
+<marker lat="28.0034304620608" lng="-82.2942261910296" intname=" Pine St and US 92" intnum=" G023" />
+<marker lat="27.8938582178269" lng="-82.3379253352071" intname=" Bloomingdale Ave and US 301" intnum=" G024" />
+<marker lat="28.093723738474" lng="-82.5022418525271" intname=" Dale Mabry Hwy and Northdale Blvd" intnum=" G025" />
+<marker lat="28.0655439688483" lng="-82.5047603795831" intname=" Dale Mabry Hwy and Fletcher Ave" intnum=" G026" />
+<marker lat="28.0880406896217" lng="-82.4547975933563" intname=" Bearss Ave and I-275 Ramps" intnum=" G027" />
+<marker lat="27.9226681411412" lng="-82.3498920806588" intname=" Lumsden Rd and US 301" intnum=" G028" />
+<marker lat="28.0846761384268" lng="-82.5051773543645" intname=" Dale Mabry Hwy and Ehrlich Rd\/Bearss" intnum=" G029" />
+<marker lat="27.9816064342603" lng="-82.2859335062019" intname=" Dr M L King Blvd and Parsons Ave" intnum=" G030" />
+<marker lat="28.087914007646" lng="-82.4514567886245" intname=" Bearss Ave and Nebraska Ave" intnum=" G031" />
+<marker lat="27.9231677263913" lng="-82.2939587861932" intname=" Kings Ave and Lumsden Rd" intnum=" G032" />
+<marker lat="27.9232670884714" lng="-82.3180767066386" intname=" Lumsden Rd and Providence Rd" intnum=" G033" />
+<marker lat="28.0018299439268" lng="-82.3023938147247" intname=" CR 579 and US 92" intnum=" G034" />
+<marker lat="28.040125819615" lng="-82.508844407451" intname=" Gunn Hwy and Linebaugh Ave" intnum=" G035" />
+<marker lat="27.7123113756837" lng="-82.3518904921105" intname=" Pebble Beach Dr and SR 674" intnum=" G036" />
+<marker lat="27.7123215473452" lng="-82.3557230849594" intname=" SR 674 and Trinity Lakes Dr" intnum=" G037" />
+<marker lat="28.0071116281983" lng="-82.5050972250612" intname=" Dale Mabry Hwy and Lambright Ave\/ Sligh Ave" intnum=" G038" />
+<marker lat="27.9449743066153" lng="-82.3378850132676" intname=" SR 60 and BRANDON CROSSING" intnum=" G039" />
+<marker lat="28.0842874766136" lng="-82.5398462041722" intname=" Ehrlich Rd and Hutchinson Rd" intnum=" G040" />
+<marker lat="28.0108238511848" lng="-82.5173259715774" intname=" Manhattan Ave and Pinecrest Manor Blvd" intnum=" G041" />
+<marker lat="28.0692498836889" lng="-82.4511718776008" intname=" Fletcher Ave and Nebraska Ave" intnum=" G042" />
+<marker lat="28.0692956532913" lng="-82.4593569072237" intname=" Fletcher Ave and Florida Ave" intnum=" G043" />
+<marker lat="28.0748823511346" lng="-82.5068541136794" intname=" Dale Mabry Hwy and Handy Rd" intnum=" G044" />
+<marker lat="27.8570941469572" lng="-82.3266541236278" intname=" Gibsonton Dr and US 301" intnum=" G045" />
+<marker lat="28.0255920657003" lng="-82.5375990171363" intname=" Anderson Rd and Waters Ave" intnum=" G046" />
+<marker lat="27.9358959677281" lng="-82.2939068575575" intname=" Kings Ave and Robertson Ave" intnum=" G047" />
+<marker lat="27.9812882048965" lng="-82.3350835659332" intname=" Dr M L King Blvd and Falkenburg Rd" intnum=" G048" />
+<marker lat="27.9231865814204" lng="-82.2857275892556" intname=" Lumsden Rd and Parsons Ave" intnum=" G049" />
+<marker lat="27.9231442466661" lng="-82.2775019210431" intname=" Bryan Rd and Lumsden Rd" intnum=" G050" />
+<marker lat="27.9725851786864" lng="-82.3350480235116" intname=" Broadway Ave(CR 574) and Falkenburg Rd" intnum=" G051" />
+<marker lat="28.0061072310273" lng="-82.6014072221918" intname=" Hillsborough Ave and Long Boat Blvd" intnum=" G052" />
+<marker lat="27.9376827207682" lng="-82.3144023554918" intname=" Providence Rd and SR 60" intnum=" G053" />
+<marker lat="27.9377198466091" lng="-82.3061876868658" intname=" Hilltop Rd and SR 60" intnum=" G054" />
+<marker lat="27.9377324595747" lng="-82.2978487086929" intname=" Brandon Mall\/Builders Square and SR 60" intnum=" G055" />
+<marker lat="27.952319776029" lng="-82.3103515147367" intname=" Lakewood Dr and Woodberry Rd" intnum=" G056" />
+<marker lat="28.098450584594" lng="-82.5022753367371" intname=" Dale Mabry Hwy and Mapledale Blvd" intnum=" G057" />
+<marker lat="27.8936323098714" lng="-82.2857565105163" intname=" Bloomingdale Ave and John Moore Rd" intnum=" G058" />
+<marker lat="27.8984676317115" lng="-82.2939822088453" intname=" Kings Ave and Ronelle Dr" intnum=" G059" />
+<marker lat="27.8936234560992" lng="-82.29401786472" intname=" Bloomingdale Ave and Kings Ave" intnum=" G060" />
+<marker lat="27.9596289884348" lng="-82.3103994141025" intname=" Lakewood Dr and Windhorst Dr" intnum=" G061" />
+<marker lat="27.9964263025555" lng="-82.550259051303" intname=" George Rd and Hillsborough Ave" intnum=" G062" />
+<marker lat="28.0256718320783" lng="-82.5444072538411" intname=" Veteran's Express Way and Waters Ave" intnum=" G063" />
+<marker lat="28.0659061133005" lng="-82.5675538937795" intname=" Gunn Hwy and Veteran's Expr Ramps" intnum=" G064" />
+<marker lat="28.078634413115" lng="-82.5623252378162" intname=" Ehrlich Rd and Veterans Exp Ramps" intnum=" G065" />
+<marker lat="28.0808923123699" lng="-82.5505609093476" intname=" Ehrlich Rd and Farmington Blvd" intnum=" G066" />
+<marker lat="27.943947423408" lng="-82.3352388004378" intname=" Falkenburg Rd and SR 60" intnum=" G067" />
+<marker lat="27.9596541317991" lng="-82.28590566643" intname=" Parsons Ave and Windhorst Rd" intnum=" G068" />
+<marker lat="27.9521873854454" lng="-82.3349864947922" intname=" Falkenburg Rd and Woodberry Rd" intnum=" G069" />
+<marker lat="28.0107337896626" lng="-82.376401116352" intname=" Harney Rd and Sligh Ave" intnum=" G070" />
+<marker lat="27.981313793328" lng="-82.3187072668578" intname=" Dr M L King Blvd and Williams Rd" intnum=" G071" />
+<marker lat="27.9815566522276" lng="-82.3105195555548" intname=" Dr M L King Blvd and Lakewood Dr" intnum=" G072" />
+<marker lat="27.9814808473185" lng="-82.3730477236568" intname=" Dr M L King Blvd and Orient Rd" intnum=" G073" />
+<marker lat="27.9378785911609" lng="-82.2527870046348" intname=" SR 60 and Valrico Rd" intnum=" G074" />
+<marker lat="27.8936629061907" lng="-82.2692638988362" intname=" Bell Shoals Rd and Bloomingdale Ave" intnum=" G075" />
+<marker lat="27.893624111616" lng="-82.3185536188812" intname=" Bloomingdale Ave and Providence Rd" intnum=" G076" />
+<marker lat="27.8936783527873" lng="-82.2437814324193" intname=" Bloomingdale Ave and Lithia Rd" intnum=" G077" />
+<marker lat="27.9232252099525" lng="-82.3228262878513" intname=" Goronto Lake Rd and Lumsden Rd" intnum=" G078" />
+<marker lat="28.0155131528148" lng="-82.5336765176028" intname=" Anderson Rd and Crenshaw St" intnum=" G079" />
+<marker lat="28.0444991527395" lng="-82.582805756319" intname=" Linebaugh\/WestChase and Sheldon Rd" intnum=" G080" />
+<marker lat="28.0880643185015" lng="-82.4596064031777" intname=" Bearss Ave and Florida Ave" intnum=" G081" />
+<marker lat="28.1718137632634" lng="-82.4613501423207" intname=" County Line Rd (Lutz) and US 41" intnum=" G082" />
+<marker lat="28.0661172731536" lng="-82.5764263506647" intname=" Citrus Park Dr and Citrus Mall" intnum=" G083" />
+<marker lat="28.0402221086961" lng="-82.5418496810663" intname=" Anderson Rd and Linebaugh Ave" intnum=" G084" />
+<marker lat="28.0808442809426" lng="-82.4165625781157" intname=" BB Downs Blvd and Old Skipper Rd" intnum=" G085" />
+<marker lat="27.9155073542779" lng="-82.3487132412282" intname=" Falkenburg Rd and US 301" intnum=" G086" />
+<marker lat="27.9077078779826" lng="-82.3186465937632" intname=" Providence Rd and Providence Ridge Blvd" intnum=" G087" />
+<marker lat="27.9202949602994" lng="-82.3186479481065" intname=" Providence Rd and Windingwood Dr" intnum=" G088" />
+<marker lat="27.9768178488749" lng="-82.3105038770515" intname=" Broadway Ave(CR 574) and Lakewood Dr" intnum=" G089" />
+<marker lat="27.9283604568738" lng="-82.3126074803462" intname=" Providence Rd and Brandon Parkway" intnum=" G090" />
+<marker lat="27.9273650675572" lng="-82.3189459165198" intname=" Brandon Parkway and Brandon Town Center" intnum=" G091" />
+<marker lat="27.893697563126" lng="-82.3307760503911" intname=" BLOOMINGDALE AVE and GORNTO LAKE RD" intnum=" G092" />
+<marker lat="28.0417543426508" lng="-82.6485037200559" intname=" Race Track Rd and Twin Branch Acres \/ Douglas" intnum=" T001" />
+</markers>

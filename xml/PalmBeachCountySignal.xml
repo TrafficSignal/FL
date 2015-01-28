@@ -1,0 +1,1007 @@
+<markers>
+<marker lat="26.97052472" lng="-80.08733373" intname="COUNTY LINE ROAD and US 1" intnum="1500 or 10" />
+<marker lat="26.95797971" lng="-80.10157371" intname="TEQUESTA DR and RIVERSIDE DR" intnum="2400 or 14" />
+<marker lat="26.95873659" lng="-80.09526345" intname="TEQUESTA DR and SEABROOK RD" intnum="2500 or 15" />
+<marker lat="26.95874604" lng="-80.08833329" intname="TEQUESTA DR and OLD DIXIE HWY" intnum="2600 or 16" />
+<marker lat="26.95928974" lng="-80.08475037" intname="TEQUESTA DR/WATERWAY and US 1/SR 5" intnum="2700 or 17" />
+<marker lat="26.95231324" lng="-80.08520444" intname="BEACH RD/ALT AIA/SR 707 and US 1/SR 5" intnum="2800 or 18" />
+<marker lat="26.9496154" lng="-80.0881923" intname="RIVERSIDE DR E and ALT AIA/OLD DIXIE HWY" intnum="3400 or 21" />
+<marker lat="26.94424249" lng="-80.08455426" intname="OCEAN BLVD/A1A/THE ISLAND AT JUPITER and US 1/SR 5" intnum="3600 or 23" />
+<marker lat="26.94163692" lng="-80.1337766" intname="CHURCH ST and CENTRAL BLVD" intnum="3875 or 24" />
+<marker lat="26.93963424" lng="-80.12127965" intname="CENTER ST and LOXAHATCHEE RIVER RD" intnum="3877 or 25" />
+<marker lat="26.94153098" lng="-80.10966082" intname="CENTER ST and PENNOCK LA" intnum="3880 or 27" />
+<marker lat="26.94146597" lng="-80.09329739" intname="CENTER ST and ALT A1A/OLD DIXIE HWY" intnum="3900 or 28" />
+<marker lat="26.93571798" lng="-80.0818491" intname="COASTAL WAY/SHOPS AT JUPITER and US 1" intnum="4000 or 31" />
+<marker lat="26.94285108" lng="-80.28772333" intname="INDIANTOWN RD and PRATT WHITNEY RD" intnum="4225 or 32" />
+<marker lat="26.942434" lng="-80.22356289" intname="INDIANTOWN RD and ALEXANDER RUN/MACK DAIRY RD" intnum="4235 or 35" />
+<marker lat="26.94218548" lng="-80.19095971" intname="INDIANTOWN RD and JUPITER FARMS RD" intnum="4250 or 38" />
+<marker lat="26.93500279" lng="-80.1623366" intname="INDIANTOWN RD and MARSALA CT/CORTONA BLVD (fka Marsala Blvd)" intnum="4600 or 40" />
+<marker lat="26.93491513" lng="-80.15798698" intname="INDIANTOWN RD and FLA TURNPIKE" intnum="4649 or 41" />
+<marker lat="26.93440916" lng="-80.13964894" intname="INDIANTOWN RD and ISLAND WY / 85TH TER N" intnum="4653 or 44" />
+<marker lat="26.93444443" lng="-80.13782732" intname="INDIANTOWN RD and JUPITER PLAZA/WINN-DIXIE" intnum="4655 or 45" />
+<marker lat="26.93451482" lng="-80.13418915" intname="INDIANTOWN RD and CENTRAL BLVD" intnum="4660 or 46" />
+<marker lat="26.93457251" lng="-80.13121112" intname="INDIANTOWN RD and CHASEWOOD PLAZA/ PALM RD" intnum="4661 or 47" />
+<marker lat="26.93433162" lng="-80.12723676" intname="INDIANTOWN RD and CENTER ST" intnum="4664 or 48" />
+<marker lat="26.93421178" lng="-80.12497312" intname="INDIANTOWN RD and MAPLEWOOD DR" intnum="4666 or 50" />
+<marker lat="26.93410274" lng="-80.11806242" intname="INDIANTOWN RD and N/S DELAWARE BLVD" intnum="4670 or 51" />
+<marker lat="26.93397476" lng="-80.10998727" intname="INDIANTOWN RD and PENNOCK LA" intnum="4680 or 52" />
+<marker lat="26.93404224" lng="-80.10176522" intname="INDIANTOWN RD and MILITARY TR/PERRY AVE" intnum="4697 or 53" />
+<marker lat="26.93407568" lng="-80.09972863" intname="INDIANTOWN RD and LOXAHATCHEE DR" intnum="4700 or 54" />
+<marker lat="26.93418891" lng="-80.09351519" intname="INDIANTOWN RD and ALT  A1A" intnum="4750 or 56" />
+<marker lat="26.93401101" lng="-80.08879642" intname="INDIANTOWN RD and JONATHAN DR" intnum="4760 or 58" />
+<marker lat="26.93394205" lng="-80.08089361" intname="INDIANTOWN RD and US 1/SR5" intnum="4800 or 59" />
+<marker lat="26.93390367" lng="-80.07241623" intname="INDIANTOWN RD and A1A/OCEAN BLVD" intnum="4810 or 60" />
+<marker lat="26.92896219" lng="-80.10192899" intname="JUPITER HIGH SCHOOL and MILITARY TR" intnum="4850 or 61" />
+<marker lat="26.92689141" lng="-80.13457708" intname="JUPITER PARK DR and CENTRAL BLVD" intnum="4900 or 62" />
+<marker lat="26.926501" lng="-80.12346654" intname="TONEY PENNA DR and MAPLEWOOD DR" intnum="4915 or 64" />
+<marker lat="26.92533331" lng="-80.10965683" intname="TONEY PENNA DR and S PENNOCK LN" intnum="4950 or 1535" />
+<marker lat="26.90525075" lng="-80.10277283" intname="DAKOTA DR (fka JUPITER MIDDLE SCHOOL) and MILITARY TR" intnum="5000 or 65" />
+<marker lat="26.92639853" lng="-80.10202257" intname="TONEY PENNA D and MILITARY TR" intnum="5010 or 66" />
+<marker lat="26.92637559" lng="-80.09383659" intname="TONEY PENNA DR and ALT A1A" intnum="5020 or 67" />
+<marker lat="26.92329879" lng="-80.10211865" intname="JUPITER LAKES BLVD/SUMMER WINDS LN and MILITARY TR" intnum="5100 or 68" />
+<marker lat="26.92184922" lng="-80.10212434" intname="PERRY AVE/US POST OFFICE and MILITARY TR" intnum="5105 or " />
+<marker lat="26.92133466" lng="-80.09401132" intname="BARROW ISLAND RD and ALT A1A" intnum="5110 or 1508" />
+<marker lat="26.91917252" lng="-80.07337776" intname="OCEAN WAY and US 1(SR 5)" intnum="5200 or 1555" />
+<marker lat="26.91760216" lng="-80.13456836" intname="INDIAN CREEK DR W/E and S CENTRAL BLVD (North Intersection)" intnum="5300 or 1554" />
+<marker lat="26.911874" lng="-80.12762898" intname="CENTRAL BLVD/INDIAN CREEK PKWY and EGRET LANDING BLVD" intnum="5403 or 70" />
+<marker lat="26.911525" lng="-80.12425133" intname="INDIAN CREEK PKWY and MAPLEWOOD DR" intnum="5405 or 71" />
+<marker lat="26.9116639" lng="-80.12068555" intname="INDIAN CREEK PKWY and GREENWAY DR" intnum="5408 or 72" />
+<marker lat="26.89743423" lng="-80.10306535" intname="FREDERICK SMALL RD and MILITARY TR" intnum="5410 or 73" />
+<marker lat="26.89754182" lng="-80.09470425" intname="FREDERICK SMALL RD and ALT A1A" intnum="5420 or 75" />
+<marker lat="26.91036647" lng="-80.10259668" intname="INDIAN CREEK PARKWAY and MILITARY TR" intnum="5450 or 76" />
+<marker lat="26.90404748" lng="-80.09462184" intname="ADMIRALâ??S COVE BLVD and ALT A1A" intnum="5460 or 77" />
+<marker lat="26.90404052" lng="-80.06531701" intname="BLUFFS BLVD and US 1/SR 5" intnum="5474 or 79" />
+<marker lat="26.8965246" lng="-80.06124185" intname="MARCINSKI RD and US 1/SR5" intnum="5475 or 80" />
+<marker lat="26.89642074" lng="-80.05826807" intname="MARCINSKI RD and A1A/OCEAN BLVD" intnum="5476 or 81" />
+<marker lat="26.89286124" lng="-80.05982235" intname="JUNO OCEAN WALK/JUNO BEACH PARK and US 1" intnum="6500 or 83" />
+<marker lat="26.89119813" lng="-80.10328545" intname="UNIVERSITY DR and MILITARY TR" intnum="6600 or 84" />
+<marker lat="26.90933106" lng="-80.30126958" intname="PRATT WHITNEY CO and BEELINE HWY (MAIN GATE)" intnum="7010 or 85" />
+<marker lat="26.90292913" lng="-80.2906563" intname="PRATT WHITNEY RD and BEELINE HWY" intnum="7020 or 86" />
+<marker lat="26.88304077" lng="-80.11884202" intname="DONALD ROSS RD and PARKSIDE DR" intnum="8907 or 89" />
+<marker lat="26.88306083" lng="-80.12275623" intname="DONALD ROSS RD and HEIGHTS BLVD" intnum="8909 or 90" />
+<marker lat="26.88297835" lng="-80.10880678" intname="DONALD ROSS RD and CENTRAL BLVD" intnum="8910 or 91" />
+<marker lat="26.8831411" lng="-80.12710531" intname="DONALD ROSS RD and I-95" intnum="8924 or 93" />
+<marker lat="26.88293254" lng="-80.10357713" intname="DONALD ROSS RD and MILITARY TR" intnum="8925 or 94" />
+<marker lat="26.8823588" lng="-80.07580969" intname="DONALD ROSS RD and PROSPERITY FARMS RD/PALMWOOD RD" intnum="8930 or 95" />
+<marker lat="26.88183327" lng="-80.06438146" intname="DONALD ROSS RD and ELLISON WILSON RD" intnum="8940 or 97" />
+<marker lat="26.88158665" lng="-80.05643411" intname="DONALD ROSS RD and US 1" intnum="8950 or 98" />
+<marker lat="26.88285602" lng="-80.09517771" intname="DONALD ROSS RD and ALT A1A" intnum="8975 or 100" />
+<marker lat="26.88266974" lng="-80.08704718" intname="DONALD ROSS RD and TOURNAMENT DR/BEARS CLUB DR" intnum="8976 or 101" />
+<marker lat="26.87469771" lng="-80.10386144" intname="WILLIAM T DWYER HIGH SCH and MILITARY TR" intnum="9010 or 102" />
+<marker lat="26.87285142" lng="-80.10904651" intname="THE BENJAMIN SCHOOL/GRANDIFLORA RD and CENTRAL BLVD" intnum="9600 or 103" />
+<marker lat="26.86514213" lng="-80.12428216" intname="HOOD RD and FRANKLIN PBG" intnum="11440 or " />
+<marker lat="26.86460384" lng="-80.10924091" intname="HOOD RD and CENTRAL BLVD" intnum="11470 or 104" />
+<marker lat="26.86442498" lng="-80.1042052" intname="HOOD RD and MILITARY TR" intnum="11475 or 105" />
+<marker lat="26.86414158" lng="-80.09820091" intname="HOOD RD and FRENCHMANâ??S CROSSING" intnum="11478 or " />
+<marker lat="26.86412212" lng="-80.09582082" intname="HOOD RD and ALT A-1-A" intnum="11480 or 106" />
+<marker lat="26.86278475" lng="-80.05549119" intname="JUNO ISLES BLVD and US 1/A1A/OCEAN DR" intnum="11900 or 110" />
+<marker lat="26.85697681" lng="-80.09606806" intname="FLORIDA BLVD and ALT A1A/SR 811" intnum="12500 or 111" />
+<marker lat="26.85790413" lng="-80.05666497" intname="UNIVERSE BLVD and US 1" intnum="12543 or 116" />
+<marker lat="26.84993201" lng="-80.1205576" intname="117TH COURT N and CENTERAL BLVD" intnum="12545 or 117" />
+<marker lat="26.854624" lng="-80.07190089" intname="LONE PINE RD and PROSPERITY FARMS RD" intnum="12550 or 118" />
+<marker lat="26.85051264" lng="-80.10477958" intname="ELM AVE and MILITARY TR" intnum="12650 or 119" />
+<marker lat="26.84540816" lng="-80.10499762" intname="I-95/KYOTO GARDENS DR and MILITARY TR" intnum="12651 or 120" />
+<marker lat="26.85054618" lng="-80.08978095" intname="GARDENS PKWY (fka Gardens Blvd) and FAIRCHILD GARDENS AVE/SAN CRISTOBAL GARDENS AVE" intnum="12675 or 1515" />
+<marker lat="26.84949512" lng="-80.080945" intname="GARDENS PKWY and KEW GARDENS AVE" intnum="12680 or 1573" />
+<marker lat="26.84823567" lng="-80.07205841" intname="GARDENS PKWY (fka Gardens Blvd)/IDLEWILD RD and PROSPERITY FARMS RD" intnum="12700 or 122" />
+<marker lat="26.8413079" lng="-80.10512127" intname="GARDEN LAKES DR and MILITARY TR" intnum="13000 or 123" />
+<marker lat="26.84094815" lng="-80.19870514" intname="PGA BLVD and BEELINE HWY" intnum="14100 or 124" />
+<marker lat="26.83960985" lng="-80.15098865" intname="PGA BLVD and JOG RD/RYDER CUP BLVD" intnum="14200 or 125" />
+<marker lat="26.8391637" lng="-80.13596855" intname="PGA BLVD and AVENUE OF THE CHAMPIONS" intnum="14280 or 126" />
+<marker lat="26.83904054" lng="-80.13190653" intname="PGA BLVD and FLA TURNPIKE/FAIRWAY DR" intnum="14300 or 128" />
+<marker lat="26.83872483" lng="-80.12163027" intname="PGA BLVD and CENTRAL BLVD/AVE OF PGA" intnum="14301 or 129" />
+<marker lat="26.83885413" lng="-80.12569383" intname="PGA BLVD and BALLENISLE DR" intnum="14305 or 130" />
+<marker lat="26.83846297" lng="-80.11336122" intname="PGA BLVD and SHADY LAKES DR" intnum="14325 or 131" />
+<marker lat="26.83823545" lng="-80.1051874" intname="PGA BLVD and MILITARY TR" intnum="14350 or 132" />
+<marker lat="26.83920226" lng="-80.10238313" intname="PGA BLVD and I-95" intnum="14351 or 133" />
+<marker lat="26.84029259" lng="-80.10127998" intname="PGA BLVD and I-95 NB OFF RAMP (RAMP F)" intnum="14352 or 134" />
+<marker lat="26.84702307" lng="-80.09597494" intname="KYOTO GARDENS DR and ALT A-1-A" intnum="14370 or 135" />
+<marker lat="26.84649648" lng="-80.09262377" intname="KYOTO GARDENS DR and LAKE VICTORIA GARDENS AVE" intnum="14371 or 136" />
+<marker lat="26.84416831" lng="-80.09523996" intname="RAMP N and ALT A-1-A" intnum="14372 or 137" />
+<marker lat="26.8444541" lng="-80.0920655" intname="PGA BLVD and LAKE VICTORIA GARDENS AVE" intnum="14375 or 138" />
+<marker lat="26.84130111" lng="-80.09450513" intname="LAKE VICTORIA GARDENS AVE and ALT A-1-A" intnum="14380 or 139" />
+<marker lat="26.85114561" lng="-80.09624345" intname="GARDENS PKWY (fka Gardens Blvd) and ALT A1A" intnum="14399 or 140" />
+<marker lat="26.84507855" lng="-80.08857886" intname="PGA BLVD and FAIRCHILD AVE/GARDENS AVE" intnum="14401 or 142" />
+<marker lat="26.84500692" lng="-80.08581926" intname="PGA BLVD and GARDENS MALL" intnum="14402 or 143" />
+<marker lat="26.84492389" lng="-80.08263369" intname="PGA BLVD and CAMPUS DR/KEW GARDENS AVE" intnum="14403 or 144" />
+<marker lat="26.8446645" lng="-80.07215136" intname="PGA BLVD and PROSPERITY FARMS RD" intnum="14450 or 145" />
+<marker lat="26.84441789" lng="-80.06441706" intname="PGA BLVD and ELLISON WILSON RD" intnum="14475 or 146" />
+<marker lat="26.84412966" lng="-80.06129053" intname="PGA BLVD and US 1" intnum="14500 or 147" />
+<marker lat="26.8401166" lng="-80.05016293" intname="VILLAGE RD/OLD HARBOR RD and A1A (LOST TREE )" intnum="14505 or 148" />
+<marker lat="26.83795241" lng="-80.09361844" intname="RCA BLVD and ALT A1A" intnum="14550 or 149" />
+<marker lat="26.83768177" lng="-80.08289368" intname="RCA BLVD and CAMPUS DR/GARDENS DR" intnum="14552 or 150" />
+<marker lat="26.83450937" lng="-80.05979357" intname="LAKESHORE DR/GOLFVIEW DR and US 1/SR 5" intnum="14950 or 151" />
+<marker lat="26.8309095" lng="-80.10546977" intname="BURNS RD and MILITARY TR" intnum="15500 or 152" />
+<marker lat="26.83078678" lng="-80.10136853" intname="BURNS RD and P.B.G. MUNICIPAL COMPLEX" intnum="15520 or 154" />
+<marker lat="26.8306167" lng="-80.09546417" intname="BURNS RD and RIVERSIDE DR/WEST PARK DR" intnum="15540 or 155" />
+<marker lat="26.83067404" lng="-80.09163853" intname="BURNS RD and ALT A1A" intnum="15550 or 156" />
+<marker lat="26.83063536" lng="-80.08811362" intname="BURNS RD and GARDENS DR E" intnum="15551 or 157" />
+<marker lat="26.83741558" lng="-80.07234058" intname="RCA BLVD/MONET RD and PROSPERITY FARMS RD" intnum="15554 or 158" />
+<marker lat="26.83191667" lng="-80.07260251" intname="BURNS RD and PROSPERITY FARMS RD" intnum="15555 or 159" />
+<marker lat="26.83145381" lng="-80.07735786" intname="BURNS RD and ALAMANDA DR" intnum="15556 or 160" />
+<marker lat="26.82943604" lng="-80.07272429" intname="ALLAMANDA DRIVE EAST (fka ALLAMANDA LN) and PROSPERITY FARMS RD" intnum="15560 or 161" />
+<marker lat="26.82614398" lng="-80.06101108" intname="YACHT CLUB DR and US 1/SR 5" intnum="15800 or 162" />
+<marker lat="26.82696728" lng="-80.10562165" intname="LILAC ST and MILITARY TR" intnum="15900 or 1516" />
+<marker lat="26.82358473" lng="-80.10575208" intname="HOLLY DR and MILITARY TR" intnum="16050 or 163" />
+<marker lat="26.82126051" lng="-80.05927518" intname="NORTH ANCHORAGE and US 1" intnum="16100 or 166" />
+<marker lat="26.82188436" lng="-80.08574371" intname="PROMENADE MALL and ALT A1A" intnum="16499 or 167" />
+<marker lat="26.81925837" lng="-80.08339959" intname="LIGHTHOUSE DR and ALT A1A" intnum="16500 or 168" />
+<marker lat="26.81869291" lng="-80.10595124" intname="GARDENIA DR and MILITARY TR" intnum="16525 or 170" />
+<marker lat="26.81752573" lng="-80.07345243" intname="LIGHTHOUSE DR and PROSPERITY FARMS RD" intnum="16550 or 171" />
+<marker lat="26.81716314" lng="-80.05774982" intname="LIGHTHOUSE DR and US 1" intnum="16700 or 172" />
+<marker lat="26.81027373" lng="-80.05649237" intname="SOUTH ANCHORAGE DR and US 1" intnum="17100 or 174" />
+<marker lat="26.81203897" lng="-80.26923543" intname="NORTHLAKE BLVD and GRAPEVIEW BLVD" intnum="17223 or 176" />
+<marker lat="26.81198608" lng="-80.2373586" intname="NORTHLAKE BLVD and COCONUT BLVD" intnum="17250 or 178" />
+<marker lat="26.81174534" lng="-80.20525389" intname="NORTHLAKE BLVD and IBIS BLVD" intnum="17265 or 180" />
+<marker lat="26.81163152" lng="-80.200284" intname="NORTHLAKE BLVD and SHOPPES OF IBIS" intnum="17268 or 181" />
+<marker lat="26.81026916" lng="-80.15284136" intname="NORTHLAKE BLVD and BEELINE HWY" intnum="17290 or 183" />
+<marker lat="26.80980338" lng="-80.13901764" intname="NORTHLAKE BLVD and RYDER CUP BLVD" intnum="17292 or 184" />
+<marker lat="26.8097218" lng="-80.13623669" intname="NORTHLAKE BLVD and HIATT DR/ALISTER BLVD" intnum="17293 or 185" />
+<marker lat="26.80944187" lng="-80.12662015" intname="NORTHLAKE BLVD and BALLEN ISLE DR" intnum="17295 or 186" />
+<marker lat="26.80924848" lng="-80.11989396" intname="NORTHLAKE BLVD and CHRIST FELLOWSHIP CHURCH" intnum="17296 or 187" />
+<marker lat="26.80900646" lng="-80.10635871" intname="NORTHLAKE BLVD and MILITARY TR" intnum="17300 or 189" />
+<marker lat="26.80885287" lng="-80.10105419" intname="NORTHLAKE BLVD and KEATING DR" intnum="17324 or 190" />
+<marker lat="26.80874949" lng="-80.09753421" intname="NORTHLAKE BLVD and I-95" intnum="17325 or 191" />
+<marker lat="26.80870849" lng="-80.09620007" intname="NORTHLAKE BLVD and ROAN LN" intnum="17326 or 192" />
+<marker lat="26.80864289" lng="-80.09406037" intname="NORTHLAKE BLVD and SANDTREE DR/SUNRISE DR" intnum="17330 or 193" />
+<marker lat="26.80845619" lng="-80.08798571" intname="NORTHLAKE BLVD and MCARTHUR BLVD" intnum="17350 or 194" />
+<marker lat="26.80832373" lng="-80.08367882" intname="NORTHLAKE BLVD and CONGRESS AVE" intnum="17355 or 195" />
+<marker lat="26.81366917" lng="-80.07865846" intname="RICHARD RD and ALT A1A" intnum="17359 or 197" />
+<marker lat="26.80821878" lng="-80.08022845" intname="NORTHLAKE BLVD and MT HOLLY DR" intnum="17360 or 198" />
+<marker lat="26.80816797" lng="-80.07854946" intname="NORTHLAKE BLVD and OLD DIXIE HWY" intnum="17370 or 199" />
+<marker lat="26.80809295" lng="-80.0760598" intname="NORTHLAKE BLVD and ALT A1A/10TH ST/FEC R/R" intnum="17380 or 200" />
+<marker lat="26.80802495" lng="-80.07381075" intname="NORTHLAKE BLVD and PROSPERITY FARMS RD" intnum="17390 or 201" />
+<marker lat="26.80774003" lng="-80.06512028" intname="NORTHLAKE BLVD and JASMINE DR/SOUTHWIND DR" intnum="17425 or 202" />
+<marker lat="26.80736787" lng="-80.0559077" intname="NORTHLAKE BLVD and US 1" intnum="17460 or 204" />
+<marker lat="26.80508959" lng="-80.08386049" intname="LOWES and CONGRESS AVE" intnum="17550 or 205" />
+<marker lat="26.80472596" lng="-80.07462632" intname="NORTHERN DR/PROSPERITY  FARMS RD and 10TH ST" intnum="17700 or 206" />
+<marker lat="26.80085847" lng="-80.0847243" intname="WATER TOWER RD and CONGRESS AVE" intnum="18170 or 210" />
+<marker lat="26.79891992" lng="-80.07379907" intname="PARK AVE and OLD DIXIE HWY/RAILROAD AVE" intnum="18499 or 212" />
+<marker lat="26.79883696" lng="-80.07257628" intname="PARK AVE and 10TH ST" intnum="18500 or 213" />
+<marker lat="26.79819707" lng="-80.05474389" intname="PARK AVE and US 1" intnum="18600 or 216" />
+<marker lat="26.79819359" lng="-80.10668707" intname="INVESTMENT LANE and MILITARY TR" intnum="18801 or 218" />
+<marker lat="26.79661391" lng="-80.08529684" intname="PARK AVE WEST and CONGRESS AVE" intnum="18850 or 220" />
+<marker lat="26.79370527" lng="-80.08557116" intname="SILVER BEACH BLVD and CONGRESS AVE" intnum="19050 or 221" />
+<marker lat="26.79310801" lng="-80.07137396" intname="SILVER BEACH RD and OLD DIXIE HWY" intnum="19100 or 222" />
+<marker lat="26.79257532" lng="-80.0542192" intname="SILVER BEACH RD and BROADWAY/US 1" intnum="19175 or 225" />
+<marker lat="26.79257747" lng="-80.10687867" intname="WOODBINE TR/LEO LN and MILITARY TRAIL" intnum="19180 or 226" />
+<marker lat="26.78934071" lng="-80.08488124" intname="CANOPY LN and CONGRESS AVE" intnum="19190 or 227" />
+<marker lat="26.80297084" lng="-80.13671783" intname="FLORIDA TURNPIKE and JOG RD" intnum="20085 or 1566" />
+<marker lat="26.79977426" lng="-80.13722026" intname="BEELINE HWY and JOG RD" intnum="20090 or 231" />
+<marker lat="26.78780918" lng="-80.11931535" intname="BEELINE HWY and HAVERHILL RD" intnum="20095 or 233" />
+<marker lat="26.78350092" lng="-80.10725979" intname="BLUE HERON BLVD and MILITARY TR" intnum="20100 or 235" />
+<marker lat="26.78340845" lng="-80.1038499" intname="BLUE HERON BLVD and N 42ND WAY" intnum="20110 or 236" />
+<marker lat="26.78321706" lng="-80.09828632" intname="BLUE HERON BLVD and I-95" intnum="20150 or 237" />
+<marker lat="26.78300051" lng="-80.09205936" intname="BLUE HERON BLVD and GARDEN RD" intnum="20175 or 238" />
+<marker lat="26.78223925" lng="-80.08732987" intname="BLUE HERON BLVD and CONGRESS AVE" intnum="20176 or 239" />
+<marker lat="26.78116234" lng="-80.08079659" intname="BLUE HERON BLVD and AVE  S" intnum="20226 or 242" />
+<marker lat="26.78085783" lng="-80.07345533" intname="BLUE HERON BLVD and AVE  O" intnum="20228 or 243" />
+<marker lat="26.78082716" lng="-80.07053223" intname="BLUE HERON BLVD and AUSTRALIAN AVE" intnum="20230 or 244" />
+<marker lat="26.78225658" lng="-80.06684667" intname="BLUE HERON BLVD and OLD DIXIE HWY" intnum="20240 or 245" />
+<marker lat="26.78351995" lng="-80.06385508" intname="BLUE HERON BLVD and AVE   H" intnum="20250 or 246" />
+<marker lat="26.78351125" lng="-80.05836731" intname="BLUE HERON BLVD and AVE    F" intnum="20260 or 247" />
+<marker lat="26.78340774" lng="-80.05480361" intname="BLUE HERON BLVD and BROADWAY/US 1" intnum="20270 or 248" />
+<marker lat="26.78326554" lng="-80.0498926" intname="BLUE HERON BLVD and LAKESHORE DR/AVE  A" intnum="20280 or 249" />
+<marker lat="26.7835128" lng="-80.04143608" intname="SR A1A/OCEAN BLVD and PHIL FOSTER PARK" intnum="20290 or 250" />
+<marker lat="26.78361401" lng="-80.03898014" intname="SR A1A/OCEAN BLVD and LAKE DR" intnum="20300 or 251" />
+<marker lat="26.78454058" lng="-80.03516811" intname="SR A1A/OCEAN BLVD and OCEAN MALL" intnum="20310 or 253" />
+<marker lat="26.77983523" lng="-80.29466844" intname="ORANGE BLVD and SEMINOLE PRATT WHITNEY RD" intnum="20325 or 254" />
+<marker lat="26.78040185" lng="-80.23801229" intname="ORANGE BLVD and COCONUT BLVD" intnum="20350 or 258" />
+<marker lat="26.77825476" lng="-80.11579132" intname="DYER BLVD and HAVERHILL RD" intnum="20395 or 1529" />
+<marker lat="26.77973398" lng="-80.10741805" intname="BEELINE HWY and MILITARY TR" intnum="20400 or 261" />
+<marker lat="26.77801517" lng="-80.1074949" intname="DYER BLVD and MILITARY TRAIL" intnum="20405 or 262" />
+<marker lat="26.7734421" lng="-80.10769883" intname="WESTROADS DR and MILITARY TR" intnum="20410 or 263" />
+<marker lat="26.77039765" lng="-80.09284608" intname="MARTIN LUTHER KING JR BLVD (SR 710) and GARDEN RD" intnum="20420 or 264" />
+<marker lat="26.76999922" lng="-80.08795945" intname="MARTIN LUTHER KING JR BLVD and CONGRESS AVE" intnum="20425 or 265" />
+<marker lat="26.76983024" lng="-80.08338034" intname="MARTIN LUTHER KING JR BLVD and AVENUE U" intnum="20430 or 266" />
+<marker lat="26.77888374" lng="-80.05489605" intname="20TH ST and BROADWAY/US 1" intnum="20500 or 268" />
+<marker lat="26.77448331" lng="-80.08772154" intname="W 13TH ST and CONGRESS AVE" intnum="21081 or 1545" />
+<marker lat="26.77437576" lng="-80.0851461" intname="W 13TH ST and JAKE LN" intnum="21083 or 1544" />
+<marker lat="26.77372748" lng="-80.06328874" intname="13TH ST and OLD DIXIE HWY" intnum="21095 or 271" />
+<marker lat="26.77348381" lng="-80.05669613" intname="13TH ST and AVE  E" intnum="21125 or 274" />
+<marker lat="26.77391387" lng="-80.05503942" intname="W 13TH ST (fka 13TH ST) and BROADWAY/US 1" intnum="21150 or 276" />
+<marker lat="26.76971075" lng="-80.07441366" intname="MARTIN LUTHER KING JR BLVD/PORT RD and AVE O" intnum="21295 or 278" />
+<marker lat="26.76959688" lng="-80.07130516" intname="MARTIN LUTHER KING JR BLVD/PORT RD and AUSTRALIAN AVE  1" intnum="21300 or 279" />
+<marker lat="26.76316932" lng="-80.07153996" intname="HILL AVE and AUSTRALIAN AVE" intnum="21305 or 280" />
+<marker lat="26.76922066" lng="-80.06140901" intname="MARTIN LUTHER KING JR BLVD/PORT RD and OLD DIXIE HWY" intnum="21350 or 281" />
+<marker lat="26.76367586" lng="-80.11637922" intname="CARIBBEAN BLVD and HAVERHILL RD" intnum="21370 or 282" />
+<marker lat="26.76368596" lng="-80.05520112" intname="PORT ACCESS RD and US 1" intnum="21380 or 284" />
+<marker lat="26.75955167" lng="-80.05552088" intname="54TH ST and BROADWAY AVE (US 1)" intnum="21400 or 285" />
+<marker lat="26.76250476" lng="-80.08649479" intname="WEST PALM HOSPITAL (fka COLUMBIA HOSPITAL) and CONGRESS AVE (NORTH ENT)" intnum="21500 or 286" />
+<marker lat="26.76475012" lng="-80.30702814" intname="60TH ST N and SEMINOLE PRATT-WHITNEY RD" intnum="22050 or 1563" />
+<marker lat="26.76010169" lng="-80.11675046" intname="45TH ST and HAVERHILL RD" intnum="22300 or 291" />
+<marker lat="26.75976051" lng="-80.10850039" intname="45TH ST and MILITARY TR" intnum="22325 or 292" />
+<marker lat="26.75475212" lng="-80.10889913" intname="SHILOH DR and MILITARY TR" intnum="22327 or 293" />
+<marker lat="26.75433436" lng="-80.09846089" intname="SHILOH DR and VILLAGE BLVD/KEATS GROVE LA" intnum="22328 or 294" />
+<marker lat="26.75955299" lng="-80.10350126" intname="45TH ST and WAL-MART" intnum="22340 or 295" />
+<marker lat="26.75941761" lng="-80.10024483" intname="45TH ST and VILLAGE BLVD" intnum="22350 or 296" />
+<marker lat="26.75927879" lng="-80.09658222" intname="45TH ST and NORTHPOINT PKWY/VILLAGE BLVD" intnum="22374 or 297" />
+<marker lat="26.75898745" lng="-80.09025396" intname="45TH ST and I-95" intnum="22375 or 298" />
+<marker lat="26.75895027" lng="-80.08862833" intname="45TH ST and CORPORATE WAY" intnum="22376 or 299" />
+<marker lat="26.75888725" lng="-80.08638119" intname="45TH ST and CONGRESS AVE" intnum="22380 or 300" />
+<marker lat="26.75751478" lng="-80.08236952" intname="45TH STREET and SOUTH PLACE" intnum="22385 or 301" />
+<marker lat="26.75327583" lng="-80.07801778" intname="45TH ST and NORTH SHORE DR" intnum="22400 or 303" />
+<marker lat="26.75323361" lng="-80.07244171" intname="45TH ST and AUSTRALIAN AVE" intnum="22425 or 304" />
+<marker lat="26.7530576" lng="-80.06080125" intname="45TH ST and GREENWOOD AVE/OLD DIXIE HWY" intnum="22450 or 305" />
+<marker lat="26.7530203" lng="-80.0596885" intname="45TH ST and PINEWOOD AVE" intnum="22455 or 307" />
+<marker lat="26.75286673" lng="-80.0561824" intname="45TH ST and BROADWAY" intnum="22475 or 308" />
+<marker lat="26.74927567" lng="-80.05650958" intname="40TH ST and BROADWAY" intnum="23200 or 310" />
+<marker lat="26.74919694" lng="-80.05456661" intname="40TH ST and SPRUCE AVE" intnum="23225 or 311" />
+<marker lat="26.74911706" lng="-80.05256836" intname="40TH ST and NORTH FLAGLER DR" intnum="23250 or 312" />
+<marker lat="26.74893656" lng="-80.10930585" intname="CUMBERLAND DR and MILITARY TR" intnum="23650 or 315" />
+<marker lat="26.74723297" lng="-80.11784115" intname="47 PL N/EGRET LAKE ELEM and HAVERHILL RD" intnum="23700 or 316" />
+<marker lat="26.74590269" lng="-80.06983748" intname="36TH ST and AUSTRALIAN AVE" intnum="23800 or 317" />
+<marker lat="26.74584822" lng="-80.05654548" intname="36TH ST and BROADWAY" intnum="23815 or 318" />
+<marker lat="26.74594263" lng="-80.06022453" intname="36TH ST and GREENWOOD AVE" intnum="23825 or 319" />
+<marker lat="26.74578077" lng="-80.05253915" intname="36TH ST and NORTH FLAGLER DR/POINSETTA AVE" intnum="23850 or 320" />
+<marker lat="26.7410517" lng="-80.10966564" intname="WILLOW POND RD/WINDSOR WY and MILITARY TR" intnum="24400 or 322" />
+<marker lat="26.7267367" lng="-80.08501199" intname="PRESIDENTIAL WAY/PALM BCH MALL and CONGRESS AVE" intnum="24590 or 323" />
+<marker lat="26.73643307" lng="-80.06762172" intname="25TH ST and AUSTRALIAN AVE" intnum="24600 or 324" />
+<marker lat="26.73650599" lng="-80.06121317" intname="25TH ST and TAMARIND AVE" intnum="24650 or 326" />
+<marker lat="26.73634847" lng="-80.05682953" intname="25TH ST and BROADWAY" intnum="24670 or 327" />
+<marker lat="26.73494232" lng="-80.05286449" intname="NORTHWOOD RD and DIXIE HWY/POINSETTIA AVE" intnum="24890 or 329" />
+<marker lat="26.73451952" lng="-80.05069988" intname="23RD ST and FLAGLER DR" intnum="24891 or 330" />
+<marker lat="26.72752945" lng="-80.06653631" intname="L.A. KIRKSEY/ 15TH ST and AUSTRALIAN AVE" intnum="24990 or 332" />
+<marker lat="26.72740234" lng="-80.06160363" intname="L.A. KIRKSEY/15TH ST and TAMARIND AVE" intnum="25500 or 333" />
+<marker lat="26.72718351" lng="-80.05312174" intname="L.A. KIRKSEY/15TH ST and N DIXIE HWY" intnum="25550 or 334" />
+<marker lat="26.71166484" lng="-80.09604754" intname="PALM BEACH LAKES BLVD and SPENCER DR/VILLAGE BLVD" intnum="26010 or 335" />
+<marker lat="26.71609705" lng="-80.09211674" intname="PALM BEACH LAKES BLVD and ROBBINS DR" intnum="26020 or 336" />
+<marker lat="26.71700236" lng="-80.09131385" intname="PALM BEACH LAKES BLVD and WELLESLEY INN" intnum="26021 or 337" />
+<marker lat="26.71943544" lng="-80.08915587" intname="PALM BEACH LAKES BLVD and I-95" intnum="26030 or 338" />
+<marker lat="26.72118248" lng="-80.08760599" intname="PALM BEACH LAKES BLVD and PALM BEACH MALL (W ENT)" intnum="26040 or 339" />
+<marker lat="26.72256388" lng="-80.08632395" intname="PALM BEACH LAKES BLVD and PALM BEACH  MALL E ENT" intnum="26050 or 340" />
+<marker lat="26.7193646" lng="-80.08148574" intname="HANK AARON DR and CONGRESS AVE" intnum="26054 or 341" />
+<marker lat="26.7157994" lng="-80.08168957" intname="EXECUTIVE CENTER DR and CONGRESS AVE" intnum="26055 or 342" />
+<marker lat="26.72432364" lng="-80.08356967" intname="PALM BEACH LAKES BLVD and CONGRESS AVE" intnum="26060 or 344" />
+<marker lat="26.72506417" lng="-80.08030636" intname="PALM BEACH LAKES BLVD and FORUM WAY" intnum="26068 or 345" />
+<marker lat="26.72501773" lng="-80.07552607" intname="PALM BEACH LAKES BLVD and 7TH ST/MANGONIA DR" intnum="26070 or 346" />
+<marker lat="26.72474617" lng="-80.06662757" intname="PALM BEACH LAKES BLVD and AUSTRALIAN AVE" intnum="26080 or 347" />
+<marker lat="26.72463902" lng="-80.06169579" intname="PALM BEACH LAKES BLVD and TAMARIND AVE" intnum="26090 or 348" />
+<marker lat="26.72456683" lng="-80.05837797" intname="PALM BEACH LAKES BLVD and SAPODILLA AVE" intnum="26100 or 349" />
+<marker lat="26.72444289" lng="-80.05321354" intname="PALM BEACH LAKES BLVD and DIXIE HWY" intnum="26110 or 350" />
+<marker lat="26.72438438" lng="-80.0515845" intname="PALM BEACH LAKES BLVD and OLIVE AVE" intnum="26120 or 351" />
+<marker lat="26.72434351" lng="-80.04976806" intname="PALM BEACH LAKES BLVD and FLAGLER DR" intnum="26130 or 352" />
+<marker lat="26.72008755" lng="-80.06678255" intname="7TH ST and AUSTRALIAN AVE" intnum="26275 or 354" />
+<marker lat="26.71999656" lng="-80.06184817" intname="7TH ST and TAMARIND AVE" intnum="26300 or 355" />
+<marker lat="26.71845157" lng="-80.05340518" intname="QUADRILLE BLVD and DIXIE HWY" intnum="26575 or 356" />
+<marker lat="26.71842344" lng="-80.05179243" intname="QUADRILLE BLVD and OLIVE AVE" intnum="26580 or 357" />
+<marker lat="26.71702188" lng="-80.05344208" intname="4TH ST and DIXIE HWY/FIRE STA # 1 (WPB)" intnum="26895 or 358" />
+<marker lat="26.71697715" lng="-80.05181494" intname="4TH ST and OLIVE AVE" intnum="26896 or 359" />
+<marker lat="26.71611563" lng="-80.05346547" intname="3RD ST and DIXIE HWY" intnum="26920 or 365" />
+<marker lat="26.71605418" lng="-80.05183197" intname="3RD ST and OLIVE AVE" intnum="26930 or 366" />
+<marker lat="26.71602388" lng="-80.05056637" intname="3RD ST and FLAGLER DR" intnum="26940 or 367" />
+<marker lat="26.71388852" lng="-80.06579968" intname="BANYAN BLVD and AUSTRALIAN AVE" intnum="27075 or 369" />
+<marker lat="26.70992313" lng="-80.06423277" intname="CLEARWATER PL and AUSTRALIAN AVE" intnum="27076 or 370" />
+<marker lat="26.71461785" lng="-80.06196865" intname="BANYAN BLVD and TAMARIND AVE" intnum="27100 or 371" />
+<marker lat="26.71451651" lng="-80.05865996" intname="BANYAN BLVD and SAPODILLA AVE" intnum="27110 or 372" />
+<marker lat="26.72910248" lng="-80.14181381" intname="CELEBRATION BLVD/BRIAR BAY and JOG RD" intnum="27114 or 373" />
+<marker lat="26.73157243" lng="-80.13787656" intname="JEAGA (98 EE) MIDDLE SCHOOL/GRASSY WATERS (O2-T) ELEM SCHOOL and JOG ROAD" intnum="27115 or 374" />
+<marker lat="26.71447372" lng="-80.05700566" intname="BANYAN BLVD and ROSEMARY DR" intnum="27120 or 377" />
+<marker lat="26.73625323" lng="-80.1182424" intname="ROEBUCK RD and HAVERHILL RD" intnum="27121 or 378" />
+<marker lat="26.73599135" lng="-80.10989653" intname="ROEBUCK RD and MILITARY TR" intnum="27122 or 379" />
+<marker lat="26.72112344" lng="-80.10216839" intname="COMMUNITY DR and VILLAGE BLVD" intnum="27123 or 380" />
+<marker lat="26.71405162" lng="-80.09937899" intname="BRANDYWINE RD and VILLAGE BLVD" intnum="27124 or 381" />
+<marker lat="26.71500464" lng="-80.11904656" intname="CENTURY BLVD and HAVERHILL RD" intnum="27125 or 382" />
+<marker lat="26.73243759" lng="-80.11006258" intname="SHENANDOAH DR/LAKESIDE GREEN BLVD and MILITARY TR" intnum="27126 or 383" />
+<marker lat="26.72125241" lng="-80.11058004" intname="COMMUNITY DR and MILITARY TR" intnum="27127 or 384" />
+<marker lat="26.73614447" lng="-80.11477509" intname="ROEBUCK RD and WILLOW POND DR / BALMORAL BLVD" intnum="27128 or 385" />
+<marker lat="26.72163158" lng="-80.11880064" intname="COMMUNITY DR and HAVERHILL RD" intnum="27129 or 387" />
+<marker lat="26.7143834" lng="-80.05351023" intname="BANYAN BLVD and DIXIE HWY" intnum="27130 or 388" />
+<marker lat="26.72154783" lng="-80.11391468" intname="COMMUNITY DR and CROSSTOWN PLAZA" intnum="27131 or 389" />
+<marker lat="26.73259872" lng="-80.11838776" intname="CYPRESS BLVD/LAKESIDE GREEN BLVD and HAVERHILL RD" intnum="27132 or 390" />
+<marker lat="26.71442" lng="-80.05492701" intname="BANYAN BLVD and QUADRILLE BLVD" intnum="27133 or 391" />
+<marker lat="26.71434453" lng="-80.05186088" intname="BANYAN BLVD and OLIVE AVE" intnum="27140 or 392" />
+<marker lat="26.7142782" lng="-80.04960468" intname="BANYAN BLVD and FLAGLER DR" intnum="27150 or 393" />
+<marker lat="26.71345779" lng="-80.0570324" intname="CLEMATIS ST and ROSEMARY AVE" intnum="27220 or 395" />
+<marker lat="26.71340274" lng="-80.05495895" intname="CLEMATIS ST and QUADRILLE BLVD" intnum="27225 or 396" />
+<marker lat="26.71336489" lng="-80.05353646" intname="CLEMATIS ST and DIXIE HWY" intnum="27230 or 397" />
+<marker lat="26.71332006" lng="-80.05189482" intname="CLEMATIS ST and OLIVE AVE" intnum="27240 or 398" />
+<marker lat="26.71234638" lng="-80.05356288" intname="DATURA ST and DIXIE HWY" intnum="27330 or 403" />
+<marker lat="26.71226947" lng="-80.05193071" intname="DATURA ST and OLIVE AVE" intnum="27340 or 404" />
+<marker lat="26.71198985" lng="-80.04924807" intname="DATURA ST and FLAGLER DR" intnum="27345 or 405" />
+<marker lat="26.71135538" lng="-80.05358849" intname="EVERNIA ST and DIXIE HWY" intnum="27430 or 406" />
+<marker lat="26.71130112" lng="-80.05194907" intname="EVERNIA ST and OLIVE AVE" intnum="27440 or 407" />
+<marker lat="26.71093243" lng="-80.05000997" intname="EVERNIA ST and FLAGLER DR" intnum="27450 or 408" />
+<marker lat="26.71026509" lng="-80.05028046" intname="FERN ST and FLAGLER DR" intnum="27479 or 409" />
+<marker lat="26.71060802" lng="-80.06205951" intname="FERN ST and TAMARIND AVE" intnum="27489 or 410" />
+<marker lat="26.71036421" lng="-80.05361411" intname="FERN ST and DIXIE HWY" intnum="27490 or 411" />
+<marker lat="26.71031581" lng="-80.05197733" intname="FERN ST and OLIVE AVE" intnum="27495 or 412" />
+<marker lat="26.70856487" lng="-80.05509691" intname="HIBISCUS ST and QUADRILLE BLVD" intnum="27525 or 415" />
+<marker lat="26.70853468" lng="-80.0536612" intname="HIBISCUS ST and DIXIE HWY" intnum="27530 or 416" />
+<marker lat="26.70850175" lng="-80.05202509" intname="HIBISCUS ST and OLIVE AVE" intnum="27540 or 417" />
+<marker lat="26.70639057" lng="-80.05371664" intname="LAKEVIEW AVE/OKEECHOBEE BLVD and DIXIE HWY" intnum="27625 or 421" />
+<marker lat="26.70623192" lng="-80.05207279" intname="LAKEVIEW AVE and OLIVE AVE" intnum="27645 or 422" />
+<marker lat="26.70613747" lng="-80.04880049" intname="LAKEVIEW AVE and FLAGLER DR" intnum="27648 or 423" />
+<marker lat="26.75119579" lng="-80.2273444" intname="PERSIMMON BLVD and ROYAL PALM BEACH BLVD" intnum="27650 or 424" />
+<marker lat="26.70708617" lng="-80.30907601" intname="OKEECHOBEE BLVD and SEMINOLE PRATT WHITNEY RD" intnum="27660 or 425" />
+<marker lat="26.74840713" lng="-80.30761675" intname="SEMINOLE RIDGE HIGH SCHOOL BUS ENTRANCE and SEMINOLE PRATT WHITNEY RD" intnum="27662 or 426" />
+<marker lat="26.74694916" lng="-80.30764697" intname="SEMINOLE RIDGE HIGH SCHOOL MAIN ENT and SEMINOLE PRATT WHITNEY RD" intnum="27663 or 427" />
+<marker lat="26.70613759" lng="-80.24365636" intname="OKEECOBEE BLVD and ROYAL PALM BEACH ELEM SCH" intnum="27664 or 428" />
+<marker lat="26.70684483" lng="-80.30170858" intname="OKEECHOBEE BLVD and 162ND DR N" intnum="27668 or 432" />
+<marker lat="26.70614902" lng="-80.239854" intname="OKEECHOBEE BLVD and CRESTWOOD BLVD" intnum="27669 or 433" />
+<marker lat="26.74361973" lng="-80.22762924" intname="ORANGE GROVE BLVD and ROYAL PALM BEACH BLVD" intnum="27670 or 434" />
+<marker lat="26.73770951" lng="-80.30802887" intname="SYCAMORE DR E and SEMINOLE PRATT WHITNEY RD" intnum="27675 or 436" />
+<marker lat="26.70622307" lng="-80.22923705" intname="OKEECHOBEE BLVD and ROYAL PALM BEACH BLVD" intnum="27680 or 438" />
+<marker lat="26.70721031" lng="-80.22007642" intname="OKEECHOBEE BLVD and PONCE DE LEON BLVD/PARTRIDGE LA" intnum="27681 or 439" />
+<marker lat="26.70950835" lng="-80.21316531" intname="OKEECHOBEE BLVD and WILDCAT WAY" intnum="27682 or 440" />
+<marker lat="26.70940705" lng="-80.20930373" intname="OKEECHOBEE BLVD and ROYAL PALM BEACH HIGH SCH" intnum="27685 or 442" />
+<marker lat="26.70930788" lng="-80.20459056" intname="OKEECHOBEE BLVD and FOX TRAIL RD N (SUPER TARGET ENTRANCE)" intnum="27690 or 443" />
+<marker lat="26.70928727" lng="-80.20092134" intname="OKEECHOBEE BLVD and SR 7/US 441" intnum="27700 or 444" />
+<marker lat="26.70900969" lng="-80.18978326" intname="OKEECHOBEE BLVD and FLAGLER PKWY/BAYWINDS BLVD" intnum="27710 or 445" />
+<marker lat="26.70879768" lng="-80.18253008" intname="OKEECHOBEE BLVD and SANSBURY WAY" intnum="27725 or 446" />
+<marker lat="26.70865919" lng="-80.17581392" intname="OKEECHOBEE BLVD and ANDROS ISLE/BEREAN CHRISTIAN SCHOOL" intnum="27727 or 447" />
+<marker lat="26.70851385" lng="-80.17009287" intname="OKEECHOBEE BVD and BENOIST FARMS RD/WPB FS#7" intnum="27728 or 448" />
+<marker lat="26.70841287" lng="-80.16606831" intname="OKEECHOBEE BLVD and GOLDEN LAKES BLVD" intnum="27730 or 449" />
+<marker lat="26.70821503" lng="-80.15784829" intname="OKEECHOBEE BLVD and SKEES RD/RIVERWALK BLVD" intnum="27735 or 450" />
+<marker lat="26.70802764" lng="-80.15187989" intname="OKEECHOBEE BLVD and JOG RD" intnum="27750 or 451" />
+<marker lat="26.70786166" lng="-80.14618964" intname="OKEECHOBEE BLVD and VISTA PKWY" intnum="27770 or 452" />
+<marker lat="26.70745599" lng="-80.13709064" intname="OKEECHOBEE BLVD and FLA TURNPIKE" intnum="27775 or 453" />
+<marker lat="26.70735135" lng="-80.13366431" intname="OKEECHOBEE BLVD and MERIDIAN RD" intnum="27800 or 454" />
+<marker lat="26.70836159" lng="-80.11929317" intname="CENTURY CORNERS and HAVERHILL RD" intnum="27824 or 456" />
+<marker lat="26.70700824" lng="-80.11934318" intname="OKEECHOBEE BLVD and HAVERHILL RD" intnum="27825 or 457" />
+<marker lat="26.70685809" lng="-80.11108682" intname="OKEECHOBEE BLVD and MILITARY TR" intnum="27850 or 458" />
+<marker lat="26.70686746" lng="-80.10792234" intname="OKEECHOBEE BLVD and CROSS COUNTY MALL/BISCAYNE BLVD" intnum="27851 or 459" />
+<marker lat="26.70682165" lng="-80.10436088" intname="OKEECHOBEE BLVD and INDIAN RD" intnum="27875 or 460" />
+<marker lat="26.70673934" lng="-80.10039828" intname="OKEECHOBEE BLVD and PALM BCH LAKES BLVD/WABASSO DR" intnum="27885 or 461" />
+<marker lat="26.7065787" lng="-80.0936609" intname="OKEECHOBEE BLVD and SPENCER DR" intnum="27900 or 462" />
+<marker lat="26.70649749" lng="-80.09026591" intname="OKEECHOBEE BLVD and LOXAHATCHEE DR" intnum="27905 or 463" />
+<marker lat="26.70640749" lng="-80.0865044" intname="OKEECHOBEE BLVD and CONGRESS AVE" intnum="27910 or 464" />
+<marker lat="26.70627848" lng="-80.08231019" intname="OKEECHOBEE BLVD and CHURCH ST/CHILLINGSWORTH DR" intnum="27920 or 465" />
+<marker lat="26.70612569" lng="-80.07771007" intname="OKEECHOBEE BLVD and I-95 WEST" intnum="27925 or 466" />
+<marker lat="26.70598851" lng="-80.07349161" intname="OKEECHOBEE BLVD and 1-95 EAST" intnum="27926 or 467" />
+<marker lat="26.70586525" lng="-80.06175992" intname="OKEECHOBEE BLVD and PARKER  AVE/TAMARIND AVE" intnum="27950 or 468" />
+<marker lat="26.70579079" lng="-80.05889548" intname="OKEECHOBEE BLVD and N SAPODILLA AVE" intnum="27952 or 470" />
+<marker lat="26.70577218" lng="-80.05723718" intname="OKEECHOBEE BLVD and ROSEMARY AVE" intnum="27953 or 471" />
+<marker lat="26.7055135" lng="-80.05517933" intname="OKEECHOBEE BLVD and QUADRILLE BLVD" intnum="27955 or 473" />
+<marker lat="26.70640858" lng="-80.05515567" intname="OKEECHOBEE BLVD and QUADRILLE BLVD" intnum="27956 or 474" />
+<marker lat="26.705485" lng="-80.05374001" intname="OKEECHOBEE BLVD and DIXIE HWY" intnum="27960 or 475" />
+<marker lat="26.70545274" lng="-80.05209991" intname="OKEECHOBEE BLVD and OLIVE AVE" intnum="27961 or 476" />
+<marker lat="26.70539338" lng="-80.04908558" intname="OKEECHOBEE BLVD and FLAGLER DR" intnum="27965 or 478" />
+<marker lat="26.70328222" lng="-80.11946602" intname="ELMHURST RD and HAVERHILL RD" intnum="28199 or 479" />
+<marker lat="26.70311149" lng="-80.1111898" intname="WESTGATE AVE/ELMHURST RD and MILITARY TR" intnum="28200 or 480" />
+<marker lat="26.70306892" lng="-80.10448944" intname="WESTGATE AVE and INDIAN RD/QUAIL DR" intnum="28240 or " />
+<marker lat="26.70317871" lng="-80.10050877" intname="WESTGATE AVE and WABASSO DR" intnum="28250 or 481" />
+<marker lat="26.70305346" lng="-80.09544874" intname="WESTGATE AVE and SEMINOLE BLVD" intnum="28275 or 482" />
+<marker lat="26.70285212" lng="-80.08663632" intname="WESTGATE AVE and CONGRESS AVE" intnum="28300 or 484" />
+<marker lat="26.70331259" lng="-80.07841482" intname="OLD OKEECHOBEE RD and FLA MANGO RD" intnum="28310 or 485" />
+<marker lat="26.69769209" lng="-80.07305957" intname="OLD OKEECHOBEE RD and AUSTRALIAN AVE" intnum="28315 or 486" />
+<marker lat="26.70263235" lng="-80.20118212" intname="REGAL THEATER and SR 7" intnum="28380 or 488" />
+<marker lat="26.70470716" lng="-80.17002647" intname="BENOIST FARMS ELEM SCH and BENOIST FARMS RD" intnum="28385 or 489" />
+<marker lat="26.69937667" lng="-80.20130968" intname="BUSINESS PARK WAY and SR 7/US 441" intnum="28390 or 490" />
+<marker lat="26.70208068" lng="-80.14778743" intname="FLORIDA TURNPIKE  (SB ON RAMP) and JOG RD" intnum="28449 or 492" />
+<marker lat="26.69909025" lng="-80.1465608" intname="FLORIDA TURNPIKE (NB OFF RAMP) and JOG RD" intnum="28450 or 493" />
+<marker lat="26.69778239" lng="-80.1196467" intname="STACY ST and HAVERHILL RD" intnum="28500 or 494" />
+<marker lat="26.69708316" lng="-80.11142455" intname="CHERRY RD and MILITARY TR" intnum="28800 or 495" />
+<marker lat="26.69562926" lng="-80.0745996" intname="WORTHINGTON RD/CENTREPARK BLVD and AUSTRALIAN AVE" intnum="28940 or 497" />
+<marker lat="26.69620548" lng="-80.05413194" intname="FLAMINGO DR and DIXIE HWY" intnum="28950 or 498" />
+<marker lat="26.69152759" lng="-80.201623" intname="BELVEDERE RD and SR 7" intnum="29025 or 500" />
+<marker lat="26.69156061" lng="-80.19814541" intname="BELVEDERE ROAD and MAYACOO LAKES BLVD/WALMART" intnum="29030 or 501" />
+<marker lat="26.69163411" lng="-80.18436426" intname="BELVEDERE RD and SANSBURY'S WAY" intnum="29050 or 502" />
+<marker lat="26.69187252" lng="-80.1739454" intname="BELVEDERE RD and BENOIST FARMS RD" intnum="29055 or 503" />
+<marker lat="26.69206505" lng="-80.16588082" intname="BELVEDERE RD and PIKE RD" intnum="29058 or 1543" />
+<marker lat="26.69214562" lng="-80.15768401" intname="BELVEDERE RD and SKEES RD" intnum="29060 or 504" />
+<marker lat="26.69298754" lng="-80.14573543" intname="BELVEDERE RD and JOG RD" intnum="29070 or 505" />
+<marker lat="26.69263206" lng="-80.13628505" intname="BELVEDERE RD and DREXEL RD/FLAT ROCK RD" intnum="29075 or 507" />
+<marker lat="26.69252919" lng="-80.13095044" intname="BELVEDERE RD and CAROLINE AVE" intnum="29100 or 508" />
+<marker lat="26.69225282" lng="-80.11982816" intname="BELVEDERE RD and HAVERHILL RD" intnum="29200 or 510" />
+<marker lat="26.69201173" lng="-80.11159539" intname="BELVEDERE RD and MILITARY TR" intnum="29225 or 511" />
+<marker lat="26.69320427" lng="-80.10735002" intname="BELVEDERE RD and COUNTRY CLUB RD/MORRISON FIELD RD" intnum="29230 or 512" />
+<marker lat="26.6914215" lng="-80.09127474" intname="BELVEDERE RD and 5TH ST" intnum="29275 or 516" />
+<marker lat="26.69128796" lng="-80.08707422" intname="BELVEDERE RD and CONGRESS AVE" intnum="29285 or 517" />
+<marker lat="26.69383658" lng="-80.08683346" intname="PALM BEACH KENNEL CLUB and CONGRESS AVE" intnum="29286 or 518" />
+<marker lat="26.6910015" lng="-80.07892392" intname="BELVEDERE RD and FLA MANGO RD" intnum="29287 or 519" />
+<marker lat="26.69088038" lng="-80.07499781" intname="BELVEDERE RD and AUSTRALIAN AVE" intnum="29300 or 522" />
+<marker lat="26.69077579" lng="-80.07154386" intname="BELVEDERE RD and MERCER AVE" intnum="29310 or 523" />
+<marker lat="26.69064445" lng="-80.06617256" intname="BELVEDERE RD and I-95" intnum="29325 or 524" />
+<marker lat="26.69054565" lng="-80.06257351" intname="BELVEDERE RD and PARKER AVE" intnum="29350 or 525" />
+<marker lat="26.6904886" lng="-80.06049742" intname="BELVEDERE RD and LAKE AVE" intnum="29355 or 526" />
+<marker lat="26.6904331" lng="-80.05847703" intname="BELVEDERE RD and GEORGIA AVE" intnum="29360 or 527" />
+<marker lat="26.69032043" lng="-80.05438055" intname="BELVEDERE RD and DIXIE HWY" intnum="29375 or 528" />
+<marker lat="26.68759367" lng="-80.07469748" intname="TURNAGE BLVD and AUSTRALIAN AVE" intnum="29850 or 530" />
+<marker lat="26.6879701" lng="-80.20183594" intname="PROCESS DR/BELLA TERRA WAY and SR 7" intnum="29858 or 532" />
+<marker lat="26.68665609" lng="-80.06059833" intname="TALLAPOOSA ST and LAKE AVE" intnum="29875 or 536" />
+<marker lat="26.68660251" lng="-80.05855673" intname="TALLAPOOSA ST and GEORGIA AVE" intnum="29880 or 537" />
+<marker lat="26.68675151" lng="-80.14543058" intname="DEL VERDE BLVD/62ND DR N and JOG RD" intnum="29890 or 538" />
+<marker lat="26.6859981" lng="-80.06265206" intname="TUSCALOOSA ST and PARKER AVE" intnum="29900 or 539" />
+<marker lat="26.6848113" lng="-80.05451368" intname="ALBEMARLE RD and DIXIE HWY" intnum="29925 or 540" />
+<marker lat="26.67968226" lng="-80.05463962" intname="MONROE DR and DIXIE HWY" intnum="30600 or 544" />
+<marker lat="26.6838777" lng="-80.32293103" intname="SOUTHERN BLVD and LION COUNTRY SAFARI RD" intnum="30700 or 547" />
+<marker lat="26.68353668" lng="-80.30994804" intname="SOUTHERN BLVD and SEMINOLE PRATT WHITNEY RD" intnum="30710 or 549" />
+<marker lat="26.683017" lng="-80.29117433" intname="SOUTHERN BLVD and BINKS FOREST DR" intnum="30718 or 550" />
+<marker lat="26.68204196" lng="-80.25879066" intname="SOUTHERN BLVD and BIG BLUE TRACE" intnum="30726 or " />
+<marker lat="26.68182849" lng="-80.2514793" intname="SOUTHERN BLVD and PALMS WEST PARKWAY" intnum="30730 or 552" />
+<marker lat="26.68424504" lng="-80.24689848" intname="RENAISSANCE CHARTER SCHOOL/CRESTWOOD SQUARE and CRESTWOOD BLVD" intnum="30733 or " />
+<marker lat="26.68167391" lng="-80.24702611" intname="SOUTHERN BLVD and FOREST HILL/CRESTWOOD BLVD" intnum="30735 or 553" />
+<marker lat="26.68104419" lng="-80.23017106" intname="SOUTHERN BLVD and ROYAL PALM BEACH BLVD" intnum="30750 or 555" />
+<marker lat="26.68079058" lng="-80.2195529" intname="SOUTHERN BLVD and LAMSTEIN LA" intnum="30760 or 556" />
+<marker lat="26.68054953" lng="-80.2132199" intname="SR 80 (SOUTHERN BLVD) and 103RD AVE" intnum="30765 or 557" />
+<marker lat="26.68032157" lng="-80.20237879" intname="SOUTHERN BLVD and SR 7/US 441" intnum="30775 or 558" />
+<marker lat="26.68001157" lng="-80.19131142" intname="SOUTHERN BLVD and FAIRGROUNDS RD" intnum="30785 or 559" />
+<marker lat="26.67973336" lng="-80.18424187" intname="SOUTHERN BLVD and SANSBURY'S WAY" intnum="30790 or 560" />
+<marker lat="26.67942139" lng="-80.17417027" intname="SOUTHERN BLVD and BENOIST FARMS RD/FIRE STA #34 (PBC)" intnum="30800 or 561" />
+<marker lat="26.67922497" lng="-80.16738443" intname="SOUTHERN BLVD and PIKE RD" intnum="30808 or 562" />
+<marker lat="26.68527253" lng="-80.16583471" intname="FL TURNPIKE and PIKE RD" intnum="30809 or 563" />
+<marker lat="26.67909939" lng="-80.16343338" intname="SOUTHERN BLVD and FL TURNPIKE (EAST)" intnum="30812 or 565" />
+<marker lat="26.67890228" lng="-80.15753484" intname="SOUTHERN BLVD and CLEARY RD" intnum="30815 or 566" />
+<marker lat="26.67851746" lng="-80.14521152" intname="SOUTHERN BLVD and JOG RD" intnum="30825 or 567" />
+<marker lat="26.68127905" lng="-80.12020987" intname="WALLIS RD and HAVERHILL RD" intnum="30834 or 569" />
+<marker lat="26.67789692" lng="-80.12031175" intname="SOUTHERN BLVD and HAVERHILL RD" intnum="30835 or 570" />
+<marker lat="26.67768705" lng="-80.11214183" intname="SOUTHERN BLVD and MILITARY TR" intnum="30850 or 571" />
+<marker lat="26.67751259" lng="-80.10381799" intname="SOUTHERN BLVD and KIRK RD" intnum="30860 or 572" />
+<marker lat="26.6768333" lng="-80.08242322" intname="SOUTHERN BLVD and CONGRESS AVE/AUSTRALIAN AVE" intnum="30875 or 574" />
+<marker lat="26.67631962" lng="-80.07611453" intname="SOUTHERN BLVD and GEM LAKE DR/AIRPORT CENTER" intnum="30880 or 575" />
+<marker lat="26.6760793" lng="-80.06843045" intname="SOUTHERN BLVD and I-95" intnum="30890 or 577" />
+<marker lat="26.6759349" lng="-80.06281665" intname="SOUTHERN BLVD and PARKER AVE" intnum="30900 or 578" />
+<marker lat="26.67588258" lng="-80.06080509" intname="SOUTHERN BLVD and LAKE AVE" intnum="30905 or 579" />
+<marker lat="26.67572387" lng="-80.05473733" intname="SOUTHERN BLVD and DIXIE HWY" intnum="30910 or 580" />
+<marker lat="26.67566386" lng="-80.05241294" intname="SOUTHERN BLVD and OLIVE AVE" intnum="30915 or 581" />
+<marker lat="26.67560499" lng="-80.05013697" intname="SOUTHERN BLVD and WASHINGTON RD" intnum="30920 or 582" />
+<marker lat="26.67556536" lng="-80.04860894" intname="SOUTHERN BLVD and FLAGLER DR" intnum="30925 or 583" />
+<marker lat="26.67432676" lng="-80.05869794" intname="NOTTINGHAM BLVD and GEORGIA AVE" intnum="31100 or 584" />
+<marker lat="26.67430043" lng="-80.05483557" intname="NOTTINGHAM BLVD and DIXIE HWY" intnum="31110 or 585" />
+<marker lat="26.67356906" lng="-80.05236079" intname="PINE TERRACE and OLIVE AVE" intnum="31115 or 586" />
+<marker lat="26.67131303" lng="-80.20269349" intname="PIONEER RD/VICTORIA GROVES BLVD and SR 7 (US 441)" intnum="31200 or 587" />
+<marker lat="26.66511179" lng="-80.20289349" intname="OLD HAMMOCK WAY/ISLA VERDE DR and SR 7 (US 441)" intnum="31210 or 588" />
+<marker lat="26.67457997" lng="-80.14511629" intname="GUN CLUB RD and JOG RD" intnum="31220 or 589" />
+<marker lat="26.67419691" lng="-80.13260919" intname="GUN CLUB RD and MELALEUCA ELEM SCH" intnum="31230 or 591" />
+<marker lat="26.67385042" lng="-80.12046572" intname="GUN CLUB RD and HAVERHILL RD" intnum="31248 or 592" />
+<marker lat="26.67366214" lng="-80.11228133" intname="GUN CLUB RD and MILITARY TR" intnum="31250 or 593" />
+<marker lat="26.67345405" lng="-80.10395786" intname="GUN CLUB RD and KIRK RD" intnum="31265 or 594" />
+<marker lat="26.67236916" lng="-80.08776585" intname="GUN CLUB RD and CONGRESS AVE" intnum="31275 or 595" />
+<marker lat="26.66829887" lng="-80.05527735" intname="PURITAN RD and DIXIE HWY" intnum="31900 or 598" />
+<marker lat="26.66360349" lng="-80.14529857" intname="SUMMIT BLVD and JOG RD" intnum="32010 or 600" />
+<marker lat="26.66352004" lng="-80.14228553" intname="SUMMIT BLVD and PINE-JOG ELEM SCHOOL (03-Y)/FLORIDA CONFERENCE ASSOCIATION" intnum="32014 or 601" />
+<marker lat="26.6632467" lng="-80.13311893" intname="SUMMIT BLVD and VICTORIA WOODS CIRCLE/BELMONT DR" intnum="32020 or 602" />
+<marker lat="26.66284031" lng="-80.12084256" intname="SUMMIT BLVD and HAVERHILL RD" intnum="32049 or 604" />
+<marker lat="26.66265662" lng="-80.11267135" intname="SUMMIT BLVD and MILITARY TR" intnum="32050 or 605" />
+<marker lat="26.66258285" lng="-80.10461164" intname="SUMMIT BLVD and KIRK RD" intnum="32075 or 606" />
+<marker lat="26.66452409" lng="-80.09629382" intname="SUMMIT BLVD and DAVIS RD" intnum="32078 or 1546" />
+<marker lat="26.66634483" lng="-80.09224601" intname="SUMMIT BLVD and POST OFFICE" intnum="32080 or 607" />
+<marker lat="26.6664388" lng="-80.08809847" intname="SUMMIT BLVD and CONGRESS AVE" intnum="32085 or 608" />
+<marker lat="26.66616756" lng="-80.07989521" intname="SUMMIT BLVD and FLA MANGO RD" intnum="32100 or 609" />
+<marker lat="26.66583884" lng="-80.06852373" intname="SUMMIT BLVD and DREHER PARK TR" intnum="32115 or 610" />
+<marker lat="26.66582468" lng="-80.06365038" intname="SUMMIT BLVD and PARKER AVE" intnum="32125 or 611" />
+<marker lat="26.664836" lng="-80.06160475" intname="BUNKER RD and LAKE AVE" intnum="32225 or 613" />
+<marker lat="26.66475054" lng="-80.0588217" intname="BUNKER RD and GEORGIA AVE" intnum="32250 or 614" />
+<marker lat="26.6646449" lng="-80.05554626" intname="BUNKER RD and DIXIE HWY" intnum="32260 or 615" />
+<marker lat="26.66149908" lng="-80.08829403" intname="COLLIN DR and CONGRESS AVE" intnum="32550 or 621" />
+<marker lat="26.66268057" lng="-80.06390874" intname="HIGHLAND DR and PARKER AVE (PALMETTO ELEM  SCH)" intnum="32570 or 622" />
+<marker lat="26.66120381" lng="-80.06189528" intname="PALMETTO ST and LAKE AVE" intnum="32610 or 625" />
+<marker lat="26.65900758" lng="-80.14536171" intname="OLIVE TREE BLVD/MAPLEWOOD DR and JOG RD" intnum="32700 or 626" />
+<marker lat="26.6585511" lng="-80.08823288" intname="RIDDLE RD and CONGRESS AVE" intnum="32850 or 627" />
+<marker lat="26.68038508" lng="-80.29172276" intname="BENT CREEK RD and BINKS FOREST DR" intnum="33300 or 628" />
+<marker lat="26.67887781" lng="-80.24775568" intname="QUERCUS CT/QUERCUS LN and FOREST HILL BLVD" intnum="33320 or 1519" />
+<marker lat="26.67417325" lng="-80.26035012" intname="BIG BLUE TRACE and PADDOCK DR" intnum="33335 or 631" />
+<marker lat="26.66766933" lng="-80.28184595" intname="GREENVIEW SHORES BLVD and PADDOCK DR" intnum="33336 or 632" />
+<marker lat="26.66765876" lng="-80.28660911" intname="GREENVIEW SHORES BLVD and BINKS FOREST DR" intnum="33338 or 634" />
+<marker lat="26.66180186" lng="-80.26833683" intname="WELLINGTON TRACE and GREENVIEW SHORES BLVD" intnum="33339 or 635" />
+<marker lat="26.66651841" lng="-80.25697666" intname="WELLINGTON TRACE and BIG BLUE TRACE" intnum="33340 or 636" />
+<marker lat="26.64457492" lng="-80.26265898" intname="GREENBRIER BLVD and GREENVIEW SHORES BLVD" intnum="33343 or 638" />
+<marker lat="26.64952744" lng="-80.26283669" intname="WELLINGTON HIGH SCH and GREENVIEW SHORES BLVD" intnum="33345 or 640" />
+<marker lat="26.64838616" lng="-80.24447131" intname="SOUTH SHORE BLVD and BIG BLUE TRACE" intnum="33346 or 641" />
+<marker lat="26.64267922" lng="-80.26137986" intname="SOUTH SHORE BLVD and GREENVIEW SHORES BLVD" intnum="33347 or 642" />
+<marker lat="26.63744179" lng="-80.26315726" intname="PIERSON RD and SOUTH SHORE BLVD" intnum="33355 or 646" />
+<marker lat="26.65167001" lng="-80.2247767" intname="FOREST HILL BLVD and POLO CLUB RD/ROYAL FERN DR" intnum="33380 or 650" />
+<marker lat="26.65157677" lng="-80.22064887" intname="FOREST HILL BLVD and STRIBLING WAY" intnum="33395 or 652" />
+<marker lat="26.65125011" lng="-80.20972227" intname="FOREST HILL BLVD and WELLINGTON EDGE BLVD" intnum="33398 or 653" />
+<marker lat="26.65145351" lng="-80.21433227" intname="FOREST HILL BLVD and WELLINGTON COMMONS ENT" intnum="33399 or 654" />
+<marker lat="26.65069534" lng="-80.20343433" intname="FOREST HILL BLVD and SR 7/US 441" intnum="33400 or 655" />
+<marker lat="26.65076985" lng="-80.18988023" intname="FOREST HILL BLVD and OLYMPIA AVE" intnum="33403 or 656" />
+<marker lat="26.65086367" lng="-80.18180664" intname="FOREST HILL BLVD and LYONS/RANCH RD" intnum="33405 or 657" />
+<marker lat="26.65089646" lng="-80.17831192" intname="FOREST HILL BLVD and PALM BEACH CENTRAL HIGH SCHOOL" intnum="33410 or 658" />
+<marker lat="26.65100972" lng="-80.16470569" intname="FOREST HILL BLVD and OKEEHEELEE PARK" intnum="33412 or 659" />
+<marker lat="26.65110372" lng="-80.15721089" intname="FOREST HILL BLVD and PINEHURST DR" intnum="33415 or 660" />
+<marker lat="26.65114947" lng="-80.15108932" intname="FOREST HILL BLVD and RIVER BRIDGE /OLIVE TREE BLVD" intnum="33420 or 661" />
+<marker lat="26.65120102" lng="-80.14546061" intname="FOREST HILL BLVD and JOG RD" intnum="33425 or 662" />
+<marker lat="26.65232156" lng="-80.13676123" intname="FOREST HILL BLVD and SHERWOOD FOREST BLVD" intnum="33433 or 663" />
+<marker lat="26.65221217" lng="-80.13271591" intname="FOREST HILL BLVD and KUDZA RD" intnum="33435 or 664" />
+<marker lat="26.65185597" lng="-80.12060661" intname="FOREST HILL BLVD and HAVERHILL RD" intnum="33447 or 665" />
+<marker lat="26.65164872" lng="-80.11243483" intname="FOREST HILL BLVD and MILITARY TR" intnum="33450 or 666" />
+<marker lat="26.65144102" lng="-80.10426596" intname="FOREST HILL BLVD and KIRK RD" intnum="33475 or 667" />
+<marker lat="26.65116521" lng="-80.09616732" intname="FOREST HILL BLVD and DAVIS RD/TUCKER RD" intnum="33490 or 668" />
+<marker lat="26.65089155" lng="-80.08807427" intname="FOREST HILL BLVD and CONGRESS AVE" intnum="33500 or 669" />
+<marker lat="26.65091726" lng="-80.07997733" intname="FOREST HILL BLVD and FLA MANGO RD" intnum="33510 or 670" />
+<marker lat="26.67358373" lng="-80.24784877" intname="FOREST HILL BLVD and WELLINGTON TRACE W" intnum="33520 or 671" />
+<marker lat="26.65198698" lng="-80.23236697" intname="FOREST HILL BLVD and SOUTH SHORE BLVD" intnum="33521 or 672" />
+<marker lat="26.65527032" lng="-80.23681555" intname="FOREST HILL BLVD and WELLINGTON TRACE E" intnum="33522 or 673" />
+<marker lat="26.65491517" lng="-80.07246364" intname="FOREST HILL BLVD and PINETREE LA" intnum="33525 or 674" />
+<marker lat="26.65542748" lng="-80.06897407" intname="FOREST HILL BLVD and I-95" intnum="33540 or 676" />
+<marker lat="26.65540132" lng="-80.06714525" intname="FOREST HILL BLVD and FOREST HILL HIGH SCH" intnum="33550 or 677" />
+<marker lat="26.65529857" lng="-80.0638863" intname="FOREST HILL BLVD and PARKER AVE" intnum="33560 or 678" />
+<marker lat="26.6552401" lng="-80.0620334" intname="FOREST HILL BLVD and LAKE AVE" intnum="33570 or 679" />
+<marker lat="26.65514679" lng="-80.059075" intname="FOREST HILL BLVD and GEORGIA AVE" intnum="33580 or 680" />
+<marker lat="26.6550546" lng="-80.0560102" intname="FOREST HILL BLVD and DIXIE HWY" intnum="33590 or 681" />
+<marker lat="26.65494966" lng="-80.05192067" intname="FOREST HILL BLVD and OLIVE AVE" intnum="33600 or 682" />
+<marker lat="26.64348818" lng="-80.20372204" intname="WELLINGTON GREEN/HUTTON BLVD and SR 7 / US 441" intnum="33625 or 683" />
+<marker lat="26.65260324" lng="-80.05201104" intname="COSTELLO RD and OLIVE AVE" intnum="33700 or 684" />
+<marker lat="26.64829301" lng="-80.05623323" intname="ALHAMBRA PL and DIXIE HWY" intnum="33900 or 685" />
+<marker lat="26.64610102" lng="-80.05630559" intname="GREGORY RD and DIXIE HWY" intnum="34075 or 687" />
+<marker lat="26.6449321" lng="-80.08808296" intname="LILLIAN RD and CONGRESS AVE" intnum="34150 or 689" />
+<marker lat="26.64276079" lng="-80.08816526" intname="DOLAN RD and CONGRESS AVE" intnum="34151 or 690" />
+<marker lat="26.64328359" lng="-80.05640338" intname="ARBOR SHOPPING CENTER and DIXIE HWY" intnum="34200 or 691" />
+<marker lat="26.64521264" lng="-80.14561214" intname="PURDY LN/MEADOW LAKE DR and JOG RD" intnum="34285 or 693" />
+<marker lat="26.64501039" lng="-80.1370925" intname="PURDY LN and SHERWOOD FOREST BLVD" intnum="34288 or 694" />
+<marker lat="26.64453903" lng="-80.12069136" intname="PURDY LN and HAVERHILL RD" intnum="34349 or 697" />
+<marker lat="26.64427825" lng="-80.11250655" intname="PURDY LN and MILITARY TR" intnum="34350 or 698" />
+<marker lat="26.64403757" lng="-80.10434191" intname="PURDY LN/ALAMEDA DR and KIRK RD" intnum="34375 or 700" />
+<marker lat="26.63758225" lng="-80.08836154" intname="GREENBRIER DR and CONGRESS AVE" intnum="34400 or 701" />
+<marker lat="26.63596277" lng="-80.20410513" intname="STRIBLING WAY and SR7/US441" intnum="34500 or 702" />
+<marker lat="26.63420144" lng="-80.19891363" intname="STRIBLING WAY and DONAHUE WAY/EQUESTRIAN MIDDLE/EMERALD COVE ELEM" intnum="34510 or 703" />
+<marker lat="26.64051524" lng="-80.05649959" intname="FORDHAM/WORTHMORE and DIXIE HWY" intnum="34600 or 704" />
+<marker lat="26.63853349" lng="-80.14583403" intname="CRESTHAVEN BLVD/RIVER BRIDGE BLVD and JOG RD" intnum="35020 or 706" />
+<marker lat="26.63701428" lng="-80.13751782" intname="CRESTHAVEN BLVD and SHERWOOD FOREST BLVD" intnum="35021 or 707" />
+<marker lat="26.63358386" lng="-80.14600744" intname="CONSTITUTION WAY/BARCLAY SQUARE and JOG RD" intnum="35022 or 708" />
+<marker lat="26.63715914" lng="-80.12121794" intname="CRESTHAVEN BLVD and HAVERHILL RD" intnum="35024 or 709" />
+<marker lat="26.63748931" lng="-80.11278248" intname="CRESTHAVEN BLVD and MILITARY TR" intnum="35025 or 710" />
+<marker lat="26.63657333" lng="-80.10464884" intname="PARK LN and KIRK RD" intnum="35030 or 711" />
+<marker lat="26.63116863" lng="-80.05682412" intname="13TH AVE N and DIXIE HWY" intnum="35400 or 714" />
+<marker lat="26.63102011" lng="-80.05194169" intname="13TH AVE N and FEDERAL HWY" intnum="35425 or 715" />
+<marker lat="26.63316841" lng="-80.12114503" intname="JOHN I. LEONARD HIGH SCHOOL and HAVERHILL ROAD" intnum="35500 or 716" />
+<marker lat="26.62870999" lng="-80.15758625" intname="10TH AVE N and PINEHURST AVE" intnum="35675 or 718" />
+<marker lat="26.63189631" lng="-80.14608924" intname="10TH AVE N and JOG RD" intnum="35700 or 719" />
+<marker lat="26.63172419" lng="-80.137794" intname="10TH AVE N and SHERWOOD FOREST BLVD" intnum="35701 or 720" />
+<marker lat="26.63153091" lng="-80.13368785" intname="10TH AVE N and S 57TH AVE" intnum="35705 or 721" />
+<marker lat="26.63102553" lng="-80.12120748" intname="10TH AVE N and HAVERHILL RD" intnum="35720 or 722" />
+<marker lat="26.62973945" lng="-80.11754558" intname="10TH AVE N and JOHN I LEONARD HIGH SCH" intnum="35725 or 723" />
+<marker lat="26.62950777" lng="-80.11310221" intname="10TH AVE N and MILITARY TR" intnum="35750 or 724" />
+<marker lat="26.62916064" lng="-80.10495111" intname="10TH AVE N and KIRK RD" intnum="35775 or 725" />
+<marker lat="26.62886606" lng="-80.09681038" intname="10TH AVE N and DAVIS RD" intnum="35800 or 727" />
+<marker lat="26.62856129" lng="-80.08870747" intname="10TH AVE N and CONGRESS AVE" intnum="35810 or 728" />
+<marker lat="26.62839698" lng="-80.08411293" intname="10TH AVE N and RUDOLPH RD" intnum="35817 or 1549" />
+<marker lat="26.6282703" lng="-80.08057504" intname="10TH AVE N and FLA MANGO RD" intnum="35820 or 730" />
+<marker lat="26.62808913" lng="-80.07551542" intname="10TH AVE N and BOUTWELL RD" intnum="35830 or 731" />
+<marker lat="26.62800516" lng="-80.07244188" intname="10TH AVE N and DETROIT ST" intnum="35835 or 732" />
+<marker lat="26.62794507" lng="-80.07050583" intname="10TH AVE N and BARNETT DR" intnum="35840 or 733" />
+<marker lat="26.62788528" lng="-80.06657129" intname="10TH AVE N and I-95" intnum="35850 or 734" />
+<marker lat="26.62779058" lng="-80.06465699" intname="10TH AVE N and A/B STREET" intnum="35860 or 736" />
+<marker lat="26.62775058" lng="-80.06187425" intname="10TH AVE N and D ST" intnum="35865 or 737" />
+<marker lat="26.6276024" lng="-80.05694765" intname="10TH AVE N and DIXIE HWY" intnum="35870 or 738" />
+<marker lat="26.62741131" lng="-80.05202427" intname="10TH AVE N and FEDERAL HWY" intnum="35875 or 739" />
+<marker lat="26.62391874" lng="-80.05707531" intname="7TH AVE N and DIXIE HWY" intnum="36300 or 743" />
+<marker lat="26.62378096" lng="-80.05215006" intname="7TH AVE N and FEDERAL HWY" intnum="36350 or 744" />
+<marker lat="26.61937826" lng="-80.08906628" intname="2ND AVE N and CONGRESS AVE" intnum="36800 or 746" />
+<marker lat="26.61786779" lng="-80.05728487" intname="2ND AVE N and DIXIE HWY" intnum="36925 or 748" />
+<marker lat="26.61772985" lng="-80.05235988" intname="2ND AVE N and FEDERAL HWY" intnum="36950 or 749" />
+<marker lat="26.62285664" lng="-80.26171585" intname="LAKE WORTH RD and SOUTH SHORE BLVD" intnum="36975 or 751" />
+<marker lat="26.62191206" lng="-80.2287304" intname="LAKE WORTH RD and ISLES WAY SOUTH/ISLES BLVD" intnum="36980 or 754" />
+<marker lat="26.61837852" lng="-80.21672887" intname="LAKE WORTH RD and PANTHER RUN ELEMENTARY" intnum="36985 or 755" />
+<marker lat="26.61714159" lng="-80.2115274" intname="LAKE WORTH RD and WYCLIFFE COUNTRY CLUB BLVD" intnum="36990 or 757" />
+<marker lat="26.61716172" lng="-80.20488672" intname="LAKE WORTH RD and SR 7/US 441" intnum="37001 or 759" />
+<marker lat="26.61711501" lng="-80.20075505" intname="LAKE WORTH RD and WOODS WALK BLVD" intnum="37002 or 760" />
+<marker lat="26.61722562" lng="-80.18964051" intname="LAKE WORTH RD and LYONS RD" intnum="37015 or 761" />
+<marker lat="26.61741785" lng="-80.1755206" intname="LAKE WORTH RD and FLORIDA TURNPIKE (WEST ENTRANCE)" intnum="37018 or 762" />
+<marker lat="26.61740282" lng="-80.17195249" intname="LAKE WORTH RD and FLA TURNPIKE/AKRON RD" intnum="37019 or 763" />
+<marker lat="26.61752378" lng="-80.16502532" intname="LAKE WORTH RD and NASSAU RD/OHIO RD" intnum="37020 or 764" />
+<marker lat="26.61758444" lng="-80.16154098" intname="LAKE WORTH RD and LUCERNE LAKES BLVD" intnum="37024 or 765" />
+<marker lat="26.61765609" lng="-80.15743066" intname="LAKE WORTH RD and PINEHURST/FIRE STA #32 (PBC)" intnum="37025 or 766" />
+<marker lat="26.61769364" lng="-80.15387781" intname="LAKE WORTH RD and FOUNTAINS/POINCIANA DR" intnum="37050 or 767" />
+<marker lat="26.61892062" lng="-80.14671994" intname="LAKE WORTH RD and JOG RD" intnum="37075 or 768" />
+<marker lat="26.61914678" lng="-80.13831648" intname="LAKE WORTH RD and SHERWOOD FOREST BLVD" intnum="37080 or 769" />
+<marker lat="26.61906968" lng="-80.13416916" intname="LAKE WORTH RD and S 57TH AVE" intnum="37100 or 770" />
+<marker lat="26.61895993" lng="-80.12533497" intname="LAKE WORTH RD and SWAIN BLVD/SOUTHVIEW AVE" intnum="37120 or 771" />
+<marker lat="26.61880438" lng="-80.12168811" intname="LAKE WORTH RD and HAVERHILL RD" intnum="37125 or 772" />
+<marker lat="26.61843799" lng="-80.11353751" intname="LAKE WORTH RD and MILITARY TR" intnum="37150 or 773" />
+<marker lat="26.61803149" lng="-80.1053999" intname="LAKE WORTH RD and KIRK RD" intnum="37175 or 776" />
+<marker lat="26.61747721" lng="-80.08909454" intname="LAKE WORTH RD and CONGRESS AVE" intnum="37200 or 778" />
+<marker lat="26.61739281" lng="-80.08644248" intname="LAKE WORTH RD and PALM BEACH STATE COLLEGE (fka Palm Beach Community College)" intnum="37225 or 779" />
+<marker lat="26.61697077" lng="-80.07497812" intname="LAKE WORTH RD and BOUTWELL RD/LAKE OSBORNE DR" intnum="37230 or 780" />
+<marker lat="26.61683079" lng="-80.07115216" intname="LAKE WORTH RD and AKRON ST" intnum="37250 or 781" />
+<marker lat="26.61675408" lng="-80.06835811" intname="LAKE WORTH RD and TRI-RAIL STA" intnum="37251 or 782" />
+<marker lat="26.61591509" lng="-80.05735253" intname="LAKE AVE and DIXIE HWY" intnum="37325 or 788" />
+<marker lat="26.61660198" lng="-80.05631819" intname="LUCERNE AVE and NORTH J ST" intnum="37335 or 789" />
+<marker lat="26.61649223" lng="-80.05240279" intname="LUCERNE AVE and FEDERAL HWY" intnum="37350 or 790" />
+<marker lat="26.61663017" lng="-80.05732773" intname="LUCERNE AVE and DIXIE HWY" intnum="37425 or 792" />
+<marker lat="26.61585944" lng="-80.05536405" intname="LAKE AVE and K ST" intnum="37447 or 793" />
+<marker lat="26.61577715" lng="-80.05242743" intname="LAKE AVE and FEDERAL HWY" intnum="37450 or 794" />
+<marker lat="26.61509556" lng="-80.03869464" intname="LAKE AVE and S OCEAN BLVD (SR A1A)" intnum="37475 or 795" />
+<marker lat="26.61419464" lng="-80.08920763" intname="PALM BEACH COMMUNITY COLLEGE and CONGRESS AVE" intnum="37500 or 797" />
+<marker lat="26.6096557" lng="-80.08937035" intname="MELALEUCA LN/6TH AVE S and CONGRESS AVE" intnum="37800 or 798" />
+<marker lat="26.60955261" lng="-80.0867861" intname="6TH AVE S and PALM BEACH STATE COLLEGE (fka Palm Beach Community College)" intnum="37825 or 799" />
+<marker lat="26.60894286" lng="-80.06799521" intname="6TH AVE S and I-95" intnum="37850 or 801" />
+<marker lat="26.60880915" lng="-80.06535334" intname="6TH AVE S and A ST" intnum="37875 or 802" />
+<marker lat="26.60855793" lng="-80.0576068" intname="6TH AVE S and DIXIE HWY" intnum="37900 or 803" />
+<marker lat="26.60847281" lng="-80.05214374" intname="6TH AVE S and FEDERAL HWY" intnum="37950 or 804" />
+<marker lat="26.61379694" lng="-80.14677022" intname="PINE AVE/GREENACRES POST OFFICE and JOG RD" intnum="38000 or 805" />
+<marker lat="26.60816351" lng="-80.14691493" intname="MELALEUCA LN/FOUNTAINS DR and JOG RD" intnum="38075 or 806" />
+<marker lat="26.60795419" lng="-80.13870985" intname="MELALEUCA LN and SHERWOOD FOREST BLVD" intnum="38085 or 807" />
+<marker lat="26.60783113" lng="-80.12208869" intname="MELALEUCA LN and HAVERHILL RD" intnum="38095 or 809" />
+<marker lat="26.60739601" lng="-80.11394092" intname="MELALEUCA LN and MILITARY TR" intnum="38100 or 810" />
+<marker lat="26.60696153" lng="-80.10580393" intname="MELALEUCA LN and KIRK RD" intnum="38110 or 811" />
+<marker lat="26.60661635" lng="-80.09766918" intname="MELALEUCA LN and DAVIS RD" intnum="38111 or 812" />
+<marker lat="26.60134315" lng="-80.05721833" intname="12TH AVE S and DIXIE HWY" intnum="38600 or 814" />
+<marker lat="26.60064913" lng="-80.08974175" intname="JOHN F KENNEDY DR and CONGRESS AVE" intnum="39100 or 816" />
+<marker lat="26.59804114" lng="-80.1143066" intname="N COUNTRY CLUB BLVD and MILITARY TR" intnum="39200 or 817" />
+<marker lat="26.59435016" lng="-80.09294313" intname="CLUBHOUSE BLVD and CONGRESS AVE" intnum="39300 or 818" />
+<marker lat="26.59208431" lng="-80.05233292" intname="DIXIE HWY and FEDERAL HWY" intnum="39500 or 819" />
+<marker lat="26.60297439" lng="-80.12226965" intname="TRADESWINDS MIDDLE SCHOOL (fka 98ii/W LW) and HAVERHILL RD" intnum="39580 or 821" />
+<marker lat="26.59599111" lng="-80.14735424" intname="BRENTWOOD BLVD/FOUNTAINS CIR and JOG RD" intnum="39600 or 822" />
+<marker lat="26.59997944" lng="-80.12243192" intname="NAUTICA ISLES/DIAMOND VIEW ELEM and HAVERHILL RD" intnum="39650 or 823" />
+<marker lat="26.60153575" lng="-80.18945074" intname="WOODLANDS MIDDLE SCH and LYONS RD" intnum="39800 or 824" />
+<marker lat="26.59138874" lng="-80.20583139" intname="LANTANA RD and SR 7/US 441" intnum="40000 or 826" />
+<marker lat="26.59131244" lng="-80.20322815" intname="LANTANA RD and TARGET" intnum="40002 or 827" />
+<marker lat="26.59123187" lng="-80.20052871" intname="LANTANA RD and BELLAGGIO LAKES BLVD" intnum="40003 or 828" />
+<marker lat="26.5908805" lng="-80.18932162" intname="LANTANA ROAD and LYONS ROAD" intnum="40005 or 829" />
+<marker lat="26.59050423" lng="-80.17672428" intname="LANTANA RD and AQUARIUS BLVD/GRAND LACUNA BLVD" intnum="40011 or 830" />
+<marker lat="26.59030509" lng="-80.16996666" intname="LANTANA ROAD and BENTBROOK BLVD" intnum="40015 or 831" />
+<marker lat="26.58996625" lng="-80.15823036" intname="LANTANA RD and HAGEN RANCH RD" intnum="40018 or 832" />
+<marker lat="26.5896337" lng="-80.14736215" intname="LANTANA RD and JOG RD" intnum="40025 or 833" />
+<marker lat="26.58935289" lng="-80.13773534" intname="LANTANA RD and EDGECLIFF AVE" intnum="40030 or 834" />
+<marker lat="26.58890632" lng="-80.12313078" intname="LANTANA RD and HAVERHILL BLVD" intnum="40037 or 836" />
+<marker lat="26.58875921" lng="-80.11404602" intname="LANTANA RD and MILITARY TR" intnum="40050 or 838" />
+<marker lat="26.58849673" lng="-80.10517562" intname="LANTANA RD and LAWRENCE RD" intnum="40075 or 839" />
+<marker lat="26.58816883" lng="-80.09397118" intname="LANTANA RD and CONGRESS AVE" intnum="40100 or 840" />
+<marker lat="26.58253642" lng="-80.09097119" intname="DONNELLY DR/LAKE CASCADE DR and CONGRESS AVE" intnum="40106 or 842" />
+<marker lat="26.58740879" lng="-80.07367767" intname="LANTANA RD and HIGH RIDGE RD" intnum="40150 or 844" />
+<marker lat="26.58724746" lng="-80.06851933" intname="LANTANA RD and I-95" intnum="40175 or 845" />
+<marker lat="26.58721218" lng="-80.06718107" intname="LANTANA RD and LANTANA SHOPPING CENTER" intnum="40200 or 846" />
+<marker lat="26.58712968" lng="-80.06446458" intname="LANTANA RD and 13TH ST/ANDREW REDDING RD" intnum="40225 or 847" />
+<marker lat="26.58688035" lng="-80.05627995" intname="LANTANA RD and BROADWAY ST/6TH ST" intnum="40250 or 848" />
+<marker lat="26.58674667" lng="-80.05189342" intname="LANTANA RD and FEDERAL HWY" intnum="40275 or 849" />
+<marker lat="26.58457318" lng="-80.05635566" intname="OCEAN AVE and BROADWAY ST" intnum="40350 or 850" />
+<marker lat="26.58441036" lng="-80.0518792" intname="OCEAN AVE and FEDERAL HWY" intnum="40375 or 851" />
+<marker lat="26.58414545" lng="-80.04312087" intname="OCEAN AVE and N/S ATLANTIC DR" intnum="40399 or 852" />
+<marker lat="26.58401475" lng="-80.03908133" intname="OCEAN AVE and A1A" intnum="40400 or 853" />
+<marker lat="26.5764532" lng="-80.05341078" intname="CENTRAL BLVD and FEDERAL HWY" intnum="40585 or 858" />
+<marker lat="26.58559981" lng="-80.15635394" intname="CORAL REEF ELEM SCH and HAGEN RANCH RD" intnum="40801 or 863" />
+<marker lat="26.58194726" lng="-80.15603616" intname="SMITH FARM BLVD and HAGEN RANCH RD" intnum="40825 or 864" />
+<marker lat="26.57716141" lng="-80.11333729" intname="TRAILS CHARTER SCHOOL and MILITARY TRAIL" intnum="40850 or " />
+<marker lat="26.57444991" lng="-80.11334568" intname="WALMART (N of Hypoluxo Rd) and MILITARY TRAIL" intnum="40900 or 1558" />
+<marker lat="26.57989901" lng="-80.1460584" intname="WINSTON TRAILS BLVD and JOG RD" intnum="41000 or 865" />
+<marker lat="26.5704351" lng="-80.20581933" intname="HYPOLUXO RD and S.R. 7/U.S. 441" intnum="41600 or 866" />
+<marker lat="26.5671633" lng="-80.18908217" intname="HYPOLUXO RD and LYONS RD" intnum="41620 or 867" />
+<marker lat="26.57241355" lng="-80.16377974" intname="HYPOLUXO RD and SMITH FARM BLVD" intnum="41625 or 869" />
+<marker lat="26.57247224" lng="-80.1563255" intname="HYPOLUXO RD and HAGEN RANCH RD" intnum="41630 or 870" />
+<marker lat="26.57261552" lng="-80.1460639" intname="HYPOLUXO RD and JOG RD" intnum="41645 or 871" />
+<marker lat="26.57244758" lng="-80.1345911" intname="HYPOLUXO RD and WINSTON TRAILS SOUTH" intnum="41647 or 872" />
+<marker lat="26.57215616" lng="-80.12150477" intname="HYPOLUXO RD and HAVERHILL RD" intnum="41649 or 873" />
+<marker lat="26.57199789" lng="-80.11335911" intname="HYPOLUXO RD and MILITARY TR" intnum="41650 or 874" />
+<marker lat="26.57197442" lng="-80.10515374" intname="HYPOLUXO RD and LAWRENCE RD" intnum="41675 or 875" />
+<marker lat="26.57203415" lng="-80.10192456" intname="HYPOLUXO RD and SANTALUCES HIGH SCH" intnum="41677 or 877" />
+<marker lat="26.57205134" lng="-80.09593285" intname="HYPOLUXO RD and VENETIAN DR/FREEDOM SHORES ELEM SCH" intnum="41698 or 879" />
+<marker lat="26.57216582" lng="-80.08971938" intname="HYPOLUXO RD and CONGRESS AVE" intnum="41700 or 880" />
+<marker lat="26.57233075" lng="-80.07451984" intname="HYPOLUXO RD and HIGH RIDGE RD" intnum="41720 or 881" />
+<marker lat="26.57223213" lng="-80.06889371" intname="HYPOLUXO RD and I-95" intnum="41725 or 882" />
+<marker lat="26.57218555" lng="-80.06618203" intname="HYPOLUXO RD and SEACREST BLVD/S 14TH ST" intnum="41750 or 883" />
+<marker lat="26.57203966" lng="-80.05784063" intname="HYPOLUXO RD and BROADWAY ST/OVERLOOK RD" intnum="41775 or 885" />
+<marker lat="26.57196517" lng="-80.05360695" intname="HYPOLUXO RD and FEDERAL HWY" intnum="41800 or 886" />
+<marker lat="26.56669698" lng="-80.14640715" intname="LAKE CHARLESTON BLVD/WESTERN WY and JOG RD" intnum="41820 or 888" />
+<marker lat="26.56067151" lng="-80.11443278" intname="HIDDEN OAKS ELEMENTARY SCHOOL (03V)/COLONY LAKE DR and MILITARY TRAIL" intnum="41825 or 889" />
+<marker lat="26.55690524" lng="-80.11592603" intname="80TH LN S (MINER RD) and MILITARY TRAIL" intnum="41835 or " />
+<marker lat="26.56075518" lng="-80.09032653" intname="MEADOWS BLVD/BOYNTON LAKES BLVD and CONGRESS AVE" intnum="41850 or 891" />
+<marker lat="26.55674665" lng="-80.10587558" intname="MINER RD and LAWRENCE RD" intnum="41880 or 892" />
+<marker lat="26.55717855" lng="-80.09050618" intname="MINER RD and CONGRESS AVE" intnum="41900 or 894" />
+<marker lat="26.56053078" lng="-80.14685395" intname="NORTHTREE BLVD and JOG RD" intnum="42050 or 897" />
+<marker lat="26.55828364" lng="-80.14761452" intname="PARK VISTA HIGH SCHOOL and JOG RD" intnum="42060 or 898" />
+<marker lat="26.55580291" lng="-80.14935847" intname="LE CHALET BLVD and JOG RD" intnum="42090 or 899" />
+<marker lat="26.55192203" lng="-80.13403656" intname="LE CHALET BLVD and PARKWALK DR" intnum="42100 or 901" />
+<marker lat="26.55475154" lng="-80.12281477" intname="LE CHALET BLVD and HAVERHILL RD" intnum="42101 or 902" />
+<marker lat="26.55384148" lng="-80.11930208" intname="LE CHALET BLVD and MILITARY TR" intnum="42103 or 903" />
+<marker lat="26.55169252" lng="-80.10611151" intname="CITRUS PARK DR/NAUTICA BLVD and LAWRENCE RD" intnum="42105 or 904" />
+<marker lat="26.5617251" lng="-80.1889703" intname="VALENCIA SHORES DR (fka VALENCIA PALMS BLVD) and LYONS RD" intnum="42200 or 906" />
+<marker lat="26.55460111" lng="-80.18886719" intname="VERONA LAKES DR/VENETIAN ISLES DR and LYONS RD" intnum="42300 or 907" />
+<marker lat="26.54595242" lng="-80.14769938" intname="GATEWAY BLVD and JOG RD" intnum="43800 or 909" />
+<marker lat="26.54462765" lng="-80.14037717" intname="GATEWAY BLVD and CRYSTAL LAKES ELEM SCH" intnum="43818 or 910" />
+<marker lat="26.55068168" lng="-80.07601677" intname="GATEWAY BLVD and QUANTUM LANE" intnum="43845 or 912" />
+<marker lat="26.55063917" lng="-80.07304997" intname="GATEWAY BLVD and HIGH RIDGE RD" intnum="43850 or 913" />
+<marker lat="26.55058636" lng="-80.06980516" intname="GATEWAY BLVD and I-95" intnum="43870 or 914" />
+<marker lat="26.55054892" lng="-80.06746388" intname="GATEWAY BLVD and SECREST BLVD" intnum="43875 or 915" />
+<marker lat="26.54917917" lng="-80.05598011" intname="GATEWAY BLVD and FEDERAL HWY" intnum="43900 or 916" />
+<marker lat="26.54812183" lng="-80.08097886" intname="GATEWAY BLVD and QUANTUM BLVD" intnum="44500 or 1536" />
+<marker lat="26.53611247" lng="-80.06431103" intname="MARTIN LUTHER KING BLVD/NW 10TH AVE and SEACREST BLVD" intnum="45200 or 917" />
+<marker lat="26.53606772" lng="-80.05780338" intname="MARTIN LUTHUR KING BLVD and FEDERAL HWY" intnum="45250 or 919" />
+<marker lat="26.54613145" lng="-80.12278454" intname="GATEWAY BLVD and MILITARY TR" intnum="45470 or 920" />
+<marker lat="26.5461522" lng="-80.10637584" intname="GATEWAY BLVD and LAWRENCE RD" intnum="45475 or 922" />
+<marker lat="26.54659917" lng="-80.09070779" intname="GATEWAY BLVD and CONGRESS AVE" intnum="45500 or 924" />
+<marker lat="26.54199973" lng="-80.09075859" intname="CATALINA CENTER/RENAISSANCE DR and CONGRESS AVE" intnum="45501 or 925" />
+<marker lat="26.54668622" lng="-80.08714902" intname="GATEWAY BLVD and RENAISSANCE COMMONS BLVD/HAMPTON INN" intnum="45525 or 926" />
+<marker lat="26.54679712" lng="-80.0838422" intname="GATEWAY BLVD and PARK RIDGE BLVD" intnum="45530 or 927" />
+<marker lat="26.54445132" lng="-80.06660135" intname="NW 17TH AVE and SEACREST BLVD" intnum="45535 or 928" />
+<marker lat="26.53193124" lng="-80.12284251" intname="OLD BOYNTON RD and MILITARY TR" intnum="45590 or 931" />
+<marker lat="26.53180272" lng="-80.09339014" intname="OLD BOYNTON RD and WINCHESTER DR/BOYNTON BCH MALL B" intnum="45596 or 932" />
+<marker lat="26.53763523" lng="-80.09067629" intname="BOYNTON BEACH MALL D and CONGRESS AVE" intnum="45598 or 933" />
+<marker lat="26.53573367" lng="-80.0906403" intname="BOYNTON BEACH MALL E and CONGRESS AVE" intnum="45599 or 934" />
+<marker lat="26.53179367" lng="-80.09056571" intname="OLD BOYNTON RD and CONGRESS AVE" intnum="45600 or 935" />
+<marker lat="26.52462655" lng="-80.16394682" intname="VENTURE CENTER WAY and HAGEN RANCH RD" intnum="45969 or 938" />
+<marker lat="26.51723824" lng="-80.16394288" intname="HAGEN RD ELEM SCHOOL (SOUTH ENTR) and HAGEN RANCH RD" intnum="45972 or 941" />
+<marker lat="26.52785997" lng="-80.20547358" intname="BOYNTON BEACH BLVD and SR 7/US 441" intnum="46010 or 942" />
+<marker lat="26.52787641" lng="-80.19597158" intname="BOYNTON BEACH BLVD and SOMERSET CHARTER SCHOOL" intnum="46013 or 1582" />
+<marker lat="26.52780437" lng="-80.18865763" intname="BOYNTON BEACH BLVD and LYONS RD" intnum="46015 or 943" />
+<marker lat="26.52788071" lng="-80.18033989" intname="BOYNTON BEACH BLVD and ACME DAIRY RD" intnum="46017 or 1506" />
+<marker lat="26.52793138" lng="-80.17481487" intname="BOYNTON BEACH BLVD and FLA TURNPIKE W" intnum="46020 or 944" />
+<marker lat="26.52810797" lng="-80.17034326" intname="BOYNTON BEACH BLVD and FLA TURNPIKE E" intnum="46021 or 945" />
+<marker lat="26.5281499" lng="-80.16395034" intname="BOYNTON BEACH BLVD and HAGEN RANCH RD" intnum="46025 or 946" />
+<marker lat="26.5281949" lng="-80.15902974" intname="BOYNTON BEACH BLVD and PALM ISLES DR/MIZNER FALLS DR" intnum="46026 or 947" />
+<marker lat="26.52812794" lng="-80.1472915" intname="BOYNTON BEACH BLVD and JOG RD" intnum="46030 or 948" />
+<marker lat="26.5280088" lng="-80.1390815" intname="BOYNTON BEACH BLVD and EL CLAIR RANCH RD" intnum="46040 or 949" />
+<marker lat="26.5280343" lng="-80.13321474" intname="BOYN BCH BLVD and BOYN PLACE CIR/SUN VALLEY RD" intnum="46050 or 950" />
+<marker lat="26.52805969" lng="-80.1279319" intname="BOYNTON BEACH BLVD and PLATINA AVE/CEDAR POINT BLVD" intnum="46080 or 951" />
+<marker lat="26.53186171" lng="-80.10657697" intname="OLD BOYNTON RD and LAWRENCE RD" intnum="46094 or 952" />
+<marker lat="26.52718272" lng="-80.1065851" intname="BOYNTON BEACH BLVD and LAWRENCE RD" intnum="46095 or 953" />
+<marker lat="26.52808381" lng="-80.12286545" intname="BOYNTON BEACH BLVD and MILITARY TR" intnum="46100 or 954" />
+<marker lat="26.5275909" lng="-80.09367152" intname="BOYNTON BEACH BLVD and WINCHESTER DR" intnum="46148 or 955" />
+<marker lat="26.5276891" lng="-80.09048931" intname="BOYNTON BEACH BLVD and CONGRESS AVE" intnum="46150 or 956" />
+<marker lat="26.52886299" lng="-80.07946407" intname="BOYNTON BEACH BLVD and OLD BOYNTON RD" intnum="46174 or 957" />
+<marker lat="26.52892224" lng="-80.07266995" intname="BOYNTON BEACH BLVD and I-95" intnum="46175 or 958" />
+<marker lat="26.52889489" lng="-80.07626094" intname="BOYNTON BEACH BLVD and W INDUSTRIAL WAY" intnum="46176 or 959" />
+<marker lat="26.52891953" lng="-80.06416715" intname="BOYNTON BEACH BLVD and SEACREST BLVD" intnum="46200 or 961" />
+<marker lat="26.52890079" lng="-80.05813428" intname="BOYNTON BEACH BLVD and FEDERAL HWY" intnum="46225 or 963" />
+<marker lat="26.52414994" lng="-80.09042622" intname="OCEAN DR and CONGRESS AVE" intnum="46300 or 965" />
+<marker lat="26.52711538" lng="-80.05810107" intname="OCEAN AVE and FEDERAL HWY" intnum="46350 or 966" />
+<marker lat="26.52709042" lng="-80.04848786" intname="OCEAN AVE and A1A" intnum="46375 or 967" />
+<marker lat="26.52294452" lng="-80.12306811" intname="CEDAR POINT BLVD and MILITARY TR" intnum="46380 or 1513" />
+<marker lat="26.51661461" lng="-80.12316647" intname="PINE TREE DR and MILITARY TR" intnum="46400 or 968" />
+<marker lat="26.52643688" lng="-80.18039323" intname="SUNSET PALMS ELEMENTARY SCHOOL and ACME DAIRY RD" intnum="46430 or 1557" />
+<marker lat="26.51291227" lng="-80.1639351" intname="WOOLBRIGHT RD and HAGEN RANCH RD" intnum="46500 or 969" />
+<marker lat="26.51570827" lng="-80.14728214" intname="SHOPPES AT WOOLBRIGHT and JOG RD" intnum="47465 or 1576" />
+<marker lat="26.51296845" lng="-80.14732444" intname="WOOLBRIGHT RD and JOG RD" intnum="47470 or 972" />
+<marker lat="26.51293864" lng="-80.13911898" intname="WOOLBRIGHT RD and EL CLAIRE RANCH RD" intnum="47475 or 973" />
+<marker lat="26.512487" lng="-80.12954767" intname="WOOLBRIGHT RD and WINGFOOT DR" intnum="47480 or 974" />
+<marker lat="26.51178803" lng="-80.12316796" intname="WOOLBRIGHT RD and MILITARY TR" intnum="47495 or 976" />
+<marker lat="26.51329594" lng="-80.10654677" intname="WOOLBRIGHT RD and LAWRENCE RD" intnum="47497 or 977" />
+<marker lat="26.51642918" lng="-80.09028925" intname="CONGRESS BLVD SW and CONGRESS AVE" intnum="47499 or 979" />
+<marker lat="26.513204" lng="-80.09023096" intname="WOOLBRIGHT RD and CONGRESS AVE" intnum="47500 or 980" />
+<marker lat="26.51354637" lng="-80.08141209" intname="WOOLBRIGHT RD and SW 18TH ST" intnum="47525 or 981" />
+<marker lat="26.51440522" lng="-80.07720843" intname="WOOLBRIGHT RD and SW 8TH ST/CORPORATE DR" intnum="47530 or 982" />
+<marker lat="26.51451859" lng="-80.07110911" intname="WOOLBRIGHT RD and I-95" intnum="47550 or 983" />
+<marker lat="26.51454513" lng="-80.06385025" intname="WOOLBRIGHT RD and SEACREST BLVD" intnum="47575 or 984" />
+<marker lat="26.51455854" lng="-80.06043136" intname="WOOLBRIGHT RD and LAS VENTANAS/SUNSHINE SQUARE" intnum="47580 or 1517" />
+<marker lat="26.51456412" lng="-80.059001" intname="WOOLBRIGHT RD and FEDERAL HWY" intnum="47600 or 986" />
+<marker lat="26.5145936" lng="-80.05275215" intname="WOOLBRIGHT RD/BEACHWAY DR and A1A" intnum="47625 or 989" />
+<marker lat="26.50903861" lng="-80.05356041" intname="CORDOVA AVE and A1A (Reimbursable)" intnum="48100 or 991" />
+<marker lat="26.50379358" lng="-80.16399943" intname="VALENCIA LAKES BLVD/TROPICAL NURSERY and HAGEN RANCH RD" intnum="48160 or 993" />
+<marker lat="26.50828456" lng="-80.14734099" intname="GRAND ISLES (VALENCIA ISLES/VALENCIA FALLS DR) and JOG RD" intnum="48170 or 994" />
+<marker lat="26.50217836" lng="-80.14734211" intname="CASCADES ISLE BLVD and JOG RD" intnum="48180 or 995" />
+<marker lat="26.50625497" lng="-80.12314289" intname="GOLF RD and MILITARY TR" intnum="48190 or 996" />
+<marker lat="26.50668651" lng="-80.09010611" intname="GOLF RD and CONGRESS AVE" intnum="48200 or 997" />
+<marker lat="26.50728889" lng="-80.06638096" intname="SE 23RD AVE and SEACREST BLVD" intnum="48225 or 998" />
+<marker lat="26.50450816" lng="-80.06834899" intname="SE/SW 26RD AVE/BETHESDA HOSPITAL and SEACREST BLVD" intnum="48230 or 999" />
+<marker lat="26.50736541" lng="-80.05962837" intname="SE 23RD AVE and FEDERAL HWY" intnum="48250 or 1000" />
+<marker lat="26.50052966" lng="-80.08998699" intname="CROSSPOINTE ELEM SCH and CONGRESS AVE" intnum="48255 or 1002" />
+<marker lat="26.49733621" lng="-80.08995428" intname="SW 30TH AVE/CHARTER DR and CONGRESS AVE" intnum="48260 or 1003" />
+<marker lat="26.48668734" lng="-80.08989368" intname="SUMMIT DR and CONGRESS AVE" intnum="48261 or 1004" />
+<marker lat="26.49143311" lng="-80.06329101" intname="GULFSTREAM BLVD/SE 36TH AVE and FEDERAL HWY" intnum="48275 or 1005" />
+<marker lat="26.49853481" lng="-80.12310633" intname="PIPERS GLEN BLVD and MILITARY TR" intnum="50000 or 1006" />
+<marker lat="26.496888" lng="-80.14730892" intname="PIPERS GLEN BLVD and JOG RD" intnum="50150 or 1009" />
+<marker lat="26.4907124" lng="-80.16392892" intname="FLAVOR PICT RD and HAGEN RANCH RD" intnum="50220 or 1010" />
+<marker lat="26.48699577" lng="-80.14719599" intname="FLAVOR PICT RD and JOG RD" intnum="50240 or 1011" />
+<marker lat="26.48785543" lng="-80.12273444" intname="FLAVOR PICT RD/COCONUT LN and MILITARY TR" intnum="50260 or 1013" />
+<marker lat="26.47756209" lng="-80.16329712" intname="POLO TRACE DR/GRAND LAKE POINT and HAGEN RANCH RD" intnum="50350 or 1014" />
+<marker lat="26.48083346" lng="-80.14713246" intname="BALLARD SHORE DR and JOG RD" intnum="50400 or 1015" />
+<marker lat="26.47574838" lng="-80.13887041" intname="VIA DELRAY RD and EL CLAIR RANCH RD" intnum="50475 or 1016" />
+<marker lat="26.47609965" lng="-80.12254574" intname="VIA DELRAY RD and MILITARY TR" intnum="50500 or 1018" />
+<marker lat="26.49145912" lng="-80.07134955" intname="GULFSTREAM BLVD and SEACREST BLVD" intnum="50597 or 1020" />
+<marker lat="26.48840856" lng="-80.07131044" intname="AVOCADO RD/ATLANTIC HIGH SCH and SEACREST BLVD" intnum="50599 or 1021" />
+<marker lat="26.48571153" lng="-80.07127479" intname="NE/NW 22ND ST and SEACREST BLVD" intnum="50600 or 1022" />
+<marker lat="26.47886634" lng="-80.08989602" intname="NW 13TH ST/PARK OF COMMERCE BLVD and CONGRESS AVE" intnum="51000 or 1023" />
+<marker lat="26.47480142" lng="-80.05677656" intname="GEORGE BUSH BLVD and A1A" intnum="51500 or 1024" />
+<marker lat="26.47402148" lng="-80.07112561" intname="GEORGE BUSH BLVD and NE 2ND AVE" intnum="51600 or 1026" />
+<marker lat="26.47404302" lng="-80.06808977" intname="GEORGE BUSH BLVD and NE 5TH AVE" intnum="51615 or 1027" />
+<marker lat="26.47404869" lng="-80.06729956" intname="GEORGE BUSH BLVD and NE 6TH AVE" intnum="51620 or 1028" />
+<marker lat="26.47949701" lng="-80.06635728" intname="NE 14TH ST and FEDERAL HWY" intnum="51750 or 1029" />
+<marker lat="26.47298042" lng="-80.12252642" intname="LAKE IDA RD and MILITARY TR" intnum="51800 or 1031" />
+<marker lat="26.47296206" lng="-80.11434331" intname="LAKE IDA RD and BARWICK RD" intnum="51820 or 1033" />
+<marker lat="26.47311019" lng="-80.10052158" intname="LAKE IDA RD and RAINBERRY BLVD" intnum="51825 or 1034" />
+<marker lat="26.47261192" lng="-80.09196381" intname="LAKE IDA RD and CONGRESS AVE" intnum="51850 or 1035" />
+<marker lat="26.46918861" lng="-80.07327066" intname="LAKE IDA RD/NE/NW 4TH ST and SWINTON AVE" intnum="52100 or 1036" />
+<marker lat="26.46920471" lng="-80.07124993" intname="NE 4TH ST and NE 2ND AVE" intnum="52110 or 1037" />
+<marker lat="26.46922884" lng="-80.0681981" intname="NE 4TH ST and NE 5TH AVE" intnum="52125 or 1038" />
+<marker lat="26.46923688" lng="-80.06719107" intname="NE 4TH ST and NE 6TH AVE" intnum="52130 or 1039" />
+<marker lat="26.46524866" lng="-80.07826082" intname="NW 2ND ST and NW 5TH AVE" intnum="52700 or 1042" />
+<marker lat="26.46528356" lng="-80.07318522" intname="NE/NW 2ND ST and N SWINTON AVE" intnum="52800 or 1043" />
+<marker lat="26.46444749" lng="-80.1226601" intname="LAKEFRONT BLVD/POST OFFICE and MILITARY TR" intnum="52810 or 1044" />
+<marker lat="26.46531831" lng="-80.06814" intname="NE 2ND ST and NE 5TH AVE" intnum="52825 or 1046" />
+<marker lat="26.46532088" lng="-80.06711166" intname="NE 2ND ST and NE 6TH AVE" intnum="52830 or 1047" />
+<marker lat="26.46346629" lng="-80.07314534" intname="NE/NW 1ST ST and N SWINTON AVE" intnum="52898 or 1048" />
+<marker lat="26.46348174" lng="-80.06812117" intname="NE 1ST ST and NE 5TH AVE" intnum="52902 or 1050" />
+<marker lat="26.46499248" lng="-80.14703576" intname="N ORIOLE BLVD and JOG RD" intnum="52909 or 1051" />
+<marker lat="26.45822347" lng="-80.14706636" intname="S ORIOLE BLVD and JOG RD" intnum="52910 or 1052" />
+<marker lat="26.45978611" lng="-80.12257099" intname="MARKET PL/DELRAY SQ and MILITARY TR" intnum="52930 or 1053" />
+<marker lat="26.46916382" lng="-80.13880538" intname="LAKE IDA RD and EL CLAIR RANCH RD" intnum="52990 or 1055" />
+<marker lat="26.46912834" lng="-80.14701884" intname="LAKE IDA RD and JOG RD" intnum="52998 or 1056" />
+<marker lat="26.46890205" lng="-80.16326195" intname="LAKE IDA/SIMS RD and HAGEN RANCH RD" intnum="52999 or 1057" />
+<marker lat="26.46322506" lng="-80.16333204" intname="EMERALD POINTE BLVD/PBC LIBRARY and HAGEN RANCH RD" intnum="53005 or 1503" />
+<marker lat="26.45383416" lng="-80.20454319" intname="WEST ATLANTIC AVE and SR7/US 441" intnum="53025 or 1059" />
+<marker lat="26.45365883" lng="-80.18811303" intname="WEST ATLANTIC AVE &amp; LYONS RD and LYONS RD" intnum="53040 or 1060" />
+<marker lat="26.45365655" lng="-80.17637447" intname="W ATLANTIC AVE and FLORIDA TURNPIKE (WEST)" intnum="53041 or 1061" />
+<marker lat="26.45365495" lng="-80.17272027" intname="WEST ATLANTIC AVE and TURNPIKE/TRANQUILLITY LAKE DR" intnum="53043 or 1062" />
+<marker lat="26.45371261" lng="-80.16342888" intname="WEST ATLANTIC AVE and HAGEN RANCH RD" intnum="53044 or 1063" />
+<marker lat="26.45372895" lng="-80.16108348" intname="WEST ATLANTIC AVE and LEGENDS WAY" intnum="53045 or 1064" />
+<marker lat="26.45381496" lng="-80.15484813" intname="WEST ATLANTIC AVE and CUMBERLAND DR" intnum="53046 or 1065" />
+<marker lat="26.45378344" lng="-80.15008426" intname="WEST ATLANTIC AVE and KINGS POINT" intnum="53049 or 1066" />
+<marker lat="26.45379137" lng="-80.14708622" intname="WEST ATLANTIC AVE and JOG RD" intnum="53050 or 1067" />
+<marker lat="26.45240893" lng="-80.14703803" intname="KINGS POINT SHOPPING CENTER and JOG RD/FIRE STA #45 (PBC)" intnum="53051 or 1068" />
+<marker lat="26.45392311" lng="-80.14246861" intname="WEST ATLANTIC AVE and EL CLAIR RANCH RD" intnum="53054 or 1069" />
+<marker lat="26.45450991" lng="-80.13857633" intname="WEST ATLANTIC AVE and LAKES OF DELRAY BLVD" intnum="53055 or 1070" />
+<marker lat="26.45652335" lng="-80.13610695" intname="WEST ATLANTIC AVE and VIA FLORA RD" intnum="53060 or 1071" />
+<marker lat="26.45782278" lng="-80.12648553" intname="WEST ATLANTIC AVE and COCONUT KEY LN (MARKET PLACE/PINEN WEST PLAZA)" intnum="53063 or 1072" />
+<marker lat="26.4578457" lng="-80.12253383" intname="WEST ATLANTIC AVE and MILITARY TR" intnum="53075 or 1073" />
+<marker lat="26.45784934" lng="-80.11890709" intname="WEST ATLANTIC AVE and WHATLEY RD" intnum="53080 or 1074" />
+<marker lat="26.45783221" lng="-80.11427364" intname="WEST ATLANTIC AVE and BARWICK RD/SHERWOOD FOREST DR" intnum="53100 or 1076" />
+<marker lat="26.45785115" lng="-80.1095988" intname="WEST ATLANTIC AVE and HAMLET DR/VIA d'ESTE" intnum="53101 or 1077" />
+<marker lat="26.45828552" lng="-80.1024689" intname="WEST ATLANTIC AVE and HIGH POINT BLVD/HOMEWOOD BLVD" intnum="53125 or 1078" />
+<marker lat="26.45877367" lng="-80.09807735" intname="W. ATLANTIC AVE. and N.W. 24TH AVE." intnum="53130 or 1079" />
+<marker lat="26.460572" lng="-80.09365679" intname="WEST ATLANTIC AVE and CONGRESS AVE" intnum="53150 or 1080" />
+<marker lat="26.46161717" lng="-80.09053869" intname="WEST ATLANTIC AVE and I-95 WEST" intnum="53174 or 1081" />
+<marker lat="26.4616514" lng="-80.08772219" intname="WEST ATLANTIC AVE and I-95 EAST" intnum="53175 or 1082" />
+<marker lat="26.4616403" lng="-80.08535809" intname="WEST ATLANTIC AVE and NW/SW 12TH AVE" intnum="53198 or 1083" />
+<marker lat="26.46163058" lng="-80.08327866" intname="WEST ATLANTIC AVE and NW/SW 10TH AVE" intnum="53200 or 1084" />
+<marker lat="26.46162068" lng="-80.08117478" intname="WEST ATLANTIC AVE and NW/SW 8TH AVE" intnum="53205 or 1085" />
+<marker lat="26.46162308" lng="-80.07818502" intname="WEST ATLANTIC AVE and NW/SW 5TH AVE" intnum="53215 or 1086" />
+<marker lat="26.46163148" lng="-80.07512244" intname="W ATLANTIC AVE and SW 2ND AVE" intnum="53220 or 1087" />
+<marker lat="26.46164007" lng="-80.07310533" intname="WEST ATLANTIC AVE and SWINTON AVE" intnum="53225 or 1089" />
+<marker lat="26.46164844" lng="-80.07108536" intname="EAST ATLANTIC AVE and NE/SE 2ND AVE" intnum="53235 or 1091" />
+<marker lat="26.46165678" lng="-80.06906482" intname="EAST ATLANTIC AVE and NE/SE 4TH AVE" intnum="53245 or 1093" />
+<marker lat="26.46166101" lng="-80.06805312" intname="EAST ATLANTIC AVE and NE/SE 5TH AVE" intnum="53250 or 1094" />
+<marker lat="26.46166507" lng="-80.06704122" intname="EAST ATLANTIC AVE and NE/SE 6TH AVE" intnum="53255 or 1095" />
+<marker lat="26.46166929" lng="-80.06602952" intname="EAST ATLANTIC AVE and NE/SE 7TH AVE" intnum="53260 or 1096" />
+<marker lat="26.46168633" lng="-80.06183447" intname="EAST ATLANTIC AVE and VENETIAN DR" intnum="53275 or 1097" />
+<marker lat="26.46169082" lng="-80.06073853" intname="EAST ATLANTIC AVE and GLEASON ST" intnum="53280 or 1098" />
+<marker lat="26.45984927" lng="-80.07306619" intname="SE/SW 1ST ST and SWINTON AVE" intnum="53281 or 1099" />
+<marker lat="26.45982396" lng="-80.0680129" intname="SE 1ST ST and SE 5TH AVE" intnum="53286 or 1101" />
+<marker lat="26.45983927" lng="-80.06698899" intname="SE 1ST ST and SE 6TH AVE" intnum="53287 or 1102" />
+<marker lat="26.46170078" lng="-80.05828282" intname="EAST ATLANTIC AVE and A1A" intnum="53290 or 1103" />
+<marker lat="26.43779119" lng="-80.2044363" intname="AVENIDA DEL RIO / SATURNIA ISLES BLVD and SR 7 (US 441)" intnum="53300 or 1104" />
+<marker lat="26.45799967" lng="-80.0730258" intname="SE/SW 2ND ST and SWINTON AVE" intnum="53400 or 1105" />
+<marker lat="26.4580084" lng="-80.06797308" intname="SE 2ND ST and SE 5TH AVE" intnum="53450 or 1106" />
+<marker lat="26.45800971" lng="-80.06696143" intname="SE 2ND ST and SE 6TH AVE" intnum="53460 or 1107" />
+<marker lat="26.45067352" lng="-80.12243028" intname="LAKE BLVD and MILITARY TR" intnum="53500 or 1109" />
+<marker lat="26.45428775" lng="-80.09360762" intname="SOUTH COUNTY COMPLEX and CONGRESS AVE" intnum="53600 or 1514" />
+<marker lat="26.45435096" lng="-80.05925929" intname="CASUARINA RD and A1A" intnum="53700 or 1110" />
+<marker lat="26.44810212" lng="-80.14688766" intname="FLORAL LAKES BLVD and JOG RD" intnum="53800 or 1111" />
+<marker lat="26.44577651" lng="-80.14680642" intname="NORMANDY LA and JOG RD" intnum="54150 or 1113" />
+<marker lat="26.44685277" lng="-80.09242775" intname="LOWSON BLVD/SE 10TH ST and CONGRESS AVE" intnum="54250 or 1114" />
+<marker lat="26.44701328" lng="-80.08315069" intname="SW 10TH ST and SW 10TH AVE" intnum="54270 or 1115" />
+<marker lat="26.4470151" lng="-80.07704914" intname="SW 10TH ST and SW 4 AVE/PINE GROVE ELEM SCH" intnum="54280 or 1117" />
+<marker lat="26.44704475" lng="-80.0723879" intname="SE/SW 10TH ST and SWINTON AVE/OLD DIXIE HWY" intnum="54290 or 1118" />
+<marker lat="26.44706638" lng="-80.06794332" intname="SE 10TH ST and SE 5TH AVE" intnum="54300 or 1119" />
+<marker lat="26.44706857" lng="-80.06696098" intname="SE 10TH STREET and SE 6TH AVE" intnum="54310 or 1120" />
+<marker lat="26.44287605" lng="-80.12226834" intname="LAS VERDES DR and MILITARY TR" intnum="55040 or 1121" />
+<marker lat="26.44276972" lng="-80.14670156" intname="MONACO BLVD and JOG RD" intnum="55049 or 1122" />
+<marker lat="26.4391218" lng="-80.14657354" intname="LINTON BLVD and JOG RD" intnum="55050 or 1123" />
+<marker lat="26.43915931" lng="-80.14145506" intname="LINTON BLVD and ALL STAR ACADEMY" intnum="55060 or 1124" />
+<marker lat="26.43920431" lng="-80.1305666" intname="LINTON BLVD and SIMS RD" intnum="55072 or 1125" />
+<marker lat="26.43932074" lng="-80.1262568" intname="LINTON BLVD and DELRAY HOSPITAL/LAS VERDES WAY" intnum="55074 or 1127" />
+<marker lat="26.43932525" lng="-80.1221946" intname="LINTON BLVD and MILITARY TR" intnum="55075 or 1128" />
+<marker lat="26.43942061" lng="-80.11449124" intname="LINTON BLVD and OLD GERMANTOWN RD" intnum="55085 or 1129" />
+<marker lat="26.43955587" lng="-80.10153307" intname="LINTON BLVD and HOMEWOOD BLVD" intnum="55090 or 1130" />
+<marker lat="26.43945833" lng="-80.09240873" intname="LINTON BLVD and CONGRESS AVE" intnum="55100 or 1131" />
+<marker lat="26.43953076" lng="-80.08822901" intname="LINTON BLVD and I-95" intnum="55125 or 1132" />
+<marker lat="26.43957773" lng="-80.08597126" intname="LINTON BLVD and WALLACE DR/WATERFORD PL" intnum="55130 or 1134" />
+<marker lat="26.4397215" lng="-80.07712063" intname="LINTON BLVD and SW 4TH AVE" intnum="55149 or 1135" />
+<marker lat="26.43974223" lng="-80.07365213" intname="LINTON BLVD and OLD DIXIE HWY" intnum="55150 or 1136" />
+<marker lat="26.44158317" lng="-80.07000298" intname="BANYAN TREE LA/DELRAY MALL and FEDERAL HWY" intnum="55151 or 1137" />
+<marker lat="26.43966854" lng="-80.08323729" intname="LINTON BLVD and SW 10TH AVE" intnum="55154 or 1138" />
+<marker lat="26.43980521" lng="-80.07122334" intname="LINTON BLVD and FEDERAL HWY" intnum="55160 or 1140" />
+<marker lat="26.43974132" lng="-80.06246492" intname="LINTON BLVD and A1A" intnum="55161 or 1141" />
+<marker lat="26.43637443" lng="-80.09240195" intname="OLD GERMANTOWN RD and CONGRESS AVE" intnum="55165 or 1142" />
+<marker lat="26.43689192" lng="-80.07183246" intname="TROPIC BLVD and FEDERAL HWY (US 1)" intnum="55167 or 1143" />
+<marker lat="26.42530198" lng="-80.07591322" intname="LINDELL BLVD and OLD DIXIE HWY" intnum="56600 or 1144" />
+<marker lat="26.42498163" lng="-80.07343801" intname="LINDELL BLVD/AVE L and FEDERAL HWY" intnum="56601 or 1145" />
+<marker lat="26.43209313" lng="-80.14654587" intname="ADDISON RESERVE BLVD and JOG RD" intnum="57700 or 1146" />
+<marker lat="26.43630697" lng="-80.12213651" intname="WAL- MART/S CTY PROF CENTER and MILITARY TR" intnum="57800 or 1147" />
+<marker lat="26.42865164" lng="-80.12199015" intname="LIVE OAK BLVD/MONTEREY LA and MILITARY TR" intnum="57850 or 1148" />
+<marker lat="26.4085943" lng="-80.20395329" intname="CLINT MOORE RD/PINEWOOD PK and SR 7/US 441" intnum="57990 or 1149" />
+<marker lat="26.4063982" lng="-80.20392824" intname="181 ST S/BOCA GARDENS PARKWAY and SR 7/US 441" intnum="57991 or 1150" />
+<marker lat="26.39872374" lng="-80.18663661" intname="WHISPER WALK BLVD/ASTAIRE BLVD and LYONS RD" intnum="57995 or 1153" />
+<marker lat="26.40875956" lng="-80.18663785" intname="CLINT MOORE RD and LYONS RD" intnum="58005 or 1154" />
+<marker lat="26.42788758" lng="-80.14652948" intname="MORIKAMI RD E and JOG RD" intnum="58012 or 1156" />
+<marker lat="26.42182527" lng="-80.14648379" intname="CHAMPION BLVD/NEW PORT BAY and JOG RD" intnum="58015 or 1157" />
+<marker lat="26.4129265" lng="-80.1463657" intname="ROYAL PALM POLO CLUB and JOG RD" intnum="58018 or 1158" />
+<marker lat="26.41192698" lng="-80.12172899" intname="CHAMPION BLVD and MILITARY TR" intnum="58026 or 1162" />
+<marker lat="26.42144323" lng="-80.12186601" intname="CHAMPION WAY/BOCAIRE BLVD and MILITARY TR" intnum="58028 or 1164" />
+<marker lat="26.41527371" lng="-80.12177716" intname="PHEASANT WAY and MILITARY TR/FIRE STA #52 (PBC)" intnum="58029 or 1165" />
+<marker lat="26.39360757" lng="-80.211569" intname="YAMATO RD and CAIN BLVD" intnum="58089 or 1172" />
+<marker lat="26.39420831" lng="-80.20372633" intname="YAMATO RD and SR 7/US 441" intnum="58090 or 1173" />
+<marker lat="26.39419197" lng="-80.19235619" intname="YAMATO RD and LAKE RIDGE BLVD" intnum="58095 or 1174" />
+<marker lat="26.39418365" lng="-80.18663616" intname="YAMATO RD and LYONS RD" intnum="59000 or 1175" />
+<marker lat="26.39423417" lng="-80.17949377" intname="YAMATO RD and GATEHOUSE DR" intnum="59001 or 1176" />
+<marker lat="26.39429851" lng="-80.15681235" intname="YAMATO RD and BOCA WEST DR" intnum="59050 or 1177" />
+<marker lat="26.38892971" lng="-80.20368037" intname="NEW ENGLAND BLVD and SR 7/US 441" intnum="62300 or 1180" />
+<marker lat="26.39222696" lng="-80.18663613" intname="NEW ENGLAND BLVD and LYONS RD" intnum="62310 or 1181" />
+<marker lat="26.38212787" lng="-80.21331254" intname="OLD EVERGLADES PUMP RD and CAIN BLVD" intnum="62450 or 1182" />
+<marker lat="26.38270419" lng="-80.20357526" intname="KIMBERLY BLVD and SR 7/US 441" intnum="62455 or 1183" />
+<marker lat="26.38399957" lng="-80.18678139" intname="KIMBERLY BLVD / CENTURY VILLAGE BLVD and LYONS RD" intnum="62460 or 1184" />
+<marker lat="26.37469869" lng="-80.18662739" intname="OLYMPIC HEIGHTS SCH and LYONS RD" intnum="62490 or 1189" />
+<marker lat="26.36827071" lng="-80.21798358" intname="GLADES RD and DIEGO DR N/W" intnum="62496 or 1194" />
+<marker lat="26.36937754" lng="-80.21281347" intname="GLADES RD and CAIN BLVD" intnum="62497 or 1195" />
+<marker lat="26.36787063" lng="-80.20346433" intname="GLADES RD and SR 7/US 441" intnum="62500 or 1198" />
+<marker lat="26.36789148" lng="-80.19984248" intname="GLADES RD and SHADOWOOD SQUARE/WESTWINDS OF BOCA" intnum="62501 or 1199" />
+<marker lat="26.36789877" lng="-80.19489403" intname="GLADES RD and S 95TH AVE" intnum="62502 or 1200" />
+<marker lat="26.36789971" lng="-80.18663279" intname="GLADES RD and LYONS RD" intnum="62505 or 1201" />
+<marker lat="26.36790011" lng="-80.17844848" intname="GLADES RD and GOLF COURSE RD/CONCORD GREEN DR" intnum="62507 or 1203" />
+<marker lat="26.36789996" lng="-80.18296055" intname="GLADES RD and BOCA LAKES DR/SOMERSET MALL" intnum="62508 or 1204" />
+<marker lat="26.36790015" lng="-80.17150123" intname="GLADES RD and BOCA RIO RD" intnum="62509 or 1205" />
+<marker lat="26.36790587" lng="-80.16919601" intname="GLADES RD and FLA TURNPIKE/BOCA GROVE RD" intnum="62510 or 1206" />
+<marker lat="26.36848839" lng="-80.16645488" intname="GLADES RD and BOCA CORPORATE CENTER" intnum="62512 or 1207" />
+<marker lat="26.36869769" lng="-80.15982964" intname="GLADES RD and BOCA WEST RD/ENCINA LA" intnum="62515 or 1208" />
+<marker lat="26.36882892" lng="-80.14574079" intname="GLADES RD and POWERLINE RD" intnum="62525 or 1209" />
+<marker lat="26.36102822" lng="-80.24673322" intname="WEST BOCA HIGH SCHOOL and GLADES RD" intnum="63000 or 1219" />
+<marker lat="26.36281475" lng="-80.15041691" intname="VERDE TR and POWERLINE RD" intnum="63225 or 1221" />
+<marker lat="26.36045364" lng="-80.17139743" intname="VIA ANCHO RD and BOCA RIO RD" intnum="63226 or 1222" />
+<marker lat="26.36085159" lng="-80.15257234" intname="BOCA GROVE BLVD and POWERLINE RD" intnum="63227 or 1223" />
+<marker lat="26.34866564" lng="-80.23115907" intname="PALMETTO PARK RD and JUDGE WINIKOFF RD" intnum="63988 or 1231" />
+<marker lat="26.34842531" lng="-80.22659987" intname="PALMETTO PARK RD and PONDEROSA DR" intnum="63990 or 1233" />
+<marker lat="26.34967846" lng="-80.20327573" intname="PALMETTO PARK RD and SR 7/US 441" intnum="64000 or 1234" />
+<marker lat="26.3572487" lng="-80.20337222" intname="BOCA WOODS LA and SR 7/US 441" intnum="64001 or 1235" />
+<marker lat="26.34564657" lng="-80.20322334" intname="SW 3RD ST and SR 7/US 441" intnum="64010 or 1237" />
+<marker lat="26.34418872" lng="-80.18837514" intname="SW 3RD ST and LYONS RD" intnum="64015 or 1238" />
+<marker lat="26.34943446" lng="-80.194799" intname="PALMETTO PARK RD and VETERANS PARK" intnum="64017 or 1239" />
+<marker lat="26.35451201" lng="-80.18663028" intname="BOCA LAGO BLVD and LYONS RD" intnum="64020 or 1240" />
+<marker lat="26.34941902" lng="-80.1865867" intname="PALMETTO PARK RD and LYONS RD" intnum="64021 or 1241" />
+<marker lat="26.35319285" lng="-80.17129611" intname="BOCA LAGO RD and BOCA RIO RD" intnum="64030 or 1243" />
+<marker lat="26.35374141" lng="-80.15389542" intname="PALMETTO CIR N and POWERLINE RD" intnum="64040 or 1246" />
+<marker lat="26.35031146" lng="-80.16007607" intname="PALMETTO PARK RD and PALMETTO CIRCLE N / BOCA DEL MAR DR" intnum="64048 or 1249" />
+<marker lat="26.35032907" lng="-80.15386567" intname="PALMETTO PARK RD and POWERLINE RD" intnum="64050 or 1250" />
+<marker lat="26.35054558" lng="-80.14578792" intname="PALMETTO PARK RD and TOLEDO RD" intnum="64052 or 1252" />
+<marker lat="26.33921695" lng="-80.20316118" intname="JUDGE WINIKOFF RD and SR 7/US 441" intnum="64719 or 1266" />
+<marker lat="26.3396877" lng="-80.18826572" intname="SW 8TH ST and LYONS RD" intnum="64730 or 1268" />
+<marker lat="26.3359618" lng="-80.20314188" intname="SANDALFOOT BLVD and SR 7/US 441" intnum="64800 or 1270" />
+<marker lat="26.34030734" lng="-80.15366416" intname="BOCA POINT DR/CANARY PALM DR and POWERLINE RD" intnum="64874 or 1271" />
+<marker lat="26.34389239" lng="-80.15373655" intname="CAMINO REAL and POWERLINE RD" intnum="64875 or 1272" />
+<marker lat="26.34405048" lng="-80.13731413" intname="CAMINO REAL and CAMINO DEL MAR" intnum="64890 or 1540" />
+<marker lat="26.33093198" lng="-80.20292749" intname="SW 18TH ST/MARINA BLVD and SR 7/US441" intnum="67400 or 1274" />
+<marker lat="26.33099872" lng="-80.19972117" intname="MARINA BLVD/SW 18TH ST and EDGEWOOD PKWY" intnum="67402 or 1505" />
+<marker lat="26.33131302" lng="-80.18758606" intname="SW 18TH ST and LYONS RD" intnum="67410 or 1275" />
+<marker lat="26.33151798" lng="-80.17089142" intname="SW 18TH ST and BOCA RIO RD" intnum="67415 or 1277" />
+<marker lat="26.3315685" lng="-80.16484339" intname="SW 18TH ST and BOCA POINT BLVD" intnum="67420 or 1278" />
+<marker lat="26.33182204" lng="-80.1535726" intname="SW 18TH ST and POWERLINE RD" intnum="67500 or 1279" />
+<marker lat="26.33182058" lng="-80.14544665" intname="SW 18TH ST and VIA DE SONRISA" intnum="67505 or 1280" />
+<marker lat="26.33186567" lng="-80.13870314" intname="SW 18TH ST and PALM Dâ??ORA DR" intnum="67507 or 1281" />
+<marker lat="26.82354055" lng="-80.66551877" intname="1ST ST and MAIN/SR 15/BANK/BACOM PT" intnum="75275 or 1290" />
+<marker lat="26.82391573" lng="-80.66125632" intname="1ST ST and BARFIELD HWY" intnum="75300 or 1291" />
+<marker lat="26.72577595" lng="-80.68406442" intname="HOOKER HWY and SR 715" intnum="76100 or 1298" />
+<marker lat="26.72575574" lng="-80.66693353" intname="SR 80/HOOKER HWY and SR 15/US 441" intnum="78050 or 1300" />
+<marker lat="26.72545163" lng="-80.45126527" intname="SR 80 and SR 700/98" intnum="78051 or 1301" />
+<marker lat="26.70532828" lng="-80.71216842" intname="TORY ISLAND and SR 717" intnum="79700 or 1304" />
+<marker lat="26.70572565" lng="-80.71395815" intname="TORY ISLAND and SR 717" intnum="79700 or 1304" />
+<marker lat="26.69676116" lng="-80.65133564" intname="GATOR BLVD and W SUGARHOUSE RD" intnum="80025 or 1306" />
+<marker lat="26.6968429" lng="-80.66780931" intname="GATOR BLVD/AVE L and SR 15/US 441/MAIN ST" intnum="80100 or 1308" />
+<marker lat="26.69680414" lng="-80.67830476" intname="AVE L and NW 12TH ST" intnum="80125 or 1309" />
+<marker lat="26.69678314" lng="-80.68401386" intname="AVE L and SR 715" intnum="80150 or 1310" />
+<marker lat="26.6943087" lng="-80.6840048" intname="WEST CANAL ST and SR 715" intnum="80200 or 1312" />
+<marker lat="26.68829815" lng="-80.67286697" intname="W CANAL ST and NW 5TH ST" intnum="80300 or 1315" />
+<marker lat="26.68229089" lng="-80.68411035" intname="SW AVE E/MARTIN LUTHER KING JR and SR 715" intnum="80350 or 1316" />
+<marker lat="26.68742166" lng="-80.66983237" intname="NW/SW 2ND ST and CANAL ST/SR 717" intnum="80351 or 1317" />
+<marker lat="26.68612726" lng="-80.66782192" intname="AVE A/CANAL ST/717 and MAIN ST" intnum="80400 or 1319" />
+<marker lat="26.68588737" lng="-80.67287067" intname="AVE A and 5TH ST" intnum="80415 or 1320" />
+<marker lat="26.6858905" lng="-80.67184278" intname="AVE A and 4TH ST" intnum="80418 or 1321" />
+<marker lat="26.68575814" lng="-80.66985575" intname="AVE A and 2ND ST" intnum="80420 or 1322" />
+<marker lat="26.68468466" lng="-80.67285257" intname="SW AVE B PL and SW 5TH ST" intnum="80450 or 1323" />
+<marker lat="26.68491874" lng="-80.66986639" intname="AVE B and 2ND ST" intnum="80460 or 1324" />
+<marker lat="26.68227495" lng="-80.67792084" intname="SW AVE E and 10TH ST" intnum="80520 or 1326" />
+<marker lat="26.68225082" lng="-80.67288679" intname="SW AVE E and 5TH ST" intnum="80540 or 1327" />
+<marker lat="26.68226372" lng="-80.66784726" intname="SW AVE E/CR 880/MARTIN LUTHER KING and MAIN ST/SR 15" intnum="80550 or 1328" />
+<marker lat="26.68226612" lng="-80.66013976" intname="CR 880 and SE AVE E/CANAL/7TH ST BRIDGE" intnum="80580 or 1329" />
+<marker lat="26.67140848" lng="-80.63819451" intname="CR 880 and DUDA RD" intnum="81100 or 1333" />
+<marker lat="26.66409995" lng="-80.71610241" intname="SR 80 and SR 27" intnum="81295 or 1334" />
+<marker lat="26.66379384" lng="-80.68694937" intname="SR 80 and SR 715" intnum="81400 or 1338" />
+<marker lat="26.66379524" lng="-80.68077429" intname="SR 80 and ROOSEVELT ST/GLADES CENTRAL HIGH SCH" intnum="81500 or 1340" />
+<marker lat="26.67680564" lng="-80.68656551" intname="PALM BEACH STATE COLLEGE (fka Palm Beach Community College)/SW AVE H and SR 715(SW 16TH ST)" intnum="83000 or 1548" />
+<marker lat="26.67531612" lng="-80.67040693" intname="BIG LAKE PLAZA and SR 80" intnum="83900 or 1341" />
+<marker lat="26.66768589" lng="-80.68684784" intname="AVE M/GLADES CENTRAL HIGH SCH and SR 715" intnum="84000 or 1342" />
+<marker lat="-80.05723371" lng="26.89296991" intname="JUNO BEACH PARK and A1A" intnum="11895 or 1343" />
+<marker lat="-80.05477375" lng="26.88480788" intname="LOGGERHEAD PARK and A1A" intnum="8974 or 1344" />
+<marker lat="-80.10934455" lng="26.96730435" intname="COUNTRY CLUB DR and TEQUESTA DR" intnum="2300 or 1345" />
+<marker lat="-80.03706605" lng="26.7836844" intname="SR A1A/OCEAN BLVD and PARK AVE" intnum="20305 or 1346" />
+<marker lat="-80.05396679" lng="26.70011715" intname="NORTON MUSEUM and DIXIE HWY" intnum="28900 or 1347" />
+<marker lat="-80.05349499" lng="26.71497448" intname="2ND ST and DIXIE HWY" intnum="26985 or 1348" />
+<marker lat="-80.06556917" lng="26.61669721" intname="LAKE WORTH RD and LAKE WORTH HIGH SCH LAKE WORTH RD &amp; A ST PED" intnum="37270 or 1349" />
+<marker lat="-80.05225615" lng="26.62072418" intname="4TH/5TH AVE N and FEDERAL HWY" intnum="36750 or 1350" />
+<marker lat="-80.05701395" lng="26.62569205" intname="8TH/9TH AVE N and DIXIE HWY" intnum="36100 or 1351" />
+<marker lat="-80.12138564" lng="26.62650802" intname="BISCAYNE DR and HAVERHILL RD" intnum="36000 or 1352" />
+<marker lat="-80.08851443" lng="26.63354415" intname="ST LUKES SCH and CONGRESS AVE" intnum="35100 or 1353" />
+<marker lat="-80.13039263" lng="26.64481018" intname="PURDY LN and RUE RD/FOREST HILL ELEMENTARY SCH" intnum="34290 or 1354" />
+<marker lat="-80.05627088" lng="26.64715258" intname="LIONS BLIND CROSS and DIXIE HWY" intnum="33950 or 1355" />
+<marker lat="-80.27608872" lng="26.63784404" intname="PIERSON RD and E OF GRAND PRIX FARMS DR" intnum="33353 or 1356" />
+<marker lat="-80.05814904" lng="26.53072132" intname="NE 4TH/5TH AVE and FEDERAL HWY" intnum="45900 or 1357" />
+<marker lat="-80.0590361" lng="26.51350058" intname="PEDESTRIAN SIGNAL and FEDERAL HWY" intnum="47601 or 1358" />
+<marker lat="-80.67285678" lng="26.68891219" intname="SR 717 and NW 5TH ST" intnum="80255 or 1359" />
+<marker lat="-80.67540252" lng="26.69006059" intname="SR 717 and NW 7TH ST/BELLE GLADE ELEMENTARY SCH" intnum="80250 or 1360" />
+<marker lat="-80.67106557" lng="26.72568021" intname="HOOKER HWY and LAKESIDE MEDICAL CENTER (MIDBLOCK)" intnum="76200 or 1361" />
+<marker lat="26.69951465" lng="-80.22954369" intname="SPARROW DR and ROYAL PALM BEACH BLVD" intnum="200006" />
+<marker lat="26.7281784" lng="-80.22804334" intname="CRESTWOOD BLVD/PONCE DELEON ST and ROYAL PALM BEACH BLVD" intnum="200005" />
+<marker lat="26.69222785" lng="-80.22985168" intname="SANDPIPPER AVE and ROYAL PALM BEACH BLVD" intnum="200004" />
+<marker lat="26.69439783" lng="-80.22978809" intname="POINCIANA BLVD and ROYAL PALM BEACH BLVD" intnum="200003" />
+<marker lat="26.73295972" lng="-80.22782571" intname="LA MANCHA AVE and ROYAL PALM BEACH BLVD" intnum="200002" />
+<marker lat="26.70792571" lng="-80.22913436" intname="  and ROYAL PALM BEACH BLVD" intnum="200001" />
+</markers>

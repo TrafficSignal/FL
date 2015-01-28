@@ -1,0 +1,50 @@
+<markers>
+<marker lat="27.374240808634" lng="-80.3258794714454" intname="Midway Rd and US Highway 1" intnum="SLC003" />
+<marker lat="27.3742879738631" lng="-80.3342733342984" intname="Midway Rd and Oleander Ave" intnum="SLC004" />
+<marker lat="27.4108120773771" lng="-80.3337050192994" intname="Oleander Ave and Edwards Rd" intnum="SLC005" />
+<marker lat="27.4110082843806" lng="-80.3427061237824" intname="Sunrise Blvd and Edwards Rd" intnum="SLC006" />
+<marker lat="27.411265630127" lng="-80.349838763378" intname="S 25th St and Edwards Rd" intnum="SLC007" />
+<marker lat="27.5299421646046" lng="-80.391907098264" intname="Winter Garden Pkwy and Kings Hwy" intnum="SLC010" />
+<marker lat="27.4474799256939" lng="-80.3990527688776" intname="Orange Ave and Kings Hwy" intnum="SLC011" />
+<marker lat="27.4693071614499" lng="-80.3990617799875" intname="Angle Rd and Kings Hwy" intnum="SLC012" />
+<marker lat="27.4842874685069" lng="-80.3987325155191" intname="St Lucie Blvd and Kings Hwy" intnum="SLC013" />
+<marker lat="27.4843779935389" lng="-80.3408375157033" intname="St Lucie Blvd and US Highway 1" intnum="SLC014" />
+<marker lat="27.5210273446012" lng="-80.3983304085084" intname="Indrio Rd and Kings Hwy" intnum="SLC015" />
+<marker lat="27.5206692718841" lng="-80.355668518084" intname="Indrio Rd and US Highway 1" intnum="SLC016" />
+<marker lat="27.5489528693999" lng="-80.3686943960449" intname="Kings Hwy and US Highway 1" intnum="SLC017" />
+<marker lat="27.485184888574" lng="-80.2989209068319" intname="A1A and Atlantic Beach Blvd" intnum="SLC018" />
+<marker lat="27.4702099640781" lng="-80.3319378781724" intname="Old Dixie Hwy and A1A" intnum="SLC019" />
+<marker lat="27.4700898067729" lng="-80.3338425870155" intname="A1A and US Highway 1" intnum="SLC020" />
+<marker lat="27.4839683820796" lng="-80.3501908313806" intname="St Lucie Blvd and N 25th St" intnum="SLC021" />
+<marker lat="27.3741944761206" lng="-80.3503914207754" intname="Midway Rd and S 25th St" intnum="SLC022" />
+<marker lat="27.5355749990248" lng="-80.3596785011328" intname="Old Dixie Hwy and Harbor Branch" intnum="SLC026" />
+<marker lat="27.4475262543544" lng="-80.3661790628061" intname="Hartman Rd and Orange Ave" intnum="SLC027" />
+<marker lat="27.4985567412086" lng="-80.3453976601237" intname="US Hwy 1 and N 25th St" intnum="SLC032" />
+<marker lat="27.391116530362" lng="-80.3501870447904" intname="S 25th St and Ft Pierce Central" intnum="SLC033" />
+<marker lat="27.3337825236061" lng="-80.3249767535798" intname="Rio Mar Dr and US Highway 1" intnum="SLC034" />
+<marker lat="27.3219259305153" lng="-80.3179376943904" intname="US Highway 1 and Spanish Lakes" intnum="SLC035" />
+<marker lat="27.3116944893493" lng="-80.3120340940311" intname="US Highway 1 and Savanna Club" intnum="SLC036" />
+<marker lat="27.374553776062" lng="-80.3924885446913" intname="Midway Rd and Glades Cut Off Rd" intnum="SLC038" />
+<marker lat="27.3743518420352" lng="-80.3666159243887" intname="Midway Rd and Selvitz Rd" intnum="SLC040" />
+<marker lat="27.4729294892228" lng="-80.349582371756" intname="N 25th St and Juanita Ave" intnum="SLC041" />
+<marker lat="27.3531996583647" lng="-80.3258796832282" intname="US Highway 1 and Easy St" intnum="SLC042" />
+<marker lat="27.3743955015955" lng="-80.4119893506608" intname="I-95 and Midway Rd SB Exit" intnum="SLC045" />
+<marker lat="27.4075872206123" lng="-80.3661793347582" intname="Edwards Rd and Selvitz Rd" intnum="SLC047" />
+<marker lat="27.3450044035368" lng="-80.3258815456628" intname="US Highway 1 and Kitterman Rd" intnum="SLC048" />
+<marker lat="27.4658523643016" lng="-80.374692452379" intname="Angle Rd and Avenue Q" intnum="SLC049" />
+<marker lat="27.3814507183647" lng="-80.3258770614893" intname="Wetherbee Rd and US Highway 1" intnum="SLC050" />
+<marker lat="27.3745191257747" lng="-80.3880200109001" intname="Torino Pkwy and Midway Rd" intnum="SLC053" />
+<marker lat="27.4475416872727" lng="-80.3827271496918" intname="Jenkins Rd and Orange Ave" intnum="SLC056" />
+<marker lat="27.374491043616" lng="-80.4073069705294" intname="I-95 and Midway Rd NB Exit" intnum="SLC057" />
+<marker lat="27.4052304897953" lng="-80.3498639597938" intname="S 25th St and Forest Grove" intnum="SLC065" />
+<marker lat="27.3967381197173" lng="-80.3498704589334" intname="S 25th St and Bell Ave" intnum="SLC066" />
+<marker lat="27.3376197765671" lng="-80.3258793689126" intname="US Highway 1 and Lake Vista Trl" intnum="SLC067" />
+<marker lat="27.3618784247558" lng="-80.3258728635887" intname="US Highway 1 and Ulrich Rd" intnum="SLC068" />
+<marker lat="27.3269502082484" lng="-80.3209976320363" intname="Prima Vista Blvd and US Hwy 1" intnum="SLC103" />
+<marker lat="27.3263081228001" lng="-80.3279266611455" intname="Rio Mar Dr and Prima Vista Blvd" intnum="SLC113" />
+<marker lat="27.3232635041703" lng="-80.3357892722345" intname="Naranja Dr and Prima Vista Blvd" intnum="SLC114" />
+<marker lat="27.3191711348121" lng="-80.3404190220472" intname="Floresta Blvd and Prima Vista" intnum="SLC115" />
+<marker lat="27.317652380223" lng="-80.3496210741168" intname="Prima Vista Blvd and Airoso Blvd" intnum="SLC116" />
+<marker lat="27.3176661223429" lng="-80.3508611706237" intname="Prima Vista Blvd and Fire Sta" intnum="SLC117" />
+<marker lat="27.3114387204797" lng="-80.4180898145164" intname="I-95 SB ramp and SLW Blvd" intnum="SLCtemp" />
+</markers>

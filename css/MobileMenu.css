@@ -1,0 +1,69 @@
+	* {margin: 0;	padding: 0;font-family: sans-serif;	}
+	body { background: url(../images/SignalLarge.jpg) no-repeat center center fixed;  
+			-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;	
+			height: 100%; margin: 1px; padding: 1px }  
+	html { height: 100% }   
+	
+/* Slide out Menu Design */
+	.slideout-menu {	position: fixed; top: 0; left: -250px;	width: 250px; height: 100%;background: #333; z-index: 100;	}
+	.slideout-menu h3 { position: relative; padding: 12px 10px; color: #fff;font-size: 1.2em;font-weight: 400; border-bottom: 4px solid #222; } 
+	.slideout-menu .slideout-menu-toggle {position: absolute; top: 12px; right: 10px;	display: inline-block; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold;
+		line-height: 1; background: #BADA55; color: #999; text-decoration: none; vertical-align: top;	}
+	.slideout-menu .slideout-menu-toggle:hover { color: #fff;	}
+	.slideout-menu ul {	list-style: none; font-weight: 300; border-top: 1px solid #151515; border-bottom: 1px solid #454545;	}
+	.slideout-menu ul li { border-top: 1px solid #454545; border-bottom: 1px solid #151515;}
+	.slideout-menu ul li a { position: relative; display: block; padding: 10px; color: #999; text-decoration: none; } 
+	.slideout-menu ul li a:hover { background: #000;	color: #fff;	}
+	.slideout-menu ul li a i {	position: absolute;	top: 15px;	right: 10px;opacity: .5;	}
+	.slideout-menu .trint-menu-toggle {display: inline-block; width: 100px; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #FF4D4D; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint-menu-toggle:hover { color: #fff;	}
+	.slideout-menu .trint2-menu-toggle {display: inline-block; width: 100px; white-space: normal; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #FFFF66; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint2-menu-toggle:hover { color: #fff;	}
+	.slideout-menu .trint3-menu-toggle {display: inline-block; width: 100px; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #4DA64D; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint3-menu-toggle:hover { color: #fff;	}
+	.slideout-menu .trint4-menu-toggle {display: inline-block; width: 100px; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #F0FFFF; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint4-menu-toggle:hover { color: #fff;	}
+	.slideout-menu .trint5-menu-toggle {display: inline-block; width: 200px; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #4DA64D; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint5-menu-toggle:hover { color: #fff;	}
+	.slideout-menu .trint6-menu-toggle {display: inline-block; width: 200px; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #F0FFFF; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint6-menu-toggle:hover { color: #fff;	}
+	.slideout-menu .trint7-menu-toggle {display: inline-block; width: 100px; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold; line-height: 1; background: #00BFFF; color: #9999; text-decoration: none;  }
+	.slideout-menu .trint7-menu-toggle:hover { color: #fff;	}
+
+/*  Header Design */	
+	.header {padding: 15px;	background: #000;	}
+	.header .slideout-menu-toggle {	font-size: 1.2em;	color: #999;	text-decoration: none;	}
+	.header .slideout-menu-toggle:hover {	color: #fff;	}
+	.header .slideout-menu-toggle i {vertical-align: top; margin: 5px 3px 0 0;}
+
+/*  Content Design */	
+	.content {	width: 60%; margin: 50px auto; padding: 20px; background: rgba(0, 0, 0, .75);	}
+	.content h1 {	font-weight: 400; text-transform: uppercase; margin: 0; }
+	.content h2 {	font-weight: 400; text-transform: uppercase; color: #fff; margin: 0 0 20px;	}
+	.content p { font-size: 1.0em; font-weight: 300; line-height: 1.5em; color: #eee; margin: 0 0 20px;	}
+	.content p:last-child { margin: 0;	}
+	.content a.button {	display: inline-block; padding: 10px 20px; background: #bada55; color: #000; text-decoration: none;	}
+	.content a.button:hover { background: #000; color: #ff0;	}
+
+/*  Content Main MapFLGreen background */	
+	.content.main {height: 90%; width: 90%; position: relative;background: #bada55; } 
+	.content.main h1 { color: #000;	}
+	.mapconsole { height: 100%; width: 100% }
+	#map_canvas1 { height: 100%; width: 100 %; margin-left: auto; margin-right: auto; line-height:normal }
+
+/*  Content Black background */		
+	.content.black {	background: #000;	}
+	.content.black p {		color: #999;	}
+	.content.black p a {		color: #08c;	}
+
+/* Accordion Design */	
+	.accordion-container { width: 100%; margin: 0px; clear: both; }
+	.accordion-toggle { position: relative;  display: block; padding: 0px; font-size: 1.0em; font-weight: 300; background: #000000; color: #FFFFFF; text-decoration: none;	}
+	.toggle-icon  { position: relative;  display: block; padding: 0px; font-size: 1.2em; font-weight: 300; background: #000000; color: #FFFFFF; text-decoration: none;	}
+	.accordion-toggle.open { background: #333333; color: #FFFFFF; }
+	.toggle.open { background: #333333; color: #FFFFFF; }
+	.accordion-toggle:hover {background: #BADA55;}
+	.accordion-toggle span.toggle-icon { position: absolute; top: 10px; right: 10px; font-size: 1.2em;}
+	.accordion-content { display: none; padding: 10px; overflow: auto; }
+	.accordion-content h4 { position: relative; padding: 12px 10px; color: #fff;font-size: 1.0em;font-weight: 400; border-bottom: 4px solid #222; }
+	

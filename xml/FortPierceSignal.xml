@@ -1,0 +1,67 @@
+<markers>
+<marker lat="27.3970262686618" lng="-80.3256812120855" intname="US Hwy 1 and Farmers Market Rd" intnum="FP001" />
+<marker lat="27.4107073314557" lng="-80.3259325898782" intname="US Hwy 1 and Edwards Rd" intnum="FP002" />
+<marker lat="27.4124196505931" lng="-80.3259329851571" intname="US Hwy 1 and Emil Ave" intnum="FP003" />
+<marker lat="27.4210439274639" lng="-80.3259290236138" intname="US Hwy 1 and Gardenia Ave" intnum="FP004" />
+<marker lat="27.4252907517358" lng="-80.3259309785583" intname="US Hwy 1 and Virginia Ave" intnum="FP005" />
+<marker lat="27.4324460796876" lng="-80.3259149541781" intname="US Hwy 1 and Ohio Ave" intnum="FP006" />
+<marker lat="27.4350611874571" lng="-80.3259181805846" intname="US Hwy 1 and Parkway Dr" intnum="FP007" />
+<marker lat="27.4396249497356" lng="-80.3258768846903" intname="US Highway 1 and Sunrise Blvd" intnum="FP008" />
+<marker lat="27.4432485459939" lng="-80.3258977171247" intname="US Hwy 1 and Delaware Ave" intnum="FP009" />
+<marker lat="27.4440088851523" lng="-80.3259072782804" intname="US Hwy 1 and Citrus Ave" intnum="FP010" />
+<marker lat="27.4469755360999" lng="-80.3259691013374" intname="US Hwy 1 and Orange Ave" intnum="FP011" />
+<marker lat="27.4481750814298" lng="-80.3264172079343" intname="US Hwy 1 and Avenue A" intnum="FP012" />
+<marker lat="27.450561548326" lng="-80.3272065344689" intname="US Hwy 1 and Avenue C(Backus Av)" intnum="FP013" />
+<marker lat="27.4523669147964" lng="-80.3271672120003" intname="US Hwy 1 and Avenue D" intnum="FP014" />
+<marker lat="27.4551343405064" lng="-80.327214243478" intname="US Hwy 1 and Seaway Dr (A1A)" intnum="FP015" />
+<marker lat="27.4570970852032" lng="-80.3279238724664" intname="US Hwy 1 and Avenue H" intnum="FP016" />
+<marker lat="27.4253181990055" lng="-80.3319182006591" intname="Virginia Ave and Oleander Ave" intnum="FP017" />
+<marker lat="27.4253910352431" lng="-80.3346092081037" intname="Virginia Ave and Sunrisee Blvd" intnum="FP018" />
+<marker lat="27.425464728376" lng="-80.3371442334684" intname="Virginia Ave and 13th St" intnum="FP021" />
+<marker lat="27.4256180591761" lng="-80.3503743251026" intname="Virginia Ave and 25th St (SR615)" intnum="FP022" />
+<marker lat="27.4254627868226" lng="-80.3605186664827" intname="Virginia Ave and 35th St" intnum="FP023" />
+<marker lat="27.4254600657314" lng="-80.3680649964825" intname="Virginia Ave and Okeechobee Rd" intnum="FP024" />
+<marker lat="27.4312667413214" lng="-80.3583522308629" intname="Okeechobee Rd and 33rd St" intnum="FP025" />
+<marker lat="27.4264994360458" lng="-80.3666432064065" intname="Okeechobee Rd and Hartman Rd" intnum="FP026" />
+<marker lat="27.4246708729357" lng="-80.3693379894146" intname="Okeechobee Rd and Central Mall" intnum="FP027" />
+<marker lat="27.4238405108695" lng="-80.3705729734679" intname="Okeechobee Rd and West Mall En" intnum="FP028" />
+<marker lat="27.4210199607862" lng="-80.3747383516414" intname="Okeechobee Rd and McNeil Rd" intnum="FP029" />
+<marker lat="27.4177441368619" lng="-80.3827665082534" intname="Okeechobee Rd and Jenkins Rd" intnum="FP030" />
+<marker lat="27.4165896442786" lng="-80.3864406799829" intname="Okeechobee Rd and I-95 NB ramp" intnum="FP031" />
+<marker lat="27.4153511808853" lng="-80.3903091189542" intname="Okeechobee Rd and I-95 SB ramp" intnum="FP032" />
+<marker lat="27.4141561361789" lng="-80.3940027755923" intname="Okeechobee Rd and Peters Rd" intnum="FP033" />
+<marker lat="27.4126883573781" lng="-80.3990904169213" intname="Okeechobee Rd and Kings Hwy" intnum="FP034" />
+<marker lat="27.4478822197062" lng="-80.3228602953839" intname="Orange Ave and Indian River Dr" intnum="FP035" />
+<marker lat="27.4469682311778" lng="-80.3269616371628" intname="Orange Ave and 5th St" intnum="FP036" />
+<marker lat="27.4469679775716" lng="-80.3289620380475" intname="Orange Ave and 7th St" intnum="FP037" />
+<marker lat="27.4469867920365" lng="-80.3329947905995" intname="Orange Ave and 10th St" intnum="FP038" />
+<marker lat="27.4471130037922" lng="-80.3372507473643" intname="Orange Ave and 13th St" intnum="FP039" />
+<marker lat="27.4472421605799" lng="-80.3414589081932" intname="Orange Ave and 17th St" intnum="FP040" />
+<marker lat="27.4474895270074" lng="-80.3499098620153" intname="Orange Ave and 25th St" intnum="FP041" />
+<marker lat="27.4475216313707" lng="-80.3580796810485" intname="Orange Ave and 33rd St" intnum="FP042" />
+<marker lat="27.4552265447786" lng="-80.3251218655556" intname="A1A and Indian River Dr" intnum="FP043" />
+<marker lat="27.4651313286215" lng="-80.3026958754396" intname="A1A and Binney Dr" intnum="FP048" />
+<marker lat="27.4372712394292" lng="-80.3500354170277" intname="25th St and Okeechobee Rd" intnum="FP050" />
+<marker lat="27.4438378055224" lng="-80.349934350977" intname="25th St and Delaware Ave" intnum="FP051" />
+<marker lat="27.4529588753115" lng="-80.3498777939924" intname="25 th St and Avenue D" intnum="FP052" />
+<marker lat="27.4584135776465" lng="-80.3498322351501" intname="25 th St and Avenue I" intnum="FP053" />
+<marker lat="27.4620456655311" lng="-80.3497871837617" intname="25 th St and Avenue M" intnum="FP054" />
+<marker lat="27.4656854488881" lng="-80.3497411565216" intname="25 th St and Avenue Q" intnum="FP056" />
+<marker lat="27.4433070536416" lng="-80.328957982273" intname="7th St and Delaware Ave" intnum="FP057" />
+<marker lat="27.4474205105545" lng="-80.3289710159778" intname="7th St and Avenue A (TSL only)" intnum="FP058" />
+<marker lat="27.4396579391424" lng="-80.3289504612609" intname="Georgia Ave and 7th St" intnum="FP059" />
+<marker lat="27.439798939283" lng="-80.3371458491321" intname="Georgia Ave and 17th St" intnum="FP061" />
+<marker lat="27.4433250672322" lng="-80.332996156144" intname="Delaware Ave and 10th St" intnum="FP064" />
+<marker lat="27.4434480073947" lng="-80.3372008119689" intname="Delaware Ave and 13th St" intnum="FP065" />
+<marker lat="27.4435475811298" lng="-80.341318981719" intname="Delaware Ave and 17th St" intnum="FP066" />
+<marker lat="27.440083197859" lng="-80.346135537419" intname="Okeechobee Rd and Georgia Ave" intnum="FP067" />
+<marker lat="27.4438964372682" lng="-80.3580716826673" intname="Delaware Ave and 33rd St" intnum="FP068" />
+<marker lat="27.4523685196317" lng="-80.3289826962947" intname="Avenue D and 7th St" intnum="FP069" />
+<marker lat="27.4525852430375" lng="-80.3373660407542" intname="Avenue D and 13th St" intnum="FP070" />
+<marker lat="27.4529484071543" lng="-80.3416744634906" intname="Avenue D and 17th St" intnum="FP071" />
+<marker lat="27.4529831504683" lng="-80.3539724141069" intname="Avenue D and 29th St" intnum="FP072" />
+<marker lat="27.4321235483125" lng="-80.3371248074505" intname="13th St and Nebraska Ave" intnum="FP075" />
+<marker lat="27.4584196927457" lng="-80.3417054912967" intname="17th St and Avenue I" intnum="FP077" />
+<marker lat="27.4366511896844" lng="-80.3283881306873" intname="Sunrise Blvd and Parkway Dr" intnum="FP079" />
+<marker lat="27.4324091775108" lng="-80.3318471506114" intname="Sunrise Blvd and Ohio Ave" intnum="FP080" />
+</markers>
