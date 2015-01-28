@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Traffic Maps and Information Mobile Edition Site</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta charset="UTF-8">
+	<noscript><b>JavaScript must be enabled in order for you to use this Application/Website</b> </noscript>
+<!--Style/CSS -->	
+	<link href="css/MobileMenu.css" rel="stylesheet" >
+<!--JQUery -->
+	<script src="jquery/jquery.js"></script>
+<!-- Slide out and Accordion Menu  --> 
+	<script src="js/MobileMenu.js"></script>
+<!--Google Map Related Scripts -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ-WqvO_h_eZ7mG0TEnJ14fHFmPwyibCM"></script> 
+	<script src="js/BaseMap.js"></script> 
+<!--FDOT District Information -->
+	<script src="js/Districts/D1Info.js"></script> 
+	<script src="js/Districts/D2Info.js"></script> 
+	<script src="js/Districts/D3Info.js"></script> 
+	<script src="js/Districts/D4Info.js"></script> 
+	<script src="js/Districts/D5Info.js"></script> 
+	<script src="js/Districts/D6Info.js"></script> 
+	<script src="js/Districts/D7Info.js"></script> 
+<!--County Layer Boundaries -->
+	<script src="js/Counties/D4Counties.D.js"></script> 
+	<script src="js/Counties/D6Counties.D.js"></script> 
+	<script src="js/Counties/D7Counties.D.js"></script> 
+<!--Traffic Signal Layers -->
+	<script src="js/FloridaSignalLayer.js"></script> 
+	 <script src="js/Signals/D4Signals.D.js"></script> 
+	 <script src="js/Signals/D6Signals.D.js"></script> 
+	 <script src="js/Signals/D7Signals.D.js"></script> 
+<!--Misc Layers -->	
+	<script src="js/3rdParty/Glayers.js"></script> 
+	<script src="js/3rdParty/radar.js"></script> 
+<!--Smart Table Related Scripts-->
+</head>
+
+<body>
+<!--/slideout-menu-->
+<div class="slideout-menu">
+	<h3>  MENU &#9776; <a href="#" class="slideout-menu-toggle">&times;</a></h3>
+	<ul>
+		<li><div class="accordion-container">
+				<a href="#" class="accordion-toggle"> Button Legend / Help <span class="toggle-icon">+</span></a>
+				<div class="accordion-content">
+					<button class="button trint4-menu-toggle" onclick="clearbasemap()">White Button -- Clear Layers</button>
+					<button class="button trint-menu-toggle" onclick=""> Red Button -- District Bounds</button>
+					<button class="button trint2-menu-toggle" onclick="">Yellow Button -- County Bounds </button>
+					<button class="button trint3-menu-toggle" onclick=""> Green Button -- Traffic Signals</button>
+				</div>
+			</div>
+		</li>
+		<li><div class="accordion-container"> 
+				<a href="#" class="accordion-toggle">District and County Limits <span class="toggle-icon">+</span></a>
+				<div class="accordion-content">
+					<button class="button trint5-menu-toggle" onclick="loadFloridaStateSignals()">Traffic All Signals on SHS</button>
+					<button class="button trint6-menu-toggle" onclick="clearbasemap()">Statewide view - clear all</button><br><br>
+					<button class="button trint4-menu-toggle"  onclick="clearD4basemap()">Zoom D4, Clear Layers </button>
+					<button class="button trint-menu-toggle" onclick="FLDistrict4Info()">FDOT District 4 </button><br>
+						<button class="button trint2-menu-toggle" onclick="FLIndianRiver()">Indian River</button>
+						<button class="button trint2-menu-toggle" onclick="FLStLucie()">St. Lucie</button>
+						<button class="button trint2-menu-toggle" onclick="FLMartin()">Martin</button>
+						<button class="button trint2-menu-toggle" onclick="FLPalmBeach()">Palm Beach</button>
+						<button class="button trint2-menu-toggle" onclick="FLBroward()">Broward</button>
+							<button class="button trint3-menu-toggle" onclick="loadIndianRiverCountySignals()">Indian River  </button>
+							<button class="button trint3-menu-toggle" onclick="loadStLucieCountySignals()">St. Lucie </button>
+							<button class="button trint3-menu-toggle" onclick="loadMartinCountySignals()">Martin </button>
+							<button class="button trint3-menu-toggle" onclick="loadPalmBeachCountySignals()">Palm Beach </button>
+							<button class="button trint3-menu-toggle" onclick="loadBrowardCountySignals()">Broward </button>
+							<button class="button trint3-menu-toggle" onclick="loadTownofPalmBeachSignals()">Town of Palm Beach </button>
+							<button class="button trint3-menu-toggle" onclick="loadPortStLucieSignals()">Port St. Lucie </button>					
+							<button class="button trint3-menu-toggle" onclick="loadFortPierceSignals()">Ft. Pierce  </button>
+							<button class="button trint3-menu-toggle" onclick="loadBocaRatonSignals()"> Boca Raton </button>
+						<br><br>
+					<button class="button trint4-menu-toggle"  onclick="clearD6basemap()">Zoom D6, Clear Layers </button>
+					<button class="button trint-menu-toggle" onclick="FLDistrict6Info()">FDOT District 6 </button><br>
+						<button class="button trint2-menu-toggle" onclick="FLMiamiDade()">MIami Dade</button>
+						<button class="button trint2-menu-toggle" onclick="FLMonroe()">Monroe</button>
+							<button class="button trint3-menu-toggle" onclick="loadMIamiDadeCountySignals()">Miami Dade </button>
+						<br><br>
+					<button class="button trint4-menu-toggle"  onclick="clearD7basemap()">Zoom D7, Clear Layers </button>
+					<button class="button trint-menu-toggle" onclick="FLDistrict7Info()">FDOT District 7 </button><br>
+						<button class="button trint2-menu-toggle" onclick="FLCitrus()">Citrus</button>
+						<button class="button trint2-menu-toggle" onclick="FLHernando()">Hernando</button>
+						<button class="button trint2-menu-toggle" onclick="FLHillsborough()">Hillsborough</button>
+						<button class="button trint2-menu-toggle" onclick="FLPasco()">Pasco</button>
+						<button class="button trint2-menu-toggle" onclick="FLPinellas()">Pinellas</button>
+							<button class="button trint3-menu-toggle" onclick="loadHillsboroughCountySignals()"> Hillsborough </button>
+							<button class="button trint3-menu-toggle" onclick="loadCityofTampaSignals()">Tampa</button>
+						<br><br>
+				</div>
+		</div><lI>
+		<li><div class="accordion-container">
+				<a href="#" class="accordion-toggle">  Third Party Data Layers <span class="toggle-icon">+</span></a>
+				<div class="accordion-content">
+					<button class="button trint7-menu-toggle"  onclick="loadRadarNextRad()">Satellite (GOES) IR</button>
+					<button class="button trint7-menu-toggle" onclick="loadRadarGOES()"> Doppler (NextRad)</button>
+					<br><br>
+					<button class="button trint7-menu-toggle"  onclick="loadGTraffic()">G Traffic Layer</button>
+					<button class="button trint7-menu-toggle"  onclick="loadGTransit()">G Transit Layer</button>
+					<button class="button trint7-menu-toggle" onclick="loadGTransit()">G Bike Layer</button>
+					<br><br>
+					<button class="button trint3-menu-toggle" onclick="loadFloridaStateSignals()">Traffic All Signals on SHS</button>
+					<button class="button trint4-menu-toggle" onclick="clearbasemap()">Statewide view - clear all</button><br><br>
+				</div>
+		</div></lI>
+		<li>
+			<a href="FLStateIndex.D.htm">Desktop Site</a>
+		</li>
+		<li>
+			[ <a href="index.htm">Main </a> | <a href="info.htm">Info </a> ]
+		</li>
+	</ul>
+</div>
+
+<div class="header">
+	<a href="#" class="slideout-menu-toggle"> Menu &#9776;</a>
+</div>
+
+
+<!--/ Map content-->
+<div class="content main">
+<table class="mapconsole">
+		<tr>
+			<td> <script> google.maps.event.addDomListener(window, 'load', clearbasemap); </script><div id="map_canvas1"></div> </td>
+			<td>	</td>
+		</tr>
+		</table>
+</div>
+
+<!--/ Toggle Mene-->
+<div class="content">
+	<a href="#" class="button slideout-menu-toggle"> &#9776; Toggle Menu</a><br>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile -->
+		<ins class="adsbygoogle"
+		style="display:inline-block;width:320px;height:100px"
+		data-ad-client="ca-pub-7074806197787335"
+		data-ad-slot="4605530607"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		adsense mobile here
+</div>
+
+
+
+</body>
+</html>

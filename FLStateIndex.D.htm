@@ -1,0 +1,386 @@
+<!DOCTYPE html">
+<html>
+<head>
+	<title>Florida Traffic Signal Information</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta charset="UTF-8">
+<!--Erorr Display when JavaScript is turned off in the browser -->
+	<noscript><b>JavaScript must be enabled in order for you to use this Application/Website</b> </noscript>
+<!-- JQuery Related Scripts -->
+	<script src="jquery/jquery.js"></script>
+	<script src="jquery/jquery-ui.js"></script>
+	<script>  $(function() {    $( "#accordion" ).accordion();
+											$( "#tabs" ).tabs();  }); </script>	
+	<script src="jquery/jquery.dataTables.min.js"></script>
+	<script src="jquery/jquery.sticky.js"></script>
+	<script>  $(window).load(function(){
+					$("#header").sticky({ topSpacing: 0 }); }); </script>
+<!--CSS Style Sheets -->
+	<link href="css/trintstyle.D.css" rel="stylesheet" >
+	<link href="jquery/jquery-ui.css" rel="stylesheet" >
+	<style title="currentStyle">@import "css/D4Table.css";	</style>
+<!--Google Map Related Scripts -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ-WqvO_h_eZ7mG0TEnJ14fHFmPwyibCM"></script> 
+	<script src="js/BaseMap.js"></script> 
+<!--Traffic Signal Layers -->
+	<script src="js/FloridaSignalLayer.js"></script> 
+	<script src="js/Signals/D4Signals.D.js"></script> 
+	<script src="js/Signals/D7Signals.D.js"></script> 
+	<script src="js/Signals/D6Signals.D.js"></script> 
+<!--District Borders and Counties -->
+	<script src="js/Counties/D1Counties.D.js"></script>
+	<script src="js/Counties/D2Counties.D.js"></script>
+	<script src="js/Counties/D3Counties.D.js"></script>
+	<script src="js/Counties/D4Counties.D.js"></script> 
+	<script src="js/Counties/D5Counties.D.js"></script> 
+	<script src="js/Counties/D6Counties.D.js"></script> 
+	<script src="js/Counties/D7Counties.D.js"></script> 
+	<script src="js/Counties/CountyInfo.js"></script> 
+<!--FDOT District Information -->
+	<script src="js/Districts/FDOTDistricts.D.js"></script>
+<!--Misc Layers -->	
+	<script src="js/3rdParty/Glayers.js"></script> 
+	<script src="js/3rdParty/radar.js"></script> 
+<!--Smart Table Related Scripts-->
+	<script src="js/SmartTables/D4Table.js"></script>
+	
+</head>
+
+<body>
+
+<div id="header">
+	[ <A href="FLStateIndex.M.htm"> Mobile SIte </a>  | <A href="info.htm"> Info </a> ]
+</div>
+ 
+<!-- Begin Tabs -->
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">Florida Traffic Signal Information Map</a></li>
+		<li><a href="#tabs-2">Florida Traffic Signal Information Table</a></li>
+	</ul>
+<!-- Begin Tab 1 - Map -->
+		<div id="tabs-1">
+		<table class="maintable">
+		<tr>	<th colspan="3">Florida Traffic Signal Information Map</th></tr>
+		<tr>
+			<td class="mapconsole"><script> google.maps.event.addDomListener(window, 'load', clearbasemap); </script><div id="map_canvas1"></div> </td>
+			<td class="mapbuttons">
+				<table class="navtable">
+					<tr><th class="head">	Map Functions <br> <button type="button" onclick="clearbasemap()">Reset Map, Clear Layers </button> </th></tr>
+					<tr> <td class="contents">
+						<div id="accordion">
+							<h3>Demonstration Notes</h3>
+								<div>
+								<p class="head2">Legend</p>
+									<p class="headgreen">Most layers and functions are working</p>
+									<p class="headyellow">Some layers and functions are working</p>
+									<p class="headred">Most layers and functions are NOT working</p>
+								<p class="head2">Guide</p>
+								Click buttons to retrieve and overlay data layers. Use check boxes hide and unhide data layers.  Some layers have  background information and links, 
+								click coloured borders, polygons, lines or points
+								on the map to show these associated linked information <br>
+								</div>
+							<h3>Florida State Overview </h3>
+								<div>
+									<p class="head2">FDOT Districts Information</p>
+									<table>
+										<tr><td><button type="button" onclick="loadAllDistricts()">Load All Florida DOT Districts </button><td></tr>
+										<tr><td class="tooltip"> Load District Layers first to activate check box layer visibility </td></tr>
+										<tr><td>
+									 		<input type="checkbox" id="District1CheckBox" onclick="FLDistrict1Toggle()" />District 1</label> <br>
+											<input type="checkbox" id="District2CheckBox" onclick="FLDistrict2Toggle()" />District 2 </label> <br>
+											<input type="checkbox" id="District3CheckBox" onclick="FLDistrict3Toggle()" />District 3</label> <br>
+											<input type="checkbox" id="District4CheckBox" onclick="FLDistrict4Toggle()" />District 4</label> <br>
+											<input type="checkbox" id="District5CheckBox" onclick="FLDistrict5Toggle()" />District 5</label> <br>
+											<input type="checkbox" id="District6CheckBox" onclick="FLDistrict6Toggle()" />District 6</label> <br>
+											<input type="checkbox" id="District7CheckBox" onclick="FLDistrict7Toggle()" />District 7</label> <br>
+										</td></tr>
+										<tr><td><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on State Highways</button><td></tr>
+									</table>
+									<br>
+								</div>
+							<h3>District 1 <strong class="headyellow"> Development - Borders Online </strong></h3>
+								<div>
+									<button class="button load-toggle" onclick="clearD1basemap()">Clear Layers, Focus D1 </button>
+									<button class="button load-toggle" onclick="FLDistrict1Info()">District 1 Bounds</button><br>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> District 1 County Limits </strong></th></tr>
+										<tr><td><button id="button" onclick="loadD1Counties()">Load All County Bounds</button><br></td>	</tr>
+									<tr><td>
+									 		<input type="checkbox" id="CharlotteCheckBox" onclick="FLCharlotteToggle()" />Charlotte (Port Charlotte, Punta Gorda)</label> <br>
+											<input type="checkbox" id="CollierCheckBox" onclick="FLCollierToggle()" />Collier (Naples)</label> <br>
+											<input type="checkbox" id="DeSotoCheckBox" onclick="FLDeSotoToggle()" />De Soto (Arcadia)</label> <br>
+											<input type="checkbox" id="GladesCheckBox" onclick="FLGladesToggle()" />Glades</label> <br>
+											<input type="checkbox" id="HardeeCheckBox" onclick="FLHardeeToggle()" />Hardee (Wauchula)</label> <br>
+											<input type="checkbox" id="HendryCheckBox" onclick="FLHendryToggle()" />Hendry</label> <br>
+											<input type="checkbox" id="HighlandsCheckBox" onclick="FLHighlandsToggle()" />Highlands (Sebring)</label> <br>
+											<input type="checkbox" id="LeeCheckBox" onclick="FLLeeToggle()" />Lee (Cape Coral,  Fort Myers)</label> <br>
+											<input type="checkbox" id="ManateeCheckBox" onclick="FLManateeToggle()" />Manatee (Bradenton)</label> <br>
+											<input type="checkbox" id="OkeechobeeCheckBox" onclick="FLOkeechobeeToggle()" />Okeechobee</label> <br>
+											<input type="checkbox" id="PolkCheckBox" onclick="FLPolkToggle()" />Polk (Bartow, Haines City, Lake Wales, Lakeland, Winter Haven)</label> <br>
+											<input type="checkbox" id="SarasotaCheckBox" onclick="FLSarasotaToggle()" />Sarasota (Englewood, North Port, Venice)</label> <br>
+									</td></tr>
+								</table>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+										<tr><td>
+											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 1 </td></tr>
+										</td></tr>
+									</table>
+								</div>
+							<h3>District 2 <strong class="headyellow"> Development - Borders Online </strong></h3>
+								<div>
+									<button class="button load-toggle" onclick="clearD2basemap()">Clear Layers, Focus D2 </button>
+									<button class="button load-toggle" onclick="FLDistrict2Info()">District 2 Bounds</button><br>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> District 2 County Limits </strong></th></tr>
+										<tr><td><button id="button" onclick="loadD2Counties()">Load All County Bounds</button><br></td>	</tr>
+									<tr><td>
+									 		<input type="checkbox" id="AlachuaCheckBox" onclick="FLAlachuaToggle()" />Alachua (Gainesville)</label> <br>
+											<input type="checkbox" id="BakerCheckBox" onclick="FLBakerToggle()" />Baker</label> <br>
+											<input type="checkbox" id="BradfordCheckBox" onclick="FLBradfordToggle()" />Bradford (Strake)</label> <br>
+											<input type="checkbox" id="ClayCheckBox" onclick="FLClayToggle()" />Clay</label> <br>
+											<input type="checkbox" id="ColumbiaCheckBox" onclick="FLColumbiaToggle()" />Columbia (Lake City)</label> <br>
+											<input type="checkbox" id="DixieCheckBox" onclick="FLDixieToggle()" />Dixie</label> <br>
+											<input type="checkbox" id="DuvalCheckBox" onclick="FLDuvalToggle()" />Duval (Jacksonville)</label> <br>
+											<input type="checkbox" id="GilchristCheckBox" onclick="FLGilchristToggle()" />Gilchrist</label> <br>
+											<input type="checkbox" id="HamiltonCheckBox" onclick="FLHamiltonToggle()" />Hamilton</label> <br>
+											<input type="checkbox" id="LafayetteCheckBox" onclick="FLLafayetteToggle()" />Lafayette</label> <br>
+											<input type="checkbox" id="LevyCheckBox" onclick="FLLevyToggle()" />Levy</label> <br>
+											<input type="checkbox" id="MadisonCheckBox" onclick="FLMadisonToggle()" />Madison</label> <br>
+											<input type="checkbox" id="NassauCheckBox" onclick="FLNassauToggle()" />Nassau</label> <br>
+											<input type="checkbox" id="PutnamCheckBox" onclick="FLPutnamToggle()" />Putnam (Palatka)</label> <br>
+											<input type="checkbox" id="StJohnsCheckBox" onclick="FLStJohnsToggle()" />St. Johns (St. Augustine)</label> <br>
+											<input type="checkbox" id="SuwanneeCheckBox" onclick="FLSuwanneeToggle()" />Suwannee</label> <br>
+											<input type="checkbox" id="TaylorCheckBox" onclick="FLTaylorToggle()" />Taylor (Perry)</label> <br>
+											<input type="checkbox" id="UnionCheckBox" onclick="FLUnionToggle()" />Union</label> <br>
+									</td></tr>
+								</table>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+										<tr><td>
+											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 2 </td></tr>
+										</td></tr>
+									</table>
+								</div>
+							<h3>District 3 <strong class="headyellow"> Development - Borders Online </strong></h3>
+								<div>
+										<button class="button load-toggle" onclick="clearD3basemap()">Clear Layers, Focus D3 </button>
+									<button class="button load-toggle" onclick="FLDistrict3Info()">District 3 Bounds</button><br>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> District 3 County Limits </strong></th></tr>
+										<tr><td><button id="button" onclick="loadD3Counties()">Load All County Bounds</button><br></td>	</tr>
+									<tr><td>
+									 		<input type="checkbox" id="BayCheckBox" onclick="FLBayToggle()" />Bay</label> <br>
+											<input type="checkbox" id="CalhounCheckBox" onclick="FLCalhounToggle()" />Calhoun</label> <br>
+											<input type="checkbox" id="EscambiaCheckBox" onclick="FLEscambiaToggle()" />Escambia</label> <br>
+											<input type="checkbox" id="FranklinCheckBox" onclick="FLFranklinToggle()" />Franklin</label> <br>
+											<input type="checkbox" id="GadsdenCheckBox" onclick="FLGadsdenToggle()" />Gadsden</label> <br>
+											<input type="checkbox" id="GulfCheckBox" onclick="FLGulfToggle()" />Gulf</label> <br>
+											<input type="checkbox" id="HolmesCheckBox" onclick="FLHolmesToggle()" />Holmes</label> <br>
+											<input type="checkbox" id="JacksonCheckBox" onclick="FLJacksonToggle()" />Jackson</label> <br>
+											<input type="checkbox" id="JeffersonCheckBox" onclick="FLJeffersonToggle()" />Jefferson</label> <br>
+											<input type="checkbox" id="LeonCheckBox" onclick="FLLeonToggle()" />Leon</label> <br>
+											<input type="checkbox" id="LibertyCheckBox" onclick="FLLibertyToggle()" />Liberty</label> <br>
+											<input type="checkbox" id="OkaloosaCheckBox" onclick="FLOkaloosaToggle()" />Okaloosa</label> <br>
+											<input type="checkbox" id="SantaRosaCheckBox" onclick="FLSantaRosaToggle()" />SantaRosa</label> <br>
+											<input type="checkbox" id="WakullaCheckBox" onclick="FLWakullaToggle()" />Wakulla</label> <br>
+											<input type="checkbox" id="WaltonCheckBox" onclick="FLWaltonToggle()" />Walton</label> <br>
+											<input type="checkbox" id="WashingtonCheckBox" onclick="FLWashingtonToggle()" />Washington</label> <br>
+									</td></tr>
+								</table>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+										<tr><td>
+											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 3 </td></tr>
+										</td></tr>
+									</table>
+								</div>
+								<h3>District 4  <strong class="headgreen"> Working Prototype</strong> </h3>
+								<div>
+									<button class="button load-toggle" onclick="clearD4basemap()">Clear and Focus D4 </button>
+									<button class="button load-toggle" onclick="FLDistrict4Info()">District 4 Bounds</button><br>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> District 4 Counties </strong></th></tr>
+									<tr><td><button id="button" onclick="loadD4Counties()">Load All County Bounds</button></td></tr>
+									<tr><td>
+											<input type="checkbox" id="IndianRiverCheckBox" onclick="FLIndianRiverToggle()" />Indian River (Vero Beach)</label> <br>
+											<input type="checkbox" id="StLucieCheckBox" onclick="FLStLucieToggle()" />St. Lucie (Fort Pierce)</label> <br>
+											<input type="checkbox" id="MartinCheckBox" onclick="FLMartinToggle()" />Martin (Stuart)</label> <br>
+											<input type="checkbox" id="PalmBeachCheckBox" onclick="FLPalmBeachToggle()" />Palm Beach (Boca Raton, West Palm Beach)</label> <br>
+											<input type="checkbox" id="BrowardCheckBox" onclick="FLBrowardToggle()" />Broward (Fort Lauderdale, Hollywood, Pompano Beach)</label> <br>
+									</td></tr>
+								</table>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+									<tr><td>
+										<tr><td><button id="button" onclick="loadIndianRiverCountySignals()"><img src="images/IndianRiverCountySignal.png" ></button></td><td>Indian River County</td></tr>
+										<tr><td><button id="button" onclick="loadStLucieCountySignals()"><img src="images/StLucieCountySignal.png" > </button></td><td>St. Lucie  County</td></tr>
+										<tr><td><button id="button" onclick="loadFortPierceSignals()"><img src="images/FortPierceSignal.png" > </button></td><td>City of  Ft. Pierce</td></tr>
+										<tr><td><button id="button" onclick="loadPortStLucieSignals()"><img src="images/PortStLucieSignal.png" ></button></td><td>City of  Port St. Lucie</td></tr>
+										<tr><td><button id="button" onclick="loadMartinCountySignals()"><img src="images/MartinCountySignal.png" > </button></td><td>Martin County</td></tr>
+										<tr><td><button id="button" onclick="loadTownofPalmBeachSignals()"><img src="images/TownofPalmBeachSignal.png" > </button></td><td>Town of Palm Beach</td></tr>
+										<tr><td><button id="button" onclick="loadPalmBeachCountySignals()"><img src="images/PalmBeachCountySignal.png" > </button></td><td>Palm Beach County</td></tr>
+										<tr><td><button id="button" onclick="loadBocaRatonSignals()"><img src="images/BocaRatonSignal.png" ></button></td><td>City of Boca Raton </td></tr>
+										<tr><td><button id="button" onclick="loadBrowardCountySignals()"><img src="images/BrowardCountySignal.png" > </button></td><td>Broward County</td></tr> 	
+									</td></tr>
+								</table>
+								</div>
+							<h3>District 5  <strong class="headyellow"> Development - Borders Online </strong> </h3>
+								<div>
+									<button class="button load-toggle" onclick="clearD5basemap()">Clear and Focus D5 </button>
+									<button class="button load-toggle" onclick="FLDistrict5Info()">District 5 Bounds</button><br>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> District 5 Counties </strong></th></tr>
+									<tr><td><button id="button" onclick="loadD5Counties()">Load All County Bounds</button></td></tr>
+									<tr><td>
+											<input type="checkbox" id="BrevardCheckBox" onclick="FLBrevardToggle()" />Brevard (Melbourne, Merritt Island, Titusville)</label> <br>
+											<input type="checkbox" id="FlaglerCheckBox" onclick="FLFlaglerToggle()" />Flagler</label> <br>
+											<input type="checkbox" id="LakeCheckBox" onclick="FLLakeToggle()" />Lake</label> <br>
+											<input type="checkbox" id="MarionCheckBox" onclick="FLMarionToggle()" />Marion (Ocala)</label> <br>
+											<input type="checkbox" id="OrangeCheckBox" onclick="FLOrangeToggle()" />Orange (Orlando)</label> <br>
+											<input type="checkbox" id="OsceolaCheckBox" onclick="FLOsceolaToggle()" />Osceola</label> <br>
+											<input type="checkbox" id="SeminoleCheckBox" onclick="FLSeminoleToggle()" />Seminole</label> <br>
+											<input type="checkbox" id="SumterCheckBox" onclick="FLSumterToggle()" />Sumter</label> <br>
+											<input type="checkbox" id="VolusiaCheckBox" onclick="FLVolusiaToggle()" />Volusia (Daytona Beach, DeLand)</label> <br>
+									</td></tr>
+								</table>
+								<table>
+									<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+									<tr><td>
+										<tr><td><button id="button" onclick=""><img src="" ></button></td><td>Null</td></tr>	
+									</td></tr>
+								</table>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+										<tr><td>
+											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 5 </td></tr>
+										</td></tr>
+									</table>
+								</div>
+							<h3>District 6 <strong class="headGreen"> Partial Working Prototype </strong> </h3>
+								<div>
+										<button class="button load-toggle" onclick="clearD6basemap()">Clear Layers, Focus D6 </button>
+										<button class="button load-toggle" onclick="FLDistrict6Info()">District 6 Bounds</button><br>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> District 6 County Limits </strong></th></tr>
+										<tr><td><button id="button" onclick="loadD6Counties()">Load All County Bounds</button></td></tr>
+										<tr><td>
+											<input type="checkbox" id="MiamiDadeCheckBox" onclick="FLMiamiDadeToggle()" />Miami Dade (Coral Gables, Hialeah, Homestead, Miami, Miami Beach)</label> <br>
+											<input type="checkbox" id="MonroeCheckBox" onclick="FLMonroeToggle()" />Monroe (Key West) </label> <br>
+										</td></tr>
+									</table>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+										<tr><td>
+											<tr><td><button id="button" onclick="loadMiamiDadeCountySignals()"><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Miami Dade County </td></tr>
+											<tr><td><button id="button" onclick=""><img src="images/BocaRatonSignal.png" ></button></td><td>Coming Soon.Collecting Data for Monroe County</td></tr>
+										</td></tr>
+									</table>
+								</div>
+							<h3>District 7 <strong class="headGreen"> Partial Working Prototype </strong></h3>
+								<div>
+										<button class="button load-toggle" onclick="clearD7basemap()">Clear Layers, Focus D7 </button>
+										<button class="button load-toggle" onclick="FLDistrict7Info()">District 7 Bounds</button></br>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> District 7 County Limits </strong></th></tr>
+										<tr><td><button id="button" onclick="loadD7Counties()">Load All County Bounds</button></td></tr>
+										<tr><td>
+											<input type="checkbox" id="CitrusCheckBox" onclick="FLCitrusToggle()" />Citrus </label> <br>
+											<input type="checkbox" id="HernandoCheckBox" onclick="FLHernandoToggle()" />Hernando (Brooksville)</label> <br>
+											<input type="checkbox" id="HillsboroughCheckBox" onclick="FLHillsboroughToggle()" />Hillsborough (Tampa)</label> <br>
+											<input type="checkbox" id="PascoCheckBox" onclick="FLPascoToggle()" />Pasco (New Port Richey) </label> <br>
+											<input type="checkbox" id="PinellasCheckBox" onclick="FLPinellasToggle()" />Pinellas (Clearwater, Dunedin, Largo, St. Petersburg)</label> <br>
+										</td></tr>
+									</table>
+									<table>
+										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+										<tr><td>
+											<tr><td><button id="button" onclick="loadHillsboroughCountySignals()"><img src="images/HillsboroughCountySignal.png" ></button></td><td>Hillsborough County </td></tr>
+											<tr><td><button id="button" onclick="loadCityofTampaSignals()"><img src="images/CityofTampaSignal.png" ></button></td><td>City of Tampa </td></tr>
+											<tr><td><button id="button" onclick="loadMiamiDadeCountySignals()"><img src="images/Red.png" ></button></td><td>Other Agencies Coming Soon. Collecting Data for District 7 </td></tr>
+										</td></tr>
+									</table>
+								</div>a
+							<h3> Thirrd Party Overlay <strong class="headgreen"> working prototype </strong></h3>
+								<div> 
+									<table>
+									<tr><th colspan="3">Data Overlay from Google </th></tr>
+									<tr>
+										<td><button id="button" onclick="loadGTraffic()"><img src="images/GTraffic.png"></button></td>
+										<td><button id="button" onclick="loadGTransit()"><img src="images/GTransit.png"></button></td>
+										<td><button id="button" onclick="loadGBike()"><img src="images/GBike.png"></button></td>
+									</tr>
+									<tr>
+										<td>Traffic</td>
+										<td>Transit</td>
+										<td>Bike</td>
+									</tr>
+									</table>
+										<button id="button" onclick="loadRadar()"><img src="images/weather.png" ></button><br>GOES and NEXRAD (Doppler Radar and Satellite
+								</div>
+						</div>
+							<button type="button" onclick="clearbasemap()">Reset Map, Clear All Layers </button>
+					</td></tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan="3">
+		
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Desktop-Text-Only-Google Adsense -->
+			<ins class="adsbygoogle"
+			style="display:inline-block;width:728px;height:90px"
+			data-ad-client="ca-pub-7074806197787335"
+			data-ad-slot="6780267805"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		Adwords here:
+		</td></tr>
+	</table>		
+	</div><br>
+	
+<!-- Begin Tab 1 - Table -->
+	<div id="tabs-2">
+	<table class="maintable2">
+		<tr><th>Florida District 4 Traffic Signal Information Table</th></tr>
+		<tr><td class="instructions"> <b>Use search box to filter by keyword. Use blue sort arrows to sort ascending or descending order</b></td></tr>
+	</table>
+		<br>
+		<div id="dynamic">
+		<table cellpadding="1" cellspacing="1" border="1" class="display" id="example">
+		<thead>
+			<tr>
+				<th width="5%"> ID/Num </th>
+				<th width="45%">Intersection Name</th>
+				<th width="25%">District, Jurisdiction and Geolocation</th>
+				<th width="25%">Reserved for future data links</th>
+			</tr>
+		</thead>
+		<tfoot>
+			<tr>
+				<th>ID/Num </th>
+				<th>Intersection Name</th>
+				<th>District, Jurisdiction and Geolocation</th>
+				<th>Reserved for future data links</th>
+			</tr>
+		</tfoot>
+		</table>
+		</div>
+	</div><br>
+</div>
+<!-- End Tabs -->		
+
+
+
+</body>
+</html>
