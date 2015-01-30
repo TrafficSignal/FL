@@ -37,19 +37,19 @@
 	.header .slideout-menu-toggle i {vertical-align: top; margin: 5px 3px 0 0;}
 
 /*  Content Design */	
-	.content {	width: 60%; margin: 50px auto; padding: 20px; background: rgba(0, 0, 0, .75);	}
+	.content {	width: 10%; padding: 20px; background: rgba(0, 0, 0, .75); margin-left: auto; margin-right: auto}
 	.content h1 {	font-weight: 400; text-transform: uppercase; margin: 0; }
 	.content h2 {	font-weight: 400; text-transform: uppercase; color: #fff; margin: 0 0 20px;	}
 	.content p { font-size: 1.0em; font-weight: 300; line-height: 1.5em; color: #eee; margin: 0 0 20px;	}
 	.content p:last-child { margin: 0;	}
-	.content a.button {	display: inline-block; padding: 10px 20px; background: #bada55; color: #000; text-decoration: none;	}
+	.content a.button {	display: inline-block; padding: 10px 20px; background: #bada55; color: #000; }
 	.content a.button:hover { background: #000; color: #ff0;	}
 
 /*  Content Main MapFLGreen background */	
-	.content.main {height: 90%; width: 90%; position: relative;background: #bada55; } 
-	.content.main h1 { color: #000;	}
+	.content.main {height: 95%; width: 95%; position: relative;background: #bada55; } 
 	.mapconsole { height: 100%; width: 100% }
-	#map_canvas1 { height: 100%; width: 100 %; margin-left: auto; margin-right: auto; line-height:normal }
+	.mapconsole td { height: 100%; width: 100% }
+	#map_canvas1 { height: 100%; width: 100 %; margin-left: auto; margin-right: auto; }
 
 /*  Content Black background */		
 	.content.black {	background: #000;	}
