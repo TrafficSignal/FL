@@ -10,11 +10,17 @@
 		#header2 { background: #00FFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.6em; font-weight: bold; text-align: center; 
 						padding: 10px; text-shadow: 0 1px 1px rgba(0,0,0,.2); width:100%; box-sizing:border-box;   }
 		
-		#topnav { background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: right; 
-						padding: 10px; text-shadow: 0 1px 1px rgba(0,0,0,.2); width:20%; box-sizing:border-box;  position: absolute; right: 0px   }
+		#updateinfotitle{ background: #BADA55;;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 20px; line-height: 1.4em; font-weight: bold; text-align: center; 
+						padding: 0px; height: 100px;  position: relative }
+						
+		#updateinfo{ background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: left; 
+						padding: 0px; width: 200px; height: 100px;  position: absolute; right: 0px; overflow-y: scroll; }
 		
-		#bottomnav { background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: right; 
-						padding: 10px; text-shadow: 0 1px 1px rgba(0,0,0,.2); width:30%; box-sizing:border-box; position: absolute; left: 0px   }
+		#topnav { background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: right; 
+						padding: 10px; text-shadow: 0 1px 1px rgba(0,0,0,.2); box-sizing:border-box;  position: absolute; right: 0px ; display: inline-block;  }
+		
+		#bottomnav { background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: left; 
+						padding: 10px; text-shadow: 0 1px 1px rgba(0,0,0,.2); box-sizing:border-box; position: absolute; left: 0px; display: inline-block;  }
 						
 		
 	

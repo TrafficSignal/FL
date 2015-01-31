@@ -342,6 +342,9 @@ FLPalmBeachPolygon = new google.maps.Polygon({
     fillOpacity: 0.35
   });
     FLPalmBeachPolygon.setMap(map);
+google.maps.event.addListener(FLPalmBeachPolygon, 'click', function() {
+		PalmBeachInfowindow.open(map); 
+	});
 } 
 
 function FLMartin() {
@@ -464,6 +467,9 @@ FLMartinPolygon = new google.maps.Polygon({
     fillOpacity: 0.35
   });
     FLMartinPolygon.setMap(map);
+	google.maps.event.addListener(FLMartinPolygon, 'click', function() {
+		MartinInfowindow.open(map); 
+	});
 } 
   
 function FLStLucie() {
@@ -602,6 +608,9 @@ FLStLuciePolygon = new google.maps.Polygon({
     fillOpacity: 0.35
   });
     FLStLuciePolygon.setMap(map);
+	google.maps.event.addListener(FLStLuciePolygon, 'click', function() {
+		StLucieInfowindow.open(map); 
+		});
 } 
   
 function FLIndianRiver() {
@@ -774,6 +783,9 @@ FLIndianRiverPolygon = new google.maps.Polygon({
     fillOpacity: 0.35
   });
   FLIndianRiverPolygon.setMap(map);
+  google.maps.event.addListener(FLIndianRiverPolygon, 'click', function() {
+		IndianRiverInfowindow.open(map); 
+		});
 } 
 
 function loadD4Counties(){

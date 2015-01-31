@@ -24,12 +24,15 @@
 	<script src="js/Districts/D7Info.js"></script> 
 <!--County Layer Boundaries -->
 	<script src="js/Counties/D4Counties.D.js"></script> 
+	<script src="js/Counties/D5Counties.D.js"></script> 
 	<script src="js/Counties/D6Counties.D.js"></script> 
 	<script src="js/Counties/D7Counties.D.js"></script> 
+	<script src="js/Counties/CountyInfo.js"></script> 
 <!--Traffic Signal Layers -->
 	<script src="js/FloridaSignalLayer.js"></script> 
 	 <script src="js/Signals/D4Signals.D.js"></script> 
 	 <script src="js/Signals/D6Signals.D.js"></script> 
+	 <script src="js/Signals/D5Signals.D.js"></script> 
 	 <script src="js/Signals/D7Signals.D.js"></script> 
 <!--Misc Layers -->	
 	<script src="js/3rdParty/Glayers.js"></script> 
@@ -40,7 +43,7 @@
 <body>
 <!--/slideout-menu-->
 <div class="slideout-menu">
-	<h3>  MENU &#9776; <a href="#" class="slideout-menu-toggle">&times;</a></h3>
+	<h3>  <div class="box-shadow-menu">MENU</div> <a href="#" class="slideout-menu-toggle"> &times;</a>  </h3>
 	<ul>
 		<li><div class="accordion-container">
 				<a href="#" class="accordion-toggle"> Button Legend / Help <span class="toggle-icon">+</span></a>
@@ -73,6 +76,19 @@
 							<button class="button trint3-menu-toggle" onclick="loadPortStLucieSignals()">Port St. Lucie </button>					
 							<button class="button trint3-menu-toggle" onclick="loadFortPierceSignals()">Ft. Pierce  </button>
 							<button class="button trint3-menu-toggle" onclick="loadBocaRatonSignals()"> Boca Raton </button>
+						<br><br>
+						<button class="button trint4-menu-toggle"  onclick="clearD5basemap()">Zoom D5, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict5Info()">FDOT District 5 </button><br>
+								<button class="button trint2-menu-toggle" onclick="FLBrevard()">Brevard</button>
+								<button class="button trint2-menu-toggle" onclick="FLFlagler()">Flagler</button>
+								<button class="button trint2-menu-toggle" onclick="FLLake()">Lake</button>
+								<button class="button trint2-menu-toggle" onclick="FLMarion()">Marion</button>
+								<button class="button trint2-menu-toggle" onclick="FLOrange()">Orange</button>
+								<button class="button trint2-menu-toggle" onclick="FLOsceola()">Osceola</button>
+								<button class="button trint2-menu-toggle" onclick="FLSeminole()">Seminole</button>
+								<button class="button trint2-menu-toggle" onclick="FLSumter()">Sumpter</button>
+								<button class="button trint2-menu-toggle" onclick="FLVolusia()">Volusia</button>						
+								<button class="button trint3-menu-toggle" onclick="loadVolusiaCountySignals()">Volusia </button>
 						<br><br>
 					<button class="button trint4-menu-toggle"  onclick="clearD6basemap()">Zoom D6, Clear Layers </button>
 					<button class="button trint-menu-toggle" onclick="FLDistrict6Info()">FDOT District 6 </button><br>
@@ -116,11 +132,7 @@
 </div>
 
 <div class="header">
-	<a href="#" class="slideout-menu-toggle"> Menu &#9776;</a>
-</div>
-
-<div class="content">
-	<a href="#" class="button slideout-menu-toggle"> &#9776; Toggle Menu</a>
+	<a href="#" class="slideout-menu-toggle"><div class="box-shadow-menu">MENU</div> </a>
 </div>
 
 <!--/ Map content-->
@@ -133,10 +145,11 @@
 		</table>
 </div>
 
-<!--/ Toggle Mene-->
+<!--/ Toggle Menu-->
 <div class="content">
-	<a href="#" class="button slideout-menu-toggle"> &#9776; Toggle Menu</a>
-</div><br><br>
+	<a href="#" class="button slideout-menu-toggle"> <div class="box-shadow-menu">Toggle Menu</div></a>
+</div><br>
+
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Mobile -->
 		<ins class="adsbygoogle"
@@ -146,10 +159,6 @@
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-		adsense mobile here
-
-
-
 
 </body>
 </html>

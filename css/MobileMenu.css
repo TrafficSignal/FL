@@ -4,11 +4,15 @@
 			height: 100%; margin: 1px; padding: 1px }  
 	html { height: 100% }   
 	
+/* Mobile Menu Icon*/
+.box-shadow-menu {  position: relative;  padding-left: 1.25em;}
+.box-shadow-menu:before {  content: "";  position: absolute;  left: 0;  top: 0.25em;  width: 1em;  height: 0.15em;  background: #bada55;  box-shadow:  0 0.25em 0 0 #bada55, 0 0.5em 0 0 #bada55; }
+	
 /* Slide out Menu Design */
 	.slideout-menu {	position: fixed; top: 0; left: -250px;	width: 250px; height: 100%;background: #333; z-index: 100;	}
 	.slideout-menu h3 { position: relative; padding: 12px 10px; color: #fff;font-size: 1.2em;font-weight: 400; border-bottom: 4px solid #222; } 
 	.slideout-menu .slideout-menu-toggle {position: absolute; top: 12px; right: 10px;	display: inline-block; padding: 6px 9px 5px; font-family: Arial, sans-serif; font-weight: bold;
-		line-height: 1; background: #BADA55; color: #999; text-decoration: none; vertical-align: top;	}
+		line-height: 1; background: #bada55; color: #999; text-decoration: none; vertical-align: top;	}
 	.slideout-menu .slideout-menu-toggle:hover { color: #fff;	}
 	.slideout-menu ul {	list-style: none; font-weight: 300; border-top: 1px solid #151515; border-bottom: 1px solid #454545;	}
 	.slideout-menu ul li { border-top: 1px solid #454545; border-bottom: 1px solid #151515;}
@@ -31,22 +35,22 @@
 	.slideout-menu .trint7-menu-toggle:hover { color: #fff;	}
 
 /*  Header Design */	
-	.header {padding: 15px;	background: #000;	}
+	.header {position: relative; top: 0px; left: 0px; padding: 15px;	background: #000;	}
 	.header .slideout-menu-toggle {	font-size: 1.2em;	color: #999;	text-decoration: none;	}
 	.header .slideout-menu-toggle:hover {	color: #fff;	}
 	.header .slideout-menu-toggle i {vertical-align: top; margin: 5px 3px 0 0;}
 
 /*  Content Design */	
-	.content {	width: 10%; padding: 20px; background: rgba(0, 0, 0, .75); margin-left: auto; margin-right: auto}
+	.content { padding: 20px; background: rgba(0, 0, 0, .75); text-align: center; }
 	.content h1 {	font-weight: 400; text-transform: uppercase; margin: 0; }
 	.content h2 {	font-weight: 400; text-transform: uppercase; color: #fff; margin: 0 0 20px;	}
 	.content p { font-size: 1.0em; font-weight: 300; line-height: 1.5em; color: #eee; margin: 0 0 20px;	}
 	.content p:last-child { margin: 0;	}
-	.content a.button {	display: inline-block; padding: 10px 20px; background: #bada55; color: #000; }
+	.content a.button {	display: inline-block; margin: 0 auto; padding: 10px 20px; background: #bada55; color: #000; }
 	.content a.button:hover { background: #000; color: #ff0;	}
 
 /*  Content Main MapFLGreen background */	
-	.content.main {height: 95%; width: 95%; position: relative;background: #bada55; } 
+	.content.main {height: 95%; width: 95%; position: relative;background: #bada55; margin-left: auto; margin-right: auto;  } 
 	.mapconsole { height: 100%; width: 100% }
 	.mapconsole td { height: 100%; width: 100% }
 	#map_canvas1 { height: 100%; width: 100 %; margin-left: auto; margin-right: auto; }
@@ -59,11 +63,11 @@
 /* Accordion Design */	
 	.accordion-container { width: 100%; margin: 0px; clear: both; }
 	.accordion-toggle { position: relative;  display: block; padding: 0px; font-size: 1.0em; font-weight: 300; background: #000000; color: #FFFFFF; text-decoration: none;	}
-	.toggle-icon  { position: relative;  display: block; padding: 0px; font-size: 1.2em; font-weight: 300; background: #000000; color: #FFFFFF; text-decoration: none;	}
+	.toggle-icon  { position: relative;  display: block; padding: 3px; font-size: 1.2em; font-weight: 300; background: #bada55; color: #FFFFFF; text-decoration: none;	}
 	.accordion-toggle.open { background: #333333; color: #FFFFFF; }
 	.toggle.open { background: #333333; color: #FFFFFF; }
-	.accordion-toggle:hover {background: #BADA55;}
+	.accordion-toggle:hover {background: #bada55;}
 	.accordion-toggle span.toggle-icon { position: absolute; top: 10px; right: 10px; font-size: 1.2em;}
-	.accordion-content { display: none; padding: 10px; overflow: auto; }
+	.accordion-content { display: none; padding: 10px;  overflow: auto; height:350px; }
 	.accordion-content h4 { position: relative; padding: 12px 10px; color: #fff;font-size: 1.0em;font-weight: 400; border-bottom: 4px solid #222; }
 	

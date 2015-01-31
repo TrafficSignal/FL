@@ -1,22 +1,22 @@
 //Written by Emmanuel Posadas - November 2014
 
-
-function loadHillsboroughCountySignals(){ 
-	jQuery.get("xml/HillsboroughCountySignal.xml", {}, function(data) {
+// Read the data from XML using Jquery for MiamiDade County Traffic Signals
+function loadVolusiaCountySignals(){ 
+	jQuery.get("xml/VolusiaCountySignal.xml", {}, function(data) {
 		jQuery(data).find("marker").each(function() {
 			var marker = jQuery(this);
 			var intname = $(this).attr('intname');
 			var intnum = $(this).attr('intnum');
 			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
 		//Icon Sytyle
-			var image = 'images/HillsboroughCountySignal.png' ;
+			var image = 'images/VolusiaCountySignal.png' ;
 			var marker = new google.maps.Marker({
 				position: latlng, 
 				map: map,
 				icon: image
 				});
 		//Contents of Info Window
-				var contentString = '<div id="signalinfowindow"><img src="images/HillsboroughCountySmallSeal.gif">' + 
+				var contentString = '<div id="signalinfowindow"><img src="images/VolusiaCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
@@ -34,4 +34,3 @@ function loadHillsboroughCountySignals(){
 		}); 
     });
 }
-
