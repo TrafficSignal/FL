@@ -24,6 +24,7 @@
 	<script src="js/BaseMap.js"></script> 
 <!--Traffic Signal Layers -->
 	<script src="js/FloridaSignalLayer.js"></script> 
+	<script src="js/Signals/D1Signals.D.js"></script> 
 	<script src="js/Signals/D4Signals.D.js"></script> 
 	<script src="js/Signals/D5Signals.D.js"></script> 
 	<script src="js/Signals/D6Signals.D.js"></script> 
@@ -100,7 +101,7 @@
 									</table>
 									<br>
 								</div>
-							<h3>District 1 <strong class="headyellow"> Development - Borders okay </strong></h3>
+							<h3>District 1 <strong class="headgreen"> Partial - Borders,  Some Signal Agencies</strong></h3>
 								<div>
 									<button class="button load-toggle" onclick="clearD1basemap()">Clear Layers, Focus D1 </button>
 									<button class="button load-toggle" onclick="FLDistrict1Info()">District 1 Bounds</button><br>
@@ -123,12 +124,14 @@
 									</td></tr>
 								</table>
 									<table>
-										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
-										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
-										<tr><td>
-											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 1 </td></tr>
-										</td></tr>
-									</table>
+									<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
+									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
+									<tr><td>
+										<tr><td><button id="button" onclick="loadLeeCountySignals()"><img src="images/LeeCountySignal.png" ></button></td><td>Lee County</td></tr>
+										<tr><td><button id="button" onclick="loadPolkCountySignals()"><img src="images/PolkCountySignal.png" > </button></td><td>Polk County</td></tr>
+										<tr><td><button id="button" onclick=""><img src="images/red.png" ></button></td><td>Coming Soon. Collecting Data for District 1 </td></tr>
+									</td></tr>
+								</table>
 								</div>
 							<h3>District 2 <strong class="headyellow"> Development - Borders okay </strong></h3>
 								<div>
@@ -255,6 +258,7 @@
 									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 									<tr><td>
 										<tr><td><button id="button" onclick="loadVolusiaCountySignals()"><img src="images/VolusiaCountySignal.png" ></button></td><td>Volusia County</td></tr>
+										<tr><td><button id="button" onclick="loadSeminoleCountySignals()"><img src="images/SeminoleCountySignal.png" ></button></td><td>Seminole County</td></tr>
 										<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 5 </td></tr>
 									</td></tr>
 								</table>

@@ -1,22 +1,22 @@
 //Written by Emmanuel Posadas - November 2014
 
-// Read the data from XML using Jquery for Volusia County Traffic Signals
-function loadVolusiaCountySignals(){ 
-	$.get("xml/VolusiaCountySignal.xml", {}, function(data) {
+// Read the data from XML using Jquery for Lee County Traffic Signals
+function loadLeeCountySignals(){ 
+	$.get("xml/LeeCountySignal.xml", {}, function(data) {
 		$(data).find("marker").each(function() {
 			var marker = $(this);
 			var intname = $(this).attr('intname');
 			var intnum = $(this).attr('intnum');
 			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
 		//Icon Sytyle
-			var image = 'images/VolusiaCountySignal.png' ;
+			var image = 'images/LeeCountySignal.png' ;
 			var marker = new google.maps.Marker({
 				position: latlng, 
 				map: map,
 				icon: image
 				});
 		//Contents of Info Window
-				var contentString = '<div id="signalinfowindow"><img src="images/VolusiaCountySmallSeal.gif">' + 
+				var contentString = '<div id="signalinfowindow"><img src="images/LeeCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
@@ -35,23 +35,23 @@ function loadVolusiaCountySignals(){
     });
 }
 
-// Read the data from XML using Jquery for Seminole County Traffic Signals
-function loadSeminoleCountySignals(){ 
-	$.get("xml/SeminoleCountySignal.xml", {}, function(data) {
+// Read the data from XML using Jquery for Polk County Traffic Signals
+function loadPolkCountySignals(){ 
+	$.get("xml/PolkCountySignal.xml", {}, function(data) {
 		$(data).find("marker").each(function() {
 			var marker = $(this);
 			var intname = $(this).attr('intname');
 			var intnum = $(this).attr('intnum');
 			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
 		//Icon Sytyle
-			var image = 'images/SeminoleCountySignal.png' ;
+			var image = 'images/PolkCountySignal.png' ;
 			var marker = new google.maps.Marker({
 				position: latlng, 
 				map: map,
 				icon: image
 				});
 		//Contents of Info Window
-				var contentString = '<div id="signalinfowindow"><img src="images/SeminoleCountySmallSeal.gif">' + 
+				var contentString = '<div id="signalinfowindow"><img src="images/PolkCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+

@@ -1,0 +1,831 @@
+<markers>
+<marker lat="28.0098432585771" lng="-81.841934182113" intname="SR 540 (W and Polk Park" intnum="1244" />
+<marker lat="28.0482710959403" lng="-81.9222669048383" intname="US 92 (SR and East Lake" intnum="1136" />
+<marker lat="28.0478918300483" lng="-81.8585170270192" intname="US 92 (SR and Old Dixie" intnum="1227" />
+<marker lat="28.04789496767" lng="-81.9079568721983" intname="US 92 (SR and Combee (S" intnum="1103" />
+<marker lat="28.0478851235103" lng="-81.9160771451615" intname="US 92 (SR and Fairway A" intnum="1105" />
+<marker lat="28.0479285977044" lng="-81.8978565795892" intname="US 92 (SR and Santa Fe" intnum="3111" />
+<marker lat="28.047831403733" lng="-81.8914260319589" intname="US 92 (SR and Reynolds" intnum="1140" />
+<marker lat="28.04781447303" lng="-81.8956300793703" intname="US 92 (SR and Fish Hatc" intnum="1141" />
+<marker lat="28.0477188330345" lng="-81.7243730836183" intname="SR 544 (L and Ware Ave." intnum="3214" />
+<marker lat="28.0463899948449" lng="-81.759968535779" intname="Havendale and 26th St." intnum="1206" />
+<marker lat="28.0442989882183" lng="-81.8914244337063" intname="CR 542 (K and Reynolds" intnum="1123" />
+<marker lat="28.0442358401781" lng="-81.9079251100186" intname="Combee (S and Main (CR" intnum="1102" />
+<marker lat="28.0414825946161" lng="-81.9900594172541" intname="US 92 (SR and Publix Wa" intnum="1119" />
+<marker lat="28.0441453394408" lng="-81.8584881072594" intname="(Future) and Old Dixie" intnum="1249" />
+<marker lat="28.0424972257723" lng="-81.7605814193609" intname="26th St. and Ave R N.W" intnum="3215" />
+<marker lat="28.0425521088884" lng="-81.7679880162857" intname="34th ST. and Ave. R NW" intnum="3222" />
+<marker lat="28.0417644598033" lng="-81.760739168908" intname="26th St. and Ave R N.W" intnum="3215" />
+<marker lat="28.0413743528696" lng="-81.7822858485565" intname="Auburndal and Auburndal" intnum="4218" />
+<marker lat="28.0413460263449" lng="-81.7761791016472" intname="42nd St. and Avenue Q" intnum="1222" />
+<marker lat="28.0407140814789" lng="-81.6116485796567" intname="Hatchineh and Detour Ro" intnum="4301" />
+<marker lat="28.040701982622" lng="-81.6206030336727" intname="SR 17 (US and SR 542" intnum="1302" />
+<marker lat="28.038483953359" lng="-81.9900511464065" intname="Old Tampa and Wabash Av" intnum="1130" />
+<marker lat="28.034864857551" lng="-81.9900933875169" intname="Wabash Av and Jesse Kee" intnum="3113" />
+<marker lat="28.0354614737508" lng="-81.9880128084924" intname="Oakhill A and Plateau S" intnum="3126" />
+<marker lat="28.0350619342751" lng="-82.0192998095877" intname="US 92 (SR and Airport (" intnum="1127" />
+<marker lat="28.0342383103453" lng="-81.9879393472849" intname="Marjorie and Plateau S" intnum="3127" />
+<marker lat="28.0331889092267" lng="-81.7813543809301" intname="SR 655 (R and CR 542 (K" intnum="1243" />
+<marker lat="28.0331111456415" lng="-81.7683918268295" intname="Ave. J and 34th Stre" intnum="3213" />
+<marker lat="28.033305354858" lng="-82.0018646657545" intname="Highland and Old Tampa" intnum="2123" />
+<marker lat="28.0331919107357" lng="-81.8208928310214" intname="CR 542 (K and Helms ST" intnum="3212" />
+<marker lat="28.0330705373575" lng="-81.8218719724459" intname="CR 542 (K and Helms ST" intnum="3212" />
+<marker lat="28.0331049206069" lng="-81.8145633340139" intname="CR 542 (K and Thornhill" intnum="1229" />
+<marker lat="28.0313835343821" lng="-82.0394933645108" intname="US 92 (SR and Clark Rd." intnum="1153" />
+<marker lat="28.0313712163469" lng="-81.9900068528946" intname="Wabash Av and West High" intnum="1110" />
+<marker lat="28.0313402289483" lng="-81.9884612512513" intname="Highland and Plateau S" intnum="3124" />
+<marker lat="28.0301195619175" lng="-81.7512311033816" intname="Ave. G NW and Lake Howa" intnum="1224" />
+<marker lat="28.0296069243801" lng="-81.7592041479446" intname="Ave. G NW and 26th St." intnum="1221" />
+<marker lat="28.0295752317847" lng="-81.7793314488929" intname="Recker Hw and Ave. G NW" intnum="1232" />
+<marker lat="28.0294851773502" lng="-81.7761000803832" intname="Ave. G NW and 42nd St." intnum="1204" />
+<marker lat="28.0294597398251" lng="-81.7679960685233" intname="Ave. G NW and 34th St." intnum="1205" />
+<marker lat="28.0295943801615" lng="-82.0184236363429" intname="Airport R and Old Tampa" intnum="2110" />
+<marker lat="28.0293869835729" lng="-82.0394637440048" intname="CR 542 (O and Clark Rd." intnum="1154" />
+<marker lat="28.0279583800573" lng="-81.9075197246984" intname="Combee (S and Crystal L" intnum="1109" />
+<marker lat="28.0279021933142" lng="-81.9112941443542" intname="North Cry and Crystal L" intnum="3130" />
+<marker lat="28.0272364635973" lng="-82.0557673817315" intname="US 92 (SR and County Li" intnum="1144" />
+<marker lat="28.0259400978039" lng="-81.6196715667541" intname="SR 17 (Sc and Frederick" intnum="1325" />
+<marker lat="28.0260935640277" lng="-81.8913125201375" intname="Reynolds and Skyview D" intnum="1112" />
+<marker lat="28.0259445455879" lng="-81.9041984062122" intname="Skyview D and NEPTUNE D" intnum="4107" />
+<marker lat="28.0259947611694" lng="-81.9075857214956" intname="Combee (S and Skyview D" intnum="1120" />
+<marker lat="28.0257968304259" lng="-81.7761137260502" intname="Recker Hw and Spirit La" intnum="1203" />
+<marker lat="28.0258732543554" lng="-81.9899905920924" intname="Wabash Av and Ariana St" intnum="2104" />
+<marker lat="28.0259673780316" lng="-81.9858144694871" intname="Ariana Bl and Southern" intnum="4130" />
+<marker lat="28.0241580126443" lng="-81.9078776326231" intname="Combee (S and S. Crysta" intnum="1137" />
+<marker lat="28.0224653145907" lng="-81.6774652289265" intname="SR 542 (D and Carl Floy" intnum="1317" />
+<marker lat="28.022495478121" lng="-81.7024760700374" intname="SR 542 (D and Lake Elbe" intnum="3211" />
+<marker lat="28.0224800600556" lng="-81.693856628334" intname="SR 542 (D and Buckeye L" intnum="1238" />
+<marker lat="28.0224018117436" lng="-81.6610062760611" intname="SR 542 (D and CR 550 (O" intnum="2305" />
+<marker lat="28.0186937528806" lng="-81.6408526637844" intname="SR 542 (D and Cypresswo" intnum="1322" />
+<marker lat="28.0186438860754" lng="-81.6324672393653" intname="US 27 (SR and SR 542" intnum="1301" />
+<marker lat="28.0168510253915" lng="-81.759743188127" intname="Recker (S and Coleman R" intnum="1219" />
+<marker lat="28.0169290057931" lng="-81.9078006287972" intname="Combee (S and A Z Park" intnum="1131" />
+<marker lat="28.0150722699041" lng="-81.6609560223005" intname="SR 550 and Lake Dais" intnum="1341" />
+<marker lat="28.0149763150921" lng="-81.7719619447717" intname="Coleman R and Hatfield" intnum="2204" />
+<marker lat="28.0149511203547" lng="-81.7760945672551" intname="Spirit La and Coleman R" intnum="1237" />
+<marker lat="28.0147875848851" lng="-81.7554431597565" intname="SR 655 and 24th St." intnum="4227" />
+<marker lat="28.0114506300326" lng="-81.5797423497783" intname="Lake Mabe and 500' N" intnum="2319" />
+<marker lat="28.0114863473914" lng="-81.8912729488041" intname="Reynolds and Maine Ave" intnum="1155" />
+<marker lat="28.0113580319956" lng="-81.9059284661799" intname="Maine Ave and Park St." intnum="3102" />
+<marker lat="28.011373928514" lng="-81.9077492932462" intname="Combee Rd and Maine Ave" intnum="1134" />
+<marker lat="28.0103421956983" lng="-81.8211472074413" intname="SR 540 (W and Thornhill" intnum="1240" />
+<marker lat="28.008249184095" lng="-81.9077460986912" intname="US 98 (SR and Combee (S" intnum="1111" />
+<marker lat="28.004855353945" lng="-81.7795067304429" intname="SR 540 (W and Spirit La" intnum="1223" />
+<marker lat="28.0009627915001" lng="-81.7566582602377" intname="SR 540 and SR 655" intnum="1247" />
+<marker lat="28.0022981727933" lng="-81.6626406700514" intname="Lake Ned and Doll Rd." intnum="2328" />
+<marker lat="27.9991112331797" lng="-81.9008744576424" intname="US 98 and Polk Pkwy" intnum="1146" />
+<marker lat="27.9960131147943" lng="-81.9240225393728" intname="CR 37B (L and Polk Park" intnum="1147" />
+<marker lat="27.9967330804649" lng="-81.6731807128346" intname="Cypress G and Lk. Ned D" intnum="4214" />
+<marker lat="27.9967763933494" lng="-81.6735285776143" intname="Cypress G and Lk. Ned D" intnum="4214" />
+<marker lat="27.9966765395467" lng="-81.6856711844678" intname="Cypress G and Register" intnum="4222" />
+<marker lat="27.9967824302815" lng="-81.6887395974951" intname="Cypress G and Cypress G" intnum="1234" />
+<marker lat="27.9967888527033" lng="-81.8993460701546" intname="US 98 (SR and SR 540 (W" intnum="1126" />
+<marker lat="27.9968252418924" lng="-81.89119519672" intname="Winter La and Reynolds" intnum="1116" />
+<marker lat="27.9963732120717" lng="-81.673169256782" intname="Cypress G and Lk. Ned D" intnum="4214" />
+<marker lat="27.9963684675501" lng="-82.0558525689726" intname="County Li and Drane Fie" intnum="1148" />
+<marker lat="27.9947971500987" lng="-81.7380715828302" intname="US 17 (SR and Snively B" intnum="1202" />
+<marker lat="27.9923278169979" lng="-81.736019994832" intname="Snively A and 4th St." intnum="3203" />
+<marker lat="27.9894619464071" lng="-81.662435010765" intname="Cypress G and Meadow La" intnum="3313" />
+<marker lat="27.9896015300493" lng="-81.6661672207126" intname="Cypress G and Mahogany" intnum="3309" />
+<marker lat="27.989331763508" lng="-81.6885268998062" intname="Cypress G and Register" intnum="1228" />
+<marker lat="27.9890233890794" lng="-81.6607551801037" intname="Cypress G and Fox Ridge" intnum="3314" />
+<marker lat="27.9875458827879" lng="-81.7318947025826" intname="Snively A and 9th St." intnum="3202" />
+<marker lat="27.9871991913302" lng="-81.7314850133534" intname="Snively ( and American" intnum="2212" />
+<marker lat="27.9866859825067" lng="-81.7473506515871" intname="US 17 (S and SR 540" intnum="1248" />
+<marker lat="27.9828883974319" lng="-81.7515334336494" intname="US 17 (SR and Gilbert S" intnum="1241" />
+<marker lat="27.9819241381374" lng="-81.7841696325018" intname="Spirit Lk and Thornhill" intnum="1242" />
+<marker lat="27.982059081343" lng="-82.0558920128045" intname="County L and Medulla R" intnum="1162" />
+<marker lat="27.9802540595768" lng="-81.9239235410362" intname="CR 37B (L and Hallam Dr" intnum="1138" />
+<marker lat="27.9787903004738" lng="-81.6309307982945" intname="US 27 (SR and SR 540 (C" intnum="1314" />
+<marker lat="27.9784739491277" lng="-81.6525259771115" intname="SR 540 (C and Lk. Bess\/" intnum="1330" />
+<marker lat="27.9784189543499" lng="-81.6607532302649" intname="SR 540 and Lk. Ruby\/" intnum="1308" />
+<marker lat="27.959448653864" lng="-81.5947030975033" intname="SR 17 and CR 17A" intnum="1624" />
+<marker lat="27.978275876191" lng="-81.6931240447393" intname="Helena Ro and Bridgewat" intnum="2222" />
+<marker lat="27.9756979228097" lng="-81.6935575337112" intname="Helena Ro and Bridgewat" intnum="2223" />
+<marker lat="27.9748231879245" lng="-81.7660135406028" intname="W. Crysta and Tangerine" intnum="3204" />
+<marker lat="27.9748783239346" lng="-81.973208770224" intname="Pipkin Rd and Old Hwy." intnum="1150" />
+<marker lat="27.9749324722134" lng="-81.9688984803908" intname="W. Pipkin and Dorman Rd" intnum="3103" />
+<marker lat="27.9747416207574" lng="-81.9238760400241" intname="CR 37B (L and Lake Miri" intnum="1129" />
+<marker lat="27.9747889318606" lng="-81.9376052065454" intname="Lk. Miria and Fairfax" intnum="3112" />
+<marker lat="27.9746285749089" lng="-82.0124556524601" intname="Yates Rd. and Medulla" intnum="4106" />
+<marker lat="27.974605964178" lng="-81.9320259821265" intname="Lake Miri and Live Oak" intnum="2119" />
+<marker lat="27.9720368835141" lng="-81.9690641060832" intname="Dorman Ro and Mid\/Block" intnum="3118" />
+<marker lat="27.9676453126678" lng="-81.7022500983611" intname="CR 540A ( and Harden Rd" intnum="2220" />
+<marker lat="27.9675042922883" lng="-81.7079327009683" intname="CR 540A ( and Lake Eloi" intnum="2221" />
+<marker lat="27.9675431793299" lng="-81.7268371456157" intname="Rifle Ran and Eagle Lak" intnum="1231" />
+<marker lat="27.9675055517452" lng="-81.7841434629126" intname="Spirit La and Sheffield" intnum="4201" />
+<marker lat="27.9675814717161" lng="-81.8795813562119" intname="US 98 (SR and Clubhouse" intnum="1118" />
+<marker lat="27.9677015334181" lng="-82.0102902002672" intname="Brook Dri and Brook Way" intnum="3134" />
+<marker lat="27.9675707773007" lng="-81.9698738779396" intname="Schoolhou and Dorman Rd" intnum="3119" />
+<marker lat="27.967606748317" lng="-81.9645397560657" intname="SR 37 (S. and Fitzgeral" intnum="1135" />
+<marker lat="27.9675490739416" lng="-81.8908806963393" intname="Clubhouse and Yarboroug" intnum="1164" />
+<marker lat="27.9675073283286" lng="-81.9498969930135" intname="CR 37A (S and Fitzgeral" intnum="1181" />
+<marker lat="27.9675051745483" lng="-81.9319380387465" intname="Clubhouse and Live Oak" intnum="2101" />
+<marker lat="27.9674256512861" lng="-81.9237518328588" intname="CR 37B (L and CR 540 (C" intnum="1106" />
+<marker lat="27.9655944122598" lng="-81.8827986883834" intname="9th Stree and Highland" intnum="3136" />
+<marker lat="27.965667277247" lng="-81.8782987378606" intname="US 98 (SR and North of" intnum="1101" />
+<marker lat="27.9652074934274" lng="-81.8845350162727" intname="11th Stre and Highland" intnum="3137" />
+<marker lat="27.9662275227322" lng="-81.9721989149385" intname="Schoolhou and Medulla E" intnum="3120" />
+<marker lat="27.9642114017921" lng="-81.9730906713611" intname="Old Highw and Schoolhou" intnum="3117" />
+<marker lat="27.964555679194" lng="-81.9505695216591" intname="Scott Lk. and 5505" intnum="4108" />
+<marker lat="27.9644938219102" lng="-81.8867896317191" intname="Stricklan and Dale" intnum="3122" />
+<marker lat="27.9657014851655" lng="-82.0123563340443" intname="Yates Roa and Wagner El" intnum="3132" />
+<marker lat="27.9601917618528" lng="-81.6689612074413" intname="CR 540A and Thompson" intnum="4611" />
+<marker lat="27.9603558735428" lng="-81.6770487936132" intname="CR 540A and CR 653" intnum="4612" />
+<marker lat="27.9601777854353" lng="-81.9236877209638" intname="CR 37B (L and Lk. Sewar" intnum="1412" />
+<marker lat="27.9582897428528" lng="-81.7807959421961" intname="US 17 (SR and Bomber Rd" intnum="1520" />
+<marker lat="27.9572060469224" lng="-81.9113590847704" intname="Harrell's and High Ridg" intnum="3410" />
+<marker lat="27.9569575308566" lng="-81.6219914705257" intname="US 27 SR and Thompson" intnum="1621" />
+<marker lat="27.957134417819" lng="-81.7266986768605" intname="Rifle Ran and Bomber Rd" intnum="1517" />
+<marker lat="27.9569969936487" lng="-81.9236451354989" intname="CR 37B (L and George Je" intnum="1411" />
+<marker lat="27.9559895411421" lng="-81.7833897528814" intname="US 17 (SR and Spirit La" intnum="1519" />
+<marker lat="27.9534462786202" lng="-81.9690544865519" intname="SR 37 and CR 540A (" intnum="1403" />
+<marker lat="27.9529946566121" lng="-81.7230360912451" intname="Ave. A (W and 4th Stree" intnum="3501" />
+<marker lat="27.9529957229499" lng="-81.7266452255018" intname="Rifle Ran and Fourth St" intnum="1522" />
+<marker lat="27.9529655756512" lng="-81.8700010099641" intname="US 98 (SR and CR 540A (" intnum="1409" />
+<marker lat="27.9529740331232" lng="-81.8824665262028" intname="CR 540A and Crews Lk." intnum="1426" />
+<marker lat="27.9529601775754" lng="-81.8906886021678" intname="CR 540A ( and Yarboroug" intnum="1424" />
+<marker lat="27.9529606775392" lng="-81.9442957418271" intname="CR 540A ( and Malcomb D" intnum="1420" />
+<marker lat="27.9529581560448" lng="-81.9484101373632" intname="CR 37A (S and CR 540A (" intnum="1405" />
+<marker lat="27.9529094799353" lng="-81.9235859657238" intname="CR 37B (L and CR 540A (" intnum="1408" />
+<marker lat="27.952862471016" lng="-82.0553885110351" intname="County Li and Ewell Rd." intnum="1422" />
+<marker lat="27.9528980173377" lng="-82.0119295926013" intname="Yates Rd. and Ewell Rd." intnum="4403" />
+<marker lat="27.9485819030008" lng="-81.9711560892642" intname="SR 37 and Home Depo" intnum="1421" />
+<marker lat="27.9472780952443" lng="-81.7264749946241" intname="CR 655 and 7th St. E" intnum="4506" />
+<marker lat="27.9440530776151" lng="-81.7982875268872" intname="US 17 (SR and 91 Mine R" intnum="2501" />
+<marker lat="27.9385293970347" lng="-82.0084978626543" intname="Shepherd and Carlton A" intnum="1416" />
+<marker lat="27.9385168561921" lng="-81.9764143602402" intname="Shepherd and Old Highw" intnum="1410" />
+<marker lat="27.9385096174038" lng="-81.9740970415856" intname="SR 37 and Shepherd" intnum="1404" />
+<marker lat="27.9384601278885" lng="-81.9865670628932" intname="Shepherd and Imperial" intnum="1418" />
+<marker lat="27.9384060350054" lng="-82.0017572743526" intname="Shepherd and Lunn\/Sund" intnum="1407" />
+<marker lat="27.9382063414141" lng="-82.0493384275319" intname="Shepherd and Coronet R" intnum="2406" />
+<marker lat="27.9293121502585" lng="-82.0142320308837" intname="Bailey Rd and Davis Rd." intnum="4402" />
+<marker lat="27.9271797173905" lng="-82.0552595281096" intname="SR 60 and County Li" intnum="1417" />
+<marker lat="27.9251424231124" lng="-81.5393729287418" intname="Mammoth G and Masterpie" intnum="4604" />
+<marker lat="27.9243885325486" lng="-81.6063801183286" intname="US 27 (SR and Mountain" intnum="1625" />
+<marker lat="27.9200934289716" lng="-82.0141329088992" intname="Bailey Rd and Willis Rd" intnum="2412" />
+<marker lat="27.9163304918088" lng="-81.726402466154" intname="SR 60 and Rifle Ran" intnum="1503" />
+<marker lat="27.9139814465955" lng="-81.5537552054295" intname="Burns Ave and Buckmoore" intnum="1626" />
+<marker lat="27.9135028518754" lng="-81.5991189256409" intname="Washingto and Donald Du" intnum="2622" />
+<marker lat="27.9134792674725" lng="-81.603277096091" intname="US 27 (SR and Washingto" intnum="1615" />
+<marker lat="27.9128476626661" lng="-81.8697166669219" intname="E.F. Grif and Lyle Park" intnum="2505" />
+<marker lat="27.9102209958466" lng="-81.5875544173953" intname="SR 17 (US and North Ave" intnum="1608" />
+<marker lat="27.9089498034928" lng="-81.8434855026606" intname="US 98 (SR and Manor Dr." intnum="1521" />
+<marker lat="27.9039622108339" lng="-81.8334787594329" intname="SR 555\/US and SR 60A BY" intnum="1523" />
+<marker lat="27.90404241691" lng="-81.8434048496423" intname="Van Fleet and Broadway" intnum="1513" />
+<marker lat="27.903972363462" lng="-81.8404120981897" intname="Van Fleet and Wilson Av" intnum="1518" />
+<marker lat="27.9039453318566" lng="-81.8303549922987" intname="US 17 (SR and SR 555 (C" intnum="1515" />
+<marker lat="27.9016032285996" lng="-81.5559489680754" intname="Buckmoore and Sunset" intnum="4608" />
+<marker lat="27.9012896002547" lng="-81.5937025685985" intname="Central A and Walker St" intnum="1617" />
+<marker lat="27.9012794985034" lng="-81.5916251307401" intname="Central A and Wetmore S" intnum="1604" />
+<marker lat="27.9012527053505" lng="-81.5895684387438" intname="Central A and First St." intnum="1605" />
+<marker lat="27.9012282663235" lng="-81.586288427936" intname="SR 17 (US and Central A" intnum="1606" />
+<marker lat="27.9007567815051" lng="-81.5999542640988" intname="US 27 (SR and Central A" intnum="1614" />
+<marker lat="27.8966423965325" lng="-81.5833324188382" intname="SR 17 (US and Fourth St" intnum="1612" />
+<marker lat="27.8968446595729" lng="-81.8286850632169" intname="US 17\/98 and Main St." intnum="1506" />
+<marker lat="27.8966275889545" lng="-81.8588040113691" intname="SR 60 and CR 555 (B" intnum="1516" />
+<marker lat="27.8943966048154" lng="-81.9514005124281" intname="SR 60 and Kid Ellis" intnum="1415" />
+<marker lat="27.8964507060878" lng="-81.8415553358556" intname="SR 60 (Ma and Wilson Av" intnum="1508" />
+<marker lat="27.896449638718" lng="-81.8424230191294" intname="SR 60 (Ma and Central A" intnum="1509" />
+<marker lat="27.8964318091968" lng="-81.8432872588059" intname="Main St. and Broadway" intnum="1510" />
+<marker lat="27.894758101918" lng="-81.5895786359172" intname="SR 60 and First St." intnum="1613" />
+<marker lat="27.8941441837908" lng="-81.5475808944881" intname="SR 60 and Lewis Gri" intnum="4601" />
+<marker lat="27.8949483192024" lng="-81.9736485998257" intname="SR 60 and SR 37" intnum="1401" />
+<marker lat="27.8949206397679" lng="-81.9655078626537" intname="SR 60 and Ninth St." intnum="1402" />
+<marker lat="28.3375033022196" lng="-81.6719637910635" intname="US 27 (SR and POLO PARK" intnum="1332" />
+<marker lat="28.254141179982" lng="-81.6585815432826" intname="US 27 (S and CR 54 \/ D" intnum="1329" />
+<marker lat="28.2479611753666" lng="-82.0555385398668" intname="US 98 (SR and SR 471" intnum="2112" />
+<marker lat="28.2449415140962" lng="-81.5905395281876" intname="CR 54 and Lk. Wilso" intnum="1338" />
+<marker lat="28.2447239114236" lng="-81.6516456302301" intname="Dunson Rd and Symphony" intnum="3315" />
+<marker lat="28.2446243217088" lng="-81.6568598435455" intname="US 27 (SR and Dunson Rd" intnum="1327" />
+<marker lat="28.2356654722428" lng="-81.6517125576606" intname="US 27 (SR and I-4 (SR 4" intnum="1313" />
+<marker lat="28.2249151840647" lng="-81.6453473330824" intname="US 27 (SR and Home Run" intnum="1318" />
+<marker lat="28.1929278546481" lng="-82.000872105243" intname="US 98 (SR and Rockridge" intnum="1143" />
+<marker lat="28.184861821634" lng="-81.6400729472471" intname="US 27 (SR and 650' Nort" intnum="2323" />
+<marker lat="28.1801883773077" lng="-81.8255022982795" intname="SR 33 and Berkley R" intnum="1225" />
+<marker lat="28.1682479892562" lng="-82.0210859489152" intname="West Socr and West of H" intnum="2129" />
+<marker lat="28.1665956633397" lng="-81.8017932532974" intname="SR 559 and CR 557A \/" intnum="2219" />
+<marker lat="28.1669233781011" lng="-82.0232672395808" intname="Kathleen and S.B. Merr" intnum="2128" />
+<marker lat="28.1656152057386" lng="-81.7358664172319" intname="CR 557 and CR 17" intnum="4315" />
+<marker lat="28.1611236808099" lng="-81.9737350228121" intname="US 98 (SR and Providenc" intnum="1142" />
+<marker lat="28.1593883814691" lng="-81.603127335486" intname="US 17\/92 and CR 547\/Ba" intnum="1311" />
+<marker lat="28.1587536804929" lng="-81.6882053535233" intname="CR 17 (Ol and EDNA HOLL" intnum="3229" />
+<marker lat="28.1584498028085" lng="-81.6802888889828" intname="CR 17 (Ol and Kuder Roa" intnum="3311" />
+<marker lat="28.1577307237859" lng="-81.6397481509372" intname="US 27 (SR and CR 547" intnum="1319" />
+<marker lat="28.157379043135" lng="-81.9055676009415" intname="Old Polk and Bryant Rd" intnum="4129" />
+<marker lat="28.1537916598577" lng="-81.8373572199532" intname="Mt. Olive and Marker Rd" intnum="4224" />
+<marker lat="28.1518477346433" lng="-81.9288431171985" intname="Old Polk and Spruce Rd" intnum="4134" />
+<marker lat="28.143005549223" lng="-81.6641333973397" intname="Polk City and Lake Lowe" intnum="4302" />
+<marker lat="28.142796471499" lng="-81.66401588657" intname="Polk City and Lake Lowe" intnum="4302" />
+<marker lat="28.1424330365512" lng="-81.9382699697319" intname="Old Polk and Hammock S" intnum="4133" />
+<marker lat="28.0000455821604" lng="-81.924081760245" intname="CR 37B (L and Lowe's En" intnum="1160" />
+<marker lat="28.1401437219084" lng="-81.8142196190055" intname="Old Berkl and Berkley E" intnum="3227" />
+<marker lat="28.1354348382835" lng="-81.9736479248906" intname="US 98 (SR and Duff Rd." intnum="1152" />
+<marker lat="28.1352757167208" lng="-82.0233336711938" intname="Kathleen and Duff Rd." intnum="1168" />
+<marker lat="28.1320454453415" lng="-81.9242559033774" intname="Walt Will and Wendell W" intnum="3128" />
+<marker lat="28.1284183569205" lng="-81.9383301994672" intname="Old Polk and Walt Will" intnum="1170" />
+<marker lat="28.1283470813981" lng="-81.9464909415694" intname="N. Socrum and Old Polk" intnum="1121" />
+<marker lat="28.1282002162267" lng="-81.9564401406103" intname="N. Socrum and Marcum Rd" intnum="1117" />
+<marker lat="28.128131088384" lng="-81.9735995117499" intname="US 98 (SR and Marcum Rd" intnum="1128" />
+<marker lat="28.1277137612264" lng="-82.0232410488712" intname="Kathleen and Wheeler" intnum="3105" />
+<marker lat="28.1254428491554" lng="-82.0414682916548" intname="1st Stree and 100' east" intnum="2136" />
+<marker lat="28.1248245717982" lng="-81.9383513977578" intname="Walt Will and Walt Loop" intnum="1171" />
+<marker lat="28.1243374522661" lng="-82.0232880227793" intname="Kathleen and Central A" intnum="1161" />
+<marker lat="28.1243415749915" lng="-82.0391338574508" intname="1st Stree and 200' west" intnum="2135" />
+<marker lat="28.1212938871519" lng="-81.6396989284387" intname="US 27 (SR and CR 17 (Ol" intnum="1307" />
+<marker lat="28.1209648477332" lng="-81.9509318594052" intname="Leelon Rd and Odom Rd." intnum="3121" />
+<marker lat="28.1209127875744" lng="-81.9654459251371" intname="W. Daught and 200 ' eas" intnum="2133" />
+<marker lat="28.1209287413628" lng="-81.9565053582646" intname="Leelon and Daughtery" intnum="4119" />
+<marker lat="28.120882016131" lng="-81.9892124812293" intname="W. Daught and 350' E. o" intnum="2124" />
+<marker lat="28.1208192414784" lng="-81.9736774974117" intname="US 98 (SR and Daughtery" intnum="1125" />
+<marker lat="28.1182903516607" lng="-81.9079441380881" intname="SR 33 and Combee Rd" intnum="2105" />
+<marker lat="28.1175808938296" lng="-81.6396993020198" intname="US 27 (SR and Commerce" intnum="1320" />
+<marker lat="28.1171258058833" lng="-81.999815558384" intname="Gib-Gallo and North of" intnum="2121" />
+<marker lat="28.1147523857242" lng="-82.0067305425962" intname="Galloway and South of" intnum="2122" />
+<marker lat="28.1141068945878" lng="-81.5903967198096" intname="CR 580 and Powerline" intnum="2318" />
+<marker lat="28.1140285810955" lng="-81.6148543752775" intname="Johnson A and 20th St." intnum="3305" />
+<marker lat="28.1140147201601" lng="-81.617972317769" intname="US 17\/92 and Johnson A" intnum="1310" />
+<marker lat="28.1134551723867" lng="-81.9737168650439" intname="US 98 (SR and Gib-Gallo" intnum="1151" />
+<marker lat="28.1101629103568" lng="-81.9468363290261" intname="N. Socrum and Old Combe" intnum="1124" />
+<marker lat="28.1098790812956" lng="-82.0067105164467" intname="N. Gallow and Spivey Rd" intnum="4126" />
+<marker lat="28.1077665111924" lng="-81.934122710921" intname="SR 33 and Old Combe" intnum="1139" />
+<marker lat="28.106677677734" lng="-81.6233204928329" intname="Hinson Av and Tenth St." intnum="1303" />
+<marker lat="28.1067102951866" lng="-81.6180237047871" intname="Hinson Av and Seventeen" intnum="1305" />
+<marker lat="28.1066703380912" lng="-81.6266013512116" intname="Hinson Av and Sixth St." intnum="1304" />
+<marker lat="28.1062355681228" lng="-81.6571537454912" intname="US 17\/92 and Dyson Rd." intnum="4305" />
+<marker lat="28.1025926905402" lng="-81.7129157998011" intname="Experimen and U of F Ex" intnum="2218" />
+<marker lat="28.1003626360611" lng="-81.7127986829552" intname="Experimen and U of F Ex" intnum="2217" />
+<marker lat="28.0965455032957" lng="-82.0066164828679" intname="Kathleen and Galloway" intnum="1114" />
+<marker lat="28.0918514356927" lng="-81.7296563289369" intname="US 17\/92 and Haines Bl" intnum="1217" />
+<marker lat="28.0914551404418" lng="-82.0067017141236" intname="Galloway and Sleepy Hi" intnum="4103" />
+<marker lat="28.0913991217951" lng="-81.9965487162157" intname="Kathleen and Sleepy Hi" intnum="1157" />
+<marker lat="28.0904770458405" lng="-81.7313620738311" intname="CR 555 (B and W. Pierce" intnum="2209" />
+<marker lat="28.0887735023381" lng="-81.7438997488094" intname="Pierce St and Curve (LK" intnum="4217" />
+<marker lat="28.0877336486998" lng="-81.7296010696393" intname="US 92 (SR and Cummings" intnum="3207" />
+<marker lat="28.0877755260071" lng="-81.7309978812845" intname="Buena Vis and Cummings" intnum="3208" />
+<marker lat="28.0878308141423" lng="-81.9570202214164" intname="N. Fla. A and Glenwood" intnum="3131" />
+<marker lat="28.0845351490381" lng="-81.6068098848863" intname="CR 544 and 30th Stre" intnum="2321" />
+<marker lat="28.0845009925401" lng="-81.6216826271018" intname="SR 17 (US and SR 544\/CR" intnum="1316" />
+<marker lat="28.0845092436341" lng="-81.6240811874554" intname="SR 544 and Alta Vist" intnum="3303" />
+<marker lat="28.0841607349529" lng="-81.9952436467609" intname="Kathleen and Handley" intnum="1172" />
+<marker lat="28.0818853316415" lng="-81.4707429067167" intname="Marigold and POINCIANA" intnum="2329" />
+<marker lat="28.0806736847666" lng="-81.6494793201905" intname="US 27 (SR and SR 544 (L" intnum="1315" />
+<marker lat="28.0805842421837" lng="-81.973794867079" intname="CR 582 and Providenc" intnum="1156" />
+<marker lat="28.0805760408357" lng="-81.9811425290628" intname="Griffin R and Mall Hill" intnum="1149" />
+<marker lat="28.0805186232405" lng="-81.9943799476928" intname="Kathleen and Griffin R" intnum="1132" />
+<marker lat="28.0804426558841" lng="-82.014932042315" intname="Galloway and Sutton Rd" intnum="3115" />
+<marker lat="28.0804305399228" lng="-82.0067209689872" intname="Galloway and Griffin R" intnum="1133" />
+<marker lat="28.077135059399" lng="-81.776267029324" intname="Dairy Rd. and Oakview R" intnum="4213" />
+<marker lat="28.0756571765717" lng="-81.7326855701915" intname="US 92 (SR and US 17 (SR" intnum="1216" />
+<marker lat="28.0734526663016" lng="-81.8174645867769" intname="Berkley R and Old Dixie" intnum="1212" />
+<marker lat="28.0735560653985" lng="-81.8504273997547" intname="Old Dixie and Loop Rd.\/" intnum="4219" />
+<marker lat="28.071383967671" lng="-81.7885925772252" intname="SR 559 and Bay Stree" intnum="3216" />
+<marker lat="28.0701227920405" lng="-81.7764162303521" intname="Dairy Rd. and Gandy Rd." intnum="3210" />
+<marker lat="28.0694884999098" lng="-82.0148167696793" intname="Sutton Ro and W. Bella" intnum="2131" />
+<marker lat="28.0686568327982" lng="-81.8174382272946" intname="Berkley R and Luna Rd." intnum="3219" />
+<marker lat="28.0660897358957" lng="-81.7763435521906" intname="Dairy Roa and Victoria" intnum="3223" />
+<marker lat="28.0632820669315" lng="-81.7762882117521" intname="Bridgers and Dairy Rd." intnum="1214" />
+<marker lat="28.0620870361149" lng="-81.9028212634372" intname="Morgan Co and Woodland" intnum="3116" />
+<marker lat="28.0624895987501" lng="-81.908048842842" intname="Combee (S and Morgan Co" intnum="1104" />
+<marker lat="28.0623374581245" lng="-81.7886925993624" intname="Main St.( and Bridgers" intnum="1213" />
+<marker lat="28.0622247019916" lng="-81.7843760050812" intname="Bridgers and Bennett S" intnum="2208" />
+<marker lat="28.0623473814202" lng="-81.9795187254371" intname="Lakeland and Lakeland" intnum="4101" />
+<marker lat="28.0623183840926" lng="-82.0063533922272" intname="Galloway and 10th St." intnum="2114" />
+<marker lat="28.0621859910363" lng="-81.9901837597685" intname="Wabash and 10th St." intnum="4110" />
+<marker lat="28.0610161443057" lng="-81.7762756026847" intname="US 92 (SR and Charlotte" intnum="1215" />
+<marker lat="28.0588515028947" lng="-81.7886831995263" intname="US 92 (SR and Main St." intnum="1210" />
+<marker lat="28.058629684277" lng="-81.7843918514662" intname="US 92 (SR and Bennet St" intnum="1209" />
+<marker lat="28.0585492006005" lng="-81.7828077869214" intname="US 92 (SR and Havendale" intnum="1208" />
+<marker lat="28.0576700532129" lng="-81.7327843098028" intname="US 17 and Hyland" intnum="1218" />
+<marker lat="28.0576505148161" lng="-81.8133201510886" intname="US 92 (SR and Recker Hw" intnum="1211" />
+<marker lat="28.0569611708539" lng="-81.8175432074437" intname="US 92 (SR and Berkley R" intnum="1220" />
+<marker lat="28.0552056255297" lng="-81.9080201611621" intname="Combee Rd and Hardin Co" intnum="1113" />
+<marker lat="28.0550517010164" lng="-81.7783397479727" intname="Havendale and Derby Ave" intnum="1236" />
+<marker lat="28.0546143654177" lng="-81.8134000305407" intname="SR 655 and Derby Ave" intnum="4209" />
+<marker lat="28.0548215735038" lng="-81.8322829057521" intname="US 92 (SR and Polk Park" intnum="1245" />
+<marker lat="28.0548777859168" lng="-82.0154510015702" intname="Swindell and Sutton Rd" intnum="3101" />
+<marker lat="28.0530932916337" lng="-81.8133842950533" intname="SR 655 (R and Thornhill" intnum="4216" />
+<marker lat="28.0547701435518" lng="-81.9942403410346" intname="Memorial and Chestnut" intnum="1108" />
+<marker lat="28.0547592679123" lng="-81.9901865990746" intname="Memorial and Wabash Av" intnum="1107" />
+<marker lat="28.0538477771004" lng="-81.7762665701729" intname="Havendale and 42nd St." intnum="1207" />
+<marker lat="28.0533797706655" lng="-81.8360285296568" intname="US 92 (SR and Polk Park" intnum="1246" />
+<marker lat="28.0512168809464" lng="-81.7927451567561" intname="SR 655 and Ariana" intnum="4228" />
+<marker lat="28.0509160081091" lng="-81.770050362619" intname="Havendale and Jersey Rd" intnum="1235" />
+<marker lat="28.0499386907232" lng="-81.7679793197676" intname="Havendale and 34th St." intnum="1233" />
+<marker lat="27.8948849851119" lng="-81.9819164458247" intname="SR 60 and Praire Mi" intnum="1419" />
+<marker lat="27.8940917788264" lng="-81.5559384083035" intname="SR 60 and Buckmoore" intnum="1618" />
+<marker lat="27.894027931968" lng="-81.585470308522" intname="SR 60 and Third St." intnum="1603" />
+<marker lat="27.8939441612301" lng="-81.5646582581919" intname="SR 60 and Eleventh" intnum="1616" />
+<marker lat="27.8940079215925" lng="-81.5683722527265" intname="SR 60 and Marietta" intnum="3605" />
+<marker lat="27.8931860079641" lng="-81.8284466801653" intname="US 17\/98 and Wabash Av" intnum="1505" />
+<marker lat="27.8920596389065" lng="-81.5812928830473" intname="SR 17 (US and Emerald A" intnum="3606" />
+<marker lat="27.8914266067122" lng="-81.8282324973313" intname="US 17\/98 and Martin Lu" intnum="1504" />
+<marker lat="27.886891601222" lng="-81.5814029182823" intname="SR 17 (US and Winston \/" intnum="3607" />
+<marker lat="27.8830526359664" lng="-81.7192658917556" intname="CR 655A ( and Near Ches" intnum="2504" />
+<marker lat="27.8823575242429" lng="-81.8284567833416" intname="US 17\/98 and Georgia S" intnum="1502" />
+<marker lat="27.8720776283095" lng="-81.5813519124082" intname="SR 17 (US and CR 17B (H" intnum="2621" />
+<marker lat="27.8508348307148" lng="-81.9773642443205" intname="SR 37 and CR 640" intnum="1413" />
+<marker lat="27.8508094380761" lng="-81.97319482499" intname="Old Hwy. and CR 640" intnum="2402" />
+<marker lat="27.8506799707069" lng="-82.0550638907718" intname="CR 640 and IMC\/Agric" intnum="2414" />
+<marker lat="27.8427755146869" lng="-81.5860239823792" intname="US 27 (SR and CR 640 (A" intnum="1619" />
+<marker lat="27.8327658740556" lng="-81.5262023239151" intname="SR 17 (US and Lake Shor" intnum="3614" />
+<marker lat="27.8330676673211" lng="-81.883230712533" intname="CR 555 and CR 640" intnum="2418" />
+<marker lat="27.8209883478075" lng="-81.7609850221708" intname="CR 640 and 80 Ft. Ro" intnum="4507" />
+<marker lat="27.8205328581291" lng="-81.8216367676948" intname="US 17\/98 and CR 640" intnum="1526" />
+<marker lat="27.7632986475077" lng="-81.5348296047432" intname="Mc Cloud and Snooks Wa" intnum="3604" />
+<marker lat="27.762535429366" lng="-81.4521179691868" intname="CR 630 and Blue Jord" intnum="4605" />
+<marker lat="27.7592206732379" lng="-81.5305525975783" intname="SR 17 (US and I Street" intnum="3610" />
+<marker lat="27.7557887045683" lng="-81.5305911203349" intname="SR 17 (US and CR 630" intnum="1601" />
+<marker lat="27.7557235230927" lng="-81.5483358636306" intname="CR 630 and Fort Clin" intnum="4614" />
+<marker lat="27.7554889407827" lng="-81.569046581963" intname="Frostproo and Frostproo" intnum="4606" />
+<marker lat="27.7534249981236" lng="-81.5486420442555" intname="CR 630 and Fort Clin" intnum="4614" />
+<marker lat="27.7533155934116" lng="-81.8014841952098" intname="US 17\/98 and First St." intnum="1524" />
+<marker lat="27.7519713988909" lng="-81.797508791849" intname="US 98 (SR and Oak St. \/" intnum="3504" />
+<marker lat="27.75192403603" lng="-81.8014625234351" intname="US 17\/98 and CR 630" intnum="1501" />
+<marker lat="27.74739428712" lng="-81.4743951740806" intname="Lake Reed and Blue Jord" intnum="2623" />
+<marker lat="27.748016892738" lng="-81.8873073860784" intname="CR 630 and CR 555 (A" intnum="2404" />
+<marker lat="27.7460181608118" lng="-81.5305615971868" intname="SR 17 (US and Wall St." intnum="1602" />
+<marker lat="27.7444180645141" lng="-81.8014601818854" intname="US 17 (SR and 6TH Stree" intnum="1507" />
+<marker lat="27.7375203611648" lng="-81.5304454921326" intname="SR 17 (US and 7th Stree" intnum="2604" />
+<marker lat="27.7336886537727" lng="-81.5726653655404" intname="US 27 (SR and US 98(SR" intnum="1610" />
+<marker lat="27.7557884660819" lng="-81.534711227358" intname="CR 630 and Palm Ave." intnum="2620" />
+<marker lat="27.6778897756041" lng="-81.5536992599988" intname="US 27 (SR and SR 17 (US" intnum="1620" />
+<marker lat="27.6642874715214" lng="-81.3786491441112" intname="CR 64 and Avon Park" intnum="2626" />
+<marker lat="27.6592900021361" lng="-81.3903054991337" intname="CR 64 and 4500 ' So" intnum="2627" />
+<marker lat="28.0472396360563" lng="-81.7246167616838" intname="SR 544 (L and Ware Ave." intnum="3214" />
+<marker lat="28.0422150492772" lng="-81.7678578695067" intname="34th ST. and Ave. R NW" intnum="3222" />
+<marker lat="28.0341821858553" lng="-81.9899649466454" intname="Wabash Av and Jesse Kee" intnum="3113" />
+<marker lat="28.0328768389093" lng="-81.7678931200833" intname="Ave. J and 34th Stre" intnum="3213" />
+<marker lat="28.0338339253124" lng="-81.7680082859055" intname="Ave. J and 34th Stre" intnum="3213" />
+<marker lat="28.0314080267296" lng="-81.9877225293907" intname="Highland and Plateau S" intnum="3124" />
+<marker lat="28.0271836701227" lng="-81.9121350006747" intname="North Cry and Crystal L" intnum="3130" />
+<marker lat="28.0994691315307" lng="-82.0066457374628" intname="Kathleen and Galloway" intnum="1173" />
+<marker lat="27.9895529949481" lng="-81.89450419374" intname="US 98 and USF-PSC" intnum="1145" />
+<marker lat="27.9968257407747" lng="-81.9240219694873" intname="CR 37B (L and Polk Park" intnum="1159" />
+<marker lat="28.0020974414592" lng="-81.9028966041722" intname="US 98 and Polk Pkwy" intnum="1158" />
+<marker lat="28.13547628865" lng="-81.986065675305" intname="DUFF and GREEN" intnum="1165" />
+<marker lat="28.1134520439174" lng="-82.0199302253106" intname="CR 37A and DEESON" intnum="4112" />
+<marker lat="27.9748179936881" lng="-81.9896781818678" intname="PIPKIN and LUNN" intnum="1166" />
+<marker lat="27.9709047107017" lng="-82.0556363257645" intname="COUNTYLIN and PIPKIN RD" intnum="1169" />
+<marker lat="27.967567981928" lng="-81.8830759373098" intname="CR 540 and 8TH ST" intnum="1174" />
+<marker lat="27.9833874736118" lng="-81.923960267083" intname="CR37B and CHANDLER" intnum="1178" />
+<marker lat="28.1282652786361" lng="-81.9535828754796" intname="CR582 and LK GIB M" intnum="1167" />
+<marker lat="28.1208306724697" lng="-81.9861008042171" intname="DAUGHTRY and GREEN" intnum="1179" />
+<marker lat="28.119833653483" lng="-81.9902262042665" intname="W. Daught and 350' E. o" intnum="2125" />
+<marker lat="28.1285672553468" lng="-82.0233442774901" intname="Kathleen and Wheeler" intnum="3105" />
+<marker lat="28.1287401796631" lng="-81.9221756355871" intname="Walt Will and Wendell W" intnum="3129" />
+<marker lat="28.1208196249099" lng="-81.9505562233916" intname="Leelon Rd and Odom Rd." intnum="3121" />
+<marker lat="28.1214327054884" lng="-81.9506481396132" intname="Leelon Rd and Odom Rd." intnum="3121" />
+<marker lat="28.1205303401308" lng="-81.9602015145542" intname="W. Daught and 200 ' eas" intnum="2134" />
+<marker lat="28.2446016325904" lng="-81.6523695772508" intname="Dunson Rd and Symphony" intnum="3316" />
+<marker lat="28.255325634742" lng="-81.6526962712259" intname="CR 54 and LOMA DEL" intnum="1342" />
+<marker lat="28.2554569664902" lng="-81.6246048542676" intname="CR 54 and PINE TREE" intnum="1337" />
+<marker lat="28.0696881122542" lng="-82.0149289060599" intname="Sutton Ro and W. Bella" intnum="2132" />
+<marker lat="28.0549778607197" lng="-82.0128528134343" intname="Swindell and Sutton Rd" intnum="3101" />
+<marker lat="28.3211173127701" lng="-81.6693247670358" intname="US 27 and LEGACY PA" intnum="1345" />
+<marker lat="28.2296339980739" lng="-81.6481855165774" intname="US 27 and I-4 SOUTH" intnum="1312" />
+<marker lat="28.2154312259862" lng="-81.5721844211956" intname="US 17\/92 and Loughman" intnum="3310" />
+<marker lat="28.2214149842087" lng="-81.5687225561337" intname="US 17\/92 and Loughman" intnum="3304" />
+<marker lat="28.1848523344219" lng="-81.639830539985" intname="US 27 (SR and 650' Nort" intnum="2323" />
+<marker lat="28.1794198150107" lng="-81.6398427901054" intname="US 27 and HOLLY HI" intnum="1334" />
+<marker lat="28.3344580306611" lng="-81.6712496120132" intname="US 27 and 200' NORT" intnum="2327" />
+<marker lat="28.3344347676461" lng="-81.6714328228221" intname="US 27 and 200' NORT" intnum="2327" />
+<marker lat="28.3398075307512" lng="-81.672507513756" intname="US 27 and 850' N PO" intnum="2326" />
+<marker lat="28.3398307951189" lng="-81.6723242949561" intname="US 27 and 850' N PO" intnum="2326" />
+<marker lat="28.3193464383865" lng="-81.668856661715" intname="US 27 and FLO VILLA" intnum="2339" />
+<marker lat="28.3193418009312" lng="-81.6689443776639" intname="US 27 and FLO VILLA" intnum="2339" />
+<marker lat="28.3228410172604" lng="-81.6697667286151" intname="US 27 and FLO VILLA" intnum="2340" />
+<marker lat="28.3228601014998" lng="-81.6696351134417" intname="US 27 and FLO VILLA" intnum="2340" />
+<marker lat="28.1258066072011" lng="-81.4603553604262" intname="WALNUT ST and TIGER" intnum="1344" />
+<marker lat="28.0796785223177" lng="-81.4702715188487" intname="POINCIANA and Marigold" intnum="2330" />
+<marker lat="27.8944303518379" lng="-81.547577026174" intname="SR 60 and Lewis Gri" intnum="4601" />
+<marker lat="27.8938404762689" lng="-81.5701140763721" intname="SR 60 and Marietta" intnum="3605" />
+<marker lat="27.8938945688639" lng="-81.5695367962139" intname="SR 60 and Marietta" intnum="3605" />
+<marker lat="28.0103228091024" lng="-81.578371634627" intname="Lake Mabe and 500' S" intnum="2320" />
+<marker lat="28.0845081658441" lng="-81.6254665057285" intname="SR 544 and Alta Vist" intnum="3303" />
+<marker lat="28.113989088377" lng="-81.6163370387609" intname="Johnson A and 20th St." intnum="3305" />
+<marker lat="28.0931682262463" lng="-81.7296453327322" intname="US17\/92NB and E. PAMELO" intnum="1258" />
+<marker lat="28.0932820580941" lng="-81.7305485065045" intname="US17\/92SB and E. PAMELO" intnum="1259" />
+<marker lat="28.0884540170124" lng="-81.7311756515438" intname="Buena Vis and Cummings" intnum="3208" />
+<marker lat="28.0884438408195" lng="-81.7296467391259" intname="US 92 (SR and Cummings" intnum="3207" />
+<marker lat="28.0705323673662" lng="-81.7884943798677" intname="SR 559 and Bay Stree" intnum="3205" />
+<marker lat="28.0653904696373" lng="-81.7762160866682" intname="Dairy Roa and Victoria" intnum="3224" />
+<marker lat="28.0696121710485" lng="-81.7769497239117" intname="Dairy Rd. and Gandy Rd." intnum="3210" />
+<marker lat="28.0693501928091" lng="-81.7762621357419" intname="Dairy Rd. and Gandy Rd." intnum="3210" />
+<marker lat="28.0691576398536" lng="-81.8175387720522" intname="Berkley R and Luna Rd." intnum="3219" />
+<marker lat="28.1392248482605" lng="-81.8141041173906" intname="Old Berkl and Berkley E" intnum="3228" />
+<marker lat="28.0960220828735" lng="-81.818257187422" intname="CR 655 and MYRTLE PA" intnum="1260" />
+<marker lat="28.1129516954876" lng="-81.8185383236841" intname="CR 655 and GAPWAY RD" intnum="1261" />
+<marker lat="28.1358500564453" lng="-81.8223555463346" intname="CR 655 and PACE RD" intnum="1262" />
+<marker lat="28.1504836918772" lng="-81.8254544339459" intname="CR 655 and CR 559A" intnum="1263" />
+<marker lat="28.1465980824001" lng="-81.7977978608853" intname="SR 559 and CR 559A" intnum="1264" />
+<marker lat="28.0676364343421" lng="-81.7514843715615" intname="US 92 and LYNCHBURG" intnum="1265" />
+<marker lat="28.0443528485747" lng="-81.6355200037603" intname="US 27 and CRUMP RD" intnum="1346" />
+<marker lat="28.0625973891087" lng="-81.9025560567318" intname="Morgan Co and Woodland" intnum="3116" />
+<marker lat="28.0624854897265" lng="-81.9031501136688" intname="Morgan Co and Woodland" intnum="3116" />
+<marker lat="28.0885021603267" lng="-81.9570809427282" intname="N. Fla. A and Glenwood" intnum="3131" />
+<marker lat="27.9645240179627" lng="-82.0122079576748" intname="Yates Roa and Wagner El" intnum="3133" />
+<marker lat="27.967584437133" lng="-82.010833583257" intname="Brook Dri and Brook Way" intnum="3135" />
+<marker lat="27.965231061164" lng="-81.9732328072587" intname="Old Highw and Schoolhou" intnum="3117" />
+<marker lat="27.9672718811105" lng="-81.9721615016723" intname="Schoolhou and Medulla E" intnum="3120" />
+<marker lat="27.9676510487511" lng="-81.96868045658" intname="Schoolhou and Dorman Rd" intnum="3119" />
+<marker lat="27.9732142046689" lng="-81.969144487539" intname="Dorman Ro and Mid\/Block" intnum="3118" />
+<marker lat="27.9748261378043" lng="-81.9693494285437" intname="W. Pipkin and Dorman Rd" intnum="3103" />
+<marker lat="27.9747014394328" lng="-81.9381576487417" intname="Lk. Miria and Fairfax" intnum="3112" />
+<marker lat="28.0114476379508" lng="-81.9050885656523" intname="Maine Ave and Park St." intnum="3102" />
+<marker lat="27.9566226812159" lng="-81.9112498123528" intname="Harrell's and High Ridg" intnum="3411" />
+<marker lat="27.9529139265539" lng="-81.9071302795474" intname="CR 540A and POLLARD R" intnum="1427" />
+<marker lat="27.963604235325" lng="-81.8866603628287" intname="Stricklan and Dale" intnum="3122" />
+<marker lat="27.9657516761402" lng="-81.8847217478684" intname="11th Stre and Highland" intnum="3137" />
+<marker lat="27.9670387029099" lng="-81.8839067601919" intname="9th Stree and Highland" intnum="3136" />
+<marker lat="27.945451397165" lng="-81.8649754061903" intname="US 98 and SMITH LN" intnum="1429" />
+<marker lat="27.9084773812077" lng="-81.8434861826248" intname="US 98 (SR and Manor Dr." intnum="1521" />
+<marker lat="27.896645009845" lng="-81.8534526428086" intname="SR 60 and MAIN ST W" intnum="1527" />
+<marker lat="28.0106726329361" lng="-81.7999842834609" intname="null and null" intnum="1251" />
+<marker lat="27.9749166449246" lng="-81.7653435721107" intname="W. Crysta and Tangerine" intnum="3204" />
+<marker lat="27.9748142682565" lng="-81.763345902018" intname="W CRYSTAL and FELTON" intnum="3201" />
+<marker lat="27.9747712130852" lng="-81.7626017043972" intname="null and null" intnum="3201" />
+<marker lat="27.9751908111128" lng="-81.7625815367743" intname="null and null" intnum="3201" />
+<marker lat="27.95239205574" lng="-81.722503995383" intname="Ave. A (W and 4th Stree" intnum="3501" />
+<marker lat="27.9530762949131" lng="-81.7221234466113" intname="Ave. A (W and 4th Stree" intnum="3501" />
+<marker lat="27.9547307713244" lng="-81.7226118791706" intname="Ave. A (W and 4th Stree" intnum="3501" />
+<marker lat="27.9917790654111" lng="-81.7354490936291" intname="Snively A and 4th St." intnum="3203" />
+<marker lat="27.9866884744992" lng="-81.7309499305982" intname="Snively A and 9th St." intnum="3202" />
+<marker lat="28.022396783654" lng="-81.7038194370211" intname="SR 542 (D and Lake Elbe" intnum="3211" />
+<marker lat="28.0224669717829" lng="-81.6995823550741" intname="SR 542 (D and Lake Elbe" intnum="4202" />
+<marker lat="28.0148699461141" lng="-81.6773439545546" intname="CR 550(OV and CARL FLOY" intnum="1324" />
+<marker lat="28.0134821754018" lng="-81.6783395257917" intname="CR 550(OV and CARL FLOY" intnum="2325" />
+<marker lat="28.0151578686457" lng="-81.6751333889367" intname="CR 550(OV and CARL FLOY" intnum="2324" />
+<marker lat="27.9894691614251" lng="-81.6673307775827" intname="Cypress G and Mahogany" intnum="3309" />
+<marker lat="27.9895955591043" lng="-81.660617159678" intname="Cypress G and Meadow La" intnum="3312" />
+<marker lat="27.978518463658" lng="-81.6477947445998" intname="SR 540 and STATE FAR" intnum="1321" />
+<marker lat="27.8924554072797" lng="-81.5814049927627" intname="SR 17 (US and Emerald A" intnum="3606" />
+<marker lat="27.8864731243128" lng="-81.5812897222299" intname="SR 17 (US and Winston \/" intnum="3607" />
+<marker lat="27.7558385953134" lng="-81.534476523517" intname="CR 630 and Palm Ave." intnum="3608" />
+<marker lat="27.7557432450547" lng="-81.5349403704031" intname="CR 630 and Palm Ave." intnum="3608" />
+<marker lat="27.7597067019444" lng="-81.53067174678" intname="SR 17 (US and I Street" intnum="3610" />
+<marker lat="27.7628840926771" lng="-81.5346297499153" intname="Mc Cloud and Snooks Wa" intnum="3604" />
+<marker lat="27.8330579548669" lng="-81.5265399649562" intname="SR 17 (US and Lake Shor" intnum="3603" />
+<marker lat="27.7470891065698" lng="-81.8015274600757" intname="US17(S CH and 4TH STS" intnum="3509" />
+<marker lat="27.7465801594181" lng="-81.8013988910553" intname="US17(S CH and 4TH STS" intnum="3509" />
+<marker lat="27.7520901677616" lng="-81.7965292284618" intname="US 98 (SR and Oak St. \/" intnum="3504" />
+<marker lat="28.1138151824948" lng="-81.946501839537" intname="WALT LOOP and SOCRUM LP" intnum="1115" />
+<marker lat="28.0759683520976" lng="-81.9916443003453" intname="CR 35A and MALL HILL" intnum="1163" />
+<marker lat="28.1501603107577" lng="-81.9737013807495" intname="US 98 N and BANANA RD" intnum="1176" />
+<marker lat="27.9614848400108" lng="-81.9662633873697" intname="SR 37 and BRANNEN R" intnum="1177" />
+<marker lat="28.0734505504328" lng="-81.8956897634427" intname="CR 546(SA and FISH HATC" intnum="1180" />
+<marker lat="27.9791943118961" lng="-81.7571749512858" intname="US 17 S B and EAGLE AVE" intnum="1201" />
+<marker lat="27.9785713242197" lng="-81.7564723417555" intname="US 17 N B and EAGLE AVE" intnum="1230" />
+<marker lat="28.0026048379684" lng="-81.6924319478661" intname="SR 540 and CR 550" intnum="1226" />
+<marker lat="28.0560423592353" lng="-81.8267111225124" intname="US 92 and INTNTNL M" intnum="1250" />
+<marker lat="28.0655964742699" lng="-81.7926800210236" intname="PK AVE and ARIANA AV" intnum="1252" />
+<marker lat="28.0551197849486" lng="-81.7886655054773" intname="CR 544A and MAIN ST S" intnum="1253" />
+<marker lat="28.0843896935738" lng="-81.8177771976754" intname="CR 655 and DENTON" intnum="1254" />
+<marker lat="28.0529385311019" lng="-81.813041601279" intname="SR 655R and THORNHILL" intnum="1257" />
+<marker lat="28.0734405771804" lng="-81.8623181400478" intname="CR 546 and TENOROC H" intnum="1256" />
+<marker lat="27.9675684108716" lng="-81.6936020949264" intname="CR 540A and HELENA" intnum="1255" />
+<marker lat="28.3102275041086" lng="-81.6675640491832" intname="US 27 and SAND MINE" intnum="1331" />
+<marker lat="28.313323017752" lng="-81.6682805412782" intname="US 27 and 200' S JA" intnum="2336" />
+<marker lat="28.313299317868" lng="-81.6680938216813" intname="US 27 and 200' S JA" intnum="2336" />
+<marker lat="28.3072546289763" lng="-81.6670847258054" intname="US 27 and 1000' S S" intnum="2335" />
+<marker lat="28.3072739152731" lng="-81.6669000753283" intname="US 27 and 1000' S S" intnum="2335" />
+<marker lat="28.1378989301465" lng="-81.6379552646954" intname="US 27 and BATES" intnum="1340" />
+<marker lat="28.1249606428724" lng="-81.6396945987486" intname="US 27 and SOUTHERN" intnum="1323" />
+<marker lat="28.2549344811592" lng="-81.6548739863229" intname="CR 54 and FIRE STAT" intnum="1339" />
+<marker lat="28.2474035535094" lng="-81.6045842512712" intname="CR 54 and PINE TREE" intnum="1343" />
+<marker lat="28.2369503965627" lng="-81.5590254396357" intname="US 17-92 and CR 54" intnum="1336" />
+<marker lat="28.142571305085" lng="-81.4740523851132" intname="CYPRESS P and SOLOVITA" intnum="1335" />
+<marker lat="28.1216504521508" lng="-81.4725085986132" intname="MARIGLOD and BELLTOWER" intnum="1333" />
+<marker lat="27.9496261070627" lng="-81.618084031082" intname="US 27 and EAGLE RID" intnum="1623" />
+<marker lat="27.9634177902094" lng="-81.6254198748336" intname="US 27 and HOME DEPO" intnum="1328" />
+<marker lat="27.8985143185616" lng="-81.9736456324588" intname="SR 37 and 5TH ST" intnum="1406" />
+<marker lat="27.9347073846324" lng="-81.9740538068415" intname="SR 37 and CARTER RD" intnum="1423" />
+<marker lat="27.9533386520135" lng="-81.9731030576848" intname="OLD 37 and EWELL" intnum="1425" />
+<marker lat="27.9385003909221" lng="-82.0141690148611" intname="SHEPHERD and BAILEY" intnum="1428" />
+<marker lat="27.8859679368422" lng="-81.8432245680573" intname="BROADWAY and STUART" intnum="1511" />
+<marker lat="27.8979777461309" lng="-81.8433008137741" intname="BROADWAY and CHURCH" intnum="1512" />
+<marker lat="27.9098600251355" lng="-81.8408979325802" intname="OLD EAGLE and WILSON" intnum="1529" />
+<marker lat="27.9004712131638" lng="-81.8433907733568" intname="BROADWAY and POLK" intnum="1525" />
+<marker lat="27.9009421179303" lng="-81.820610289031" intname="SR 60 and FLAMINGO" intnum="1528" />
+<marker lat="27.9026792704902" lng="-81.5869030505316" intname="SR 17 and PARK AVE" intnum="1607" />
+<marker lat="27.9026608066274" lng="-81.5895765409846" intname="PARK AVE and 1ST STREE" intnum="1609" />
+<marker lat="27.8965603237238" lng="-81.589557287113" intname="POLK AVE and 1ST STREE" intnum="1611" />
+<marker lat="27.9136689345624" lng="-81.5782870114955" intname="CR 17A and HIGHLANDE" intnum="1622" />
+<marker lat="28.0477409276853" lng="-81.9010576559567" intname="US 92 (SR and Santa Fe" intnum="3110" />
+<marker lat="27.9633047620965" lng="-81.9504642875281" intname="CR 37A and 500' S OL" intnum="2107" />
+<marker lat="27.9714139762566" lng="-81.9485901921437" intname="CR 37A and 1640' N F" intnum="2109" />
+<marker lat="27.9539088348624" lng="-81.9483047290002" intname="CR 37A and 900' S OL" intnum="2138" />
+<marker lat="27.9614238170896" lng="-81.950604036899" intname="CR 37A and 2000' N O" intnum="2137" />
+<marker lat="27.9676063211626" lng="-81.9706379340149" intname="SCHOOL HS and KRENSON W" intnum="1175" />
+<marker lat="28.0952732509742" lng="-82.0231672508609" intname="LEWELLYN and CHART PRI" intnum="2139" />
+<marker lat="27.9898694014115" lng="-81.9753005055441" intname="HARDEN and N OF S" intnum="2140" />
+<marker lat="27.9844758783951" lng="-81.973184223017" intname="HARDEN and S OF S" intnum="2141" />
+<marker lat="27.980977901024" lng="-81.692262936439" intname="HELENA and S OF S" intnum="2203" />
+<marker lat="28.0100950249391" lng="-81.7976365863962" intname="SR 540 and 700' E OF" intnum="2224" />
+<marker lat="28.0102117736266" lng="-81.7975724070197" intname="SR 540 and 700' E OF" intnum="2225" />
+<marker lat="28.014978005074" lng="-81.8212351951049" intname="THORNHILL and TEMPLE ST" intnum="2226" />
+<marker lat="28.0251326818467" lng="-81.8150675964159" intname="THORNHILL and N OF S" intnum="2227" />
+<marker lat="28.0043734353558" lng="-81.6609502117834" intname="LAKE DAIS and ASHLEY ST" intnum="2310" />
+<marker lat="28.0807177406251" lng="-81.6522046845392" intname="SR 544 and 1ST NAT B" intnum="2308" />
+<marker lat="28.2584215684592" lng="-81.8247444537515" intname="SR 33 and DEEN STIL" intnum="2229" />
+<marker lat="28.258575903704" lng="-81.8245139936979" intname="SR 33 and DEEN STIL" intnum="2228" />
+<marker lat="28.0992961159041" lng="-81.7747852008631" intname="ADAMS RD and MOHAWK RD" intnum="2230" />
+<marker lat="28.0977673922993" lng="-81.7728023715538" intname="MOHAWK RD and ADAMS RD" intnum="2231" />
+<marker lat="28.1079194056447" lng="-81.6068387145581" intname="30TH ST and N OF HINS" intnum="2301" />
+<marker lat="28.1051672737354" lng="-81.6067588792311" intname="30TH ST and S OF HINS" intnum="2302" />
+<marker lat="28.0845379637889" lng="-81.601702909952" intname="CR 544 and YTONG" intnum="2322" />
+<marker lat="28.1298507776377" lng="-81.4712641796255" intname="WALNUT and MARIGLOD" intnum="2338" />
+<marker lat="28.1298233935413" lng="-81.4709642406172" intname="WALNUT and MARIGLOD" intnum="2337" />
+<marker lat="28.1592915014395" lng="-81.6036601521607" intname="US 17-92 and CR 547" intnum="2317" />
+<marker lat="28.1543215095547" lng="-81.6397279387016" intname="US 27 and S OF CR 5" intnum="2333" />
+<marker lat="28.1543098485963" lng="-81.6395124003482" intname="US 27 and S OF CR 5" intnum="2333" />
+<marker lat="28.1615823882515" lng="-81.6399959010563" intname="US 27 and N OF CR 5" intnum="2334" />
+<marker lat="28.1615771682047" lng="-81.6397831888012" intname="US 27 and N OF CR 5" intnum="2334" />
+<marker lat="28.2582334614227" lng="-81.6592560498975" intname="US 27 and N OF CR 5" intnum="2332" />
+<marker lat="28.2582070543738" lng="-81.6594592339004" intname="US 27 and N OF CR 5" intnum="2332" />
+<marker lat="28.24979665596" lng="-81.65786040619" intname="US 27 and S OF CR 5" intnum="2331" />
+<marker lat="28.24981294647" lng="-81.6577017399903" intname="US 27 and S OF CR 5" intnum="2331" />
+<marker lat="27.9385234380695" lng="-82.0004491979412" intname="SHEPHERD and E OF LUNN" intnum="2401" />
+<marker lat="27.9382663408658" lng="-82.0026477847386" intname="shepherd and w of lunn" intnum="2409" />
+<marker lat="27.9386129326956" lng="-81.9761068060346" intname="SHEPHERD and OLD 37" intnum="2410" />
+<marker lat="27.8677594941649" lng="-81.9282891994487" intname="BONNIE MI and 500' N EN" intnum="2415" />
+<marker lat="27.8649812232703" lng="-81.9281989330148" intname="BONNIE MI and 500' S EN" intnum="2416" />
+<marker lat="27.9457160259689" lng="-81.8906194119026" intname="CREWS LK and YARBOROUG" intnum="2420" />
+<marker lat="27.7431788282318" lng="-81.997260565923" intname="SR 37 and CR 630" intnum="2421" />
+<marker lat="27.9161777128335" lng="-81.7286786194446" intname="SR 60 and W OF 655" intnum="2507" />
+<marker lat="27.9163261105543" lng="-81.7286744525515" intname="SR 60 and W OF 655" intnum="2507" />
+<marker lat="27.9163182435321" lng="-81.7239925870313" intname="SR 60 and E OF 655" intnum="2506" />
+<marker lat="27.916469904617" lng="-81.7239904047892" intname="SR 60 and E OF 655" intnum="2506" />
+<marker lat="27.8153240737021" lng="-81.8209964455307" intname="US 17-98 and S OF CR 6" intnum="2508" />
+<marker lat="27.8153322405559" lng="-81.8208320104871" intname="US 17-98 and S OF CR 6" intnum="2508" />
+<marker lat="27.91637537022" lng="-81.8461543417977" intname="US 98 and S OF BMH" intnum="2510" />
+<marker lat="27.9164533418943" lng="-81.8460023459412" intname="US 98 and S OF BMH" intnum="2510" />
+<marker lat="27.9206508477247" lng="-81.8492632391033" intname="US 98 and N OF BMH" intnum="2509" />
+<marker lat="27.9207462773474" lng="-81.8491011459589" intname="US 98 and N OF BMH" intnum="2509" />
+<marker lat="27.8960770481742" lng="-81.5913968285923" intname="SR 60 and W OF 1ST" intnum="2602" />
+<marker lat="27.8961508446538" lng="-81.5913438595783" intname="SR 60 and W OF 1ST" intnum="2602" />
+<marker lat="27.8940630978986" lng="-81.5877232176406" intname="SR 60 and E OF 1ST" intnum="2611" />
+<marker lat="27.8941521643481" lng="-81.5877187137288" intname="SR 60 and E OF 1ST" intnum="2611" />
+<marker lat="27.7317911089209" lng="-81.5711313610879" intname="US 27 and US 98" intnum="2609" />
+<marker lat="27.7317169394895" lng="-81.5712750964003" intname="US 27 and US 98" intnum="2609" />
+<marker lat="27.7354978958598" lng="-81.574139045022" intname="US 27 and US 98" intnum="2610" />
+<marker lat="27.7355561249226" lng="-81.5740237955271" intname="US 27 and US 98" intnum="2610" />
+<marker lat="27.8426969880102" lng="-81.5894991966764" intname="CR 640 and W OF US 2" intnum="2617" />
+<marker lat="27.8428313101455" lng="-81.5834017259403" intname="CR 640 and E OF US 2" intnum="2616" />
+<marker lat="27.8216134353237" lng="-81.5950500028168" intname="US 27 and S OF PRES" intnum="2625" />
+<marker lat="27.8215599099413" lng="-81.5948788456755" intname="US 27 and S OF PRES" intnum="2625" />
+<marker lat="27.8282660131667" lng="-81.5920466481993" intname="US 27 and N OF PRES" intnum="2624" />
+<marker lat="27.8283259967039" lng="-81.5922277300671" intname="US 27 and N OF PRES" intnum="2624" />
+<marker lat="27.9244767052248" lng="-81.5953475496212" intname="SR 17 and MTN LK CU" intnum="2607" />
+<marker lat="28.0553106359217" lng="-81.9035380402349" intname="HARDIN and WOODLAND" intnum="3138" />
+<marker lat="28.0551642254734" lng="-81.9043324823465" intname="HARDIN and WOODLAND" intnum="3138" />
+<marker lat="28.1097738296267" lng="-81.7312844544516" intname="CR 557 and EVENHOUSE" intnum="3220" />
+<marker lat="28.1060727461764" lng="-81.7311090950301" intname="CR 557 and LAMS" intnum="3221" />
+<marker lat="28.0422410588703" lng="-81.7678366731161" intname="34 TH ST and AVE R NW" intnum="4229" />
+<marker lat="28.1391875651434" lng="-81.8222513611626" intname="CR 655 and BERKLEY E" intnum="3226" />
+<marker lat="28.143064765752" lng="-81.822414661231" intname="CR 655 and BERKLEY" intnum="3225" />
+<marker lat="28.073374395229" lng="-81.8641995559276" intname="CR546 and W OF TENO" intnum="3234" />
+<marker lat="28.0734935297101" lng="-81.8587915937788" intname="CR546 and E OF TENO" intnum="3233" />
+<marker lat="28.0223639321338" lng="-81.6172526122111" intname="SR 17 and 3RD ST DU" intnum="3301" />
+<marker lat="28.022313225316" lng="-81.6181925553886" intname="SR 17 and 3RD ST DU" intnum="3327" />
+<marker lat="28.1232576047097" lng="-81.6233852983794" intname="10TH ST and BETHUNE" intnum="3307" />
+<marker lat="28.1215029374661" lng="-81.6233000880143" intname="10TH ST and BETHUNE" intnum="3308" />
+<marker lat="28.0729768073224" lng="-81.489646206986" intname="LAUREL AV and N OF HALI" intnum="3317" />
+<marker lat="28.072572633665" lng="-81.4895131258484" intname="LAUREL AV and S OF HALI" intnum="3318" />
+<marker lat="28.0788870447268" lng="-81.5032917940072" intname="PINE ST and E OF HALI" intnum="3319" />
+<marker lat="28.0779581307948" lng="-81.5046807667665" intname="PINE ST and W OF HALI" intnum="3320" />
+<marker lat="28.0746686666564" lng="-81.5114669730046" intname="PINE ST and W OFCASPI" intnum="3322" />
+<marker lat="28.0751081972908" lng="-81.5104759185188" intname="PINE ST and E OF CASP" intnum="3321" />
+<marker lat="28.0636835074563" lng="-81.5086906038716" intname="LAKE MARI and E LK MAR" intnum="3323" />
+<marker lat="28.0678723029875" lng="-81.513605313558" intname="LK MARION and W LK MAR" intnum="3324" />
+<marker lat="28.1150179302046" lng="-81.4633717918759" intname="COYOTE RD and E OF GAZE" intnum="3325" />
+<marker lat="28.1147623941641" lng="-81.465007875324" intname="COYOTE RD and W OF GAZE" intnum="3326" />
+<marker lat="27.8985515567149" lng="-81.9726592168748" intname="5TH ST NE and 1ST AVE N" intnum="3408" />
+<marker lat="27.8984585160829" lng="-81.9731803573083" intname="5TH ST NE and 1ST AVE N" intnum="3409" />
+<marker lat="27.8881133906216" lng="-81.986741025447" intname="KIDSCHOOL and DEAN" intnum="3413" />
+<marker lat="27.8874384301685" lng="-81.9818575418844" intname="DEAN ST and KIDSCHOOL" intnum="3412" />
+<marker lat="27.8945137493298" lng="-81.8433209268741" intname="BROADWAY and N OF STAN" intnum="3502" />
+<marker lat="27.8932068254687" lng="-81.8431904736264" intname="BROADWAY and S OF STAN" intnum="3503" />
+<marker lat="27.8916922807707" lng="-81.8204392567001" intname="OAKLAWN and UNION ACA" intnum="3522" />
+<marker lat="27.8936119129954" lng="-81.8206052401576" intname="IDLEWOOD and UNION ACA" intnum="3521" />
+<marker lat="27.8931638332978" lng="-81.8240323302195" intname="WABASH and UNION ACA" intnum="3520" />
+<marker lat="27.8872949852782" lng="-81.8225010728313" intname="GOLFVIEW and N GIBBONS" intnum="3506" />
+<marker lat="27.8857077859488" lng="-81.8224170584101" intname="GOLFVIEW and GIBBONS" intnum="3507" />
+<marker lat="27.8859272286157" lng="-81.8252736756162" intname="GIBBONS and W GIBBONS" intnum="3508" />
+<marker lat="27.8852164914025" lng="-81.8433193185616" intname="BROADWAY and N BAR SR" intnum="3510" />
+<marker lat="27.8806061945787" lng="-81.8427572605311" intname="SHUMATE D and S BAR SR" intnum="3511" />
+<marker lat="27.8786799063016" lng="-81.8420483975202" intname="CLOWER and W BMS" intnum="3513" />
+<marker lat="27.8784717611352" lng="-81.8388358143955" intname="CLOWER and E BMS" intnum="3512" />
+<marker lat="27.8799028990615" lng="-81.8451909489119" intname="FLORAL and S FLORAL" intnum="3515" />
+<marker lat="27.8842276246835" lng="-81.8453333101855" intname="FLORAL AV and N FLORAL" intnum="3514" />
+<marker lat="27.8938073948969" lng="-81.8415723497974" intname="S.WILSON and N BAR ACA" intnum="3518" />
+<marker lat="27.8922206200923" lng="-81.8414317394596" intname="WILSON AV and S BAR ACA" intnum="3519" />
+<marker lat="27.9108216639903" lng="-81.8572795897126" intname="MAPLE AVE and STEPHENS" intnum="3516" />
+<marker lat="27.9082371632473" lng="-81.8571747112385" intname="MAPLE AVE and STEPHENS" intnum="3517" />
+<marker lat="27.9172391128326" lng="-81.5936318580433" intname="FLORIDA A and J H WILSO" intnum="3609" />
+<marker lat="27.9171278615644" lng="-81.59453596824" intname="null and null" intnum="3609" />
+<marker lat="27.9136997646338" lng="-81.5797988839925" intname="CR 17A and WALES BLV" intnum="3611" />
+<marker lat="27.9135897765164" lng="-81.5828226882897" intname="CR 17A and WALES BLV" intnum="3611" />
+<marker lat="27.8973052523454" lng="-81.5896345321393" intname="1ST ST and N POLK ST" intnum="3615" />
+<marker lat="27.8959633731545" lng="-81.5894824201741" intname="1ST ST and S POLK ST" intnum="3616" />
+<marker lat="27.9537478996412" lng="-81.6770808933024" intname="CR 653 and S OF CHAI" intnum="3613" />
+<marker lat="27.9587169994064" lng="-81.6771737777448" intname="CR 653 and N CHAIN O" intnum="3612" />
+<marker lat="28.118000417479" lng="-82.0047918542162" intname="GIB GALLO and N GALLOWA" intnum="4141" />
+<marker lat="28.0697202356115" lng="-81.8507956458445" intname="OLD DIXIE and TAYLOR" intnum="4210" />
+<marker lat="28.1281198207503" lng="-81.9664098779286" intname="MARCUM RD and ESTATE RD" intnum="5101" />
+<marker lat="28.1282236682881" lng="-81.9600128464307" intname="MARCUM RD and MARCUM TR" intnum="5102" />
+<marker lat="28.1282959059659" lng="-81.950629682556" intname="SOCRUM LO and ODOM RD" intnum="5103" />
+<marker lat="28.1208550469121" lng="-81.9736810318085" intname="US 98 and DAUGHTERY" intnum="5117" />
+<marker lat="28.0994610022187" lng="-82.0064271732487" intname="CR 35A and N GALLOWA" intnum="5109" />
+<marker lat="28.0970753313842" lng="-82.0020204645011" intname="CR 35A and S OLD KAT" intnum="5110" />
+<marker lat="28.0779666563314" lng="-81.9935201473934" intname="CR 35A and S OF GRIF" intnum="5113" />
+<marker lat="28.0805514705665" lng="-81.9842852363376" intname="GRIFFIN and W OF MALL" intnum="5115" />
+<marker lat="28.0805429454125" lng="-81.9923367416119" intname="GRIFFIN and TOWN and COU" intnum="5114" />
+<marker lat="28.0806140163008" lng="-81.971937021964" intname="GRIFFIN and JUSTINE" intnum="5116" />
+<marker lat="27.9711953610781" lng="-81.9624768986086" intname="SR 37 and LK HARRIS" intnum="5132" />
+<marker lat="28.0081903101866" lng="-81.9076990043592" intname="US 98 and SR 659" intnum="5104" />
+<marker lat="28.0269659447472" lng="-81.9073537853718" intname="SR 659 and US 98-92" intnum="5108" />
+<marker lat="28.0478746099637" lng="-81.9160070860343" intname="US 92 and FAIRWAY" intnum="5105" />
+<marker lat="28.0478432217306" lng="-81.8955820303515" intname="US 92 and FISH HATC" intnum="5107" />
+<marker lat="28.0478958137979" lng="-81.8997388343568" intname="US 92 and SANTA FE" intnum="5106" />
+<marker lat="28.0103783230813" lng="-81.8208242703671" intname="SR 540 and THORNHILL" intnum="5201" />
+<marker lat="28.0048679224617" lng="-81.7795605349354" intname="SR 540 and SPIRIT LA" intnum="5202" />
+<marker lat="28.0010138732833" lng="-81.756690139572" intname="SR 540 and SR 655" intnum="5208" />
+<marker lat="28.0149381224336" lng="-81.7760821194252" intname="SPIRIT LK and COLEMAN" intnum="5210" />
+<marker lat="28.0258220444365" lng="-81.7761484068622" intname="SR 655 and SPIRIT LK" intnum="5209" />
+<marker lat="28.0478889081247" lng="-81.8585004734764" intname="US 92 and OLD DIXIE" intnum="5226" />
+<marker lat="28.056958290608" lng="-81.8175827923483" intname="US 92 and BERKLEY" intnum="5225" />
+<marker lat="28.0577534943898" lng="-81.813033609126" intname="US 92 and EAST OF R" intnum="5204" />
+<marker lat="28.0593764404017" lng="-81.7967744714899" intname="US 92 and AUB OVERP" intnum="5205" />
+<marker lat="28.0756902131597" lng="-81.7326598270494" intname="US 92 and US 17" intnum="5206" />
+<marker lat="27.9867460407525" lng="-81.7472860764266" intname="US 27 and SR 540 WI" intnum="5207" />
+<marker lat="28.0040977976154" lng="-81.7025701852822" intname="SR 540 CY and LK ROY" intnum="5203" />
+<marker lat="28.1577544721542" lng="-81.6397523233887" intname="US 27 and CR 547" intnum="5311" />
+<marker lat="28.1794199538886" lng="-81.6398321209392" intname="US 27 and HOLLY HIL" intnum="5305" />
+<marker lat="28.1648980153771" lng="-81.6397822670906" intname="US 27 and HOLLY HIL" intnum="5307" />
+<marker lat="28.1213343758763" lng="-81.6397044339726" intname="US 27 and CR 17 OLD" intnum="5304" />
+<marker lat="28.1175310082247" lng="-81.6397029903924" intname="US 27 and COMMERCE" intnum="5302" />
+<marker lat="28.1065571737817" lng="-81.6471102678409" intname="US 17-92 and W OF US 2" intnum="5303" />
+<marker lat="28.0807193844067" lng="-81.6494702181374" intname="US 27 and SR 544" intnum="5306" />
+<marker lat="27.9787709040047" lng="-81.6308981786709" intname="US 27 and SR 540 CY" intnum="5301" />
+<marker lat="28.1065737819416" lng="-81.6397447713346" intname="US 17-92 and E OF US 2" intnum="5313" />
+<marker lat="28.2369680538651" lng="-81.559046307164" intname="US 17-92 and CR 54 R R" intnum="5312" />
+<marker lat="27.7337327933212" lng="-81.5713723411792" intname="US 27 and CR 630 E" intnum="5603" />
+<marker lat="27.7337413346391" lng="-81.5741385286823" intname="US 27 and CR 630 W" intnum="5601" />
+<marker lat="27.7553605338228" lng="-81.5878592553688" intname="US 27 and CR 630A" intnum="5602" />
+<marker lat="27.9134864114916" lng="-81.6032863430656" intname="US 27 and WASHINGTO" intnum="5609" />
+<marker lat="27.9242600138577" lng="-81.6063527517936" intname="US 27 and MTN LK CU" intnum="5614" />
+<marker lat="27.9569980726289" lng="-81.6219779324611" intname="US 27 and THOMPSON" intnum="5610" />
+<marker lat="27.8943473952741" lng="-81.543532646466" intname="SR 60 and HIGHLAND" intnum="5605" />
+<marker lat="27.8941154134053" lng="-81.555936506938" intname="SR 60 and HUNT BROS" intnum="5604" />
+<marker lat="27.9036013367072" lng="-81.6246339237873" intname="SR 60 and E BAY BLV" intnum="5613" />
+<marker lat="27.916329709417" lng="-81.7263892946398" intname="SR 60 and CR 655 RI" intnum="5501" />
+<marker lat="27.944067721448" lng="-81.7982870251238" intname="US 17 and 91 MINE R" intnum="5502" />
+<marker lat="27.95293774646" lng="-81.8699845979937" intname="US 98 and CR 540A" intnum="5403" />
+<marker lat="27.9534447477896" lng="-81.969045067113" intname="SR 37 and CR 540A" intnum="5406" />
+<marker lat="27.9385106506406" lng="-81.9740680336572" intname="SR 37 and SHEPHERD" intnum="5405" />
+<marker lat="27.9089684782085" lng="-82.0144217400909" intname="SR 60 and BAILEY RD" intnum="5401" />
+<marker lat="27.9162523261101" lng="-82.0223474191016" intname="SR 60 and WILLOW" intnum="5402" />
+<marker lat="27.952826125655" lng="-82.0118432310771" intname="EWELL and YATES" intnum="1430" />
+<marker lat="27.9748626688587" lng="-81.975012981047" intname="OLD 37 and PIPKIN" intnum="1182" />
+<marker lat="27.974880616094" lng="-81.9709669187222" intname="HARDEN BL and PIPKIN" intnum="1183" />
+<marker lat="28.1357868181136" lng="-81.8263725738153" intname="PACE RD and PKWY TO B" intnum="5211" />
+<marker lat="28.1065139479347" lng="-81.6380431525607" intname="US 17-92 and HAINES MA" intnum="1309" />
+<marker lat="27.9472235675332" lng="-81.8699516914358" intname="E F GRIFF and S SPESSAR" intnum="3415" />
+<marker lat="27.9489299496201" lng="-81.870120400998" intname="E F GRIFF and N SPESSAR" intnum="3414" />
+<marker lat="27.9833618735112" lng="-81.7281552158671" intname="CR 655 and 1320' S O" intnum="2232" />
+<marker lat="27.9689323623521" lng="-81.7269217978408" intname="CR 655 and WATER OAK" intnum="1231" />
+<marker lat="28.1430880042507" lng="-81.4700057703877" intname="CYPRESS P and MARIGOLD" intnum="1326" />
+<marker lat="28.0811993507336" lng="-81.9223615826594" intname="E LK PARK and MC POWER" intnum="2127" />
+<marker lat="27.8964289186653" lng="-81.5823698873711" intname="SR 17 and E OF RR O" intnum="2608" />
+<marker lat="27.9027357198191" lng="-81.5867210100227" intname="PARK AVE and SR 17" intnum="0" />
+<marker lat="27.9746728631684" lng="-81.9339199825939" intname="LK MIRIAM and SANDLEWOO" intnum="3140" />
+<marker lat="27.9747935550895" lng="-81.9297574851028" intname="LK MIRIAM and LOCHINVAR" intnum="3139" />
+<marker lat="27.9821815099528" lng="-81.9238395503407" intname="CR37B and S OF HI L" intnum="3142" />
+<marker lat="27.984791398041" lng="-81.9240500904615" intname="CR 37B and N OF HI G" intnum="3141" />
+<marker lat="28.0803987982248" lng="-82.0273353912851" intname="CR 582 and HARRELSON" intnum="4102" />
+<marker lat="27.9821851180135" lng="-82.0556770436309" intname="CO LINE and MEDULLA" intnum="4104" />
+<marker lat="27.9818844648061" lng="-82.056065533195" intname="CO LINE and MEDULLA" intnum="4104" />
+<marker lat="27.9747977138668" lng="-81.9690299302645" intname="DORMAN and W PIPKIN" intnum="4109" />
+<marker lat="28.0265123383194" lng="-81.9900575142213" intname="S.WABASH and 1260" intnum="4111" />
+<marker lat="27.9526627214183" lng="-81.9237021130922" intname="CR37B and CR 540A" intnum="4115" />
+<marker lat="27.9746836828311" lng="-81.92374484145" intname="CR 37B and LK MIRIAM" intnum="4114" />
+<marker lat="27.9803264437386" lng="-81.9238368148913" intname="CR 37B and HALLAM" intnum="4113" />
+<marker lat="27.9746569352985" lng="-81.9319628260106" intname="LK MIRIAM and LIVE OAK" intnum="4118" />
+<marker lat="28.0261596628608" lng="-81.89121376808" intname="REYNOLDS and SKYVIEW" intnum="4117" />
+<marker lat="28.0441316716151" lng="-81.891575446834" intname="CR 542 and REYNOLDS" intnum="4122" />
+<marker lat="28.0475849245998" lng="-81.8915323326845" intname="US 92 and REYNOLDS" intnum="4121" />
+<marker lat="28.1284829354938" lng="-81.9466130595398" intname="OLD POLK and SOCRUM" intnum="4120" />
+<marker lat="27.9747588052696" lng="-81.9897726538082" intname="PIPKIN and LUNN" intnum="4127" />
+<marker lat="27.9675065952823" lng="-81.9320665129457" intname="CLUBHOUSE and LIVE OAK" intnum="4131" />
+<marker lat="28.1254390358483" lng="-82.0404280941692" intname="1ST ST NW and S CURVE" intnum="4132" />
+<marker lat="28.124829982826" lng="-82.0405256349365" intname="1ST ST NW and S CURVE" intnum="4132" />
+<marker lat="28.1244034478037" lng="-82.0404939129575" intname="1ST ST NW and S CURVE" intnum="4132" />
+<marker lat="28.1797335225499" lng="-82.0183839391674" intname="OLD DADE and HANCOCK R" intnum="4138" />
+<marker lat="28.1464136743109" lng="-81.9565170450274" intname="SOCRUM N and TOM COSTI" intnum="4139" />
+<marker lat="28.1719418126832" lng="-81.9224699913913" intname="MOORE RD and TOM COSTI" intnum="4140" />
+<marker lat="28.11710431038" lng="-81.9869575258212" intname="GIB GALLO and CURVE" intnum="4142" />
+<marker lat="28.0724410601253" lng="-81.9081855847588" intname="SR 659 and CR 546" intnum="4137" />
+<marker lat="28.03096096539" lng="-81.9900046238874" intname="WABASH and US 92 TO" intnum="4143" />
+<marker lat="27.9965858837152" lng="-82.0556563334008" intname="COUNTY LI and DRAINE FI" intnum="4135" />
+<marker lat="27.9961933471721" lng="-82.0560609688397" intname="COUNTY LI and DRAINE FI" intnum="4135" />
+<marker lat="27.9707700342233" lng="-82.0554179874697" intname="CCOUNTY L and W PIPKIN" intnum="4136" />
+<marker lat="28.034939137147" lng="-81.9077703279212" intname="SR 659 and US 98 TO" intnum="4145" />
+<marker lat="28.0960720616615" lng="-81.9057488120663" intname="N SR 659 and N OF US 9" intnum="4144" />
+<marker lat="28.0486237657604" lng="-81.7651124478532" intname="HAVENDALE and FLAT RATE" intnum="4203" />
+<marker lat="28.2583939378408" lng="-81.8248243240802" intname="SR 33 and DEEN STIL" intnum="4204" />
+<marker lat="28.0734603360407" lng="-81.8609196363418" intname="CR 546 and TEN HI SC" intnum="4205" />
+<marker lat="28.0226117161326" lng="-81.6940562430121" intname="SR 542 and BUCKEYE L" intnum="4207" />
+<marker lat="28.0433621784819" lng="-81.6937992666202" intname="BUCKEYE L and COUNTRY C" intnum="4208" />
+<marker lat="27.9970120107153" lng="-81.6885872679176" intname="SR 540 and CYPRESS D" intnum="4212" />
+<marker lat="27.9965482132757" lng="-81.6888896288397" intname="SR 540 and CYPRESS D" intnum="4212" />
+<marker lat="27.9676423330662" lng="-81.7266964187244" intname="CR 655 and EAGLELK L" intnum="4215" />
+<marker lat="28.0167861549863" lng="-81.7599129240933" intname="SR 655 and COLEMAN R" intnum="4220" />
+<marker lat="27.9818305026854" lng="-81.7842845028689" intname="SPIRIT LA and THORNHILL" intnum="4221" />
+<marker lat="27.9920849422309" lng="-81.7356756366412" intname="SNIVELY A and 4TH ST" intnum="4223" />
+<marker lat="28.0293227538447" lng="-81.7762503262144" intname="42ND ST and AVE G NW" intnum="4230" />
+<marker lat="28.0296197718518" lng="-81.7759580184814" intname="42ND ST and AVE G NW" intnum="4230" />
+<marker lat="28.1259261284164" lng="-81.4603626228584" intname="COUNTRY C and WALNUT ST" intnum="4303" />
+<marker lat="28.1256489902567" lng="-81.4605817886059" intname="COUNTRY C and WALNUT ST" intnum="4303" />
+<marker lat="28.1139312013592" lng="-81.5904638437984" intname="CR 580 and POWERLINE" intnum="4304" />
+<marker lat="28.1066981523788" lng="-81.5904477832329" intname="HINSON AV and POWERLINE" intnum="4306" />
+<marker lat="27.9593414541127" lng="-81.5949890549228" intname="SR 17 and MASTERPIE" intnum="4307" />
+<marker lat="28.022171017739" lng="-81.6604448377797" intname="SR542 and CR 550" intnum="4308" />
+<marker lat="28.0223225196761" lng="-81.6615221209793" intname="SR 542 and CR 550" intnum="4309" />
+<marker lat="28.0149749863408" lng="-81.6615916951848" intname="SR 550 and LAKE DAIS" intnum="4310" />
+<marker lat="28.0222879611205" lng="-81.6773383788302" intname="SR 542 and CARL FLOY" intnum="4313" />
+<marker lat="28.0187842286045" lng="-81.6321899227114" intname="SR 542 and US 27" intnum="4321" />
+<marker lat="28.0187793830126" lng="-81.6327914299393" intname="SR 542 and US 27" intnum="4321" />
+<marker lat="28.0185282518537" lng="-81.6319622476231" intname="SR 542 and US 27" intnum="4321" />
+<marker lat="28.2120639533452" lng="-81.6394066548373" intname="US 27 and MIN MAID" intnum="4311" />
+<marker lat="28.2120632681417" lng="-81.6401547689161" intname="US 27 and MIN MAID" intnum="4311" />
+<marker lat="28.223389690059" lng="-81.6448347115352" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2232075751907" lng="-81.6451919671073" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2231018818456" lng="-81.6456469652422" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2229954933319" lng="-81.6460619653571" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.222798653797" lng="-81.6464345991041" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2226178717162" lng="-81.6467997688727" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2222145267632" lng="-81.6476337052612" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2220096529473" lng="-81.6480597886563" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2224868834115" lng="-81.6470993186358" intname="GRAYSTONE and GATE TO U" intnum="4316" />
+<marker lat="28.2550884893213" lng="-81.6227084153258" intname="CR 54 and CHAMP GAT" intnum="4317" />
+<marker lat="28.2401136646183" lng="-81.5634847007475" intname="CR 54 and LK WILSON" intnum="4318" />
+<marker lat="28.2576147479205" lng="-81.6378131805626" intname="CR 54 and LOMA VIST" intnum="4319" />
+<marker lat="28.2543957286888" lng="-81.658099996008" intname="CR 54 and US 27" intnum="4320" />
+<marker lat="28.2541242767558" lng="-81.6580256918302" intname="CR 54 and US 27" intnum="4320" />
+<marker lat="28.2544310417211" lng="-81.657855214981" intname="CR 54 and US 27" intnum="4320" />
+<marker lat="28.2541606573836" lng="-81.6577654960667" intname="CR 54 and US 27" intnum="4320" />
+<marker lat="27.9528793760165" lng="-81.8825767894319" intname="CR 540A and CREWS LK" intnum="4406" />
+<marker lat="27.9530535464253" lng="-81.8908605133219" intname="CR540A and YARBOROUG" intnum="4407" />
+<marker lat="27.9528928327167" lng="-81.8908542114392" intname="CR540A and YARBOROUG" intnum="4407" />
+<marker lat="27.9528796520817" lng="-81.8905181153621" intname="CR540A and YARBOROUG" intnum="4407" />
+<marker lat="27.95303606547" lng="-81.8905308855942" intname="CR540A and YARBOROUG" intnum="4407" />
+<marker lat="27.9527500708918" lng="-81.9071434523966" intname="CR 540A and POLLARD" intnum="4408" />
+<marker lat="27.9530829709685" lng="-81.9072426109616" intname="CR 540A and POLLARD" intnum="4408" />
+<marker lat="27.9530685633578" lng="-81.9070347344227" intname="CR 540A and POLLARD" intnum="4408" />
+<marker lat="27.8834279917611" lng="-81.4485005698874" intname="sr 60- and walk-in-w" intnum="4602" />
+<marker lat="27.8828263955174" lng="-81.4484850903132" intname="sr 60- and walk-in-w" intnum="4602" />
+<marker lat="27.7554402967375" lng="-81.5632930760366" intname="CR 630 and MONK RD" intnum="4607" />
+<marker lat="27.8720313117599" lng="-81.5647253607967" intname="CR 17B and HUNT BROS" intnum="4615" />
+<marker lat="28.2184875129743" lng="-81.6470702822395" intname="ERNIECALD and HELLERBRO" intnum="0" />
+<marker lat="27.9861973751841" lng="-81.6867782845165" intname="CYPRESS G and HELENA RD" intnum="0" />
+<marker lat="28.1298516555296" lng="-81.4711661299813" intname="MARIGOLD and WALNUT" intnum="0" />
+<marker lat="28.1068097282872" lng="-81.5903913439944" intname="HINSON and POWERLINE" intnum="0" />
+<marker lat="27.9381787623713" lng="-82.0553154332626" intname="COUNTYLI and SHEPHERD" intnum="0" />
+<marker lat="28.0475727395244" lng="-81.9160174006316" intname="US 92 and FAIRWAY A" intnum="0" />
+<marker lat="27.8210389420455" lng="-81.7611497097279" intname="80 FT RD and CR 640" intnum="0" />
+<marker lat="28.0687110108226" lng="-81.8585047387148" intname="OLD DIXIE and TENOROC H" intnum="0" />
+<marker lat="28.0698324179572" lng="-81.8562118173272" intname="OLD DIXIE and TENOROC H" intnum="0" />
+<marker lat="28.0828986583544" lng="-81.9949139977905" intname="CR 35A and N OF GRIF" intnum="5112" />
+<marker lat="28.087826596745" lng="-81.996192827771" intname="KATHLEEN and S SLEEPYH" intnum="0" />
+<marker lat="28.2541206120641" lng="-81.6585656537042" intname="US 27 and RON REGAN" intnum="0" />
+<marker lat="28.022501177921" lng="-81.6775285593069" intname="SR 542 and CARL FLOY" intnum="0" />
+<marker lat="28.2121222163665" lng="-81.6398625586466" intname="US 27 and CITRUS RI" intnum="0" />
+<marker lat="27.9601100137142" lng="-81.92368701552" intname="CR 37 B and PETERSON" intnum="0" />
+<marker lat="27.995942797358" lng="-81.739092617026" intname="CR 655 and 7TH" intnum="1239" />
+<marker lat="27.9602848686801" lng="-81.6770857829737" intname="CR 540A and CR 653" intnum="0" />
+<marker lat="28.1067516843678" lng="-81.6068036204548" intname="30TH and HINSON" intnum="0" />
+<marker lat="27.9602825894662" lng="-81.668887346883" intname="THOMPSON and WLKRUBY" intnum="0" />
+<marker lat="27.8943967715595" lng="-81.5412142056767" intname="SR 60 and CLUBHOUSE" intnum="0" />
+<marker lat="27.9958530173106" lng="-81.7388718195415" intname="LAKE SHIP and 7TH ST" intnum="0" />
+<marker lat="28.0729072616035" lng="-81.7816705925657" intname="STADIUM R and AHS W.END" intnum="0" />
+<marker lat="28.0711970158634" lng="-81.7834113920952" intname="STADIUM R and AHS W.END" intnum="0" />
+<marker lat="28.0704147292765" lng="-81.7844766151925" intname="Stadium R and Bennett S" intnum="3218" />
+<marker lat="28.0700735720024" lng="-81.784678601728" intname="Stadium R and Bennett S" intnum="3218" />
+<marker lat="28.0620552877776" lng="-81.8042525364825" intname="BRIDGERS and 500' W EA" intnum="0" />
+<marker lat="28.084814738979" lng="-81.8106089155199" intname="LK ARIANA and N DENTON" intnum="0" />
+<marker lat="28.0445123636714" lng="-81.6964799892966" intname="AVE T and BUCKEYELP" intnum="0" />
+<marker lat="28.0414124428036" lng="-81.6939920502605" intname="BUCKEYE and WH CHRIST" intnum="0" />
+<marker lat="28.0394364794673" lng="-81.6938416527662" intname="null and WH CHRIST" intnum="0" />
+<marker lat="28.0275682073471" lng="-82.0547269670179" intname="US 92 and CNTY LINE" intnum="0" />
+<marker lat="28.0275280068716" lng="-82.054945220453" intname="US 92 and CNTY LINE" intnum="0" />
+<marker lat="28.0274969926199" lng="-82.0551208560978" intname="US 92 and CNTY LINE" intnum="0" />
+<marker lat="28.0274991246127" lng="-82.055518656954" intname="US 92 and CNTY LINE" intnum="0" />
+<marker lat="28.133717652815" lng="-81.9564484516998" intname="N. Socrum and Lk. Gibso" intnum="1122" />
+<marker lat="27.9896771710363" lng="-81.6730185779832" intname="CYPRESS R and CHAMBLISS" intnum="0" />
+<marker lat="27.9771825251931" lng="-81.7244394963152" intname="RIFLERAN and ELOISE LP" intnum="0" />
+<marker lat="27.9239051193081" lng="-81.8216121081668" intname="US 17 and ERN SMITH" intnum="0" />
+<marker lat="27.924768460551" lng="-81.8240811756455" intname="ERN SMITH and OLD EAGLE" intnum="0" />
+<marker lat="27.9251554642388" lng="-81.8520846945126" intname="US 98 and ERN SMITH" intnum="0" />
+<marker lat="28.1281437873016" lng="-81.9535971369729" intname="N SOCRUM and LK GIBSON" intnum="0" />
+</markers>
