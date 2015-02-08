@@ -1,12 +1,12 @@
 <markers>
-<marker lat="25.7741592497451" lng="-80.1927739811907" intname="Flagler St E \/ Miami Av  \/ E   1 Av " intnum="2149 "/>
-<marker lat="25.7726073708366" lng="-80.2296667662891" intname="Flagler St W \/ W  21 Av  \/ W  21 Ct " intnum="2150 "/>
-<marker lat="25.7722485911409" lng="-80.2417069680197" intname="Flagler St W \/ W  29 Av  \/ W  30 Av " intnum="2151 "/>
-<marker lat="25.7717083054611" lng="-80.2617908994913" intname="Flagler St W \/ W  40 Av  \/ W  40 Ct " intnum="2152 "/>
-<marker lat="25.7704535500507" lng="-80.2076192922543" intname="SW   8 Av  \/ SW   3 St  \/ SW   4 St " intnum="2153 "/>
-<marker lat="25.7711247944731" lng="-80.2145870853763" intname="SW  12 Av  \/ SW   2 St  \/ SW   3 St " intnum="2154 "/>
-<marker lat="25.7598033787017" lng="-80.2142544399003" intname="SW  12 Av  \/ SW  14 St  \/ SW  15 St " intnum="2155 "/>
-<marker lat="25.7542548213209" lng="-80.2162590284308" intname="SW  13 Av  \/ SW  19 St  \/ SW  19 Ter " intnum="2157 "/>
+<marker lat="25.7741592497451" lng="-80.1927739811907" intname="Flagler St E - Miami Av  - E   1 Av " intnum="2149 "/>
+<marker lat="25.7726073708366" lng="-80.2296667662891" intname="Flagler St W - W  21 Av  - W  21 Ct " intnum="2150 "/>
+<marker lat="25.7722485911409" lng="-80.2417069680197" intname="Flagler St W - W  29 Av  - W  30 Av " intnum="2151 "/>
+<marker lat="25.7717083054611" lng="-80.2617908994913" intname="Flagler St W - W  40 Av  - W  40 Ct " intnum="2152 "/>
+<marker lat="25.7704535500507" lng="-80.2076192922543" intname="SW   8 Av  - SW   3 St  - SW   4 St " intnum="2153 "/>
+<marker lat="25.7711247944731" lng="-80.2145870853763" intname="SW  12 Av  - SW   2 St  - SW   3 St " intnum="2154 "/>
+<marker lat="25.7598033787017" lng="-80.2142544399003" intname="SW  12 Av  - SW  14 St  - SW  15 St " intnum="2155 "/>
+<marker lat="25.7542548213209" lng="-80.2162590284308" intname="SW  13 Av  - SW  19 St  - SW  19 Ter " intnum="2157 "/>
 <marker lat="25.7875935762653" lng="-80.2150027851703" intname="NW  12 Av  and NW  14 St " intnum="2377 "/>
 <marker lat="25.7868512593601" lng="-80.2395759950562" intname="NW  27 Av  and NW  14 St " intnum="2378 "/>
 <marker lat="25.7895767189041" lng="-80.1872284463154" intname="Bayshore Dr N and NE  15 St " intnum="2380 "/>
@@ -46,25 +46,25 @@
 <marker lat="25.8033876332698" lng="-80.2154429925898" intname="NW  12 Av  and NW  29 St " intnum="2424 "/>
 <marker lat="25.8030841510799" lng="-80.2236154024269" intname="NW  17 Av  and NW  29 St " intnum="2425 "/>
 <marker lat="25.8086028191038" lng="-80.2238288663896" intname="NW  17 Av  and NW  35 St " intnum="2426 "/>
-<marker lat="25.8856302504325" lng="-80.1984766350997" intname="N Miami Av \/ N 120 St  \/ N 121 St " intnum="2430 "/>
-<marker lat="25.9523777049594" lng="-80.2136627921661" intname="NW   7 Av  \/ NW 194 St  \/ NW 194 Ter " intnum="2436 "/>
-<marker lat="25.9452742690551" lng="-80.2213974151597" intname="NW  12 Av  \/ NW 186 St  \/ NW 187 St " intnum="2437 "/>
-<marker lat="25.817939444751" lng="-80.2324512759165" intname="NW  22 Av  \/  NW  47 St  \/  NW  48 St " intnum="2441 "/>
-<marker lat="25.8223566271017" lng="-80.2326218410478" intname="NW  22 Av  \/ NW  51 Ter  \/ NW  52 St " intnum="2442 "/>
-<marker lat="25.8365424748073" lng="-80.2332114225914" intname="NW  22 Av  \/ NW  68 St  \/ NW  69 St " intnum="2443 "/>
-<marker lat="25.8424022841492" lng="-80.2334383868973" intname="NW  22 Av  \/ NW  74 St  \/ NW  75 St " intnum="2445 "/>
-<marker lat="25.85047259518" lng="-80.2337251614686" intname="NW  22 Av  \/ NW  83 St  \/ NW  83 Ter " intnum="2446 "/>
-<marker lat="25.8908268137532" lng="-80.2351661244598" intname="NW  22 Av  \/ NW 127 St  \/ NW 128 St " intnum="2447 "/>
-<marker lat="25.8074475061306" lng="-80.2483174546718" intname="NW  32 Av  \/ NW  34 St  \/ NW  35 St " intnum="2451 "/>
-<marker lat="25.8166985666177" lng="-80.2349312328442" intname="NW  46 St  \/  NW  23 Av  \/  NW  24 Av " intnum="2455 "/>
-<marker lat="25.8164359977691" lng="-80.2430626926043" intname="NW  46 St  \/ NW  29 Av  \/ NW  30 Av " intnum="2456 "/>
-<marker lat="25.8240329205035" lng="-80.2372409892807" intname="NW  54 St  \/  NW  24 Av  \/  NW  24 Ct " intnum="2457 "/>
-<marker lat="25.8390610610131" lng="-80.2278298119187" intname="NW  71 St  \/ NW  18 Av  \/ NW  19 Av " intnum="2461 "/>
-<marker lat="25.8457370297407" lng="-80.2509502652264" intname="NW  79 St  \/ NW  32 Av  \/ NW  33 Av " intnum="2463 "/>
-<marker lat="25.8530479343386" lng="-80.2535236137294" intname="NW  87 St  \/ NW  33 Ct  \/ NW  34 Av " intnum="2464 "/>
-<marker lat="25.8690231265376" lng="-80.2153554726403" intname="NW 103 St  \/ NW  10 Av  \/ NW  11 Av " intnum="2467 "/>
-<marker lat="25.8682863650832" lng="-80.2358425999025" intname="NW 103 St  \/  NW  22 Av  \/  NW  23 Av " intnum="2468 "/>
-<marker lat="25.8995952380527" lng="-80.2148494352073" intname="Opa-Locka Blvd  \/ NW   9 Av  \/ NW  10 Av " intnum="2472 "/>
+<marker lat="25.8856302504325" lng="-80.1984766350997" intname="N Miami Av - N 120 St  - N 121 St " intnum="2430 "/>
+<marker lat="25.9523777049594" lng="-80.2136627921661" intname="NW   7 Av  - NW 194 St  - NW 194 Ter " intnum="2436 "/>
+<marker lat="25.9452742690551" lng="-80.2213974151597" intname="NW  12 Av  - NW 186 St  - NW 187 St " intnum="2437 "/>
+<marker lat="25.817939444751" lng="-80.2324512759165" intname="NW  22 Av  -  NW  47 St  -  NW  48 St " intnum="2441 "/>
+<marker lat="25.8223566271017" lng="-80.2326218410478" intname="NW  22 Av  - NW  51 Ter  - NW  52 St " intnum="2442 "/>
+<marker lat="25.8365424748073" lng="-80.2332114225914" intname="NW  22 Av  - NW  68 St  - NW  69 St " intnum="2443 "/>
+<marker lat="25.8424022841492" lng="-80.2334383868973" intname="NW  22 Av  - NW  74 St  - NW  75 St " intnum="2445 "/>
+<marker lat="25.85047259518" lng="-80.2337251614686" intname="NW  22 Av  - NW  83 St  - NW  83 Ter " intnum="2446 "/>
+<marker lat="25.8908268137532" lng="-80.2351661244598" intname="NW  22 Av  - NW 127 St  - NW 128 St " intnum="2447 "/>
+<marker lat="25.8074475061306" lng="-80.2483174546718" intname="NW  32 Av  - NW  34 St  - NW  35 St " intnum="2451 "/>
+<marker lat="25.8166985666177" lng="-80.2349312328442" intname="NW  46 St  -  NW  23 Av  -  NW  24 Av " intnum="2455 "/>
+<marker lat="25.8164359977691" lng="-80.2430626926043" intname="NW  46 St  - NW  29 Av  - NW  30 Av " intnum="2456 "/>
+<marker lat="25.8240329205035" lng="-80.2372409892807" intname="NW  54 St  -  NW  24 Av  -  NW  24 Ct " intnum="2457 "/>
+<marker lat="25.8390610610131" lng="-80.2278298119187" intname="NW  71 St  - NW  18 Av  - NW  19 Av " intnum="2461 "/>
+<marker lat="25.8457370297407" lng="-80.2509502652264" intname="NW  79 St  - NW  32 Av  - NW  33 Av " intnum="2463 "/>
+<marker lat="25.8530479343386" lng="-80.2535236137294" intname="NW  87 St  - NW  33 Ct  - NW  34 Av " intnum="2464 "/>
+<marker lat="25.8690231265376" lng="-80.2153554726403" intname="NW 103 St  - NW  10 Av  - NW  11 Av " intnum="2467 "/>
+<marker lat="25.8682863650832" lng="-80.2358425999025" intname="NW 103 St  -  NW  22 Av  -  NW  23 Av " intnum="2468 "/>
+<marker lat="25.8995952380527" lng="-80.2148494352073" intname="Opa-Locka Blvd  - NW   9 Av  - NW  10 Av " intnum="2472 "/>
 <marker lat="25.9103271617101" lng="-80.1997553411001" intname="Memorial Hwy  and  N Miami Av " intnum="2477 "/>
 <marker lat="25.8109587927135" lng="-80.2403032468452" intname="NW  27 Av  and NW  38 St " intnum="2478 "/>
 <marker lat="25.8016825661548" lng="-80.2400246529754" intname="NW  27 Av  and NW  28 St " intnum="2479 "/>
@@ -130,15 +130,15 @@
 <marker lat="25.7757061753336" lng="-80.1407510833248" intname="Alton Rd  and   6 St " intnum="2641 "/>
 <marker lat="25.7781716104562" lng="-80.140832461999" intname="Alton Rd  and   8 St " intnum="2642 "/>
 <marker lat="25.7817384185545" lng="-80.1409444635413" intname="Alton Rd  and  11 St " intnum="2643 "/>
-<marker lat="25.7631070512591" lng="-80.2305836406439" intname="SW  22 Av  \/ SW  10 St  \/ SW  11 St " intnum="2159 "/>
-<marker lat="25.7443634326649" lng="-80.2298813261747" intname="SW  22 Av  \/ SW  25 St  \/ SW  26 St " intnum="2161 "/>
-<marker lat="25.7421864515142" lng="-80.2379371277895" intname="SW  27 Av  \/ SW  26 Ter  \/ SW  27 St " intnum="2162 "/>
-<marker lat="25.7265273206747" lng="-80.2535429349996" intname="Douglas Rd  \/  Thomas Av  \/  William Av " intnum="2166 "/>
-<marker lat="25.7733763224681" lng="-80.1910580234777" intname="SE   1 St  \/ SE   1 Av  \/ SE   2 Av " intnum="2167 "/>
-<marker lat="25.7733283172188" lng="-80.192987698526" intname="SE   1 St  \/  S Miami Av  \/  SE   1 Av " intnum="2168 "/>
-<marker lat="25.761566390258" lng="-80.1941312700004" intname="Coral Way  \/  S Miami Av  \/  SW   1 Av " intnum="2170 "/>
-<marker lat="25.7510005181882" lng="-80.21659934915" intname="Coral Way  \/  SW  13 Av  \/  SW  14 Av " intnum="2171 "/>
-<marker lat="25.7504232752699" lng="-80.2357653144989" intname="Coral Way  \/  SW  24 Av  \/  SW  25 Av " intnum="2172 "/>
+<marker lat="25.7631070512591" lng="-80.2305836406439" intname="SW  22 Av  - SW  10 St  - SW  11 St " intnum="2159 "/>
+<marker lat="25.7443634326649" lng="-80.2298813261747" intname="SW  22 Av  - SW  25 St  - SW  26 St " intnum="2161 "/>
+<marker lat="25.7421864515142" lng="-80.2379371277895" intname="SW  27 Av  - SW  26 Ter  - SW  27 St " intnum="2162 "/>
+<marker lat="25.7265273206747" lng="-80.2535429349996" intname="Douglas Rd  -  Thomas Av  -  William Av " intnum="2166 "/>
+<marker lat="25.7733763224681" lng="-80.1910580234777" intname="SE   1 St  - SE   1 Av  - SE   2 Av " intnum="2167 "/>
+<marker lat="25.7733283172188" lng="-80.192987698526" intname="SE   1 St  -  S Miami Av  -  SE   1 Av " intnum="2168 "/>
+<marker lat="25.761566390258" lng="-80.1941312700004" intname="Coral Way  -  S Miami Av  -  SW   1 Av " intnum="2170 "/>
+<marker lat="25.7510005181882" lng="-80.21659934915" intname="Coral Way  -  SW  13 Av  -  SW  14 Av " intnum="2171 "/>
+<marker lat="25.7504232752699" lng="-80.2357653144989" intname="Coral Way  -  SW  24 Av  -  SW  25 Av " intnum="2172 "/>
 <marker lat="25.7355126757602" lng="-80.2376729461632" intname="Bird Av  and SW  27 Av " intnum="2175 "/>
 <marker lat="25.7353241791209" lng="-80.2458600717257" intname="Bird Av  and SW  32 Av " intnum="2176 "/>
 <marker lat="25.7350699624136" lng="-80.2540136067157" intname="Bird Rd  and  Douglas Rd " intnum="2177 "/>
@@ -228,21 +228,21 @@
 <marker lat="25.927936671741" lng="-80.2043600235326" intname="SR- 826  and NW   2 Av " intnum="2020 "/>
 <marker lat="25.9347370020452" lng="-80.1519465411593" intname="W Dixie Hwy  and  NE 172 St " intnum="2023 "/>
 <marker lat="25.9460687842757" lng="-80.1628983821248" intname="Miami Gardens Dr  and NE  19 Av " intnum="2024 "/>
-<marker lat="25.9063677340321" lng="-80.1586109457064" intname="US-1   \/  NE 140 St  \/  NE 141 St " intnum="2025 "/>
-<marker lat="25.9331200947173" lng="-80.1884781407837" intname="NE   6 Av  \/  NE 171 St  \/  NE 172 St " intnum="2026 "/>
-<marker lat="25.9260236745793" lng="-80.1786269210474" intname="SR- 826  \/ NE  10 Av  \/ NE  11 Av " intnum="2027 "/>
-<marker lat="25.9290017198306" lng="-80.1786460602174" intname="NE 167 St  \/ NE  10 Av  \/ NE  11 Av " intnum="2028 "/>
-<marker lat="25.8210158287086" lng="-80.1998354586468" intname="NW   2 Av  \/ NW  49 St  \/ NW  50 St " intnum="2030 "/>
-<marker lat="25.8311689795102" lng="-80.2003036180598" intname="NW   2 Av  \/ NW  61 St  \/ NW  62 St " intnum="2031 "/>
-<marker lat="25.8365642304265" lng="-80.2005274481293" intname="NW   2 Av  \/ NW  67 St  \/ NW  68 St " intnum="2032 "/>
-<marker lat="25.8099972381782" lng="-80.2097589475714" intname="NW  36 St  \/ NW   7 Av  \/ NW   8 Av " intnum="2036 "/>
-<marker lat="25.8095095362908" lng="-80.2250279957154" intname="NW  36 St  \/ NW  17 Av  \/ NW  18 Av " intnum="2037 "/>
-<marker lat="25.8089826033547" lng="-80.2438983752999" intname="NW  36 St  \/ NW  29 Av  \/ NW  30 Av " intnum="2038 "/>
-<marker lat="25.8172841280597" lng="-80.2173253786031" intname="NW  46 St  \/ NW  12 Av  \/ NW  13 Av " intnum="2039 "/>
-<marker lat="25.8209312035237" lng="-80.2177884089998" intname="NW  50 St  \/ NW  12 Av  \/ NW  13 Av " intnum="2040 "/>
-<marker lat="25.8392964821303" lng="-80.220230063169" intname="NW  71 St  \/ NW  13 Av  \/ NW  14 Av " intnum="2043 "/>
-<marker lat="25.8434589398483" lng="-80.2054465163987" intname="NW  75 St  \/ NW   4 Ct  \/ NW   5 Av " intnum="2044 "/>
-<marker lat="25.8471513355707" lng="-80.2058161919328" intname="NW  79 St  \/ NW   5 Av  \/ NW   5 Ct " intnum="2045 "/>
+<marker lat="25.9063677340321" lng="-80.1586109457064" intname="US-1   -  NE 140 St  -  NE 141 St " intnum="2025 "/>
+<marker lat="25.9331200947173" lng="-80.1884781407837" intname="NE   6 Av  -  NE 171 St  -  NE 172 St " intnum="2026 "/>
+<marker lat="25.9260236745793" lng="-80.1786269210474" intname="SR- 826  - NE  10 Av  - NE  11 Av " intnum="2027 "/>
+<marker lat="25.9290017198306" lng="-80.1786460602174" intname="NE 167 St  - NE  10 Av  - NE  11 Av " intnum="2028 "/>
+<marker lat="25.8210158287086" lng="-80.1998354586468" intname="NW   2 Av  - NW  49 St  - NW  50 St " intnum="2030 "/>
+<marker lat="25.8311689795102" lng="-80.2003036180598" intname="NW   2 Av  - NW  61 St  - NW  62 St " intnum="2031 "/>
+<marker lat="25.8365642304265" lng="-80.2005274481293" intname="NW   2 Av  - NW  67 St  - NW  68 St " intnum="2032 "/>
+<marker lat="25.8099972381782" lng="-80.2097589475714" intname="NW  36 St  - NW   7 Av  - NW   8 Av " intnum="2036 "/>
+<marker lat="25.8095095362908" lng="-80.2250279957154" intname="NW  36 St  - NW  17 Av  - NW  18 Av " intnum="2037 "/>
+<marker lat="25.8089826033547" lng="-80.2438983752999" intname="NW  36 St  - NW  29 Av  - NW  30 Av " intnum="2038 "/>
+<marker lat="25.8172841280597" lng="-80.2173253786031" intname="NW  46 St  - NW  12 Av  - NW  13 Av " intnum="2039 "/>
+<marker lat="25.8209312035237" lng="-80.2177884089998" intname="NW  50 St  - NW  12 Av  - NW  13 Av " intnum="2040 "/>
+<marker lat="25.8392964821303" lng="-80.220230063169" intname="NW  71 St  - NW  13 Av  - NW  14 Av " intnum="2043 "/>
+<marker lat="25.8434589398483" lng="-80.2054465163987" intname="NW  75 St  - NW   4 Ct  - NW   5 Av " intnum="2044 "/>
+<marker lat="25.8471513355707" lng="-80.2058161919328" intname="NW  79 St  - NW   5 Av  - NW   5 Ct " intnum="2045 "/>
 <marker lat="25.8104624877792" lng="-80.1953292393568" intname="N Miami Av and N  36 St " intnum="2047 "/>
 <marker lat="25.8103202983973" lng="-80.1994121249268" intname="NW   2 Av  and NW  36 St " intnum="2048 "/>
 <marker lat="25.8100289700264" lng="-80.2075653833833" intname="NW   7 Av  and NW  36 St " intnum="2049 "/>
@@ -296,7 +296,7 @@
 <marker lat="25.8326408804721" lng="-80.1840312083599" intname="US-1   and  NE  61 St " intnum="2109 "/>
 <marker lat="25.8327001371733" lng="-80.1922310191962" intname="NE   2 Av  and NE  61 St  and NE  62 St " intnum="2110 "/>
 <marker lat="25.8325781405736" lng="-80.1874715258182" intname="NE   4 Ct  and NE  61 St " intnum="2111 "/>
-<marker lat="25.8366645221412" lng="-80.1841781320322" intname="US-1   \/  NE  66 St  \/  NE  67 St " intnum="2112 "/>
+<marker lat="25.8366645221412" lng="-80.1841781320322" intname="US-1   -  NE  66 St  -  NE  67 St " intnum="2112 "/>
 <marker lat="25.8403095945489" lng="-80.1843252033673" intname="US-1   and  NE  71 St " intnum="2113 "/>
 <marker lat="25.8401589743501" lng="-80.1925134060102" intname="NE   2 Av  and NE  71 St " intnum="2114 "/>
 <marker lat="25.8471088751334" lng="-80.18458318778" intname="US-1   and  NE  78 St " intnum="2115 "/>
@@ -311,11 +311,11 @@
 <marker lat="25.8488305143252" lng="-80.1928710781645" intname="NE   2 Av  and NE  80 Ter " intnum="2124 "/>
 <marker lat="25.8494143691706" lng="-80.184696030181" intname="US-1   and  NE  81 St " intnum="2125 "/>
 <marker lat="25.8523434060849" lng="-80.1929737965187" intname="NE   2 Av  and NE  84 St " intnum="2126 "/>
-<marker lat="25.7710742918756" lng="-80.2810617842675" intname="Flagler St W \/ W  52 Ct  \/ W  53 Av " intnum="2128 "/>
-<marker lat="25.7706773603127" lng="-80.2940733823669" intname="Flagler St W \/ W  60 Av  \/ W  60 Ct " intnum="2129 "/>
-<marker lat="25.7730155581247" lng="-80.2637242998894" intname="LeJeune Rd  \/ NW   1 St  \/ NW   2 St " intnum="2132 "/>
-<marker lat="25.7667681876098" lng="-80.2879673345313" intname="Red Rd  \/ SW   4 St  \/ SW   5 St " intnum="2133 "/>
-<marker lat="25.7626813608747" lng="-80.3168151414454" intname="SW   8 St  \/ SW  74 Av  \/ SW  75 Av " intnum="2135 "/>
+<marker lat="25.7710742918756" lng="-80.2810617842675" intname="Flagler St W - W  52 Ct  - W  53 Av " intnum="2128 "/>
+<marker lat="25.7706773603127" lng="-80.2940733823669" intname="Flagler St W - W  60 Av  - W  60 Ct " intnum="2129 "/>
+<marker lat="25.7730155581247" lng="-80.2637242998894" intname="LeJeune Rd  - NW   1 St  - NW   2 St " intnum="2132 "/>
+<marker lat="25.7667681876098" lng="-80.2879673345313" intname="Red Rd  - SW   4 St  - SW   5 St " intnum="2133 "/>
+<marker lat="25.7626813608747" lng="-80.3168151414454" intname="SW   8 St  - SW  74 Av  - SW  75 Av " intnum="2135 "/>
 <marker lat="25.7716809261207" lng="-80.2636842085749" intname="Flagler St W and LeJeune Rd " intnum="2136 "/>
 <marker lat="25.7714646887502" lng="-80.2716973567485" intname="Flagler St W and W  47 Av " intnum="2137 "/>
 <marker lat="25.7707799606589" lng="-80.288119734219" intname="Flagler St W and Red Rd " intnum="2138 "/>
@@ -324,14 +324,14 @@
 <marker lat="25.7861119168802" lng="-80.2641314939918" intname="LeJeune Rd  and NW  14 St " intnum="2143 "/>
 <marker lat="25.7644240701419" lng="-80.2633087340566" intname="LeJeune Rd  and SW   8 St " intnum="2144 "/>
 <marker lat="25.7635627909938" lng="-80.2878521095614" intname="Red Rd  and SW   8 St " intnum="2145 "/>
-<marker lat="25.7372169742349" lng="-80.2267856548692" intname="Bayshore Dr S \/ Crystal View Ct  \/ Emathla St " intnum="2146 "/>
-<marker lat="25.7412651448962" lng="-80.2342312622725" intname="US-1   \/  SW  24 Av  \/  SW  27 Av " intnum="2147 "/>
-<marker lat="25.7742152720508" lng="-80.1910832224388" intname="Flagler St E \/ E   1 Av  \/ E   2 Av " intnum="2148 "/>
+<marker lat="25.7372169742349" lng="-80.2267856548692" intname="Bayshore Dr S - Crystal View Ct  - Emathla St " intnum="2146 "/>
+<marker lat="25.7412651448962" lng="-80.2342312622725" intname="US-1   -  SW  24 Av  -  SW  27 Av " intnum="2147 "/>
+<marker lat="25.7742152720508" lng="-80.1910832224388" intname="Flagler St E - E   1 Av  - E   2 Av " intnum="2148 "/>
 <marker lat="25.8600462610254" lng="-80.2627498948207" intname="E  10 Av  and E  41 St " intnum="3279 "/>
 <marker lat="25.8666473382687" lng="-80.2949529356915" intname="W   6 Av  and W  49 St " intnum="3280 "/>
-<marker lat="25.8005771958595" lng="-80.2317230722189" intname="NW  22 Av  \/ NW  26 St  \/ NW  27 St " intnum="3281 "/>
+<marker lat="25.8005771958595" lng="-80.2317230722189" intname="NW  22 Av  - NW  26 St  - NW  27 St " intnum="3281 "/>
 <marker lat="25.8308960643642" lng="-80.122003059578" intname="Collins Av  @  5300 Blk " intnum="3283 "/>
-<marker lat="25.7092349985936" lng="-80.3585532509031" intname="SW 102 Av  \/ SW  62 St  \/ SW  64 St " intnum="3284 "/>
+<marker lat="25.7092349985936" lng="-80.3585532509031" intname="SW 102 Av  - SW  62 St  - SW  64 St " intnum="3284 "/>
 <marker lat="25.7797988752236" lng="-80.1979222365068" intname="NW   2 Av  and NW   6 St " intnum="3288 "/>
 <marker lat="25.7981982809153" lng="-80.2316252789853" intname="NW  22 Av  and NW  23 St " intnum="3289 "/>
 <marker lat="25.8974458072905" lng="-80.2354750844155" intname="NW  22 Av  and NW 135 St " intnum="3291 "/>
@@ -340,13 +340,13 @@
 <marker lat="25.9215251700996" lng="-80.1798798486491" intname="NE  10 Av  and NE 159 St " intnum="3294 "/>
 <marker lat="25.9293365610074" lng="-80.1701526389255" intname="NE  15 Av  and NE 167 St " intnum="3295 "/>
 <marker lat="25.8128234128087" lng="-80.190311036034" intname="Federal Hwy  and NE  38 St  and NE  39 St " intnum="3298 "/>
-<marker lat="25.8794056692992" lng="-80.2184895292594" intname="NW  12 Av  \/ NW 114 St  \/ NW 115 St " intnum="3299 "/>
+<marker lat="25.8794056692992" lng="-80.2184895292594" intname="NW  12 Av  - NW 114 St  - NW 115 St " intnum="3299 "/>
 <marker lat="25.883923644104" lng="-80.2065103195207" intname="NW   5 Av  and NW 119 St " intnum="3300 "/>
 <marker lat="25.8683157794391" lng="-80.234327054835" intname="NW  22 Av  and NW 103 St " intnum="3302 "/>
 <marker lat="25.7044450477412" lng="-80.285398383397" intname="Red Rd  and  Sunset Dr " intnum="3303 "/>
-<marker lat="25.7243151301097" lng="-80.3470538809246" intname="SW  48 St  \/ SW  93 Ct  \/ SW  94 Av " intnum="3304 "/>
-<marker lat="25.8812851792545" lng="-80.2945937880855" intname="W  65 St  \/ W   5 Av  \/ W   5 Pl " intnum="3305 "/>
-<marker lat="25.6883437003456" lng="-80.3241925374969" intname="Kendall Dr  \/  SW  79 Av  \/  SW  82 Av " intnum="3311 "/>
+<marker lat="25.7243151301097" lng="-80.3470538809246" intname="SW  48 St  - SW  93 Ct  - SW  94 Av " intnum="3304 "/>
+<marker lat="25.8812851792545" lng="-80.2945937880855" intname="W  65 St  - W   5 Av  - W   5 Pl " intnum="3305 "/>
+<marker lat="25.6883437003456" lng="-80.3241925374969" intname="Kendall Dr  -  SW  79 Av  -  SW  82 Av " intnum="3311 "/>
 <marker lat="25.7437214391112" lng="-80.2157420796942" intname="S Miami Av @ S  3601 Blk " intnum="3312 "/>
 <marker lat="25.7332907987567" lng="-80.3274633713662" intname="Bird Rd  and  SW  82 Av " intnum="3317 "/>
 <marker lat="25.7700313056272" lng="-80.1900589737686" intname="US-1   @  Miami River Br " intnum="3318 "/>
@@ -366,28 +366,28 @@
 <marker lat="25.7799782825275" lng="-80.1921517256957" intname="NE   1 Av  and  NE   6 St " intnum="3336 "/>
 <marker lat="25.7800225683915" lng="-80.1904669949511" intname="NE   2 Av  and NE   6 St " intnum="3337 "/>
 <marker lat="25.828484228649" lng="-80.2123535021233" intname="NW  10 Av  and NW  58 St " intnum="3338 "/>
-<marker lat="25.8168730119104" lng="-80.2297733186461" intname="NW  46 St  \/ NW  19 Av  \/ NW  21 Av " intnum="3339 "/>
+<marker lat="25.8168730119104" lng="-80.2297733186461" intname="NW  46 St  - NW  19 Av  - NW  21 Av " intnum="3339 "/>
 <marker lat="25.7544489828986" lng="-80.3518597527475" intname="SW  97 Av  and  SW  16 St " intnum="3340 "/>
 <marker lat="25.7472091459056" lng="-80.351628470596" intname="Coral Way  and  SW  97 Av " intnum="3341 "/>
 <marker lat="25.7321748321354" lng="-80.3756936457223" intname="Bird Rd  and SW 112 Av " intnum="3343 "/>
 <marker lat="25.8986155951188" lng="-80.292002397469" intname="Red Rd  and NW 138 St " intnum="3344 "/>
 <marker lat="25.655491299076" lng="-80.3181346904436" intname="SW  77 Av  and  SW 124 St " intnum="3345 "/>
 <marker lat="25.8995958284511" lng="-80.1828341715117" intname="NE   8 Av  and NE 135 St " intnum="3347 "/>
-<marker lat="25.6030950970484" lng="-80.3545967904012" intname="Homestead Av  \/ Jessamine St  \/ Kumquat St " intnum="3348 "/>
+<marker lat="25.6030950970484" lng="-80.3545967904012" intname="Homestead Av  - Jessamine St  - Kumquat St " intnum="3348 "/>
 <marker lat="25.6660499927632" lng="-80.3348950645355" intname="Galloway Rd  and  Killian Dr " intnum="3349 "/>
-<marker lat="25.4638472175124" lng="-80.4935240078294" intname="SW 187 Av  \/ SW 326 St  \/ SW 327 St " intnum="3350 "/>
+<marker lat="25.4638472175124" lng="-80.4935240078294" intname="SW 187 Av  - SW 326 St  - SW 327 St " intnum="3350 "/>
 <marker lat="25.5626789275824" lng="-80.3721881925073" intname="Old Cutler Rd  and SW 112 Av  and SW 220 St " intnum="3351 "/>
 <marker lat="25.7328950090706" lng="-80.3437283461764" intname="Bird Rd  and SW  92 Av " intnum="3352 "/>
 <marker lat="25.8965253264359" lng="-80.2676607638562" intname="LeJeune Rd  and NW 135 St " intnum="3353 "/>
-<marker lat="25.8492640921243" lng="-80.2049981328493" intname="NW  82 St  \/ NW   4 Av  \/ NW   5 Av " intnum="3354 "/>
+<marker lat="25.8492640921243" lng="-80.2049981328493" intname="NW  82 St  - NW   4 Av  - NW   5 Av " intnum="3354 "/>
 <marker lat="25.7619896446627" lng="-80.3361730553706" intname="Galloway Rd  and  SW   8 St " intnum="3362 "/>
 <marker lat="25.8206620941177" lng="-80.2806585120747" intname="Hook Sq  and Royal Poinciana Blvd " intnum="3363 "/>
-<marker lat="25.9335141516746" lng="-80.2492333125996" intname="NW 175 St  \/ NW  29 Ct  \/ NW  29 Pl " intnum="3364 "/>
-<marker lat="25.831882762996" lng="-80.2192249842253" intname="NW  62 St  \/ NW  13 Av  \/ NW  14 Av " intnum="3368 "/>
+<marker lat="25.9335141516746" lng="-80.2492333125996" intname="NW 175 St  - NW  29 Ct  - NW  29 Pl " intnum="3364 "/>
+<marker lat="25.831882762996" lng="-80.2192249842253" intname="NW  62 St  - NW  13 Av  - NW  14 Av " intnum="3368 "/>
 <marker lat="25.7805217318434" lng="-80.1408958692686" intname="Alton Rd  and  10 St " intnum="3372 "/>
 <marker lat="25.7804916642808" lng="-80.1421529946814" intname="West Av  and  10 St " intnum="3374 "/>
 <marker lat="25.8483242432376" lng="-80.2823490301987" intname="Palm Av  and  29 St " intnum="3375 "/>
-<marker lat="25.7290801702888" lng="-80.2455673277923" intname="SW  32 Av  \/ Frow Av  \/ Florida Av " intnum="3378 "/>
+<marker lat="25.7290801702888" lng="-80.2455673277923" intname="SW  32 Av  - Frow Av  - Florida Av " intnum="3378 "/>
 <marker lat="25.7759256000411" lng="-80.1978005267591" intname="NW   2 Av  and NW   2 St " intnum="3379 "/>
 <marker lat="25.7769284819259" lng="-80.1978074565544" intname="NW   2 Av  and NW   3 St " intnum="3380 "/>
 <marker lat="25.7671418866487" lng="-80.2008213092594" intname="SW   4 Av  and SW   7 St " intnum="3381 "/>
@@ -401,7 +401,7 @@
 <marker lat="25.9414517279809" lng="-80.1886737488419" intname="I-  95 SB and Miami Gardens Dr  and NE   6 Av " intnum="3238 "/>
 <marker lat="25.7572527318421" lng="-80.2548717849402" intname="Douglas Rd  and  SW  16 St " intnum="3240 "/>
 <marker lat="25.7800873190856" lng="-80.1890562195134" intname="US-1   and  NE   6 St " intnum="3241 "/>
-<marker lat="25.7909340555601" lng="-80.1412304517586" intname="Alton Rd  \/  17 St  \/  Lincoln Rd " intnum="3242 "/>
+<marker lat="25.7909340555601" lng="-80.1412304517586" intname="Alton Rd  -  17 St  -  Lincoln Rd " intnum="3242 "/>
 <marker lat="25.8599824646846" lng="-80.2504591924726" intname="NW  32 Av  and NW  95 St " intnum="3243 "/>
 <marker lat="25.8843895413825" lng="-80.1930115990475" intname="W Dixie Hwy  and  NE 118 Ter  and  NE 119 St " intnum="3245 "/>
 <marker lat="25.6637601797044" lng="-80.2840335080265" intname="Old Cutler Rd  and Red Rd " intnum="3247 "/>
@@ -410,12 +410,12 @@
 <marker lat="25.9202300925189" lng="-80.2444557086355" intname="NW  27 Av  and NW 160 St " intnum="3251 "/>
 <marker lat="25.7779812334208" lng="-80.2883202427912" intname="Red Rd  and NW   7 St " intnum="3252 "/>
 <marker lat="25.8479858235563" lng="-80.3063045627662" intname="Ludlam Rd  and W  29 St " intnum="3253 "/>
-<marker lat="25.8045730092633" lng="-80.2155073971752" intname="NW  12 Av  \/ NW  29 St  \/ NW  30 St " intnum="3254 "/>
+<marker lat="25.8045730092633" lng="-80.2155073971752" intname="NW  12 Av  - NW  29 St  - NW  30 St " intnum="3254 "/>
 <marker lat="25.7989268104034" lng="-80.2071430664975" intname="NW   7 Av  and NW  23 St " intnum="3258 "/>
 <marker lat="25.7795241365677" lng="-80.206649903236" intname="NW   7 Av  and NW   6 St " intnum="3260 "/>
-<marker lat="25.7263686131913" lng="-80.2896423590683" intname="SW  48 St  \/ SW  58 Av  \/ SW  59 Av " intnum="3263 "/>
+<marker lat="25.7263686131913" lng="-80.2896423590683" intname="SW  48 St  - SW  58 Av  - SW  59 Av " intnum="3263 "/>
 <marker lat="25.8981084867781" lng="-80.235603330764" intname="Opa-locka Blvd  and  NW  22 Av " intnum="3265 "/>
-<marker lat="25.6594154057592" lng="-80.3122717189923" intname="SW 120 St  \/ SW  72 Av  \/ SW  73 Av " intnum="3266 "/>
+<marker lat="25.6594154057592" lng="-80.3122717189923" intname="SW 120 St  - SW  72 Av  - SW  73 Av " intnum="3266 "/>
 <marker lat="25.7229068480058" lng="-80.3632739132486" intname="SW 104 Av  and SW  48 St " intnum="3267 "/>
 <marker lat="25.8770280090569" lng="-80.3072481225246" intname="Ludlam Rd  and W  60 St " intnum="3654 "/>
 <marker lat="25.6363315382041" lng="-80.3376224634279" intname="Mitchell Dr  and  US-1 " intnum="3656 "/>
@@ -438,17 +438,17 @@
 <marker lat="25.8666341856592" lng="-80.3225261020344" intname="NW 103 St  and  SR- 826 NB " intnum="3683 "/>
 <marker lat="25.7860260702212" lng="-80.1923546617318" intname="NE   1 Av  and  NE  12 St  and  I- 395 WB On " intnum="3684 "/>
 <marker lat="25.7860549560144" lng="-80.1906902401786" intname="NE   2 Av  and NE  12 St " intnum="3685 "/>
-<marker lat="25.9642726730662" lng="-80.2549199411985" intname="NW 207 St  \/ NW  32 Av  \/ NW  33 Av " intnum="3686 "/>
+<marker lat="25.9642726730662" lng="-80.2549199411985" intname="NW 207 St  - NW  32 Av  - NW  33 Av " intnum="3686 "/>
 <marker lat="25.9047944245471" lng="-80.2358051172348" intname="NW  22 Av  and NW 143 St " intnum="3687 "/>
 <marker lat="25.8744610351385" lng="-80.2427754552618" intname="NW  27 Av  and NW 110 St " intnum="3689 "/>
 <marker lat="25.826991401428" lng="-80.1218228518723" intname="Collins Av  @  5000 Blk " intnum="3690 "/>
-<marker lat="25.7188708467074" lng="-80.2873834918561" intname="Miller Dr  \/  SW  57 Av  \/  SW  58 Av " intnum="3691 "/>
+<marker lat="25.7188708467074" lng="-80.2873834918561" intname="Miller Dr  -  SW  57 Av  -  SW  58 Av " intnum="3691 "/>
 <marker lat="25.9637735472012" lng="-80.1648781153849" intname="I-  95 NB and Ives Dairy Rd " intnum="3692 "/>
 <marker lat="25.9641589283937" lng="-80.1662290735543" intname="I-  95 SB and Ives Dairy Rd " intnum="3693 "/>
 <marker lat="25.7482079894967" lng="-80.2954557318845" intname="Coral Way  and  SW  62 Av " intnum="3694 "/>
-<marker lat="25.7396890597841" lng="-80.4000079689267" intname="SW 127 Av  \/  SW  30 St  \/  SW  31 St " intnum="3701 "/>
+<marker lat="25.7396890597841" lng="-80.4000079689267" intname="SW 127 Av  -  SW  30 St  -  SW  31 St " intnum="3701 "/>
 <marker lat="25.8297285179116" lng="-80.1221108867391" intname="Collins Av  @  5225 Blk " intnum="3702 "/>
-<marker lat="25.8902954726175" lng="-80.3158776468262" intname="W  16 Av  \/ W  74 St  \/ W  76 St " intnum="3708 "/>
+<marker lat="25.8902954726175" lng="-80.3158776468262" intname="W  16 Av  - W  74 St  - W  76 St " intnum="3708 "/>
 <marker lat="25.761300442604" lng="-80.3684078710851" intname="SW 107 Av  and  SW   8 St " intnum="3709 "/>
 <marker lat="25.8296204412716" lng="-80.2329113807675" intname="NW  22 Av  and NW  60 St " intnum="3710 "/>
 <marker lat="25.9002677732167" lng="-80.1668104472706" intname="NE  16 Av  and NE 135 St " intnum="3712 "/>
@@ -484,12 +484,12 @@
 <marker lat="25.9330453600767" lng="-80.2610176546769" intname="Douglas Rd  and  NW 175 St " intnum="3902 "/>
 <marker lat="25.8071614727992" lng="-80.3032644336487" intname="NW  66 Av  and NW  36 St " intnum="3903 "/>
 <marker lat="25.9468656019087" lng="-80.2053260655693" intname="NW   2 Av  and NW 188 St " intnum="3904 "/>
-<marker lat="25.8138550205591" lng="-80.1299201432025" intname="Art Godfrey Rd  \/  Prairie Av  \/  Royal Palm Av " intnum="3905 "/>
+<marker lat="25.8138550205591" lng="-80.1299201432025" intname="Art Godfrey Rd  -  Prairie Av  -  Royal Palm Av " intnum="3905 "/>
 <marker lat="25.576714416509" lng="-80.3640313760818" intname="Caribbean Blvd  and  SR- 821 NB and  SW 107 Av " intnum="3906 "/>
 <marker lat="25.577235028122" lng="-80.3652446717334" intname="Caribbean Blvd  and  SR- 821 SB " intnum="3907 "/>
-<marker lat="25.8138269153942" lng="-80.1286016685715" intname="Art Godfrey Rd  \/  Royal Palm Av  \/  Sheridan Av " intnum="3908 "/>
+<marker lat="25.8138269153942" lng="-80.1286016685715" intname="Art Godfrey Rd  -  Royal Palm Av  -  Sheridan Av " intnum="3908 "/>
 <marker lat="25.5777701792973" lng="-80.3523279362133" intname="Caribbean Blvd  and Coral Sea Rd " intnum="3909 "/>
-<marker lat="25.785802310109" lng="-80.1410873296014" intname="Alton Rd  \/  14 Ct  \/  14 St " intnum="3911 "/>
+<marker lat="25.785802310109" lng="-80.1410873296014" intname="Alton Rd  -  14 Ct  -  14 St " intnum="3911 "/>
 <marker lat="25.5872334301382" lng="-80.3571269656544" intname="Bel-view Dr  and Marlin Rd " intnum="3912 "/>
 <marker lat="25.9000976321913" lng="-80.1707563295517" intname="NE  14 Av  and  NE 135 St " intnum="3913 "/>
 <marker lat="25.9259405416903" lng="-80.1639921697789" intname="SR- 826  and NE  18 Av " intnum="3915 "/>
@@ -512,7 +512,7 @@
 <marker lat="25.9459344380218" lng="-80.1669628999699" intname="Miami Gardens Dr  @ NE  1700 Blk " intnum="3942 "/>
 <marker lat="25.6909161002453" lng="-80.3551071859411" intname="SW  99 Ct  and SW  84 St " intnum="3944 "/>
 <marker lat="25.8704346577539" lng="-80.2508800200369" intname="NW  32 Av  and NW 106 St " intnum="3945 "/>
-<marker lat="25.8901441723681" lng="-80.1890603736653" intname="N Miami Blvd  \/ NE   4 Ct  \/ NE   5 Av " intnum="3946 "/>
+<marker lat="25.8901441723681" lng="-80.1890603736653" intname="N Miami Blvd  - NE   4 Ct  - NE   5 Av " intnum="3946 "/>
 <marker lat="25.7901166321056" lng="-80.2560217307049" intname="Douglas Rd  and  NW  17 St " intnum="3949 "/>
 <marker lat="25.9292537311192" lng="-80.1722056314971" intname="NE  14 Av  and  NE 167 St " intnum="3950 "/>
 <marker lat="25.8207551888789" lng="-80.2995415410515" intname="Apache St  and Westward Dr " intnum="3951 "/>
@@ -526,16 +526,16 @@
 <marker lat="25.8506917143118" lng="-80.2419060242315" intname="NW  27 Av  and NW  84 St " intnum="3385 "/>
 <marker lat="25.7316414489133" lng="-80.2375040799693" intname="Tigertail Av  and SW  27 Av " intnum="3386 "/>
 <marker lat="25.9415579636371" lng="-80.1858772025405" intname="I-  95 NB and Miami Gardens Dr " intnum="3387 "/>
-<marker lat="25.8880517906508" lng="-80.123462855056" intname="Collins Av  \/  96 St  \/  97 St " intnum="3390 "/>
+<marker lat="25.8880517906508" lng="-80.123462855056" intname="Collins Av  -  96 St  -  97 St " intnum="3390 "/>
 <marker lat="25.7947532569801" lng="-80.1388266232324" intname="Dade Blvd  and  Michigan Av " intnum="3391 "/>
 <marker lat="25.7964286118569" lng="-80.1398532952971" intname="Alton Rd  and Michigan Av " intnum="3392 "/>
 <marker lat="25.7938481238396" lng="-80.1319761930896" intname="Washington Av  and  18 St " intnum="3393 "/>
 <marker lat="25.7950233759366" lng="-80.1320259481489" intname="Washington Av  and  19 St " intnum="3394 "/>
-<marker lat="25.792188003153" lng="-80.1357762311918" intname="17 St  \/  Meridian Av  \/  Meridian Ct " intnum="3395 "/>
-<marker lat="25.8242145634255" lng="-80.2316289908677" intname="NW  54 St  \/ NW  21 Av  \/ NW  22 Av " intnum="3509 "/>
+<marker lat="25.792188003153" lng="-80.1357762311918" intname="17 St  -  Meridian Av  -  Meridian Ct " intnum="3395 "/>
+<marker lat="25.8242145634255" lng="-80.2316289908677" intname="NW  54 St  - NW  21 Av  - NW  22 Av " intnum="3509 "/>
 <marker lat="25.9447830540442" lng="-80.1732766211105" intname="Miami Gardens Dr  and  NE  14 Av " intnum="3510 "/>
 <marker lat="25.9310051839767" lng="-80.2769785476747" intname="NW  47 Av  and NW 173 Dr " intnum="3511 "/>
-<marker lat="25.8114208602832" lng="-80.1232456955771" intname="Collins Av  \/  38 St  \/  39 St " intnum="3512 "/>
+<marker lat="25.8114208602832" lng="-80.1232456955771" intname="Collins Av  -  38 St  -  39 St " intnum="3512 "/>
 <marker lat="25.8501491100845" lng="-80.1847238678797" intname="US-1   and  NE  82 St " intnum="3514 "/>
 <marker lat="25.8502011938496" lng="-80.1827935143694" intname="NE   7 Av  and NE  82 St " intnum="3515 "/>
 <marker lat="25.8503661921157" lng="-80.1765398374985" intname="NE  10 Av  and NE  82 St " intnum="3516 "/>
@@ -601,7 +601,7 @@
 <marker lat="25.7325215057411" lng="-80.3597653036756" intname="Bird Rd  and SW 102 Av " intnum="3591 "/>
 <marker lat="25.8536769773231" lng="-80.2338390770582" intname="NW  22 Av  and NW  87 St " intnum="3592 "/>
 <marker lat="25.8130714150873" lng="-80.2322147827233" intname="NW  22 Av  and NW  41 St " intnum="3594 "/>
-<marker lat="25.9255255677821" lng="-80.1730514327448" intname="SR- 826  \/  NE  13 Av  \/  NE  14 Av " intnum="3595 "/>
+<marker lat="25.9255255677821" lng="-80.1730514327448" intname="SR- 826  -  NE  13 Av  -  NE  14 Av " intnum="3595 "/>
 <marker lat="25.7981311349615" lng="-80.189080082399" intname="US-1   and  NE  22 St " intnum="3596 "/>
 <marker lat="25.8016178891362" lng="-80.1891477228536" intname="US-1   and  NE  26 St " intnum="3597 "/>
 <marker lat="25.8077835459859" lng="-80.1894670762056" intname="US-1   and  NE  33 St " intnum="3598 "/>
@@ -619,27 +619,27 @@
 <marker lat="25.775884890369" lng="-80.1994006607298" intname="NW   3 Av  and NW   2 St " intnum="3400 "/>
 <marker lat="25.7856861466486" lng="-80.2148888475707" intname="NW  12 Av  and NW  12 St " intnum="3402 "/>
 <marker lat="25.9645331677791" lng="-80.2467013745" intname="NW  27 Av  and NW 207 St " intnum="3403 "/>
-<marker lat="25.764974158928" lng="-80.2452974534883" intname="SW   8 St  \/ SW  31 Av  \/ SW  31 Ct " intnum="3404 "/>
-<marker lat="25.7648067946006" lng="-80.2505254744686" intname="SW   8 St  \/ SW  33 Av  \/ SW  34 Av " intnum="3405 "/>
+<marker lat="25.764974158928" lng="-80.2452974534883" intname="SW   8 St  - SW  31 Av  - SW  31 Ct " intnum="3404 "/>
+<marker lat="25.7648067946006" lng="-80.2505254744686" intname="SW   8 St  - SW  33 Av  - SW  34 Av " intnum="3405 "/>
 <marker lat="25.7667148969367" lng="-80.2144624109494" intname="SW  12 Av  and SW   7 St " intnum="3407 "/>
 <marker lat="25.8905301910259" lng="-80.180399452072" intname="N Miami Blvd  and NE   9 Av " intnum="3408 "/>
-<marker lat="25.8132976065303" lng="-80.1350411767941" intname="Art Godfrey Rd  \/  Alton Rd  \/  Garden Av " intnum="3409 "/>
+<marker lat="25.8132976065303" lng="-80.1350411767941" intname="Art Godfrey Rd  -  Alton Rd  -  Garden Av " intnum="3409 "/>
 <marker lat="25.8108777100179" lng="-80.1363126605617" intname="Alton Rd SB @  3500 Blk " intnum="3410 "/>
-<marker lat="25.7952602505416" lng="-80.2034477000732" intname="NW  20 St  \/ NW   5 Av  \/ NW   5 Ct " intnum="3413 "/>
+<marker lat="25.7952602505416" lng="-80.2034477000732" intname="NW  20 St  - NW   5 Av  - NW   5 Ct " intnum="3413 "/>
 <marker lat="25.9266238526364" lng="-80.1700607773045" intname="NE  15 Av  and NE 164 St " intnum="3179 "/>
-<marker lat="25.8614859869312" lng="-80.2986779124054" intname="W   8 Av  \/ W  40 Pl  \/ W  43 Pl " intnum="3180 "/>
+<marker lat="25.8614859869312" lng="-80.2986779124054" intname="W   8 Av  - W  40 Pl  - W  43 Pl " intnum="3180 "/>
 <marker lat="25.7499539475712" lng="-80.2520927138834" intname="Coral Way  and  SW  36 Av " intnum="3181 "/>
-<marker lat="25.8363076179496" lng="-80.2127685253334" intname="NW  10 Av  \/ NW  67 St  \/ NW  68 St " intnum="3182 "/>
+<marker lat="25.8363076179496" lng="-80.2127685253334" intname="NW  10 Av  - NW  67 St  - NW  68 St " intnum="3182 "/>
 <marker lat="25.899456592483" lng="-80.1868495781847" intname="NE   6 Av  and NE 135 St " intnum="3184 "/>
 <marker lat="25.8816030127966" lng="-80.1231738141544" intname="Harding Av  and  93 St " intnum="3185 "/>
 <marker lat="25.8459637640046" lng="-80.2440428976738" intname="NW  79 St  @  NW  2800 Blk " intnum="3191 "/>
-<marker lat="25.7550841605351" lng="-80.3299747893967" intname="SW  16 St  \/  SW  82 Pl  \/  SW  83 Av " intnum="3196 "/>
+<marker lat="25.7550841605351" lng="-80.3299747893967" intname="SW  16 St  -  SW  82 Pl  -  SW  83 Av " intnum="3196 "/>
 <marker lat="25.8583903737469" lng="-80.1221313141314" intname="Harding Av  and  73 St " intnum="3197 "/>
 <marker lat="25.8296985334787" lng="-80.2897750620588" intname="Okeechobee Rd  and Red Rd  and W   9 St " intnum="3198 "/>
 <marker lat="25.8748149599692" lng="-80.1702942919686" intname="US-1   and  NE 108 St " intnum="3199 "/>
 <marker lat="25.8455039506611" lng="-80.258110421178" intname="Douglas Rd  and  NW  79 St " intnum="3201 "/>
-<marker lat="25.9237162338673" lng="-80.1639180285944" intname="NE  18 Av  \/ NE 160 St  \/ NE 161 St " intnum="3202 "/>
-<marker lat="25.9456106726653" lng="-80.2375100983982" intname="NW  22 Av  \/ NW 187 St  \/ NW 188 St " intnum="3205 "/>
+<marker lat="25.9237162338673" lng="-80.1639180285944" intname="NE  18 Av  - NE 160 St  - NE 161 St " intnum="3202 "/>
+<marker lat="25.9456106726653" lng="-80.2375100983982" intname="NW  22 Av  - NW 187 St  - NW 188 St " intnum="3205 "/>
 <marker lat="25.7477625163705" lng="-80.260644876504" intname="Salzedo St  and Valencia Av " intnum="3206 "/>
 <marker lat="25.9422004932185" lng="-80.2131889381617" intname="Miami Gardens Dr  and NW   7 Av " intnum="3210 "/>
 <marker lat="25.7553833100829" lng="-80.2081876106951" intname="Coral Way  and  SW  26 Rd " intnum="3213 "/>
@@ -647,8 +647,8 @@
 <marker lat="25.8999342250352" lng="-80.1747861879896" intname="NE  12 Av  and  NE 135 St " intnum="3217 "/>
 <marker lat="25.7666959736225" lng="-80.2470791886995" intname="SW  32 Av  and SW   6 St " intnum="3219 "/>
 <marker lat="25.8772785908247" lng="-80.2428582332332" intname="NW  27 Av  and NW 113 St " intnum="3220 "/>
-<marker lat="25.9521274142205" lng="-80.2217008719815" intname="NW  12 Av  \/ NW 194 St  \/ NW 195 St " intnum="3221 "/>
-<marker lat="25.9100963881731" lng="-80.1752872033919" intname="NE  12 Av  \/  NE 146 St  \/  NE 147 St " intnum="3223 "/>
+<marker lat="25.9521274142205" lng="-80.2217008719815" intname="NW  12 Av  - NW 194 St  - NW 195 St " intnum="3221 "/>
+<marker lat="25.9100963881731" lng="-80.1752872033919" intname="NE  12 Av  -  NE 146 St  -  NE 147 St " intnum="3223 "/>
 <marker lat="25.6062007080985" lng="-80.3485977992482" intname="Franjo Rd  and  US-1   and  Evergreen St " intnum="3224 "/>
 <marker lat="25.8818403176552" lng="-80.2671972612267" intname="LeJeune Rd  and E  65 St " intnum="3225 "/>
 <marker lat="25.9412522741175" lng="-80.2372865784924" intname="Miami Gardens Dr  and NW  22 Av " intnum="3228 "/>
@@ -706,15 +706,15 @@
 <marker lat="25.8842914285256" lng="-80.1983737094117" intname="N Miami Av and N 119 St " intnum="2516 "/>
 <marker lat="25.8837348909241" lng="-80.2105857704026" intname="NW   7 Av  and NW 119 St " intnum="2517 "/>
 <marker lat="25.883097946404" lng="-80.2267367194418" intname="NW  17 Av  and NW 119 St " intnum="2518 "/>
-<marker lat="25.8827407452736" lng="-80.239811462594" intname="NW 119 St  \/ Golf Dr E \/ Golf Dr W " intnum="2519 "/>
+<marker lat="25.8827407452736" lng="-80.239811462594" intname="NW 119 St  - Golf Dr E - Golf Dr W " intnum="2519 "/>
 <marker lat="25.8827158557437" lng="-80.2430712471638" intname="NW  27 Av  and NW 119 St " intnum="2520 "/>
 <marker lat="25.9425547215406" lng="-80.2051904906499" intname="Miami Gardens Dr  and NW   2 Av " intnum="2523 "/>
 <marker lat="25.947495742999" lng="-80.1486995258103" intname="Miami Gardens Dr  and W Dixie Hwy " intnum="2524 "/>
 <marker lat="25.9471702548323" lng="-80.1567325751681" intname="Miami Gardens Dr  and NE  22 Av " intnum="2526 "/>
 <marker lat="25.8793918875976" lng="-80.1799870788412" intname="NE   9 Av  and NE 113 St " intnum="2527 "/>
 <marker lat="25.8791993427734" lng="-80.1855732650645" intname="Griffing Blvd  and  NE   6 Av  and  NE 113 St " intnum="2528 "/>
-<marker lat="25.896400405214" lng="-80.1846925887708" intname="NE   7 Av  \/ NE 131 St  \/ NE 132 St " intnum="2532 "/>
-<marker lat="25.8908263930158" lng="-80.1728984451231" intname="N Miami Blvd  \/  NE  12 Av  \/  NE  13 Av " intnum="2533 "/>
+<marker lat="25.896400405214" lng="-80.1846925887708" intname="NE   7 Av  - NE 131 St  - NE 132 St " intnum="2532 "/>
+<marker lat="25.8908263930158" lng="-80.1728984451231" intname="N Miami Blvd  -  NE  12 Av  -  NE  13 Av " intnum="2533 "/>
 <marker lat="25.8894914843757" lng="-80.1518433309327" intname="Bayshore Dr N and N Miami Blvd  and Broad Cswy " intnum="2534 "/>
 <marker lat="25.8869531129568" lng="-80.1905747935225" intname="Griffing Blvd  and  W Dixie Hwy " intnum="2535 "/>
 <marker lat="25.8997432427799" lng="-80.2113539981126" intname="Opa-Locka Blvd  and NW   7 Av " intnum="2536 "/>
@@ -737,8 +737,8 @@
 <marker lat="25.894639181954" lng="-80.2111035238793" intname="NW   7 Av  and NW 131 St " intnum="2554 "/>
 <marker lat="25.8996926964561" lng="-80.1788566921525" intname="W Dixie Hwy  and  NE 135 St " intnum="2555 "/>
 <marker lat="25.9035648137382" lng="-80.1749675917546" intname="W Dixie Hwy  and  NE  12 Av  and  NE 139 St " intnum="2556 "/>
-<marker lat="25.8711339621313" lng="-80.1936879925767" intname="NE   2 Av  \/ NE 104 St  \/ NE 105 St " intnum="2557 "/>
-<marker lat="25.8699291009906" lng="-80.1871761333469" intname="NE 103 St  \/ NE   5 Av  \/ NE   6 Av " intnum="2560 "/>
+<marker lat="25.8711339621313" lng="-80.1936879925767" intname="NE   2 Av  - NE 104 St  - NE 105 St " intnum="2557 "/>
+<marker lat="25.8699291009906" lng="-80.1871761333469" intname="NE 103 St  - NE   5 Av  - NE   6 Av " intnum="2560 "/>
 <marker lat="25.8566790600973" lng="-80.1849595863355" intname="US-1   and  NE   6 Av " intnum="2561 "/>
 <marker lat="25.862466474103" lng="-80.193408514108" intname="NE   2 Av  and NE  95 St " intnum="2562 "/>
 <marker lat="25.8623408169994" lng="-80.1974489852761" intname="N Miami Av and N  95 St " intnum="2563 "/>
@@ -750,13 +750,13 @@
 <marker lat="25.8696627531679" lng="-80.1936639545661" intname="NE   2 Av  and NE 103 St " intnum="2569 "/>
 <marker lat="25.8695513506725" lng="-80.1977640651882" intname="N Miami Av and N 103 St " intnum="2570 "/>
 <marker lat="25.8806040170633" lng="-80.198238934825" intname="N Miami Av and N 115 St " intnum="2571 "/>
-<marker lat="25.7218781064127" lng="-80.2725187884917" intname="Granada Blvd  \/ Benevento Av  \/ Pisano Av " intnum="2573 "/>
-<marker lat="25.7274367677108" lng="-80.2590166155518" intname="Grand Av  \/  Jefferson St  \/  Lincoln Dr " intnum="2574 "/>
-<marker lat="25.7496114149542" lng="-80.2576437796004" intname="Coral Way  \/  Galiano St  \/  Ponce De Leon Blvd " intnum="2575 "/>
-<marker lat="25.7495035918767" lng="-80.2596740110396" intname="Coral Way  \/  Ponce De Leon Blvd  \/  Salzedo St " intnum="2576 "/>
-<marker lat="25.7540440441654" lng="-80.2608506581842" intname="Salzedo St  \/ Minorca Av  \/ Navarre Av " intnum="2577 "/>
-<marker lat="25.7300800538544" lng="-80.2571348932579" intname="US-1   \/  Brooker St  \/  Ponce De Leon Blvd " intnum="2578 "/>
-<marker lat="25.7243758955597" lng="-80.2732534737308" intname="University Dr  \/ Campo Sano Av  \/ Pisano Av " intnum="2579 "/>
+<marker lat="25.7218781064127" lng="-80.2725187884917" intname="Granada Blvd  - Benevento Av  - Pisano Av " intnum="2573 "/>
+<marker lat="25.7274367677108" lng="-80.2590166155518" intname="Grand Av  -  Jefferson St  -  Lincoln Dr " intnum="2574 "/>
+<marker lat="25.7496114149542" lng="-80.2576437796004" intname="Coral Way  -  Galiano St  -  Ponce De Leon Blvd " intnum="2575 "/>
+<marker lat="25.7495035918767" lng="-80.2596740110396" intname="Coral Way  -  Ponce De Leon Blvd  -  Salzedo St " intnum="2576 "/>
+<marker lat="25.7540440441654" lng="-80.2608506581842" intname="Salzedo St  - Minorca Av  - Navarre Av " intnum="2577 "/>
+<marker lat="25.7300800538544" lng="-80.2571348932579" intname="US-1   -  Brooker St  -  Ponce De Leon Blvd " intnum="2578 "/>
+<marker lat="25.7243758955597" lng="-80.2732534737308" intname="University Dr  - Campo Sano Av  - Pisano Av " intnum="2579 "/>
 <marker lat="25.7489051694802" lng="-80.2545726022613" intname="Andalusia Av  and  Douglas Rd  and  SW  22 Ter " intnum="2581 "/>
 <marker lat="25.7487710441336" lng="-80.2566582713356" intname="Andalusia Av  and Galiano St " intnum="2582 "/>
 <marker lat="25.7485524081685" lng="-80.2606965682725" intname="Andalusia Av  and Salzedo St " intnum="2583 "/>
@@ -785,14 +785,14 @@
 <marker lat="25.7501049905389" lng="-80.2464186101934" intname="Coral Way  and  SW  32 Av " intnum="2266 "/>
 <marker lat="25.7504029803684" lng="-80.2039675867306" intname="US-1   and  SE  26 Rd " intnum="2267 "/>
 <marker lat="25.7513641951494" lng="-80.2047981617876" intname="S Miami Av and S  26 Rd " intnum="2268 "/>
-<marker lat="25.8051482500042" lng="-80.1992440854889" intname="NW   2 Av  \/ NW  30 St  \/ NW  31 St " intnum="2269 "/>
-<marker lat="25.8045925502551" lng="-80.2114377140618" intname="NW  10 Av  \/ NW  29 Ter  \/ NW  30 St " intnum="2274 "/>
-<marker lat="25.7933041858292" lng="-80.1984309376486" intname="NW   1 Pl  \/ NW  18 St  \/ NW  19 St " intnum="2280 "/>
-<marker lat="25.7751448742895" lng="-80.1929057027542" intname="NE   1 St  \/  N Miami Av  \/  NE   1 Av " intnum="2282 "/>
-<marker lat="25.7797065221288" lng="-80.2300387345681" intname="NW   7 St  \/ NW  21 Av  \/ NW  22 Av " intnum="2283 "/>
-<marker lat="25.7787663792896" lng="-80.2621476869775" intname="NW   7 St  \/ NW  40 Av  \/ NW  40 Ct " intnum="2285 "/>
-<marker lat="25.798384385724" lng="-80.2259280754731" intname="NW  23 St  \/ NW  18 Av  \/ NW  19 Av " intnum="2292 "/>
-<marker lat="25.8020277763303" lng="-80.227403060303" intname="NW  28 St  \/ NW  18 Av  \/ NW  19 Av " intnum="2293 "/>
+<marker lat="25.8051482500042" lng="-80.1992440854889" intname="NW   2 Av  - NW  30 St  - NW  31 St " intnum="2269 "/>
+<marker lat="25.8045925502551" lng="-80.2114377140618" intname="NW  10 Av  - NW  29 Ter  - NW  30 St " intnum="2274 "/>
+<marker lat="25.7933041858292" lng="-80.1984309376486" intname="NW   1 Pl  - NW  18 St  - NW  19 St " intnum="2280 "/>
+<marker lat="25.7751448742895" lng="-80.1929057027542" intname="NE   1 St  -  N Miami Av  -  NE   1 Av " intnum="2282 "/>
+<marker lat="25.7797065221288" lng="-80.2300387345681" intname="NW   7 St  - NW  21 Av  - NW  22 Av " intnum="2283 "/>
+<marker lat="25.7787663792896" lng="-80.2621476869775" intname="NW   7 St  - NW  40 Av  - NW  40 Ct " intnum="2285 "/>
+<marker lat="25.798384385724" lng="-80.2259280754731" intname="NW  23 St  - NW  18 Av  - NW  19 Av " intnum="2292 "/>
+<marker lat="25.8020277763303" lng="-80.227403060303" intname="NW  28 St  - NW  18 Av  - NW  19 Av " intnum="2293 "/>
 <marker lat="25.7869260521345" lng="-80.2229468510903" intname="North River Dr  and NW  17 Av " intnum="2295 "/>
 <marker lat="25.7752980816455" lng="-80.1877635217188" intname="US-1 SB   and  NE   1 St " intnum="2296 "/>
 <marker lat="25.7752217956968" lng="-80.1903197260895" intname="NE   2 Av  and NE   1 St " intnum="2297 "/>
@@ -844,12 +844,12 @@
 <marker lat="25.7782802192133" lng="-80.1361744844955" intname="Meridian Av  and   8 St " intnum="2742 "/>
 <marker lat="25.7818758158307" lng="-80.1362986730341" intname="Meridian Av  and  11 St " intnum="2743 "/>
 <marker lat="25.898325231918" lng="-80.2101488404593" intname="I-  95 SB On and NW 135 St " intnum="3268 "/>
-<marker lat="25.777558634012" lng="-80.2311204738845" intname="NW  22 Av  \/ NW   4 St  \/ NW   5 St " intnum="3269 "/>
+<marker lat="25.777558634012" lng="-80.2311204738845" intname="NW  22 Av  - NW   4 St  - NW   5 St " intnum="3269 "/>
 <marker lat="25.9415606711181" lng="-80.2292786484743" intname="Miami Gardens Dr  and NW  17 Av " intnum="3271 "/>
 <marker lat="25.7330626780711" lng="-80.2620110610631" intname="Altara Av  and LeJeune Rd " intnum="3272 "/>
 <marker lat="25.7945198703413" lng="-80.2314748115863" intname="NW  22 Av  and NW  20 St " intnum="3275 "/>
 <marker lat="25.7956394218536" lng="-80.1405949349959" intname="Alton Rd  and  20 St " intnum="3276 "/>
-<marker lat="25.7431726459224" lng="-80.3516748052135" intname="SW  97 Av  \/ SW  28 St  \/ SW  29 St " intnum="3278 "/>
+<marker lat="25.7431726459224" lng="-80.3516748052135" intname="SW  97 Av  - SW  28 St  - SW  29 St " intnum="3278 "/>
 <marker lat="25.8226568935069" lng="-80.2803415055308" intname="Hialeah Dr  and Okeechobee Rd " intnum="2847 "/>
 <marker lat="25.8157751184889" lng="-80.2648875569691" intname="LeJeune Rd  and SE   8 St " intnum="2849 "/>
 <marker lat="25.8227345070445" lng="-80.2793388295134" intname="Hialeah Dr  and E   1 Av " intnum="2850 "/>
@@ -887,7 +887,7 @@
 <marker lat="25.7023053938429" lng="-80.3341375974548" intname="Galloway Rd  and  Sunset Dr " intnum="2885 "/>
 <marker lat="25.6665783118555" lng="-80.3185968592568" intname="Killian Dr  and SW  77 Av " intnum="2886 "/>
 <marker lat="25.7447072194557" lng="-80.2870721663988" intname="Red Rd  and Sevilla Av " intnum="2887 "/>
-<marker lat="25.9137827781131" lng="-80.2361186271383" intname="NW  22 Av  \/ NW 152 Ter  \/ NW 153 St " intnum="2888 "/>
+<marker lat="25.9137827781131" lng="-80.2361186271383" intname="NW  22 Av  - NW 152 Ter  - NW 153 St " intnum="2888 "/>
 <marker lat="25.7970217397276" lng="-80.3129261767746" intname="Milam Dairy Rd  and NW  25 St " intnum="2897 "/>
 <marker lat="25.8082986023829" lng="-80.2675720139597" intname="Sheridan Dr  and NW  36 St " intnum="2900 "/>
 <marker lat="25.8079120682503" lng="-80.2797264009422" intname="South Dr  and NW  36 St " intnum="2901 "/>
@@ -904,19 +904,19 @@
 <marker lat="25.8834208644415" lng="-80.1233711950115" intname="Harding Av  and  94 St " intnum="2917 "/>
 <marker lat="25.8852388034872" lng="-80.1235543228595" intname="Harding Av  and  95 St " intnum="2918 "/>
 <marker lat="25.8870411209301" lng="-80.1237136192635" intname="Harding Av  and  96 St " intnum="2919 "/>
-<marker lat="25.7298020857284" lng="-80.2863563594992" intname="Red Rd  \/ SW  44 St  \/ SW  45 St " intnum="2925 "/>
-<marker lat="25.6939366893296" lng="-80.2850184983506" intname="Red Rd  \/ SW  83 St  \/ SW  84 St " intnum="2926 "/>
-<marker lat="25.6742174635972" lng="-80.284321777584" intname="Red Rd  \/ SW 104 St  \/ SW 105 St " intnum="2927 "/>
-<marker lat="25.7143465870349" lng="-80.3021041206943" intname="Ludlam Rd  \/ SW  60 St  \/ SW  62 St " intnum="2928 "/>
-<marker lat="25.7606273992991" lng="-80.3157725286438" intname="SW  74 Av  \/ SW  10 St  \/ SW  11 St " intnum="2929 "/>
-<marker lat="25.7373085623601" lng="-80.3275339135542" intname="SW  82 Av  \/  SW  35 St  \/  SW  36 St " intnum="2932 "/>
-<marker lat="25.6803725101361" lng="-80.3353693175077" intname="Galloway Rd  \/  SW  96 St  \/  SW  97 St " intnum="2935 "/>
-<marker lat="25.6601049243286" lng="-80.3346934987639" intname="Galloway Rd  \/  SW 118 St  \/  SW 119 St " intnum="2936 "/>
-<marker lat="25.7193300482061" lng="-80.3430520699455" intname="SW  92 Av  \/ SW  52 Ter  \/ SW  53 St " intnum="2937 "/>
+<marker lat="25.7298020857284" lng="-80.2863563594992" intname="Red Rd  - SW  44 St  - SW  45 St " intnum="2925 "/>
+<marker lat="25.6939366893296" lng="-80.2850184983506" intname="Red Rd  - SW  83 St  - SW  84 St " intnum="2926 "/>
+<marker lat="25.6742174635972" lng="-80.284321777584" intname="Red Rd  - SW 104 St  - SW 105 St " intnum="2927 "/>
+<marker lat="25.7143465870349" lng="-80.3021041206943" intname="Ludlam Rd  - SW  60 St  - SW  62 St " intnum="2928 "/>
+<marker lat="25.7606273992991" lng="-80.3157725286438" intname="SW  74 Av  - SW  10 St  - SW  11 St " intnum="2929 "/>
+<marker lat="25.7373085623601" lng="-80.3275339135542" intname="SW  82 Av  -  SW  35 St  -  SW  36 St " intnum="2932 "/>
+<marker lat="25.6803725101361" lng="-80.3353693175077" intname="Galloway Rd  -  SW  96 St  -  SW  97 St " intnum="2935 "/>
+<marker lat="25.6601049243286" lng="-80.3346934987639" intname="Galloway Rd  -  SW 118 St  -  SW 119 St " intnum="2936 "/>
+<marker lat="25.7193300482061" lng="-80.3430520699455" intname="SW  92 Av  - SW  52 Ter  - SW  53 St " intnum="2937 "/>
 <marker lat="25.5987809501168" lng="-80.3481180068478" intname="Franjo Rd  and SW 184 St " intnum="2938 "/>
-<marker lat="25.7293179391992" lng="-80.3755804690118" intname="SW 112 Av  \/ SW  41 Ter  \/ SW  42 St " intnum="2941 "/>
-<marker lat="25.7326696717579" lng="-80.3531972350309" intname="Bird Rd  \/ SW  97 Av  \/ SW  98 Pl " intnum="2948 "/>
-<marker lat="25.7182184115633" lng="-80.3059041391169" intname="Miller Dr  \/  SW  68 Av  \/  SW  69 Av " intnum="2949 "/>
+<marker lat="25.7293179391992" lng="-80.3755804690118" intname="SW 112 Av  - SW  41 Ter  - SW  42 St " intnum="2941 "/>
+<marker lat="25.7326696717579" lng="-80.3531972350309" intname="Bird Rd  - SW  97 Av  - SW  98 Pl " intnum="2948 "/>
+<marker lat="25.7182184115633" lng="-80.3059041391169" intname="Miller Dr  -  SW  68 Av  -  SW  69 Av " intnum="2949 "/>
 <marker lat="25.6825001224787" lng="-80.2728981357634" intname="Old Cutler Rd  @ Matheson Park " intnum="2952 "/>
 <marker lat="25.688869431169" lng="-80.3083596381285" intname="Kendall Dr  and  US-1 " intnum="2953 "/>
 <marker lat="25.6664010312648" lng="-80.3236270983213" intname="Killian Dr  and  US-1 " intnum="2954 "/>
@@ -936,8 +936,8 @@
 <marker lat="25.7186529590735" lng="-80.2941092167317" intname="Miller Dr  and  SW  62 Av " intnum="2968 "/>
 <marker lat="25.7183295449855" lng="-80.3022777242683" intname="Ludlam Rd  and Miller Rd " intnum="2969 "/>
 <marker lat="25.7167080110208" lng="-80.3349126075454" intname="Galloway Rd  and  Miller Rd " intnum="2970 "/>
-<marker lat="25.9027766647644" lng="-80.2484025655303" intname="Ali Baba Av  \/ Codadad St  \/ Sinbad Av " intnum="2971 "/>
-<marker lat="25.9010076350968" lng="-80.2437985997426" intname="NW  27 Av  \/ NW 138 St  \/ NW 139 St " intnum="2972 "/>
+<marker lat="25.9027766647644" lng="-80.2484025655303" intname="Ali Baba Av  - Codadad St  - Sinbad Av " intnum="2971 "/>
+<marker lat="25.9010076350968" lng="-80.2437985997426" intname="NW  27 Av  - NW 138 St  - NW 139 St " intnum="2972 "/>
 <marker lat="25.9016416046087" lng="-80.2507210805507" intname="Ali Baba Av  and Opa-Locka Blvd " intnum="2975 "/>
 <marker lat="25.9089410361093" lng="-80.2359932458794" intname="Ali Baba Av  and NW  22 Av " intnum="2976 "/>
 <marker lat="25.905023780701" lng="-80.2439008552794" intname="Ali Baba Av  and NW  27 Av " intnum="2977 "/>
@@ -972,7 +972,7 @@
 <marker lat="25.8589908268942" lng="-80.1832663640771" intname="US-1   and  NE  91 St " intnum="4005 "/>
 <marker lat="25.8406826661989" lng="-80.2870012930654" intname="W  21 St  @  W   250 Blk " intnum="4006 "/>
 <marker lat="25.8808413904141" lng="-80.1940630757706" intname="NE   2 Av  and NE 115 St " intnum="4007 "/>
-<marker lat="25.8431795718851" lng="-80.2290235784286" intname="NW  75 St  \/ NW  17 Av  \/ NW  19 Av " intnum="4055 "/>
+<marker lat="25.8431795718851" lng="-80.2290235784286" intname="NW  75 St  - NW  17 Av  - NW  19 Av " intnum="4055 "/>
 <marker lat="25.9260705267776" lng="-80.2445883271319" intname="SR- 826 EB and  NW  27 Av " intnum="4056 "/>
 <marker lat="25.7320358199458" lng="-80.3860925350757" intname="Bird Rd  and  SR- 821 SB " intnum="4057 "/>
 <marker lat="25.8813224257828" lng="-80.2875513954412" intname="W   2 Ct  and W  65 St " intnum="4060 "/>
@@ -1023,9 +1023,9 @@
 <marker lat="25.7264828494165" lng="-80.2862199027944" intname="Blue Rd  and Red Rd " intnum="3742 "/>
 <marker lat="25.7616592718038" lng="-80.3523759377072" intname="SW  97 Av  and  SW   8 St " intnum="3743 "/>
 <marker lat="25.7239237919609" lng="-80.2662662741291" intname="Ponce De Leon Blvd  and Riviera Dr " intnum="3414 "/>
-<marker lat="25.5970568603736" lng="-80.3481030555187" intname="Franjo Rd  \/  SW 184 St  \/  SW 185 Ter " intnum="3416 "/>
+<marker lat="25.5970568603736" lng="-80.3481030555187" intname="Franjo Rd  -  SW 184 St  -  SW 185 Ter " intnum="3416 "/>
 <marker lat="25.7758199679317" lng="-80.2001337960078" intname="NW   3 Ct  and NW   2 St " intnum="3418 "/>
-<marker lat="25.6050448976858" lng="-80.3731226889896" intname="SW 112 Av  \/ SW 176 St  \/ SW 177 St " intnum="3419 "/>
+<marker lat="25.6050448976858" lng="-80.3731226889896" intname="SW 112 Av  - SW 176 St  - SW 177 St " intnum="3419 "/>
 <marker lat="25.7716998592365" lng="-80.1901119387133" intname="SE   2 Av  and SE   3 St " intnum="3421 "/>
 <marker lat="25.7768511574133" lng="-80.1995035687695" intname="NW   3 Av  and NW   3 St " intnum="3423 "/>
 <marker lat="25.7787766482141" lng="-80.2002112085921" intname="NW   3 Ct  and NW   5 St " intnum="3424 "/>
@@ -1041,8 +1041,8 @@
 <marker lat="25.9213647441003" lng="-80.1839016624491" intname="NE   8 Av  and NE 159 St " intnum="3437 "/>
 <marker lat="25.8346928077882" lng="-80.120817049827" intname="Collins Av  and  5445 Exit " intnum="3438 "/>
 <marker lat="25.8337576176924" lng="-80.1210662063748" intname="Collins Av  and  5445 Ent " intnum="3439 "/>
-<marker lat="25.8845176670416" lng="-80.123481010682" intname="Harding Av  \/  94 St  \/  95 St " intnum="3440 "/>
-<marker lat="25.8860619172227" lng="-80.1236277985715" intname="Harding Av  \/  95 St  \/  96 St " intnum="3441 "/>
+<marker lat="25.8845176670416" lng="-80.123481010682" intname="Harding Av  -  94 St  -  95 St " intnum="3440 "/>
+<marker lat="25.8860619172227" lng="-80.1236277985715" intname="Harding Av  -  95 St  -  96 St " intnum="3441 "/>
 <marker lat="25.7661564413239" lng="-80.2372008122254" intname="Beacom Blvd  and SW   7 St " intnum="3442 "/>
 <marker lat="25.7664797371208" lng="-80.2225631157748" intname="SW  17 Av  and SW   7 St " intnum="3444 "/>
 <marker lat="25.7664298406987" lng="-80.2266571736889" intname="SW  19 Av  and SW   7 St " intnum="3445 "/>
@@ -1053,9 +1053,9 @@
 <marker lat="25.7671992923749" lng="-80.199158132858" intname="SW   3 Av  and SW   7 St " intnum="3450 "/>
 <marker lat="25.8126591029465" lng="-80.2240286944643" intname="NW  17 Av  and NW  40 St " intnum="3452 "/>
 <marker lat="25.9484344957627" lng="-80.1468134921231" intname="US-1   and  NE 187 St " intnum="3454 "/>
-<marker lat="25.790846704326" lng="-80.2231486881122" intname="NW  17 Av  \/ NW  16 Ter  \/ NW  17 St " intnum="3455 "/>
+<marker lat="25.790846704326" lng="-80.2231486881122" intname="NW  17 Av  - NW  16 Ter  - NW  17 St " intnum="3455 "/>
 <marker lat="25.9635441447055" lng="-80.1468862023263" intname="US 1   and NE 203 St " intnum="3456 "/>
-<marker lat="25.8979757687189" lng="-80.2187870273759" intname="NW 135 St  \/ NW  11 Av  \/ NW  12 Av " intnum="3457 "/>
+<marker lat="25.8979757687189" lng="-80.2187870273759" intname="NW 135 St  - NW  11 Av  - NW  12 Av " intnum="3457 "/>
 <marker lat="25.9052902274487" lng="-80.2479524335942" intname="Ahmad St  and Sharazad Blvd " intnum="3458 "/>
 <marker lat="25.9473242181614" lng="-80.1209085772607" intname="Collins Av  and 185 St " intnum="3459 "/>
 <marker lat="25.6884353144898" lng="-80.2847183334402" intname="Kendall Dr -W leg and  Red Rd " intnum="3460 "/>
@@ -1067,13 +1067,13 @@
 <marker lat="25.9655631918319" lng="-80.2059128710082" intname="NW   2 Av  and NW 207 St " intnum="3467 "/>
 <marker lat="25.8981680769918" lng="-80.3081954633787" intname="Ludlam Rd  and W  84 St " intnum="3468 "/>
 <marker lat="25.9474011893734" lng="-80.1469784166641" intname="Miami Gardens Dr  and  US-1 " intnum="3469 "/>
-<marker lat="25.8242976003416" lng="-80.1918278320734" intname="NE   2 Av  \/  NE  51 St  \/  NE  53 St " intnum="3470 "/>
-<marker lat="25.7097625285525" lng="-80.3505615923349" intname="SW  97 Av  \/ SW  62 St  \/ SW  64 St " intnum="3472 "/>
+<marker lat="25.8242976003416" lng="-80.1918278320734" intname="NE   2 Av  -  NE  51 St  -  NE  53 St " intnum="3470 "/>
+<marker lat="25.7097625285525" lng="-80.3505615923349" intname="SW  97 Av  - SW  62 St  - SW  64 St " intnum="3472 "/>
 <marker lat="25.6447674712209" lng="-80.3015616962716" intname="Ludlam Rd  and Old Cutler Rd " intnum="3473 "/>
-<marker lat="25.7734196988829" lng="-80.1896874359465" intname="SE   1 St  \/ SE   2 Av  \/ SE   3 Av " intnum="3474 "/>
+<marker lat="25.7734196988829" lng="-80.1896874359465" intname="SE   1 St  - SE   2 Av  - SE   3 Av " intnum="3474 "/>
 <marker lat="25.9472784781948" lng="-80.26970586037" intname="LeJeune Rd  and NW 191 St " intnum="3477 "/>
 <marker lat="25.7913832475391" lng="-80.1492585890545" intname="Island Av W and Venetian Way " intnum="3478 "/>
-<marker lat="25.8487447779903" lng="-80.2142875495009" intname="NW  81 St  \/ NW  10 Ct  \/ NW  11 Av " intnum="3479 "/>
+<marker lat="25.8487447779903" lng="-80.2142875495009" intname="NW  81 St  - NW  10 Ct  - NW  11 Av " intnum="3479 "/>
 <marker lat="25.8469009171581" lng="-80.2140446388391" intname="NW  10 Ct  and NW  79 St " intnum="3480 "/>
 <marker lat="25.714367808487" lng="-80.3102150894503" intname="SW  72 Av  and SW  60 St " intnum="3481 "/>
 <marker lat="25.7815686219847" lng="-80.312534138148" intname="SR- 836 WB and  NW  72 Av " intnum="3483 "/>
@@ -1085,17 +1085,17 @@
 <marker lat="25.7727644621313" lng="-80.1871317731108" intname="US-1 NB   and  Chopin Plz " intnum="3493 "/>
 <marker lat="25.8484131689568" lng="-80.1214089524723" intname="Indian Creek Dr  and  65 St " intnum="3494 "/>
 <marker lat="25.6656268898072" lng="-80.3510948705516" intname="Killian Dr  and SW  97 Av " intnum="3495 "/>
-<marker lat="25.7268474280333" lng="-80.2408513168949" intname="McFarlane Rd  \/ Grand Av  \/ Bayshore Dr S " intnum="3500 "/>
+<marker lat="25.7268474280333" lng="-80.2408513168949" intname="McFarlane Rd  - Grand Av  - Bayshore Dr S " intnum="3500 "/>
 <marker lat="25.9354306347163" lng="-80.1216704531446" intname="Collins Av  and 172 St " intnum="3501 "/>
 <marker lat="25.5662563752075" lng="-80.3815769825177" intname="US-1   and  SW 216 St " intnum="3502 "/>
-<marker lat="25.9397126074256" lng="-80.1705951077767" intname="NE  15 Av  \/ NE 178 St  \/ NE 179 St " intnum="3504 "/>
+<marker lat="25.9397126074256" lng="-80.1705951077767" intname="NE  15 Av  - NE 178 St  - NE 179 St " intnum="3504 "/>
 <marker lat="25.7974934370169" lng="-80.1321338952829" intname="Washington Av  and  21 St " intnum="3506 "/>
 <marker lat="25.7717784739312" lng="-80.1935237191614" intname="S Miami Av @ S   250 Blk " intnum="3507 "/>
 <marker lat="25.8425508641115" lng="-80.2981210536451" intname="W   8 Av  and W  23 St " intnum="3508 "/>
 <marker lat="25.8666424452011" lng="-80.2988059529678" intname="W   8 Av  and W  49 St " intnum="3129 "/>
-<marker lat="25.9059903854775" lng="-80.1725365379284" intname="W Dixie Hwy  \/ NE 141 St  \/ NE 142 St " intnum="3132 "/>
-<marker lat="25.7173715887463" lng="-80.3589509704392" intname="SW 102 Av  \/  SW  53 St  \/  Miller Dr " intnum="3134 "/>
-<marker lat="25.951027943173" lng="-80.1569597663204" intname="NE  22 Av  \/ NE 187 St  \/ NE 191 St " intnum="3136 "/>
+<marker lat="25.9059903854775" lng="-80.1725365379284" intname="W Dixie Hwy  - NE 141 St  - NE 142 St " intnum="3132 "/>
+<marker lat="25.7173715887463" lng="-80.3589509704392" intname="SW 102 Av  -  SW  53 St  -  Miller Dr " intnum="3134 "/>
+<marker lat="25.951027943173" lng="-80.1569597663204" intname="NE  22 Av  - NE 187 St  - NE 191 St " intnum="3136 "/>
 <marker lat="25.8425855643852" lng="-80.2900819875526" intname="Red Rd  and W  23 St " intnum="3139 "/>
 <marker lat="25.8990601484645" lng="-80.1941952426075" intname="Memorial Hwy  and NE 135 St " intnum="3140 "/>
 <marker lat="25.8078720695621" lng="-80.2809211756947" intname="Palmetto Dr  and NW  36 St " intnum="3142 "/>
@@ -1106,7 +1106,7 @@
 <marker lat="25.6738660211738" lng="-80.3201858294615" intname="US-1   and  SW 104 St " intnum="3147 "/>
 <marker lat="25.8232881953166" lng="-80.2611871954777" intname="Hialeah Dr  and E  10 Av " intnum="3149 "/>
 <marker lat="25.9403347402078" lng="-80.261377640067" intname="Douglas Rd  and  Miami Gardens Dr " intnum="3150 "/>
-<marker lat="25.6523541336417" lng="-80.3139983545412" intname="SW  74 Av  \/  SW 127 St  \/  SW 128 St " intnum="3151 "/>
+<marker lat="25.6523541336417" lng="-80.3139983545412" intname="SW  74 Av  -  SW 127 St  -  SW 128 St " intnum="3151 "/>
 <marker lat="25.7904594210143" lng="-80.2150414669759" intname="NW  12 Av  and NW  16 St " intnum="3152 "/>
 <marker lat="25.7707045514657" lng="-80.2921809514258" intname="Flagler St W @ W  5900 Blk " intnum="3153 "/>
 <marker lat="25.8082478359833" lng="-80.2696148901353" intname="Lee Dr  and NW  36 St " intnum="3156 "/>
@@ -1115,10 +1115,10 @@
 <marker lat="25.9131253717321" lng="-80.2096973282389" intname="I-  95 NB Off and NW 151 St " intnum="3160 "/>
 <marker lat="25.809303678138" lng="-80.3132645513349" intname="Milam Dairy Rd  and  NW  36 St Ext " intnum="3163 "/>
 <marker lat="25.9267274743105" lng="-80.2445990132705" intname="SR- 826 WB and  NW  27 Av " intnum="3164 "/>
-<marker lat="25.7015151737348" lng="-80.3536930418879" intname="Sunset Dr  \/  SW  98 Ct  \/  SW  99 Av " intnum="3165 "/>
+<marker lat="25.7015151737348" lng="-80.3536930418879" intname="Sunset Dr  -  SW  98 Ct  -  SW  99 Av " intnum="3165 "/>
 <marker lat="25.9418822161472" lng="-80.2212082194351" intname="Miami Gardens Dr  and NW  12 Av " intnum="3166 "/>
 <marker lat="25.8378636700172" lng="-80.2898395813473" intname="Red Rd  and W  18 St " intnum="3168 "/>
-<marker lat="25.9097154508184" lng="-80.2116827326903" intname="NW   7 Av  \/ NW 147 St  \/ NW 148 St " intnum="3169 "/>
+<marker lat="25.9097154508184" lng="-80.2116827326903" intname="NW   7 Av  - NW 147 St  - NW 148 St " intnum="3169 "/>
 <marker lat="25.7486559581754" lng="-80.2586055896764" intname="Andalusia Av  and Ponce De Leon Blvd " intnum="3170 "/>
 <marker lat="25.8488914881034" lng="-80.20920424161" intname="NW   7 Av  and NW  81 St " intnum="3172 "/>
 <marker lat="25.7794651899814" lng="-80.2393387755438" intname="NW  27 Av  and NW   7 St " intnum="2333 "/>
@@ -1199,21 +1199,21 @@
 <marker lat="25.902361561965" lng="-80.2511513394773" intname="Fisherman St  and  Opa-locka Blvd " intnum="2978 "/>
 <marker lat="25.8980652996624" lng="-80.2436299984249" intname="Opa-locka Blvd  and  NW  27 Av " intnum="2980 "/>
 <marker lat="25.9077690596792" lng="-80.2359388143967" intname="SR-   9  and  NW  22 Av " intnum="2981 "/>
-<marker lat="25.4624534123373" lng="-80.4845990402872" intname="SW 328 St  \/ SW 181 Av  \/ SW 182 Av " intnum="2984 "/>
-<marker lat="25.5360834137272" lng="-80.4528935192514" intname="SW 248 St  \/ SW 161 Av  \/ SW 162 Av " intnum="2990 "/>
-<marker lat="25.4994685568082" lng="-80.4334928098722" intname="SW 288 St  \/ Illinois Rd  \/ SW 149 Av " intnum="2991 "/>
+<marker lat="25.4624534123373" lng="-80.4845990402872" intname="SW 328 St  - SW 181 Av  - SW 182 Av " intnum="2984 "/>
+<marker lat="25.5360834137272" lng="-80.4528935192514" intname="SW 248 St  - SW 161 Av  - SW 162 Av " intnum="2990 "/>
+<marker lat="25.4994685568082" lng="-80.4334928098722" intname="SW 288 St  - Illinois Rd  - SW 149 Av " intnum="2991 "/>
 <marker lat="25.5797165204226" lng="-80.368509630574" intname="Caribbean Blvd  and  US-1 " intnum="2993 "/>
 <marker lat="25.5960885691207" lng="-80.3553433259728" intname="Quail Roost Dr  and  US-1 " intnum="2994 "/>
 <marker lat="25.9298905784999" lng="-80.1220370848948" intname="Collins Av  and SR- 826 S " intnum="2995 "/>
-<marker lat="25.7024227789802" lng="-80.3013320251944" intname="Ludlam Rd  \/ SW  73 St  \/ SW  74 St " intnum="2996 "/>
+<marker lat="25.7024227789802" lng="-80.3013320251944" intname="Ludlam Rd  - SW  73 St  - SW  74 St " intnum="2996 "/>
 <marker lat="25.7075112221463" lng="-80.2855154071202" intname="Red Rd  and  US-1 " intnum="2998 "/>
 <marker lat="25.7013301335718" lng="-80.2933102363534" intname="US-1   and  SW  62 Av " intnum="2999 "/>
 <marker lat="25.7042740351238" lng="-80.2897095113384" intname="Sunset Dr  and  US-1 " intnum="3002 "/>
 <marker lat="25.7041373990055" lng="-80.2934048862925" intname="Sunset Dr  and  SW  62 Av " intnum="3003 "/>
 <marker lat="25.703756561377" lng="-80.3014095077195" intname="Ludlam Rd  and  Sunset Dr " intnum="3004 "/>
 <marker lat="25.887075818434" lng="-80.1227402803573" intname="Collins Av  and  96 St " intnum="3005 "/>
-<marker lat="25.8879164626848" lng="-80.1237677382081" intname="Harding Av  \/  96 St  \/  97 St " intnum="3006 "/>
-<marker lat="25.7561360463386" lng="-80.2926660145553" intname="SW  16 St  \/  SW  59 Av  \/  SW  60 Av " intnum="3008 "/>
+<marker lat="25.8879164626848" lng="-80.1237677382081" intname="Harding Av  -  96 St  -  97 St " intnum="3006 "/>
+<marker lat="25.7561360463386" lng="-80.2926660145553" intname="SW  16 St  -  SW  59 Av  -  SW  60 Av " intnum="3008 "/>
 <marker lat="25.7560391194736" lng="-80.2956649277989" intname="SW  62 Av  and  SW  16 St " intnum="3009 "/>
 <marker lat="25.8868173668848" lng="-80.1292172953078" intname="Bay Harbor Dr E and Kane Conc " intnum="3010 "/>
 <marker lat="25.8866761239773" lng="-80.1332537925634" intname="Bay Harbor Dr W and Kane Conc " intnum="3011 "/>
@@ -1222,7 +1222,7 @@
 <marker lat="25.848657509147" lng="-80.1540455941027" intname="Adventure Av  and  J. F. Kennedy Cswy " intnum="3014 "/>
 <marker lat="25.8484927586322" lng="-80.1586202670514" intname="J. F. Kennedy Cswy  and  Larry Paskow Way " intnum="3015 "/>
 <marker lat="25.8484463781933" lng="-80.1463221315673" intname="J. F. Kennedy Cswy  and  Treasure Dr E " intnum="3016 "/>
-<marker lat="25.8103295198755" lng="-80.2892628424301" intname="Curtiss Pkwy  \/ NW  38 St  \/ NW  40 St " intnum="3017 "/>
+<marker lat="25.8103295198755" lng="-80.2892628424301" intname="Curtiss Pkwy  - NW  38 St  - NW  40 St " intnum="3017 "/>
 <marker lat="25.809429554254" lng="-80.2646075699534" intname="LeJeune Rd  and Royal Poinciana Blvd S " intnum="3019 "/>
 <marker lat="25.8157580335682" lng="-80.2730128356992" intname="East Dr  and Royal Poinciana Blvd S " intnum="3020 "/>
 <marker lat="25.8084366461714" lng="-80.2632441205168" intname="Royal Poinciana Blvd S and NW  36 St " intnum="3022 "/>
@@ -1244,38 +1244,38 @@
 <marker lat="25.4716109820155" lng="-80.4742292096915" intname="Flagler Av  and NE   2 Dr " intnum="3041 "/>
 <marker lat="25.4711443381532" lng="-80.4736511659288" intname="NE   1 Rd  and NE   2 Dr " intnum="3042 "/>
 <marker lat="25.4772185932225" lng="-80.4687334580612" intname="Flagler Av  and  SW 312 St " intnum="3043 "/>
-<marker lat="25.4918816675004" lng="-80.4668687267694" intname="SW 296 St  \/ SW 169 Av  \/ SW 170 Av " intnum="3045 "/>
+<marker lat="25.4918816675004" lng="-80.4668687267694" intname="SW 296 St  - SW 169 Av  - SW 170 Av " intnum="3045 "/>
 <marker lat="25.4993377475225" lng="-80.4462467033351" intname="US-1   and  SW 288 St " intnum="3046 "/>
 <marker lat="25.8084987197507" lng="-80.2600701966273" intname="North River Dr  and NW  36 St " intnum="3048 "/>
 <marker lat="25.8838237075098" lng="-80.2085602634463" intname="I-  95 NB and NW 119 St " intnum="3055 "/>
-<marker lat="25.655628316706" lng="-80.3133463735211" intname="SW 124 St  \/  SW  73 Av  \/  SW  74 Av " intnum="3064 "/>
-<marker lat="25.6294275372763" lng="-80.3219125299596" intname="Coral Reef Dr  \/ SW  79 Av  \/ SW  80 Av " intnum="3065 "/>
+<marker lat="25.655628316706" lng="-80.3133463735211" intname="SW 124 St  -  SW  73 Av  -  SW  74 Av " intnum="3064 "/>
+<marker lat="25.6294275372763" lng="-80.3219125299596" intname="Coral Reef Dr  - SW  79 Av  - SW  80 Av " intnum="3065 "/>
 <marker lat="25.9254325282773" lng="-80.2932258461525" intname="Red Rd  and  SR- 826 WB " intnum="3068 "/>
 <marker lat="25.8988400601483" lng="-80.1990391161438" intname="N Miami Av and N 135 St " intnum="3070 "/>
 <marker lat="25.8666072962" lng="-80.3068466560406" intname="Ludlam Rd  and W  49 St " intnum="3078 "/>
 <marker lat="25.8892790028637" lng="-80.2088338646324" intname="I-  95 NB and N Miami Blvd " intnum="3083 "/>
 <marker lat="25.782576807009" lng="-80.3125332639435" intname="NW  72 Av  and NW  12 St " intnum="3085 "/>
-<marker lat="25.8996228763943" lng="-80.2483362360278" intname="Opa-locka Blvd  \/  Perviz Av  \/  Sinbad Av " intnum="3086 "/>
-<marker lat="25.8942967623301" lng="-80.2196296388262" intname="NW 131 St  \/ NW  12 Av  \/ NW  13 Av " intnum="3088 "/>
+<marker lat="25.8996228763943" lng="-80.2483362360278" intname="Opa-locka Blvd  -  Perviz Av  -  Sinbad Av " intnum="3086 "/>
+<marker lat="25.8942967623301" lng="-80.2196296388262" intname="NW 131 St  - NW  12 Av  - NW  13 Av " intnum="3088 "/>
 <marker lat="25.6551553862557" lng="-80.3289006722052" intname="US-1   and  SW 124 St " intnum="3090 "/>
-<marker lat="25.7574318036801" lng="-80.3520824482017" intname="SW  97 Av  \/ SW  12 St  \/ SW  14 St " intnum="3091 "/>
-<marker lat="25.940252091516" lng="-80.1626364788785" intname="NE  19 Av  \/ NE 178 St  \/ NE 179 St " intnum="3092 "/>
+<marker lat="25.7574318036801" lng="-80.3520824482017" intname="SW  97 Av  - SW  12 St  - SW  14 St " intnum="3091 "/>
+<marker lat="25.940252091516" lng="-80.1626364788785" intname="NE  19 Av  - NE 178 St  - NE 179 St " intnum="3092 "/>
 <marker lat="25.8677891369875" lng="-80.250779621485" intname="NW  32 Av  and NW 103 St " intnum="3099 "/>
 <marker lat="25.8983355934428" lng="-80.2092807869889" intname="I-  95 NB and NW 135 St " intnum="3100 "/>
 <marker lat="25.8982676481088" lng="-80.2112782563125" intname="NW   7 Av  and NW 135 St " intnum="3101 "/>
 <marker lat="25.8998054574362" lng="-80.2094218232309" intname="I-  95 NB On and Opa-Locka Blvd " intnum="3102 "/>
-<marker lat="25.482342257866" lng="-80.493747102433" intname="SW 187 Av  \/ SW 306 St  \/ SW 306 Ter " intnum="3103 "/>
-<marker lat="25.7497155314349" lng="-80.2557831975208" intname="Coral Way  \/  Douglas Rd  \/  Galiano St " intnum="3104 "/>
-<marker lat="25.7494034002966" lng="-80.2616505710176" intname="Coral Way  \/  Salzedo St  \/  LeJeune Rd " intnum="3105 "/>
+<marker lat="25.482342257866" lng="-80.493747102433" intname="SW 187 Av  - SW 306 St  - SW 306 Ter " intnum="3103 "/>
+<marker lat="25.7497155314349" lng="-80.2557831975208" intname="Coral Way  -  Douglas Rd  -  Galiano St " intnum="3104 "/>
+<marker lat="25.7494034002966" lng="-80.2616505710176" intname="Coral Way  -  Salzedo St  -  LeJeune Rd " intnum="3105 "/>
 <marker lat="25.9570684968498" lng="-80.2056906460339" intname="NW   2 Av  and NW 199 St " intnum="3108 "/>
 <marker lat="25.666997547912" lng="-80.3023794430541" intname="Killian Dr  and Ludlam Rd " intnum="3111 "/>
-<marker lat="25.7568053845699" lng="-80.2629647964544" intname="LeJeune Rd  \/  SW  16 St  \/  SW  17 St " intnum="3113 "/>
+<marker lat="25.7568053845699" lng="-80.2629647964544" intname="LeJeune Rd  -  SW  16 St  -  SW  17 St " intnum="3113 "/>
 <marker lat="25.7476761730823" lng="-80.2626328682183" intname="LeJeune Rd  and Valencia Av " intnum="3117 "/>
-<marker lat="25.7570484106614" lng="-80.2589028958888" intname="Ponce De Leon Blvd  \/ Mendoza Av  \/ Zamora Av " intnum="3120 "/>
-<marker lat="25.7542045744966" lng="-80.2587837544599" intname="Ponce De Leon Blvd  \/ Minorca Av  \/ Navarre Av " intnum="3121 "/>
+<marker lat="25.7570484106614" lng="-80.2589028958888" intname="Ponce De Leon Blvd  - Mendoza Av  - Zamora Av " intnum="3120 "/>
+<marker lat="25.7542045744966" lng="-80.2587837544599" intname="Ponce De Leon Blvd  - Minorca Av  - Navarre Av " intnum="3121 "/>
 <marker lat="25.7984982410946" lng="-80.2643933372079" intname="LeJeune Rd  and NW  25 St " intnum="3124 "/>
 <marker lat="25.8034730531543" lng="-80.2645035775087" intname="LeJeune Rd  and NW  31 St " intnum="3125 "/>
-<marker lat="25.7338316036171" lng="-80.3517323019373" intname="SW  97 Av  \/ SW  38 St  \/ SW  39 St " intnum="3126 "/>
+<marker lat="25.7338316036171" lng="-80.3517323019373" intname="SW  97 Av  - SW  38 St  - SW  39 St " intnum="3126 "/>
 <marker lat="25.7770644247738" lng="-80.1335865551262" intname="Washington Av  and   7 St " intnum="2796 "/>
 <marker lat="25.7783383590716" lng="-80.1333150235261" intname="Washington Av  and   8 St " intnum="2797 "/>
 <marker lat="25.7794749799046" lng="-80.1330856971252" intname="Washington Av  and   9 St " intnum="2798 "/>
@@ -1292,24 +1292,24 @@
 <marker lat="25.7966003831344" lng="-80.1320879722545" intname="Washington Av  and  20 St " intnum="2809 "/>
 <marker lat="25.7983267616867" lng="-80.1321981082731" intname="Dade Blvd  and Washington Av " intnum="2810 "/>
 <marker lat="25.7872980111814" lng="-80.1423418264928" intname="West Av  and  15 St " intnum="2812 "/>
-<marker lat="25.8620144987432" lng="-80.1265409884377" intname="77 St  \/ Tatum Wtrwy Dr  \/ Dickens Av " intnum="2816 "/>
-<marker lat="25.7898723507056" lng="-80.1318606278986" intname="Washington Av  \/ Lincoln Rd  \/  16 St " intnum="2818 "/>
-<marker lat="25.8535655983586" lng="-80.2665229726599" intname="LeJeune Rd  \/ E  34 St  \/ E  35 St " intnum="2825 "/>
-<marker lat="25.8284191369079" lng="-80.2654108313314" intname="LeJeune Rd  \/ E   6 Pl  \/ E   7 St " intnum="2826 "/>
-<marker lat="25.8330157447929" lng="-80.2656386856847" intname="LeJeune Rd  \/ E  11 Pl  \/ E  12 St " intnum="2827 "/>
-<marker lat="25.8528232573184" lng="-80.274671542805" intname="E   4 Av  \/ E  33 St  \/ E  34 St " intnum="2828 "/>
-<marker lat="25.8622556550293" lng="-80.2746457333916" intname="E   4 Av  \/ E  43 St  \/ E  44 St " intnum="2829 "/>
-<marker lat="25.8633734644654" lng="-80.2829210911889" intname="Palm Av  \/  45 St  \/  45 Pl " intnum="2831 "/>
-<marker lat="25.8798048120068" lng="-80.2834885608684" intname="Palm Av  \/  63 St  \/  64 St " intnum="2832 "/>
-<marker lat="25.8760192456905" lng="-80.307204963996" intname="Ludlam Rd  \/ W  58 St  \/ W  59 Pl " intnum="2836 "/>
-<marker lat="25.8599330867866" lng="-80.2690679894686" intname="E  41 St  \/ E   6 Av  \/ E   7 Av " intnum="2838 "/>
-<marker lat="25.8479952360454" lng="-80.3029969982568" intname="W  29 St  \/ W  10 Av  \/ W  11 Av " intnum="2840 "/>
+<marker lat="25.8620144987432" lng="-80.1265409884377" intname="77 St  - Tatum Wtrwy Dr  - Dickens Av " intnum="2816 "/>
+<marker lat="25.7898723507056" lng="-80.1318606278986" intname="Washington Av  - Lincoln Rd  -  16 St " intnum="2818 "/>
+<marker lat="25.8535655983586" lng="-80.2665229726599" intname="LeJeune Rd  - E  34 St  - E  35 St " intnum="2825 "/>
+<marker lat="25.8284191369079" lng="-80.2654108313314" intname="LeJeune Rd  - E   6 Pl  - E   7 St " intnum="2826 "/>
+<marker lat="25.8330157447929" lng="-80.2656386856847" intname="LeJeune Rd  - E  11 Pl  - E  12 St " intnum="2827 "/>
+<marker lat="25.8528232573184" lng="-80.274671542805" intname="E   4 Av  - E  33 St  - E  34 St " intnum="2828 "/>
+<marker lat="25.8622556550293" lng="-80.2746457333916" intname="E   4 Av  - E  43 St  - E  44 St " intnum="2829 "/>
+<marker lat="25.8633734644654" lng="-80.2829210911889" intname="Palm Av  -  45 St  -  45 Pl " intnum="2831 "/>
+<marker lat="25.8798048120068" lng="-80.2834885608684" intname="Palm Av  -  63 St  -  64 St " intnum="2832 "/>
+<marker lat="25.8760192456905" lng="-80.307204963996" intname="Ludlam Rd  - W  58 St  - W  59 Pl " intnum="2836 "/>
+<marker lat="25.8599330867866" lng="-80.2690679894686" intname="E  41 St  - E   6 Av  - E   7 Av " intnum="2838 "/>
+<marker lat="25.8479952360454" lng="-80.3029969982568" intname="W  29 St  - W  10 Av  - W  11 Av " intnum="2840 "/>
 <marker lat="25.810883813206" lng="-80.2646806602323" intname="LeJeune Rd  and Okeechobee Rd " intnum="2843 "/>
 <marker lat="25.8171422982747" lng="-80.2730949669193" intname="Okeechobee Rd  and E   4 Av " intnum="2844 "/>
 <marker lat="25.8220159521367" lng="-80.2794614362718" intname="Okeechobee Rd  and E   1 Av " intnum="2845 "/>
 <marker lat="25.8234797926529" lng="-80.2814866216481" intname="Okeechobee Rd  and Palm Av " intnum="2846 "/>
-<marker lat="25.9611283558402" lng="-80.1985139809727" intname="NE   2 Av  \/ NE 204 St  \/ NE 202 Ter " intnum="4656 "/>
-<marker lat="25.7633835683855" lng="-80.2937436259039" intname="SW   8 St  \/ SW  60 Av  \/ SW  60 Ct " intnum="4657 "/>
+<marker lat="25.9611283558402" lng="-80.1985139809727" intname="NE   2 Av  - NE 204 St  - NE 202 Ter " intnum="4656 "/>
+<marker lat="25.7633835683855" lng="-80.2937436259039" intname="SW   8 St  - SW  60 Av  - SW  60 Ct " intnum="4657 "/>
 <marker lat="25.7004537033211" lng="-80.3984735287222" intname="Sunset Dr  and  SW 127 Av " intnum="4658 "/>
 <marker lat="25.7826215148734" lng="-80.3226145403947" intname="NW  78 Av  and NW  12 St " intnum="4659 "/>
 <marker lat="25.782607267132" lng="-80.3285923244978" intname="NW  82 Av  and NW  12 St " intnum="4660 "/>
@@ -1322,11 +1322,11 @@
 <marker lat="25.8197849832488" lng="-80.3376435207919" intname="Galloway Rd  and  NW  53 St " intnum="4667 "/>
 <marker lat="25.956969284736" lng="-80.1468878086227" intname="US-1   and  NE 195 St " intnum="4669 "/>
 <marker lat="25.9581914082353" lng="-80.1469617207481" intname="US-1   and  NE 196 St " intnum="4670 "/>
-<marker lat="25.7708899912088" lng="-80.1900800862438" intname="SE   2 Av SB \/  SE   3 St  \/  SE   4 St " intnum="4671 "/>
+<marker lat="25.7708899912088" lng="-80.1900800862438" intname="SE   2 Av SB -  SE   3 St  -  SE   4 St " intnum="4671 "/>
 <marker lat="25.8902511580032" lng="-80.169523914413" intname="N Miami Blvd  and  NE  14 Av Rd " intnum="4672 "/>
 <marker lat="25.7499085474771" lng="-80.3839394891725" intname="SW 117 Av  @ SW  2100 Blk " intnum="4673 "/>
 <marker lat="25.7113091376798" lng="-80.2937613404604" intname="SW  62 Av  and SW  64 St " intnum="4674 "/>
-<marker lat="25.7084147089864" lng="-80.2936021353799" intname="SW  62 Av  \/ SW  67 St  \/ SW  68 St " intnum="4675 "/>
+<marker lat="25.7084147089864" lng="-80.2936021353799" intname="SW  62 Av  - SW  67 St  - SW  68 St " intnum="4675 "/>
 <marker lat="25.8100260377211" lng="-80.2081368020715" intname="NW  36 St  @ NW   700 Blk " intnum="4676 "/>
 <marker lat="25.7059321930536" lng="-80.2935049470165" intname="SW  62 Av  and SW  70 St " intnum="4677 "/>
 <marker lat="25.7524360176872" lng="-80.2125221787161" intname="Coral Way  and  SW  31 Rd " intnum="4678 "/>
@@ -1364,8 +1364,8 @@
 <marker lat="25.5982930787142" lng="-80.3644643699673" intname="SW 107 Av  and SW 184 St " intnum="4714 "/>
 <marker lat="25.6863309688129" lng="-80.3856979933025" intname="Kendall Dr  and  Mills Dr " intnum="4715 "/>
 <marker lat="25.5973301570575" lng="-80.3890136323242" intname="SW 122 Av  and SW 184 St " intnum="4717 "/>
-<marker lat="25.9654602943966" lng="-80.1871616147186" intname="San Simeon Way  \/ NE 206 St  \/ NE 207 Ln " intnum="4718 "/>
-<marker lat="25.7153771460458" lng="-80.276801640687" intname="Ponce De Leon Blvd  \/ Dickinson Dr  \/ Merrick St " intnum="4720 "/>
+<marker lat="25.9654602943966" lng="-80.1871616147186" intname="San Simeon Way  - NE 206 St  - NE 207 Ln " intnum="4718 "/>
+<marker lat="25.7153771460458" lng="-80.276801640687" intname="Ponce De Leon Blvd  - Dickinson Dr  - Merrick St " intnum="4720 "/>
 <marker lat="25.8073542420822" lng="-80.2156246952622" intname="NW  12 Av  and NW  33 St " intnum="4722 "/>
 <marker lat="25.8409597797379" lng="-80.2780579031505" intname="E   2 Av  and E  21 St " intnum="4723 "/>
 <marker lat="25.8238910682183" lng="-80.2428453189617" intname="NW  29 Av  and NW  54 St " intnum="4726 "/>
@@ -1403,11 +1403,11 @@
 <marker lat="25.6552030454158" lng="-80.3263113638529" intname="SW  82 Av  and  SW 124 St " intnum="4167 "/>
 <marker lat="25.7399591929393" lng="-80.3516949682586" intname="SW  97 Av  and SW  32 St " intnum="4169 "/>
 <marker lat="25.8611307927645" lng="-80.22792083075" intname="NW  18 Av  and NW  95 St " intnum="4170 "/>
-<marker lat="25.7712469109954" lng="-80.1386651436554" intname="Alton Rd  \/   2 St  \/   3 St " intnum="4172 "/>
+<marker lat="25.7712469109954" lng="-80.1386651436554" intname="Alton Rd  -   2 St  -   3 St " intnum="4172 "/>
 <marker lat="25.578804274239" lng="-80.3356043841306" intname="Franjo Rd  and Old Cutler Rd " intnum="4174 "/>
 <marker lat="25.7826499610672" lng="-80.2557910205797" intname="Douglas Rd  and  NW  11 St " intnum="4175 "/>
 <marker lat="25.8262269043242" lng="-80.3257639741671" intname="NW  79 Av  and NW  58 St " intnum="4176 "/>
-<marker lat="25.5180245788136" lng="-80.4176254455433" intname="SW 268 St  \/ SW 139 Av  \/ SW 142 Av " intnum="4177 "/>
+<marker lat="25.5180245788136" lng="-80.4176254455433" intname="SW 268 St  - SW 139 Av  - SW 142 Av " intnum="4177 "/>
 <marker lat="25.8739138243298" lng="-80.2510158395487" intname="NW  32 Av  and NW 110 St " intnum="4178 "/>
 <marker lat="25.9030222600789" lng="-80.1245795247351" intname="Collins Av  @ 10500 Blk " intnum="4179 "/>
 <marker lat="25.7479707397485" lng="-80.2566218595664" intname="Galiano St  and Valencia Av " intnum="4181 "/>
@@ -1419,18 +1419,18 @@
 <marker lat="25.7538822068339" lng="-80.2831304630877" intname="Alhambra Cir  and  Cadiz Av " intnum="4189 "/>
 <marker lat="25.8814236691727" lng="-80.2835511742047" intname="Palm Av  and  65 St " intnum="4191 "/>
 <marker lat="25.9478845322606" lng="-80.2536682019297" intname="NW  32 Av  and NW 191 St " intnum="4193 "/>
-<marker lat="25.8168310371762" lng="-80.1306600354904" intname="Chase Av  \/  41 St  \/  44 St " intnum="4194 "/>
+<marker lat="25.8168310371762" lng="-80.1306600354904" intname="Chase Av  -  41 St  -  44 St " intnum="4194 "/>
 <marker lat="25.6794797360535" lng="-80.3170509065079" intname="US-1   and  SW  98 St " intnum="4195 "/>
 <marker lat="25.7608653688644" lng="-80.481371550597" intname="Krome Av  and SW   8 St " intnum="4198 "/>
 <marker lat="25.8323380253669" lng="-80.2055107853496" intname="I-  95 NB and NW  62 St " intnum="4199 "/>
 <marker lat="25.8323114118742" lng="-80.2062677497121" intname="I-  95 SB and NW  62 St " intnum="4200 "/>
 <marker lat="25.8738875929125" lng="-80.1807961036762" intname="Griffing Blvd  @  NE   800 Blk " intnum="4201 "/>
-<marker lat="25.7652227138718" lng="-80.2373397831868" intname="SW   8 St  \/ Beacom Blvd  \/ SW  25 Av " intnum="4202 "/>
+<marker lat="25.7652227138718" lng="-80.2373397831868" intname="SW   8 St  - Beacom Blvd  - SW  25 Av " intnum="4202 "/>
 <marker lat="25.6434346435312" lng="-80.3503443411062" intname="Howard Dr  and SW  97 Av " intnum="4204 "/>
 <marker lat="25.7440182920401" lng="-80.4001306536172" intname="Coral Way  and  SW 127 Av " intnum="4209 "/>
 <marker lat="25.8699491255318" lng="-80.2668547602722" intname="LeJeune Rd  and E  52 St " intnum="4212 "/>
 <marker lat="25.7708892969948" lng="-80.1899553542485" intname="SE   2 Av  and SE   4 St " intnum="4214 "/>
-<marker lat="25.9052298130398" lng="-80.1670416125147" intname="NE  16 Av  \/ NE 140 St  \/ NE 141 St " intnum="4215 "/>
+<marker lat="25.9052298130398" lng="-80.1670416125147" intname="NE  16 Av  - NE 140 St  - NE 141 St " intnum="4215 "/>
 <marker lat="25.6718583681099" lng="-80.3839952269938" intname="SW 117 Av  and SW 104 St " intnum="4216 "/>
 <marker lat="25.5361238099123" lng="-80.4503041440214" intname="SW 248 St  @ SW 15900 Blk " intnum="4222 "/>
 <marker lat="25.5360632857399" lng="-80.4546290116851" intname="SW 248 St  @ SW 16200 Blk " intnum="4223 "/>
@@ -1439,7 +1439,7 @@
 <marker lat="25.8660635325673" lng="-80.2987999789318" intname="W   8 Av  @ W  4800 Blk " intnum="4227 "/>
 <marker lat="25.7065222129931" lng="-80.3343695482426" intname="Galloway Rd  @  SW  6700 Blk NB " intnum="4229 "/>
 <marker lat="25.8762476676688" lng="-80.1216205322442" intname="Collins Av  and  90 St " intnum="4231 "/>
-<marker lat="25.9318286474426" lng="-80.1702747911788" intname="NE  15 Av  \/ NE 169 Ter  \/ S Glades Dr " intnum="4232 "/>
+<marker lat="25.9318286474426" lng="-80.1702747911788" intname="NE  15 Av  - NE 169 Ter  - S Glades Dr " intnum="4232 "/>
 <marker lat="25.9281390453417" lng="-80.1620763954996" intname="S Glades Dr  and NE  19 Av " intnum="4233 "/>
 <marker lat="25.8681951801136" lng="-80.2414879801564" intname="NW  26 Av  and NW 103 St " intnum="4235 "/>
 <marker lat="25.7610383607199" lng="-80.3821914174743" intname="SR- 821 NB and  SW   8 St " intnum="4238 "/>
@@ -1458,7 +1458,7 @@
 <marker lat="25.65418428639" lng="-80.3589343085614" intname="SW 102 Av  and  SW 124 St " intnum="4263 "/>
 <marker lat="25.9392859779697" lng="-80.2938561771511" intname="Miami Gardens Dr  and Red Rd " intnum="4264 "/>
 <marker lat="25.7781721291487" lng="-80.3367153202311" intname="Galloway Rd  @  NW   800 Blk " intnum="4269 "/>
-<marker lat="25.6130694806249" lng="-80.3687148436959" intname="Richmond Dr  \/  SW 108 Av  \/  SW 109 Av " intnum="4270 "/>
+<marker lat="25.6130694806249" lng="-80.3687148436959" intname="Richmond Dr  -  SW 108 Av  -  SW 109 Av " intnum="4270 "/>
 <marker lat="25.943732273928" lng="-80.1806827912127" intname="Miami Gardens Dr  @ NE  1025 Blk " intnum="4273 "/>
 <marker lat="25.7921910519492" lng="-80.1348689067368" intname="Convention Center Dr  and  17 St " intnum="4275 "/>
 <marker lat="25.9455020381628" lng="-80.1782264308572" intname="Miami Gardens Dr  @ NE  1180 Blk " intnum="4276 "/>
@@ -1517,7 +1517,7 @@
 <marker lat="25.8618948527431" lng="-80.2087320220916" intname="I-  95 SB On and NW  95 St " intnum="4743 "/>
 <marker lat="25.7354179285057" lng="-80.2417421171555" intname="Bird Av  and Virginia St " intnum="4745 "/>
 <marker lat="25.7337385111088" lng="-80.2347023863309" intname="Aviation Av  and Tigertail Av " intnum="4746 "/>
-<marker lat="25.7434057222276" lng="-80.2543471175893" intname="Douglas Rd  \/  SW  25 Ter  \/  SW  26 St " intnum="4747 "/>
+<marker lat="25.7434057222276" lng="-80.2543471175893" intname="Douglas Rd  -  SW  25 Ter  -  SW  26 St " intnum="4747 "/>
 <marker lat="25.7324133741298" lng="-80.2335213542147" intname="Aviation Av  and Bayshore Dr S " intnum="4748 "/>
 <marker lat="25.7562920770495" lng="-80.2875726711902" intname="Red Rd  and  SW  16 St " intnum="3744 "/>
 <marker lat="25.7736553265421" lng="-80.2114483645415" intname="Flagler St W and W  10 Av " intnum="3745 "/>
@@ -1580,10 +1580,10 @@
 <marker lat="25.8795303418247" lng="-80.1674065037676" intname="US-1   and  NE 11200 Blk " intnum="3815 "/>
 <marker lat="25.9637147343219" lng="-80.1477110076556" intname="W Dixie Hwy  and NE 203 St " intnum="3816 "/>
 <marker lat="25.902609234072" lng="-80.2434527163421" intname="SR-   9 SB and NW  27 Av NB " intnum="3817 "/>
-<marker lat="25.7639270717153" lng="-80.2778680108383" intname="SW   8 St  \/ Wallace St  \/ SW  51 Ct " intnum="3818 "/>
+<marker lat="25.7639270717153" lng="-80.2778680108383" intname="SW   8 St  - Wallace St  - SW  51 Ct " intnum="3818 "/>
 <marker lat="25.8072313401628" lng="-80.2401769455575" intname="NW  27 Av  and NW  34 St " intnum="3819 "/>
 <marker lat="25.8515986551982" lng="-80.2983656312393" intname="W   8 Av  and W  33 St " intnum="3820 "/>
-<marker lat="25.8703802051898" lng="-80.2425820835993" intname="NW  27 Av  \/ NW 105 St  \/ NW 106 St " intnum="3821 "/>
+<marker lat="25.8703802051898" lng="-80.2425820835993" intname="NW  27 Av  - NW 105 St  - NW 106 St " intnum="3821 "/>
 <marker lat="25.7467141978361" lng="-80.3677110867567" intname="Coral Way  and  SW 107 Av " intnum="3822 "/>
 <marker lat="25.7723981860156" lng="-80.2370830462855" intname="Flagler St W and W  25 Av " intnum="3823 "/>
 <marker lat="25.8158581162833" lng="-80.2618564436932" intname="SE   9 Ct  and SE   8 St " intnum="3824 "/>
@@ -1608,7 +1608,7 @@
 <marker lat="25.9180161724234" lng="-80.3091032306751" intname="Ludlam Rd  and Miami Lkwy N " intnum="3846 "/>
 <marker lat="25.8480065657707" lng="-80.2942638333649" intname="W   6 Av  and W  29 St " intnum="3847 "/>
 <marker lat="25.8892314578812" lng="-80.2097360698265" intname="I-  95 SB and N Miami Blvd " intnum="3861 "/>
-<marker lat="25.8425605698266" lng="-80.2926958246831" intname="W  23 St  \/ W   5 Av  \/ W   5 Ct " intnum="3862 "/>
+<marker lat="25.8425605698266" lng="-80.2926958246831" intname="W  23 St  - W   5 Av  - W   5 Ct " intnum="3862 "/>
 <marker lat="25.8211228251847" lng="-80.2843278823102" intname="Park St  and Westward Dr " intnum="3863 "/>
 <marker lat="25.7403879713386" lng="-80.3357409952501" intname="Galloway Rd  and  SW  32 St " intnum="3864 "/>
 <marker lat="25.8827706416097" lng="-80.2447079442487" intname="East Rd  and NW 119 St " intnum="3865 "/>
@@ -1666,7 +1666,7 @@
 <marker lat="25.6874686261242" lng="-80.3516801897738" intname="Kendall Dr  and  SR- 874 SB Off and  SR- 878 WB " intnum="4140 "/>
 <marker lat="25.6875699625" lng="-80.3486844551907" intname="Kendall Dr  and  SR- 878 EB On " intnum="4141 "/>
 <marker lat="25.9556339174943" lng="-80.1202681937876" intname="Collins Av  and Galahad Dade Blvd " intnum="4142 "/>
-<marker lat="25.8643846504496" lng="-80.1254408230886" intname="Tatum Wtrwy Dr  \/  79 St  \/  80 St " intnum="4143 "/>
+<marker lat="25.8643846504496" lng="-80.1254408230886" intname="Tatum Wtrwy Dr  -  79 St  -  80 St " intnum="4143 "/>
 <marker lat="25.7418226780039" lng="-80.2185196809783" intname="Bayshore Dr S and Halissee St " intnum="4145 "/>
 <marker lat="25.7458635202648" lng="-80.2128143706159" intname="S Miami Av and Samana Dr " intnum="4146 "/>
 <marker lat="25.9193612271146" lng="-80.1558414201397" intname="US-1   and  NE 156 St " intnum="4147 "/>
@@ -1674,7 +1674,7 @@
 <marker lat="25.8897478524724" lng="-80.3077791811751" intname="Ludlam Rd  and W  74 St " intnum="4149 "/>
 <marker lat="25.8666513446689" lng="-80.302043048684" intname="W  49 St  @ W   900 Blk " intnum="4150 "/>
 <marker lat="25.9104824194246" lng="-80.1573869003724" intname="US-1   and  NE 146 St " intnum="4152 "/>
-<marker lat="25.8269379632582" lng="-80.1314796364305" intname="Alton Rd  \/ Delaware Av  \/ Lakeview Dr " intnum="4153 "/>
+<marker lat="25.8269379632582" lng="-80.1314796364305" intname="Alton Rd  - Delaware Av  - Lakeview Dr " intnum="4153 "/>
 <marker lat="25.814498545076" lng="-80.1263089970338" intname="Pine Tree Dr  and  42 St " intnum="4154 "/>
 <marker lat="25.6478024408934" lng="-80.3260888392453" intname="SW  82 Av  and  SW 132 St " intnum="4155 "/>
 <marker lat="25.6727933029561" lng="-80.3572564637293" intname="S Kendale Blvd  @  SW 10000 Blk " intnum="4156 "/>
@@ -1684,7 +1684,7 @@
 <marker lat="25.8933387474537" lng="-80.1664404965119" intname="NE  16 Av  and NE 127 St " intnum="4161 "/>
 <marker lat="25.8259904813079" lng="-80.1869348296449" intname="US-1 NB   @  NE  5501 Blk " intnum="4163 "/>
 <marker lat="25.9254578804233" lng="-80.2606371802192" intname="Douglas Rd  and  SR- 826 S " intnum="4165 "/>
-<marker lat="25.6686707797098" lng="-80.4001467754628" intname="SW 127 Av  \/ SW 106 St  \/ SW 107 Ter " intnum="4584 "/>
+<marker lat="25.6686707797098" lng="-80.4001467754628" intname="SW 127 Av  - SW 106 St  - SW 107 Ter " intnum="4584 "/>
 <marker lat="25.7830311098178" lng="-80.2440027349926" intname="NW  30 Av  and NW  11 St " intnum="4585 "/>
 <marker lat="25.7219737021974" lng="-80.4073447741413" intname="SW 132 Av  and SW  47 St " intnum="4586 "/>
 <marker lat="25.9440465220761" lng="-80.1479426449526" intname="US-1   @  NE 18200 Blk " intnum="4587 "/>
@@ -1697,7 +1697,7 @@
 <marker lat="25.8378753704196" lng="-80.2658698697436" intname="LeJeune Rd  and E  17 St " intnum="4594 "/>
 <marker lat="25.7143875848644" lng="-80.4151046193523" intname="Miller Dr  and  SW 137 Av " intnum="4595 "/>
 <marker lat="25.8262646495992" lng="-80.337824257697" intname="Galloway Rd  and  NW  58 St " intnum="4596 "/>
-<marker lat="25.6667477445833" lng="-80.4000710045938" intname="SW 127 Av  \/ SW 108 St  \/ SW 109 St " intnum="4597 "/>
+<marker lat="25.6667477445833" lng="-80.4000710045938" intname="SW 127 Av  - SW 108 St  - SW 109 St " intnum="4597 "/>
 <marker lat="25.6855803605599" lng="-80.4087105177706" intname="Kendall Dr  and  SW 133 Av  and  SW 133 Av Rd " intnum="4598 "/>
 <marker lat="25.7861698797345" lng="-80.368762629755" intname="NW 107 Av  and NW  14 St " intnum="4599 "/>
 <marker lat="25.6904616350887" lng="-80.3659391758518" intname="SW 107 Av  and SW  84 St " intnum="4600 "/>
@@ -1708,7 +1708,7 @@
 <marker lat="25.9536082632126" lng="-80.1206590387225" intname="Collins Av  and SR- 856 " intnum="4606 "/>
 <marker lat="25.9619566260009" lng="-80.1869938461328" intname="Ives Dairy Rd  @ NE   800 Blk " intnum="4607 "/>
 <marker lat="25.7780926476887" lng="-80.3693398821329" intname="SR- 836 EB Off and NW 107 Av SB " intnum="4608 "/>
-<marker lat="25.7438966704221" lng="-80.4049300322481" intname="Coral Way  \/  SW 129 Av  \/  SW 130 Av " intnum="4609 "/>
+<marker lat="25.7438966704221" lng="-80.4049300322481" intname="Coral Way  -  SW 129 Av  -  SW 130 Av " intnum="4609 "/>
 <marker lat="25.7147644918864" lng="-80.4070940006299" intname="Miller Dr  and  SW 132 Av " intnum="4610 "/>
 <marker lat="25.6997139719256" lng="-80.4225193798251" intname="Sunset Dr  and  SW 142 Av " intnum="4611 "/>
 <marker lat="25.9345269058016" lng="-80.2207815380363" intname="NW  12 Av  and NW 175 St " intnum="4612 "/>
@@ -1726,7 +1726,7 @@
 <marker lat="25.8683806409305" lng="-80.2326029333583" intname="NW 103 St  @ NW  2100 Blk " intnum="4627 "/>
 <marker lat="25.8668046110181" lng="-80.2342803117735" intname="NW  22 Av  @ NW 10100 Blk " intnum="4628 "/>
 <marker lat="25.9125227840386" lng="-80.1754174908893" intname="NE  12 Av  and  NE 149 St " intnum="4769 "/>
-<marker lat="25.7471859519094" lng="-80.2107200389377" intname="S Miami Av \/ Samana Dr  \/ SW  32 Rd " intnum="4770 "/>
+<marker lat="25.7471859519094" lng="-80.2107200389377" intname="S Miami Av - Samana Dr  - SW  32 Rd " intnum="4770 "/>
 <marker lat="25.9675777377422" lng="-80.1336848001044" intname="NE  34 Av  and NE 207 St " intnum="4771 "/>
 <marker lat="25.9612656955289" lng="-80.2058329148709" intname="NW   2 Av  and NW 202 Ter " intnum="4772 "/>
 <marker lat="25.9629314425339" lng="-80.2058434175215" intname="NW   2 Av  and NW 204 St " intnum="4773 "/>
@@ -1754,7 +1754,7 @@
 <marker lat="25.7021502055184" lng="-80.3662232799661" intname="Snapper Creek Rd  and SW 107 Av " intnum="4795 "/>
 <marker lat="25.708269434588" lng="-80.3665401290974" intname="SW 107 Av  and SW  64 St " intnum="4796 "/>
 <marker lat="25.7712856612241" lng="-80.1921485448388" intname="SE   4 St  @ SE  50 Blk " intnum="4797 "/>
-<marker lat="25.7791342123201" lng="-80.249403823873" intname="NW   7 St  \/ NW  32 Pl  \/ NW  33 Av " intnum="4798 "/>
+<marker lat="25.7791342123201" lng="-80.249403823873" intname="NW   7 St  - NW  32 Pl  - NW  33 Av " intnum="4798 "/>
 <marker lat="25.7659070692389" lng="-80.1894700788037" intname="Brickell Bay Dr  and SE   8 St " intnum="4799 "/>
 <marker lat="25.9263082604141" lng="-80.1441533888906" intname="SR- 826  and NE  28 Av " intnum="4800 "/>
 <marker lat="25.9264463378916" lng="-80.1408624671466" intname="SR- 826  @ NE  2900 Blk " intnum="4801 "/>
@@ -1810,11 +1810,11 @@
 <marker lat="25.8706314868582" lng="-80.2343018788161" intname="NW  22 Av  @ NW 10500 Blk " intnum="4629 "/>
 <marker lat="25.8682698285742" lng="-80.2370742444326" intname="NW 103 St  @ NW  2300 Blk " intnum="4630 "/>
 <marker lat="25.7827431042162" lng="-80.1409668538223" intname="Alton Rd  and  12 St " intnum="4631 "/>
-<marker lat="25.7755232385904" lng="-80.2638579143198" intname="LeJeune Rd  \/ NW   3 St  \/ NW   4 St " intnum="4632 "/>
+<marker lat="25.7755232385904" lng="-80.2638579143198" intname="LeJeune Rd  - NW   3 St  - NW   4 St " intnum="4632 "/>
 <marker lat="25.447796164426" lng="-80.4853501492147" intname="SW 182 Av  and SW 344 St " intnum="4633 "/>
 <marker lat="25.4773741446362" lng="-80.4527782772979" intname="SW 162 Av  and  SW 312 St " intnum="4634 "/>
 <marker lat="25.9580329482577" lng="-80.1927623709571" intname="Ives Dairy Rd  and NE 195 St " intnum="4635 "/>
-<marker lat="25.658764710154" lng="-80.3508494745095" intname="SW  97 Av  \/ SW 119 St  \/ SW 120 St " intnum="4636 "/>
+<marker lat="25.658764710154" lng="-80.3508494745095" intname="SW  97 Av  - SW 119 St  - SW 120 St " intnum="4636 "/>
 <marker lat="25.6263064986666" lng="-80.4145672745878" intname="Coral Reef Dr  and SW 137 Av " intnum="4637 "/>
 <marker lat="25.9225814740379" lng="-80.2364354786481" intname="NW  22 Av  and NW 162 Ter " intnum="4638 "/>
 <marker lat="25.9183818314206" lng="-80.2362978669487" intname="NW  22 Av  and NW 158 St " intnum="4639 "/>
@@ -1864,7 +1864,7 @@
 <marker lat="25.7405966360145" lng="-80.3275693991136" intname="SW  82 Av  and  SW  32 St " intnum="5383 "/>
 <marker lat="25.7047802330825" lng="-80.2772077581032" intname="Sunset Dr  and  SW  52 Av " intnum="5384 "/>
 <marker lat="25.6914831780888" lng="-80.3067730226915" intname="SW  70 Av  and SW  85 St " intnum="5385 "/>
-<marker lat="25.8617029364493" lng="-80.2133862975066" intname="NW  95 St  \/ NW   9 Av  \/ NW  10 Av " intnum="5386 "/>
+<marker lat="25.8617029364493" lng="-80.2133862975066" intname="NW  95 St  - NW   9 Av  - NW  10 Av " intnum="5386 "/>
 <marker lat="25.8262119945765" lng="-80.3297896032034" intname="NW  82 Av  and NW  58 St " intnum="5387 "/>
 <marker lat="25.77676171096" lng="-80.3283678861031" intname="NW  82 Av  and NW   7 St " intnum="5388 "/>
 <marker lat="25.6924296987577" lng="-80.4390996665382" intname="SW 152 Av  and SW  80 St " intnum="5389 "/>
@@ -1882,7 +1882,7 @@
 <marker lat="25.702573367648" lng="-80.2853123793522" intname="Red Rd  and SW  74 St " intnum="5402 "/>
 <marker lat="25.6076856881843" lng="-80.3112470908189" intname="Old Cutler Rd  and SW 176 St " intnum="5403 "/>
 <marker lat="25.9200396005545" lng="-80.2213936282292" intname="NW  13 Av  and NW 159 St " intnum="5404 "/>
-<marker lat="25.7664423316212" lng="-80.1921922310884" intname="SE   8 St  \/  S Miami Av  \/  SE   1 Av " intnum="5405 "/>
+<marker lat="25.7664423316212" lng="-80.1921922310884" intname="SE   8 St  -  S Miami Av  -  SE   1 Av " intnum="5405 "/>
 <marker lat="25.7621618692934" lng="-80.40082702086" intname="SW 127 Av  and SW   6 St " intnum="5406 "/>
 <marker lat="25.4624115969338" lng="-80.4934950872348" intname="SW 187 Av  and SW 328 St " intnum="5407 "/>
 <marker lat="25.731379190789" lng="-80.3882450520065" intname="Bird Rd  and SW 119 Ct " intnum="5408 "/>
@@ -1920,7 +1920,7 @@
 <marker lat="25.8724547340015" lng="-80.33114814501" intname="W  24 Av  @ W  5500 Blk " intnum="5233 "/>
 <marker lat="25.7923865590577" lng="-80.2102513133013" intname="Bob Hope Rd  and NW  18 St " intnum="5234 "/>
 <marker lat="25.8996865989312" lng="-80.1807884854636" intname="NE   9 Av  and NE 135 St " intnum="5235 "/>
-<marker lat="25.8555497979551" lng="-80.1313396572506" intname="Normandy Dr  \/ Rue Notre Dame  \/ Vichy Dr " intnum="5236 "/>
+<marker lat="25.8555497979551" lng="-80.1313396572506" intname="Normandy Dr  - Rue Notre Dame  - Vichy Dr " intnum="5236 "/>
 <marker lat="25.8692970948721" lng="-80.3310100672342" intname="NW  82 Av  and NW 103 St " intnum="5237 "/>
 <marker lat="25.8697615225418" lng="-80.3310416644247" intname="W  24 Av  and W  52 St " intnum="5238 "/>
 <marker lat="25.9604814731047" lng="-80.2464016986238" intname="NW  27 Av  and  NW 203 St " intnum="5239 "/>
@@ -1965,13 +1965,13 @@
 <marker lat="25.8620871994596" lng="-80.2015364919551" intname="NW   2 Av  and NW  95 St " intnum="4416 "/>
 <marker lat="25.7530325315819" lng="-80.2587578588537" intname="Alcazar Av  and Ponce De Leon Blvd " intnum="4417 "/>
 <marker lat="25.6526127646027" lng="-80.2855701017115" intname="Old Cutler Rd  and  SW 128 St " intnum="4418 "/>
-<marker lat="25.674472280203" lng="-80.2778845783291" intname="Old Cutler Rd  \/ Campana Av  \/ SW 105 St " intnum="4419 "/>
+<marker lat="25.674472280203" lng="-80.2778845783291" intname="Old Cutler Rd  - Campana Av  - SW 105 St " intnum="4419 "/>
 <marker lat="25.8736687000048" lng="-80.1857420826354" intname="NE   6 Av  and NE 107 St " intnum="4420 "/>
 <marker lat="25.7700074417942" lng="-80.3163469398948" intname="Flagler St W and W  74 Av " intnum="4421 "/>
 <marker lat="25.6954115833415" lng="-80.333866977891" intname="Galloway Rd  and  SR- 878 EB " intnum="4422 "/>
 <marker lat="25.7683143868428" lng="-80.3770198000758" intname="Flagler St W and W 112 Av " intnum="4423 "/>
 <marker lat="25.7803702634346" lng="-80.1306517938648" intname="Ocean Dr  and  10 St " intnum="4424 "/>
-<marker lat="25.7821218803434" lng="-80.1421905713002" intname="West Av  \/  11 St  \/  12 St " intnum="4425 "/>
+<marker lat="25.7821218803434" lng="-80.1421905713002" intname="West Av  -  11 St  -  12 St " intnum="4425 "/>
 <marker lat="25.7968455724733" lng="-80.1349715036481" intname="Convention Center Dr  and Dade Blvd  and Prairie Av " intnum="4427 "/>
 <marker lat="25.9668129631176" lng="-80.1557826698368" intname="NE  23 Av  and NE 207 St " intnum="4471 "/>
 <marker lat="25.6499474497968" lng="-80.3712055601935" intname="SW 109 Av  and  SW 128 St " intnum="4472 "/>
@@ -1985,13 +1985,13 @@
 <marker lat="25.787155223408" lng="-80.2722552163844" intname="Perimeter Rd  and NW  15 St " intnum="4484 "/>
 <marker lat="25.8907671704443" lng="-80.1743710782148" intname="N Miami Blvd  and  NE  12 Av " intnum="4486 "/>
 <marker lat="25.7870250074065" lng="-80.2697937672196" intname="NW  45 Av  and NW  15 St " intnum="4487 "/>
-<marker lat="25.6689865075191" lng="-80.3918417090231" intname="SW 122 Av  \/ SW 105 St  \/ SW 105 Ter " intnum="4488 "/>
+<marker lat="25.6689865075191" lng="-80.3918417090231" intname="SW 122 Av  - SW 105 St  - SW 105 Ter " intnum="4488 "/>
 <marker lat="25.7826180301949" lng="-80.3178571120659" intname="Milam Dairy Rd  and NW  12 St " intnum="4489 "/>
 <marker lat="25.7870924794501" lng="-80.2312921114511" intname="NW  22 Av  and NW  14 St " intnum="4490 "/>
 <marker lat="25.7060271203396" lng="-80.2874813830527" intname="US-1   and  SW  58 Av  and  SW  70 St " intnum="4491 "/>
 <marker lat="25.8689194349573" lng="-80.2180894085634" intname="NW  12 Av  and NW 103 St " intnum="4492 "/>
 <marker lat="25.4993598631622" lng="-80.4449546870399" intname="SW 157 Av  and SW 288 St " intnum="4493 "/>
-<marker lat="25.7634873283331" lng="-80.2903957757242" intname="SW   8 St  \/ SW  58 Av  \/ SW  58 Ct " intnum="4494 "/>
+<marker lat="25.7634873283331" lng="-80.2903957757242" intname="SW   8 St  - SW  58 Av  - SW  58 Ct " intnum="4494 "/>
 <marker lat="25.595968723716" lng="-80.3644417612508" intname="Quail Roost Dr  and SW 107 Av " intnum="4495 "/>
 <marker lat="25.5727902215401" lng="-80.3639580330385" intname="SR- 821 SB and  SW 211 St " intnum="4496 "/>
 <marker lat="25.5734487840694" lng="-80.3723581962523" intname="SW 112 Av  @ SW 20900 Blk " intnum="4497 "/>
@@ -2044,7 +2044,7 @@
 <marker lat="25.5979420871728" lng="-80.3744509531842" intname="SR- 821 NB and  SW 184 St " intnum="4323 "/>
 <marker lat="25.5952088706743" lng="-80.3728206404099" intname="Quail Roost Dr  and  SR- 821 SB " intnum="4324 "/>
 <marker lat="25.5954469018935" lng="-80.3714640189756" intname="Quail Roost Dr  and  SR- 821 NB " intnum="4325 "/>
-<marker lat="25.934067074712" lng="-80.234387759064" intname="NW 175 St  \/ NW  19 Av  \/ NW  20 Av " intnum="4326 "/>
+<marker lat="25.934067074712" lng="-80.234387759064" intname="NW 175 St  - NW  19 Av  - NW  20 Av " intnum="4326 "/>
 <marker lat="25.9454154892283" lng="-80.1757592276574" intname="Miami Gardens Dr  @  NE  1200 Blk " intnum="4327 "/>
 <marker lat="25.4917582555873" lng="-80.4775746621542" intname="Krome Av  and SW 296 St " intnum="4328 "/>
 <marker lat="25.7545573048845" lng="-80.2221254147669" intname="SW  17 Av  and SW  19 St " intnum="4329 "/>
@@ -2065,25 +2065,25 @@
 <marker lat="25.8869364761277" lng="-80.1261936915161" intname="96 St  @   500 Blk " intnum="4344 "/>
 <marker lat="25.8981080090284" lng="-80.2152914564581" intname="NW  10 Av  and NW 135 St " intnum="4345 "/>
 <marker lat="25.6734620817514" lng="-80.3351330675707" intname="Galloway Rd  and  SW 104 St " intnum="4346 "/>
-<marker lat="25.8282575804022" lng="-80.2190308160803" intname="NW  58 St  \/ NW  13 Av  \/ NW  14 Av " intnum="4348 "/>
+<marker lat="25.8282575804022" lng="-80.2190308160803" intname="NW  58 St  - NW  13 Av  - NW  14 Av " intnum="4348 "/>
 <marker lat="25.6699942619361" lng="-80.3616774742615" intname="Killian Pkwy  and  S Kendale Blvd " intnum="4349 "/>
 <marker lat="25.7938836931074" lng="-80.3128553694486" intname="Milam Dairy Rd  and NW  22 St " intnum="4350 "/>
 <marker lat="25.7480898932442" lng="-80.3115531372066" intname="Coral Way  and  SW  72 Av " intnum="4351 "/>
 <marker lat="25.9286009630797" lng="-80.1826952213781" intname="SR- 826  @  NE   800 Blk " intnum="4352 "/>
-<marker lat="25.6929992973292" lng="-80.4248210902449" intname="SW 142 Av  \/ SW  78 St  \/ SW  80 St " intnum="4353 "/>
+<marker lat="25.6929992973292" lng="-80.4248210902449" intname="SW 142 Av  - SW  78 St  - SW  80 St " intnum="4353 "/>
 <marker lat="25.7296364682253" lng="-80.3996167798096" intname="Bird Rd  and SW 127 Av " intnum="4354 "/>
-<marker lat="25.9038059401369" lng="-80.3106920457995" intname="Miami Lkwy S \/ Tabebuia Ln  \/ White Oak Dr " intnum="4355 "/>
-<marker lat="25.7650633860326" lng="-80.2425818037256" intname="SW   8 St  \/ SW  29 Ct  \/ SW  30 Av " intnum="4356 "/>
+<marker lat="25.9038059401369" lng="-80.3106920457995" intname="Miami Lkwy S - Tabebuia Ln  - White Oak Dr " intnum="4355 "/>
+<marker lat="25.7650633860326" lng="-80.2425818037256" intname="SW   8 St  - SW  29 Ct  - SW  30 Av " intnum="4356 "/>
 <marker lat="25.4921234125623" lng="-80.4366825071938" intname="SW 152 Av  and SW 296 St " intnum="4357 "/>
 <marker lat="25.7001957221391" lng="-80.4065007890058" intname="Sunset Dr  and  SW 132 Av " intnum="4358 "/>
 <marker lat="25.9330354008584" lng="-80.170303394028" intname="NE  15 Av  and NE 171 St " intnum="4359 "/>
 <marker lat="25.9333765741334" lng="-80.2529765109709" intname="NW  32 Av  and NW 175 St " intnum="4361 "/>
 <marker lat="25.6463789086964" lng="-80.3427583751401" intname="Howard Dr  and SW  92 Av " intnum="4362 "/>
 <marker lat="25.725900773092" lng="-80.3025917755331" intname="Ludlam Rd  and SW  48 St " intnum="4363 "/>
-<marker lat="25.9344442130797" lng="-80.2530400381645" intname="NW  32 Av  \/ NW 176 St  \/ NW 177 St " intnum="4364 "/>
+<marker lat="25.9344442130797" lng="-80.2530400381645" intname="NW  32 Av  - NW 176 St  - NW 177 St " intnum="4364 "/>
 <marker lat="25.9342378516362" lng="-80.228879969227" intname="NW  17 Av  and NW 175 St " intnum="4365 "/>
 <marker lat="25.6967087722294" lng="-80.2931424104066" intname="SW  62 Av  and SW  80 St " intnum="4366 "/>
-<marker lat="25.9085854564881" lng="-80.1853137919462" intname="NE 145 St  \/ NE   6 Av  \/ NE   7 Ct " intnum="4367 "/>
+<marker lat="25.9085854564881" lng="-80.1853137919462" intname="NE 145 St  - NE   6 Av  - NE   7 Ct " intnum="4367 "/>
 <marker lat="25.6132272315426" lng="-80.3654767310906" intname="Richmond Dr  and SW 107 Av " intnum="4368 "/>
 <marker lat="25.8968656293448" lng="-80.2537302958164" intname="Sesame St  and NW 135 St " intnum="4369 "/>
 <marker lat="25.7331273570681" lng="-80.3233794274922" intname="Bird Rd  and SW  79 Av " intnum="4370 "/>
@@ -2094,12 +2094,12 @@
 <marker lat="25.877047298672" lng="-80.2910196295106" intname="Red Rd  and W  60 St " intnum="4375 "/>
 <marker lat="25.7337148147073" lng="-80.2946919801914" intname="Bird Rd  and SW  62 Av " intnum="4377 "/>
 <marker lat="25.7641702945812" lng="-80.2714638585686" intname="SW  47 Av  and SW   8 St " intnum="4378 "/>
-<marker lat="25.614296720621" lng="-80.3352994461735" intname="Richmond Dr  \/ SW  88 Av  \/ SW  88 Ct " intnum="4379 "/>
+<marker lat="25.614296720621" lng="-80.3352994461735" intname="Richmond Dr  - SW  88 Av  - SW  88 Ct " intnum="4379 "/>
 <marker lat="25.9269559900582" lng="-80.1660647595939" intname="NE  17 Av  and NE 164 St " intnum="4382 "/>
-<marker lat="25.7655581398166" lng="-80.2254147692571" intname="SW   8 St  \/ SW  18 Av  \/ SW  19 Av " intnum="4383 "/>
+<marker lat="25.7655581398166" lng="-80.2254147692571" intname="SW   8 St  - SW  18 Av  - SW  19 Av " intnum="4383 "/>
 <marker lat="25.7657167091662" lng="-80.2194837065176" intname="SW  15 Av  and SW   8 St " intnum="4384 "/>
 <marker lat="25.7658991547355" lng="-80.2127309406945" intname="SW  11 Av  and SW   8 St " intnum="4385 "/>
-<marker lat="25.9475244838853" lng="-80.2630379830141" intname="NW 191 St  \/ NW  37 Ct  \/ NW  39 Av " intnum="4386 "/>
+<marker lat="25.9475244838853" lng="-80.2630379830141" intname="NW 191 St  - NW  37 Ct  - NW  39 Av " intnum="4386 "/>
 <marker lat="25.8452567769235" lng="-80.306247510771" intname="Ludlam Rd  and W  26 St " intnum="4387 "/>
 <marker lat="25.7661287428932" lng="-80.2024234580432" intname="SW   5 Av  and SW   8 St " intnum="4388 "/>
 <marker lat="25.7106832244854" lng="-80.2825490074359" intname="Ponce De Leon Blvd  and San Amaro Dr " intnum="4389 "/>
@@ -2135,7 +2135,7 @@
 <marker lat="25.6572558377032" lng="-80.3859130693607" intname="SR- 821 NB and  SW 120 St " intnum="4865 "/>
 <marker lat="25.6572929655803" lng="-80.3834274387043" intname="SW 117 Av  and SW 120 St " intnum="4866 "/>
 <marker lat="25.6566799652385" lng="-80.3918118345191" intname="SW 122 Av  and SW 120 St " intnum="4867 "/>
-<marker lat="25.9306253629146" lng="-80.1701892559575" intname="NE  15 Av  \/ NE 168 St  \/ NE 169 Ter " intnum="4868 "/>
+<marker lat="25.9306253629146" lng="-80.1701892559575" intname="NE  15 Av  - NE 168 St  - NE 169 Ter " intnum="4868 "/>
 <marker lat="25.7609274791825" lng="-80.416814805294" intname="SW 137 Av  and SW   8 St " intnum="4869 "/>
 <marker lat="25.8848428185179" lng="-80.2632679083671" intname="Douglas-LeJeune Conn  and Gratigny Pkwy N " intnum="4870 "/>
 <marker lat="25.6785780476006" lng="-80.4005114381173" intname="SW 127 Av  and SW  96 St " intnum="4871 "/>
@@ -2167,7 +2167,7 @@
 <marker lat="25.7848881599652" lng="-80.2885663078961" intname="Red Rd  and  SR- 836 WB On " intnum="4899 "/>
 <marker lat="25.9269977197326" lng="-80.1222676941315" intname="Atlantic Av  and Collins Av " intnum="4900 "/>
 <marker lat="25.7750464742441" lng="-80.195884417728" intname="NW   1 St  @ NW   120 Blk " intnum="4901 "/>
-<marker lat="25.7786459488562" lng="-80.273145544209" intname="NW   7 St  \/ NW  47 Av  \/ NW  48 Av " intnum="4902 "/>
+<marker lat="25.7786459488562" lng="-80.273145544209" intname="NW   7 St  - NW  47 Av  - NW  48 Av " intnum="4902 "/>
 <marker lat="25.4624492910206" lng="-80.4629747289579" intname="SW 167 Av  and SW 328 St " intnum="4904 "/>
 <marker lat="25.9637292542517" lng="-80.1419353949467" intname="NE  29 Pl  and NE 203 St " intnum="4905 "/>
 <marker lat="25.8733920101765" lng="-80.3311854442358" intname="W  24 Av  and W  56 St " intnum="4906 "/>
@@ -2184,7 +2184,7 @@
 <marker lat="25.9189850723965" lng="-80.2603761190043" intname="Douglas-LeJeune Conn  and NW 159 St " intnum="4917 "/>
 <marker lat="25.797048200166" lng="-80.3206916869982" intname="SR- 826 NB and  NW  25 St " intnum="4918 "/>
 <marker lat="25.7969853642577" lng="-80.3216604477728" intname="SR- 826 SB and  NW  25 St " intnum="4919 "/>
-<marker lat="25.7766497682763" lng="-80.3329375934592" intname="NW   7 St  \/ NW  82 Av  \/ NW  84 Av " intnum="4921 "/>
+<marker lat="25.7766497682763" lng="-80.3329375934592" intname="NW   7 St  - NW  82 Av  - NW  84 Av " intnum="4921 "/>
 <marker lat="25.7754427356524" lng="-80.1737964973424" intname="Port Blvd  and  South America Way " intnum="4922 "/>
 <marker lat="25.6861197437227" lng="-80.3911325346001" intname="Kendall Dr  and  SR- 821 SB Off " intnum="4923 "/>
 <marker lat="25.4477845949365" lng="-80.4934206851867" intname="SW 187 Av  and SW 344 St " intnum="4924 "/>
@@ -2249,7 +2249,7 @@
 <marker lat="25.9133059380648" lng="-80.3330314593976" intname="Miami Lakes Dr W and NW  82 Av " intnum="5415 "/>
 <marker lat="25.7095323362681" lng="-80.3988929443292" intname="SW 127 Av  and SW  62 St " intnum="5416 "/>
 <marker lat="25.7543937285664" lng="-80.2302865393749" intname="SW  22 Av  and SW  19 St " intnum="5417 "/>
-<marker lat="25.8240824665622" lng="-80.235243952637" intname="NW  54 St  \/  NW  23 Av  \/  NW  24 Av " intnum="5418 "/>
+<marker lat="25.8240824665622" lng="-80.235243952637" intname="NW  54 St  -  NW  23 Av  -  NW  24 Av " intnum="5418 "/>
 <marker lat="25.4844203451537" lng="-80.485619166302" intname="SW 182 Av  and SW 304 St " intnum="5419 "/>
 <marker lat="25.4843693261112" lng="-80.4937714022363" intname="SW 187 Av  and SW 304 St " intnum="5420 "/>
 <marker lat="25.4771184134433" lng="-80.4840418690787" intname="NW   8 St  @ NW   400 Blk " intnum="5421 "/>
@@ -2264,9 +2264,9 @@
 <marker lat="25.7612325817771" lng="-80.3723963072054" intname="SW 109 Av  and  SW   8 St " intnum="5430 "/>
 <marker lat="25.6773376345409" lng="-80.4306859018127" intname="SW 146 Av  and SW  96 St " intnum="5431 "/>
 <marker lat="25.6777700660107" lng="-80.4164784492796" intname="SW 137 Av  and SW  96 St " intnum="5432 "/>
-<marker lat="25.9313280419033" lng="-80.1219707847997" intname="Collins Av  \/ 167 St  \/ 168 St " intnum="5433 "/>
+<marker lat="25.9313280419033" lng="-80.1219707847997" intname="Collins Av  - 167 St  - 168 St " intnum="5433 "/>
 <marker lat="25.7476910281086" lng="-80.2099611356354" intname="S Miami Av and S  32 Rd " intnum="5434 "/>
-<marker lat="25.7907069347828" lng="-80.2101963177983" intname="Bob Hope Rd  \/ NW  15 St  \/ NW  17 St " intnum="5435 "/>
+<marker lat="25.7907069347828" lng="-80.2101963177983" intname="Bob Hope Rd  - NW  15 St  - NW  17 St " intnum="5435 "/>
 <marker lat="25.8043707592591" lng="-80.3693153634393" intname="NW 107 Av  and NW  33 St " intnum="5436 "/>
 <marker lat="25.5805502784265" lng="-80.4295254636754" intname="Quail Roost Dr  and SW 147 Av " intnum="5437 "/>
 <marker lat="25.7334858977801" lng="-80.1622100407632" intname="Rickenbacker Cswy  and  Virginia Beach Dr " intnum="5438 "/>
@@ -2289,7 +2289,7 @@
 <marker lat="25.7437066641992" lng="-80.4105295569851" intname="Coral Way  @  SW 13200 Blk " intnum="5456 "/>
 <marker lat="25.8814528163101" lng="-80.2824378433886" intname="E  65 St  @ E   000 Blk " intnum="5457 "/>
 <marker lat="25.8815591318646" lng="-80.2780758212307" intname="E  65 St  @ E   200 Blk " intnum="5458 "/>
-<marker lat="25.4972764731114" lng="-80.4246548295034" intname="SW 144 Av  \/ SW 289 Ter  \/ SW 291 St " intnum="5459 "/>
+<marker lat="25.4972764731114" lng="-80.4246548295034" intname="SW 144 Av  - SW 289 Ter  - SW 291 St " intnum="5459 "/>
 <marker lat="25.4984562976536" lng="-80.4246796931416" intname="SW 144 Av  @ SW 28900 Blk " intnum="5460 "/>
 <marker lat="25.4952590033621" lng="-80.4246116630049" intname="SW 144 Av  @ SW 29200 Blk " intnum="5461 "/>
 <marker lat="25.7609088397633" lng="-80.4098255701473" intname="SW 132 Av  and SW   8 St " intnum="4758 "/>
@@ -2310,18 +2310,18 @@
 <marker lat="25.7049027454768" lng="-80.2742025682756" intname="Sunset Dr  @  Pallazzo St " intnum="4538 "/>
 <marker lat="25.704692528765" lng="-80.2793715106398" intname="Sunset Dr  @  SW  5300 Blk " intnum="4539 "/>
 <marker lat="25.8945308914509" lng="-80.2435171712962" intname="NW  27 Av  and NW 132 St " intnum="4545 "/>
-<marker lat="25.8311367703991" lng="-80.2425284628382" intname="NW  62 St  \/ NW  27 Av  \/ NW  29 Av " intnum="4547 "/>
-<marker lat="25.7921093433576" lng="-80.1389661970523" intname="17 St  \/  Michigan Av  \/  Lenox Av " intnum="4548 "/>
+<marker lat="25.8311367703991" lng="-80.2425284628382" intname="NW  62 St  - NW  27 Av  - NW  29 Av " intnum="4547 "/>
+<marker lat="25.7921093433576" lng="-80.1389661970523" intname="17 St  -  Michigan Av  -  Lenox Av " intnum="4548 "/>
 <marker lat="25.941438858667" lng="-80.1212965005243" intname="Collins Av  and  178 St " intnum="4549 "/>
 <marker lat="25.8943733786598" lng="-80.3080046647581" intname="Ludlam Rd  and W  79 St " intnum="4550 "/>
 <marker lat="25.8516298125584" lng="-80.3064262129865" intname="Ludlam Rd  and W  33 St " intnum="4551 "/>
 <marker lat="25.779456386326" lng="-80.2370215414547" intname="NW  25 Av  and NW   7 St " intnum="4552 "/>
-<marker lat="25.722077588228" lng="-80.4051717466364" intname="SW  47 St  \/ SW 129 Ct  \/ SW 130 Av " intnum="4553 "/>
+<marker lat="25.722077588228" lng="-80.4051717466364" intname="SW  47 St  - SW 129 Ct  - SW 130 Av " intnum="4553 "/>
 <marker lat="25.7755828624747" lng="-80.3695542255539" intname="Fontainebleau Blvd  and  NW 107 Av  and  NW   7 St " intnum="4554 "/>
 <marker lat="25.7993654700727" lng="-80.223458984569" intname="NW  17 Av  and NW  24 St " intnum="4555 "/>
 <marker lat="25.8787412823208" lng="-80.2265016400726" intname="NW  17 Av  and NW 114 St " intnum="4557 "/>
 <marker lat="25.8903749324361" lng="-80.2270434719079" intname="NW  17 Av  and NW 127 St " intnum="4558 "/>
-<marker lat="25.8237593282342" lng="-80.2464471256993" intname="NW  54 St  \/ NW  30 Pl  \/ NW  31 Av " intnum="4559 "/>
+<marker lat="25.8237593282342" lng="-80.2464471256993" intname="NW  54 St  - NW  30 Pl  - NW  31 Av " intnum="4559 "/>
 <marker lat="25.764861319104" lng="-80.3686907852154" intname="SW 107 Av  and SW   4 St " intnum="4560 "/>
 <marker lat="25.8208438779732" lng="-80.1957321557626" intname="N Miami Av and N  49 St " intnum="4561 "/>
 <marker lat="25.7808372172076" lng="-80.3367718972444" intname="Galloway Rd  and  SR- 836 EB " intnum="4562 "/>
@@ -2361,7 +2361,7 @@
 <marker lat="25.7911633532796" lng="-80.2190886731313" intname="NW  14 Av  and NW  17 St " intnum="5187 "/>
 <marker lat="25.7968632787828" lng="-80.3426184138837" intname="NW  89 Pl  and NW  25 St " intnum="5188 "/>
 <marker lat="25.7837647624526" lng="-80.2229043953403" intname="South River Dr  and NW  17 Av " intnum="5189 "/>
-<marker lat="25.8193059861887" lng="-80.2836726346422" intname="Curtiss Pkwy SB \/ Cross St  \/ Reinette Dr " intnum="5190 "/>
+<marker lat="25.8193059861887" lng="-80.2836726346422" intname="Curtiss Pkwy SB - Cross St  - Reinette Dr " intnum="5190 "/>
 <marker lat="25.766240031607" lng="-80.3868182139442" intname="SW 118 Av  and SW   2 St " intnum="5191 "/>
 <marker lat="25.7560154424204" lng="-80.2072913357187" intname="Coral Way  and  SW  25 Rd " intnum="5192 "/>
 <marker lat="25.5980198833211" lng="-80.3727011005526" intname="SW 112 Av  and SW 184 St " intnum="5193 "/>
@@ -2459,10 +2459,10 @@
 <marker lat="25.79124983896" lng="-80.1519766466206" intname="Venetian Cswy  @ Biscayne Bay Br " intnum="5004 "/>
 <marker lat="25.7899089719923" lng="-80.1808350259769" intname="Venetian Cswy  @ Intercoastal Br " intnum="5005 "/>
 <marker lat="25.7970555979633" lng="-80.3037053435368" intname="Weatherford Blvd  and NW  25 St " intnum="4894 "/>
-<marker lat="25.867214914585" lng="-80.2716240945326" intname="E  49 St  \/ E   5 Av  \/ E   6 Av " intnum="4556 "/>
+<marker lat="25.867214914585" lng="-80.2716240945326" intname="E  49 St  - E   5 Av  - E   6 Av " intnum="4556 "/>
 <marker lat="25.7817935476309" lng="-80.1904667675454" intname="NE   2 Av  and  NE   8 St " intnum="4837 "/>
 <marker lat="25.9630583630083" lng="-80.1574461562259" intname="NE  22 Av  and NE 203 St " intnum="4601 "/>
-<marker lat="25.962197392147" lng="-80.205843792931" intname="NW   2 Av  \/ NW 203 Ter  \/ NW 204 St " intnum="4640 "/>
+<marker lat="25.962197392147" lng="-80.205843792931" intname="NW   2 Av  - NW 203 Ter  - NW 204 St " intnum="4640 "/>
 <marker lat="25.8098409055754" lng="-80.2142349731777" intname="NW  11 Ct  and NW  36 St " intnum="4721 "/>
 <marker lat="25.8461163309855" lng="-80.2397258114828" intname="NW  25 Av  and NW  79 St " intnum="4615 "/>
 <marker lat="25.821526144309" lng="-80.2407042278191" intname="NW  27 Av  and NW  5100 Blk " intnum="4724 "/>
@@ -2474,10 +2474,10 @@
 <marker lat="25.7860376881038" lng="-80.2687693136264" intname="NW  14 St  @ NW  4400 Blk " intnum="4485 "/>
 <marker lat="25.8466848201294" lng="-80.220867444042" intname="NW  79 St  @ NW  1300 Blk " intnum="4716 "/>
 <marker lat="25.7663398843951" lng="-80.1954973780512" intname="SW   1 Av W and SW   8 St " intnum="4685 "/>
-<marker lat="25.5140236558913" lng="-80.3961680931985" intname="SW 127 Av  \/ SW 272 St  \/ Phoenix Dr " intnum="4580 "/>
+<marker lat="25.5140236558913" lng="-80.3961680931985" intname="SW 127 Av  - SW 272 St  - Phoenix Dr " intnum="4580 "/>
 <marker lat="25.4997942538522" lng="-80.3961305069746" intname="SW 127 Av  and SW 288 St " intnum="5101 "/>
-<marker lat="25.6949874749101" lng="-80.40566305413" intname="SW 132 Av  \/ SW  79 St  \/ SW  80 St " intnum="4217 "/>
-<marker lat="25.4810206443172" lng="-80.4447586975285" intname="SW 157 Av  \/ SW 307 St  \/ SW 308 St " intnum="4482 "/>
+<marker lat="25.6949874749101" lng="-80.40566305413" intname="SW 132 Av  - SW  79 St  - SW  80 St " intnum="4217 "/>
+<marker lat="25.4810206443172" lng="-80.4447586975285" intname="SW 157 Av  - SW 307 St  - SW 308 St " intnum="4482 "/>
 <marker lat="25.866624870314" lng="-80.1285857497575" intname="Hawthorne Av  and  81 St " intnum="2719 "/>
 <marker lat="25.4694000472942" lng="-80.4753600364053" intname="Mowry Dr  and E   1 Rd " intnum="3040 "/>
 <marker lat="25.7955107572059" lng="-80.1444206839968" intname="Purdy Av  and  20 St " intnum="2780 "/>
@@ -2524,9 +2524,9 @@
 <marker lat="25.9297704438465" lng="-80.1250871994488" intname="SR- 826  @   300 Blk " intnum="4990 "/>
 <marker lat="25.7968637573593" lng="-80.3437572599747" intname="NW  25 St  @ NW  9100 Blk " intnum="4991 "/>
 <marker lat="25.7884500737273" lng="-80.3179862035891" intname="Corporate Way  and Milam Dairy Rd " intnum="4992 "/>
-<marker lat="25.8121291731608" lng="-80.1243413446697" intname="Indian Creek Dr  \/  39 St  \/  40 St " intnum="4994 "/>
+<marker lat="25.8121291731608" lng="-80.1243413446697" intname="Indian Creek Dr  -  39 St  -  40 St " intnum="4994 "/>
 <marker lat="25.7154048012081" lng="-80.3849972310998" intname="Miller Dr  and  SW 118 Av " intnum="5001 "/>
-<marker lat="25.8380809040357" lng="-80.2169361457234" intname="NW  12 Av  \/ NW  69 St  \/ NW  70 St " intnum="5002 "/>
+<marker lat="25.8380809040357" lng="-80.2169361457234" intname="NW  12 Av  - NW  69 St  - NW  70 St " intnum="5002 "/>
 <marker lat="25.7435681085498" lng="-80.4162354857485" intname="Coral Way  and  SW 137 Av " intnum="5003 "/>
 <marker lat="25.7689365849773" lng="-80.1975396802361" intname="SW   2 Av  @ Miami River Br " intnum="5006 "/>
 <marker lat="25.7730433976275" lng="-80.200567194085" intname="SW   1 St  @ Miami River Br " intnum="5007 "/>
@@ -2599,14 +2599,14 @@
 <marker lat="25.7893391021565" lng="-80.2101442421785" intname="Bob Hope Rd  and NW  15 St " intnum="5162 "/>
 <marker lat="25.8787635388179" lng="-80.3568911989256" intname="South River Dr  and NW 116 Way " intnum="5163 "/>
 <marker lat="25.7618428913436" lng="-80.3441617603192" intname="SW  92 Av  and  SW   8 St " intnum="5164 "/>
-<marker lat="25.8190233698709" lng="-80.2832939832759" intname="Curtiss Pkwy NB \/  Cross St  \/  Reinette Dr " intnum="5165 "/>
+<marker lat="25.8190233698709" lng="-80.2832939832759" intname="Curtiss Pkwy NB -  Cross St  -  Reinette Dr " intnum="5165 "/>
 <marker lat="25.9067429894173" lng="-80.2359013154717" intname="Rutland St  and NW  22 Av " intnum="5166 "/>
 <marker lat="25.7007208174109" lng="-80.3767849819936" intname="Sunset Dr  and  SW 113 Pl " intnum="5167 "/>
 <marker lat="25.7507519547863" lng="-80.4165165299341" intname="SW 137 Av  and SW  18 St " intnum="5168 "/>
 <marker lat="25.7522724151449" lng="-80.2567883831592" intname="Alhambra Plz  and Galiano St " intnum="5169 "/>
 <marker lat="25.8949147633034" lng="-80.340171248457" intname="W  28 Av  and W  84 St " intnum="5170 "/>
 <marker lat="25.7788899975368" lng="-80.1953514901433" intname="NW   1 Av  and NW   5 St " intnum="5171 "/>
-<marker lat="25.70060861478" lng="-80.394220905217" intname="Sunset Dr  \/  SW 123 Av  \/  SW 125 Av " intnum="5173 "/>
+<marker lat="25.70060861478" lng="-80.394220905217" intname="Sunset Dr  -  SW 123 Av  -  SW 125 Av " intnum="5173 "/>
 <marker lat="25.6268993154646" lng="-80.3949150689577" intname="Coral Reef Dr  and SW 127 Av " intnum="5174 "/>
 <marker lat="25.7792304160859" lng="-80.3124450550652" intname="SR- 836 EB and  NW  72 Av  and  Frontage Rd " intnum="5175 "/>
 <marker lat="25.9567838221947" lng="-80.2138427429146" intname="NW   7 Av  and NW 199 St " intnum="5176 "/>
@@ -2657,7 +2657,7 @@
 <marker lat="25.7771565831005" lng="-80.3130227491" intname="Milam Access Rd  and NW   7 St " intnum="5660 "/>
 <marker lat="25.6925198691907" lng="-80.3039124808304" intname="US-1   and  SW  84 St " intnum="5661 "/>
 <marker lat="25.9294369692405" lng="-80.2608248960632" intname="Douglas Rd  and  NW 171 St " intnum="5662 "/>
-<marker lat="25.9453323146624" lng="-80.2616266201501" intname="Douglas Rd  \/ NW 188 St  \/ NW 189 St " intnum="5663 "/>
+<marker lat="25.9453323146624" lng="-80.2616266201501" intname="Douglas Rd  - NW 188 St  - NW 189 St " intnum="5663 "/>
 <marker lat="25.9514485595797" lng="-80.1427006433864" intname="NE  29 Av  and NE 190 St " intnum="5664 "/>
 <marker lat="25.9060497329292" lng="-80.3406566952255" intname="NW  87 Av  and NW 146 St " intnum="5665 "/>
 <marker lat="25.7320921785412" lng="-80.3814867897066" intname="Bird Rd  @ SW 11500 Blk " intnum="5666 "/>
@@ -2687,7 +2687,7 @@
 <marker lat="25.6905651780698" lng="-80.4462570860034" intname="SW 157 Av  @ SW  8100 Blk " intnum="5780 "/>
 <marker lat="25.6924597006099" lng="-80.4472916258507" intname="SW  80 St  @ SW 15700 Blk " intnum="5781 "/>
 <marker lat="25.6926397107054" lng="-80.4428422702441" intname="SW  80 St  @ SW 15400 Blk " intnum="5782 "/>
-<marker lat="25.6924991575179" lng="-80.444282189651" intname="SW  80 St  \/ SW 155 Av  \/ SW 156 Av " intnum="5783 "/>
+<marker lat="25.6924991575179" lng="-80.444282189651" intname="SW  80 St  - SW 155 Av  - SW 156 Av " intnum="5783 "/>
 <marker lat="25.7392525111343" lng="-80.3836193534836" intname="SW 117 Av  and SW  32 St " intnum="5784 "/>
 <marker lat="25.8209936204783" lng="-80.2161202098575" intname="NW  12 Av  and NW  50 St " intnum="5785 "/>
 <marker lat="25.6972200590796" lng="-80.3660793254798" intname="SW 107 Av  and SW  76 St " intnum="5786 "/>
@@ -2705,7 +2705,7 @@
 <marker lat="25.6738988859976" lng="-80.318807238745" intname="SW  77 Av  and SW 104 St " intnum="5798 "/>
 <marker lat="25.8405909398284" lng="-80.1212134659293" intname="Collins Av  @  5845 Blk " intnum="5799 "/>
 <marker lat="25.847991053931" lng="-80.3103271938808" intname="W  14 Av  and W  29 St " intnum="5800 "/>
-<marker lat="25.7795587264275" lng="-80.2345297691797" intname="NW   7 St  \/ NW  23 Ct  \/ NW  23 Pl " intnum="5801 "/>
+<marker lat="25.7795587264275" lng="-80.2345297691797" intname="NW   7 St  - NW  23 Ct  - NW  23 Pl " intnum="5801 "/>
 <marker lat="25.5662704655381" lng="-80.3834103152234" intname="SW 216 St  @ SW 11800 Blk " intnum="5802 "/>
 <marker lat="25.6565798835367" lng="-80.4068169791455" intname="SW 131 Av  and SW 120 St " intnum="5481 "/>
 <marker lat="25.6565361982573" lng="-80.4076622645483" intname="SW 132 Av  and SW 120 St " intnum="5482 "/>
@@ -2760,7 +2760,7 @@
 <marker lat="25.774863725911" lng="-80.1988691097667" intname="NW   3 Av  and NW   1 St " intnum="5323 "/>
 <marker lat="25.8337005979698" lng="-80.2004014847365" intname="NW   2 Av  @ NW  6300 Blk " intnum="5324 "/>
 <marker lat="25.6730665856942" lng="-80.4441482548241" intname="Hammocks Blvd  @ SW 10000 Blk " intnum="5325 "/>
-<marker lat="25.7674233996788" lng="-80.3443719635763" intname="SW  92 Av  \/ Flagler St W \/ SW   4 St " intnum="5326 "/>
+<marker lat="25.7674233996788" lng="-80.3443719635763" intname="SW  92 Av  - Flagler St W - SW   4 St " intnum="5326 "/>
 <marker lat="25.8249690916371" lng="-80.2070178602951" intname="I-  95 SB and NW  54 St " intnum="5327 "/>
 <marker lat="25.8986032107701" lng="-80.2305859587607" intname="Opa-locka Blvd  @  NW  1800 Blk " intnum="5328 "/>
 <marker lat="25.8990754671619" lng="-80.2289026954743" intname="Opa-locka Blvd  @  NW  1700 Blk " intnum="5329 "/>
@@ -2770,7 +2770,7 @@
 <marker lat="25.807411661488" lng="-80.3051703952701" intname="Ludlam Rd  and NW  36 St " intnum="5333 "/>
 <marker lat="25.7542796514075" lng="-80.368066185981" intname="SW 107 Av  and  SW  16 St " intnum="5334 "/>
 <marker lat="25.8613467618971" lng="-80.2218331326465" intname="NW  14 Av  and NW  95 St " intnum="5335 "/>
-<marker lat="25.8458076402112" lng="-80.1202109033561" intname="Collins Av  \/  63 St  \/  64 St " intnum="5336 "/>
+<marker lat="25.8458076402112" lng="-80.1202109033561" intname="Collins Av  -  63 St  -  64 St " intnum="5336 "/>
 <marker lat="25.739395875504" lng="-80.3758138883818" intname="SW 112 Av  and SW  32 St " intnum="5337 "/>
 <marker lat="25.9570335179294" lng="-80.2067688956973" intname="NW 199 St  @ NW   250 Blk " intnum="5338 "/>
 <marker lat="25.9569821951503" lng="-80.2079754095869" intname="NW 199 St  @ NW   320 Blk " intnum="5339 "/>
@@ -2794,8 +2794,8 @@
 <marker lat="25.9547677650125" lng="-80.2421234496772" intname="NW 199 St  @  NW  2500 Blk " intnum="5357 "/>
 <marker lat="25.9552892166331" lng="-80.2445217875195" intname="NW 199 St  @ NW  2600 Blk " intnum="5358 "/>
 <marker lat="25.8840987434941" lng="-80.3198878192835" intname="W  68 St  @ W  1800 Blk " intnum="5359 "/>
-<marker lat="25.708375335303" lng="-80.1570733007177" intname="Crandon Blvd NB \/ Tennis Ct  \/ Golf Crse " intnum="5360 "/>
-<marker lat="25.7086247017154" lng="-80.1576151435702" intname="Crandon Blvd SB \/ Tennis Ct  \/ Golf Crse " intnum="5361 "/>
+<marker lat="25.708375335303" lng="-80.1570733007177" intname="Crandon Blvd NB - Tennis Ct  - Golf Crse " intnum="5360 "/>
+<marker lat="25.7086247017154" lng="-80.1576151435702" intname="Crandon Blvd SB - Tennis Ct  - Golf Crse " intnum="5361 "/>
 <marker lat="25.9706501733154" lng="-80.2060608598782" intname="NW   2 Av  @ NW 21200 Blk " intnum="5362 "/>
 <marker lat="25.8068778904837" lng="-80.199297900309" intname="NW   2 Av  @ NW  3200 Blk " intnum="5363 "/>
 <marker lat="25.8049985369834" lng="-80.1992315199362" intname="NW   2 Av  @ NW  3000 Blk " intnum="5364 "/>
@@ -2833,7 +2833,7 @@
 <marker lat="25.6769053391674" lng="-80.4410420569435" intname="SW 152 Av  @ SW  9600 Blk " intnum="5720 "/>
 <marker lat="25.6846973650261" lng="-80.4370600862616" intname="Hammocks Blvd  and  Kendall Dr  and  SW 150 Av " intnum="5721 "/>
 <marker lat="25.8457741136812" lng="-80.121126266485" intname="Indian Creek Dr  @  6400 Blk " intnum="5722 "/>
-<marker lat="25.904342436722" lng="-80.2982756320736" intname="NW  60 Av  \/ NW 142 St  \/ Miami Lakes Dr E " intnum="5723 "/>
+<marker lat="25.904342436722" lng="-80.2982756320736" intname="NW  60 Av  - NW 142 St  - Miami Lakes Dr E " intnum="5723 "/>
 <marker lat="25.6507465196497" lng="-80.350589142195" intname="SW  97 Av  and  SW 128 St " intnum="5724 "/>
 <marker lat="25.6886202902757" lng="-80.4783505662579" intname="Kendall Dr  and  Krome Av " intnum="5726 "/>
 <marker lat="25.9325987023702" lng="-80.1218728348415" intname="Collins Av  @ 16900 Blk " intnum="5727 "/>
@@ -2852,7 +2852,7 @@
 <marker lat="25.7494250041842" lng="-80.3903205068087" intname="SW 122 Av  and SW  20 Ter " intnum="5740 "/>
 <marker lat="25.7628301677748" lng="-80.3118602830645" intname="SW  72 Av  and SW   8 St " intnum="5741 "/>
 <marker lat="25.7703672658861" lng="-80.2226657875983" intname="SW  17 Av  and SW   3 St " intnum="5742 "/>
-<marker lat="25.7876399433185" lng="-80.2138680272966" intname="NW  14 St  \/ NW  11 Av  \/ NW  12 Av " intnum="5743 "/>
+<marker lat="25.7876399433185" lng="-80.2138680272966" intname="NW  14 St  - NW  11 Av  - NW  12 Av " intnum="5743 "/>
 <marker lat="25.8969214317684" lng="-80.3298695997554" intname="W  20 Av W and W  84 St " intnum="5744 "/>
 <marker lat="25.7719598290282" lng="-80.3324917501339" intname="Park Blvd  and  NW  84 Av " intnum="5745 "/>
 <marker lat="25.8473358348515" lng="-80.1275676890352" intname="Pine Tree Ln  and La Gorce Dr " intnum="5748 "/>
@@ -2874,7 +2874,7 @@
 <marker lat="25.7088723405046" lng="-80.3505000641852" intname="SW  97 Av  and SW  64 St " intnum="5499 "/>
 <marker lat="25.9278533057791" lng="-80.3336214417627" intname="NW  82 Av  and NW 170 St " intnum="5501 "/>
 <marker lat="25.7633679577873" lng="-80.3725732464044" intname="SW 109 Av  and  SW   6 St " intnum="5502 "/>
-<marker lat="25.769104789373" lng="-80.3505628128452" intname="Flagler St W \/ W  95 Av  \/ W  96 Av " intnum="5503 "/>
+<marker lat="25.769104789373" lng="-80.3505628128452" intname="Flagler St W - W  95 Av  - W  96 Av " intnum="5503 "/>
 <marker lat="25.6135084630304" lng="-80.3583298626793" intname="Richmond Dr  @ SW 10200 Blk " intnum="5504 "/>
 <marker lat="25.6133541570536" lng="-80.362003066902" intname="Richmond Dr  @ SW 10400 Blk " intnum="5505 "/>
 <marker lat="25.5217532395806" lng="-80.416060484684" intname="SW 264 St  @  SW 13800 Blk " intnum="5506 "/>
@@ -2910,17 +2910,17 @@
 <marker lat="25.7268864749476" lng="-80.2535513502051" intname="Douglas Rd  @ Thomas Av " intnum="5537 "/>
 <marker lat="25.7360996530183" lng="-80.391826057109" intname="SW 122 Av  @ SW  3500 Blk " intnum="5538 "/>
 <marker lat="25.7392061724678" lng="-80.3919154156054" intname="SW 122 Av  @ SW  3100 Blk " intnum="5539 "/>
-<marker lat="25.7666952840014" lng="-80.2388916462034" intname="SW  27 Av  \/ SW   6 St  \/ SW   7 St " intnum="5540 "/>
+<marker lat="25.7666952840014" lng="-80.2388916462034" intname="SW  27 Av  - SW   6 St  - SW   7 St " intnum="5540 "/>
 <marker lat="25.7085186242736" lng="-80.4415675081626" intname="SW 152 Av  @ SW  6300 Blk " intnum="5541 "/>
 <marker lat="25.7026946161072" lng="-80.44050798997" intname="SW 152 Av  @ SW  6800 Blk " intnum="5542 "/>
 <marker lat="25.4481393139222" lng="-80.3532236763505" intname="SW 344 St  @  SW 10100 Blk " intnum="5543 "/>
-<marker lat="25.7034711843031" lng="-80.4420004925897" intname="SW 152 Av  \/ SW  66 St  \/ SW  67 St " intnum="5544 "/>
+<marker lat="25.7034711843031" lng="-80.4420004925897" intname="SW 152 Av  - SW  66 St  - SW  67 St " intnum="5544 "/>
 <marker lat="25.7835916931116" lng="-80.2696544821387" intname="SR- 836 WB On and NW  45 Av  and NW  12 Dr " intnum="5545 "/>
-<marker lat="25.7864359964072" lng="-80.1341832729208" intname="Pennsylvania Av  \/ Espanola Way  \/  14 Pl " intnum="5546 "/>
+<marker lat="25.7864359964072" lng="-80.1341832729208" intname="Pennsylvania Av  - Espanola Way  -  14 Pl " intnum="5546 "/>
 <marker lat="25.7681455514538" lng="-80.3860972377216" intname="Flagler St W WB @  W 11700 Blk " intnum="5547 "/>
 <marker lat="25.770187872904" lng="-80.38718923669" intname="NW 118 Av  @ NW   200 Blk " intnum="5548 "/>
 <marker lat="25.7658969852952" lng="-80.3868140696267" intname="SW 118 Av  @ SW   200 Blk " intnum="5549 "/>
-<marker lat="25.7784099257282" lng="-80.2784351578843" intname="NW   7 St  \/ NW  51 Av  \/ NW  53 Av " intnum="5550 "/>
+<marker lat="25.7784099257282" lng="-80.2784351578843" intname="NW   7 St  - NW  51 Av  - NW  53 Av " intnum="5550 "/>
 <marker lat="25.6794966551343" lng="-80.317816821056" intname="S Dade Bswy  and  SW  98 St " intnum="5552 "/>
 <marker lat="25.6738674511343" lng="-80.3204928511565" intname="S Dade Bswy  and  SW 104 St " intnum="5553 "/>
 <marker lat="25.6664026610029" lng="-80.3239788791332" intname="Killian Dr  and S Dade Bswy " intnum="5554 "/>
@@ -2964,7 +2964,7 @@
 <marker lat="25.4917435147602" lng="-80.4855919590706" intname="SW 182 Av  and SW 296 St " intnum="3979 "/>
 <marker lat="25.4843065092205" lng="-80.4855532839408" intname="SW 182 Av  and SW 304 St " intnum="5589 "/>
 <marker lat="25.8480718545195" lng="-80.1752100303573" intname="NE  79 St  @ NE  1100 Blk " intnum="4213 "/>
-<marker lat="25.822591078951" lng="-80.1917721026369" intname="NE   2 Av  \/ NE  50 Ter  \/ NE  51 St " intnum="2096 "/>
+<marker lat="25.822591078951" lng="-80.1917721026369" intname="NE   2 Av  - NE  50 Ter  - NE  51 St " intnum="2096 "/>
 <marker lat="25.9354805369905" lng="-80.337298037904" intname="NW 178 St  @  NW  8300 Blk " intnum="6005 "/>
 <marker lat="25.9355009569691" lng="-80.3324442615734" intname="NW 178 St  @ NW  8000 Blk " intnum="6004 "/>
 <marker lat="25.7682665964089" lng="-80.2475337474148" intname="SW  32 Av  @ SW   400 Blk " intnum="5848 "/>
@@ -3008,8 +3008,8 @@
 <marker lat="25.5763225839154" lng="-80.3577497081236" intname="Anchor Rd  and Caribbean Blvd " intnum="5891 "/>
 <marker lat="25.7916456675678" lng="-80.3689208044429" intname="NW 107 Av  and NW  19 St " intnum="5892 "/>
 <marker lat="25.9555746887899" lng="-80.130352632991" intname="SR- 856  @  NE  3500 Blk " intnum="5893 "/>
-<marker lat="25.9393327436599" lng="-80.1214516844836" intname="Collins Av  \/  175 Ter  \/  178 St " intnum="6081 "/>
-<marker lat="25.9446350386623" lng="-80.1210902648547" intname="Collins Av  \/ 182 St  \/ 183 St " intnum="6082 "/>
+<marker lat="25.9393327436599" lng="-80.1214516844836" intname="Collins Av  -  175 Ter  -  178 St " intnum="6081 "/>
+<marker lat="25.9446350386623" lng="-80.1210902648547" intname="Collins Av  - 182 St  - 183 St " intnum="6082 "/>
 <marker lat="25.8770622935962" lng="-80.3169474824232" intname="W  60 St  @ W  1600 Blk " intnum="6086 "/>
 <marker lat="25.8770384837902" lng="-80.31420874993" intname="W  60 St  @ W  1500 Blk " intnum="6085 "/>
 <marker lat="25.6755787332111" lng="-80.4574547989489" intname="SW 162 Av  @ SW  9700 Blk " intnum="6087 "/>
@@ -3043,12 +3043,12 @@
 <marker lat="25.9553469223203" lng="-80.2336344312652" intname="NW 199 St  @ NW  1900 Blk " intnum="5225 "/>
 <marker lat="25.8407706779468" lng="-80.3276417433071" intname="NW  79 Pl  and NW  74 St " intnum="6110 "/>
 <marker lat="25.843819153408" lng="-80.3277125292567" intname="NW  79 Pl  and NW  77 St " intnum="6111 "/>
-<marker lat="25.8068683950873" lng="-80.1241732830341" intname="Collins Av  \/  31 St  \/  32 St " intnum="6112 "/>
+<marker lat="25.8068683950873" lng="-80.1241732830341" intname="Collins Av  -  31 St  -  32 St " intnum="6112 "/>
 <marker lat="25.7841734659552" lng="-80.2395429596855" intname="SR- 836 EB On and NW  27 Av SB " intnum="6113 "/>
 <marker lat="25.9330118975848" lng="-80.2935534038931" intname="Red Rd  and NW 176 St " intnum="6120 "/>
 <marker lat="25.6922910400822" lng="-80.401931892034" intname="SW 127 Av  and SW  80 St " intnum="6115 "/>
-<marker lat="25.7520613289288" lng="-80.2597846782004" intname="Alhambra Cir  \/ Ponce De Leon Blvd  \/ Salzedo St " intnum="6116 "/>
-<marker lat="25.7519089072169" lng="-80.2617911099723" intname="Alhambra Cir  \/ LeJeune Rd  \/ Salzedo St " intnum="6117 "/>
+<marker lat="25.7520613289288" lng="-80.2597846782004" intname="Alhambra Cir  - Ponce De Leon Blvd  - Salzedo St " intnum="6116 "/>
+<marker lat="25.7519089072169" lng="-80.2617911099723" intname="Alhambra Cir  - LeJeune Rd  - Salzedo St " intnum="6117 "/>
 <marker lat="25.6203815865611" lng="-80.3820026049289" intname="SW 117 Av  @ SW 16000 Blk " intnum="6118 "/>
 <marker lat="25.9423440354624" lng="-80.3295043492833" intname="Miami Gardens Dr  and NW  79 Av " intnum="6119 "/>
 <marker lat="25.7330663699841" lng="-80.3150545366561" intname="Bird Rd  and SW  74 Av " intnum="6121 "/>
@@ -3071,7 +3071,7 @@
 <marker lat="25.8861403371214" lng="-80.1332402819028" intname="Bay Harbor Dr W @  9500 Blk " intnum="6140 "/>
 <marker lat="25.8859410943699" lng="-80.1312335931235" intname="Bay Harbor Ter  @  9500 Blk " intnum="6138 "/>
 <marker lat="25.8695116643418" lng="-80.3791494694595" intname="NW 112 Av  and NW 106 St " intnum="6142 "/>
-<marker lat="25.7657696890381" lng="-80.2164574950557" intname="SW   8 St  \/ SW  13 Av  \/ SW  13 Ct " intnum="6141 "/>
+<marker lat="25.7657696890381" lng="-80.2164574950557" intname="SW   8 St  - SW  13 Av  - SW  13 Ct " intnum="6141 "/>
 <marker lat="25.9220139653635" lng="-80.1698478586793" intname="NE  15 Av  and NE 159 St " intnum="6143 "/>
 <marker lat="25.5191900601331" lng="-80.4282899555341" intname="Old Dixie Hwy  and SW 146 Ct  and S Dade Bswy " intnum="6144 "/>
 <marker lat="25.4993380873161" lng="-80.4476628111066" intname="S Dade Bswy  and SW 288 St " intnum="6145 "/>
@@ -3291,7 +3291,7 @@
 <marker lat="25.455203783193" lng="-80.4751726462608" intname="US-1   and  SW 336 St " intnum="6475 "/>
 <marker lat="25.4551866440159" lng="-80.4771993231254" intname="Krome Av  and  SW 336 St " intnum="6474 "/>
 <marker lat="25.7817099056189" lng="-80.1421837945563" intname="West Av  and  11 St " intnum="6470 "/>
-<marker lat="25.879244512582" lng="-80.1982167966109" intname="N Miami Av \/  N 112 St  \/  N 114 St " intnum="6472 "/>
+<marker lat="25.879244512582" lng="-80.1982167966109" intname="N Miami Av -  N 112 St  -  N 114 St " intnum="6472 "/>
 <marker lat="25.9422870897125" lng="-80.3222553028301" intname="Miami Gardens Dr  and  NW  75 Pl " intnum="6476 "/>
 <marker lat="25.7704702403707" lng="-80.1623621671709" intname="Port Blvd  and  Eastern Port Blvd " intnum="6471 "/>
 <marker lat="25.8459199973273" lng="-80.3278090664449" intname="NW  79 Pl  and  NW  80 St " intnum="6477 "/>
@@ -3313,7 +3313,7 @@
 <marker lat="25.6629033580834" lng="-80.4401444321081" intname="Hammocks Blvd  and  SW 112 St " intnum="6494 "/>
 <marker lat="25.7788842516834" lng="-80.4190065435636" intname="SR- 836 WB Off and  NW   9 Ln " intnum="6495 "/>
 <marker lat="25.7297935678332" lng="-80.3756017398435" intname="SW 112 Av  and  SW  41 Ter " intnum="6493 "/>
-<marker lat="25.781472761389" lng="-80.2557796024925" intname="Douglas Rd  \/  NW   9 St  \/  NW  10 St " intnum="6496 "/>
+<marker lat="25.781472761389" lng="-80.2557796024925" intname="Douglas Rd  -  NW   9 St  -  NW  10 St " intnum="6496 "/>
 <marker lat="25.7106747153743" lng="-80.3100437857176" intname="SW  72 Av  and  SW  64 St " intnum="6497 "/>
 <marker lat="25.860243143923" lng="-80.2422305390059" intname="NW  27 Av  and  NW  95 St -W leg " intnum="6498 "/>
 <marker lat="25.7464918158189" lng="-80.3800629979919" intname="Coral Way  and  SW 114 Av " intnum="6499 "/>
@@ -3440,14 +3440,14 @@
 <marker lat="25.8620485402554" lng="-80.2056394442844" intname="NW   5 Av  and  NW  95 St " intnum="6644 "/>
 <marker lat="25.8364612611304" lng="-80.192364290024" intname="NE   2 Av  and  NE  67 St " intnum="6643 "/>
 <marker lat="25.5365025281718" lng="-80.4087225463945" intname="SW 134 Av  and  SW 248 St " intnum="6646 "/>
-<marker lat="25.9404610547081" lng="-80.323154859785" intname="NW  75 Pl  \/  NW 183 Ln  \/  Miami Gardens Dr " intnum="6647 "/>
+<marker lat="25.9404610547081" lng="-80.323154859785" intname="NW  75 Pl  -  NW 183 Ln  -  Miami Gardens Dr " intnum="6647 "/>
 <marker lat="25.6346759826442" lng="-80.414689594789" intname="SW 137 Av  and  SW 143 St " intnum="6648 "/>
 <marker lat="25.7296565446984" lng="-80.3027264847739" intname="Ludlam Rd  and  SW  44 St " intnum="6649 "/>
 <marker lat="25.7658052858784" lng="-80.2470309472761" intname="SW  32 Av  and  SW   7 St " intnum="6651 "/>
 <marker lat="25.818884193566" lng="-80.3817797261047" intname="NW 114 Av  and  NW  50 St " intnum="6650 "/>
 <marker lat="25.7236988356651" lng="-80.2590899944958" intname="Loquat Av  @  SW  4000 Blk " intnum="6652 "/>
 <marker lat="25.7237188646049" lng="-80.258392251363" intname="Loquat Av  @  SW  3900 Blk " intnum="6653 "/>
-<marker lat="25.7904294075214" lng="-80.2167786054523" intname="NW  16 St  \/  NW  12 Av  \/  NW  13 Av " intnum="6654 "/>
+<marker lat="25.7904294075214" lng="-80.2167786054523" intname="NW  16 St  -  NW  12 Av  -  NW  13 Av " intnum="6654 "/>
 <marker lat="25.7346226974324" lng="-80.3109219743692" intname="SW  72 Av  and  SW  39 St " intnum="6655 "/>
 <marker lat="25.9118271059535" lng="-80.1449472044762" intname="Bay Vista Blvd  @  NE 14700 Blk " intnum="6657 "/>
 <marker lat="25.915651146451" lng="-80.1472674539132" intname="NE 151 St  @  NE  2400 Blk " intnum="6656 "/>
@@ -3467,7 +3467,7 @@
 <marker lat="25.5182047270469" lng="-80.4052604023938" intname="SW 132 Av -N leg and  SW 268 St " intnum="6671 "/>
 <marker lat="25.5181577417295" lng="-80.4043319575341" intname="SW 132 Av -S leg and  SW 268 St " intnum="6672 "/>
 <marker lat="25.7768605781518" lng="-80.3244053424611" intname="NW  79 Av  and  NW   7 St " intnum="6667 "/>
-<marker lat="25.7960251358147" lng="-80.2294855331158" intname="NW  21 Av  \/  NW  21 St  \/  NW  21 Ter " intnum="6673 "/>
+<marker lat="25.7960251358147" lng="-80.2294855331158" intname="NW  21 Av  -  NW  21 St  -  NW  21 Ter " intnum="6673 "/>
 <marker lat="25.632766824733" lng="-80.4471679719745" intname="SW 157 Av  and  SW 144 St " intnum="6674 "/>
 <marker lat="25.6660996736126" lng="-80.3333629940942" intname="SW 112 St  @  SW  8500 Blk " intnum="6522 "/>
 <marker lat="25.6661650193365" lng="-80.3310843301327" intname="SW 112 St  @  SW  8400 Blk " intnum="6523 "/>
@@ -3490,7 +3490,7 @@
 <marker lat="25.7814504066246" lng="-80.4170830812095" intname="NW 137 Av  @ NW  1100 Blk " intnum="6133 "/>
 <marker lat="25.8111205091591" lng="-80.1953651660082" intname="I- 195 EB Off and  N Miami Av " intnum="6336 "/>
 <marker lat="25.8119129373445" lng="-80.1953984266207" intname="I- 195 WB On and  N Miami Av  and  NE  38 St " intnum="6337 "/>
-<marker lat="25.7487924899265" lng="-80.3357072232488" intname="Galloway Rd  \/  Coral Way  \/  SW  21 Ter " intnum="6338 "/>
+<marker lat="25.7487924899265" lng="-80.3357072232488" intname="Galloway Rd  -  Coral Way  -  SW  21 Ter " intnum="6338 "/>
 <marker lat="25.8694572275614" lng="-80.2018730151145" intname="NW   2 Av  and NW 103 St " intnum="6339 "/>
 <marker lat="25.7430193702982" lng="-80.2461680416009" intname="SW  32 Av  @ SW  2600 Blk " intnum="6340 "/>
 <marker lat="25.7399400163767" lng="-80.2460117989168" intname="SW  32 Av  @ SW  2700 Blk " intnum="6341 "/>
@@ -3536,12 +3536,12 @@
 <marker lat="25.7818400091776" lng="-80.1373052974019" intname="11 St  @  Jefferson Av " intnum="6706 "/>
 <marker lat="25.8080342667488" lng="-80.2443298566859" intname="NW  35 St  @  NW  3000 Blk " intnum="6707 "/>
 <marker lat="25.939226237907" lng="-80.3200860792437" intname="NW  73 Av  @  NW 18100 Blk " intnum="6708 "/>
-<marker lat="25.7319424937045" lng="-80.2538482052863" intname="Douglas Rd  \/  US-1   \/  Day Av " intnum="6709 "/>
+<marker lat="25.7319424937045" lng="-80.2538482052863" intname="Douglas Rd  -  US-1   -  Day Av " intnum="6709 "/>
 <marker lat="25.6319766893906" lng="-80.4659913491647" intname="SW 144 St  @  SW 16800 Blk " intnum="6710 "/>
 <marker lat="25.8924356717243" lng="-80.1663981683196" intname="NE  16 Av  and  NE 126 St " intnum="6711 "/>
 <marker lat="25.828216896546" lng="-80.2205838623794" intname="NW  14 Av  and  NW  58 St " intnum="6712 "/>
 <marker lat="25.7888731173679" lng="-80.1423842914805" intname="West Av  and  16 St " intnum="6713 "/>
-<marker lat="25.8792743481736" lng="-80.3474971004444" intname="NW  92 Av  \/  NW 116 St  \/  NW 117 St " intnum="6715 "/>
+<marker lat="25.8792743481736" lng="-80.3474971004444" intname="NW  92 Av  -  NW 116 St  -  NW 117 St " intnum="6715 "/>
 <marker lat="25.8831225279013" lng="-80.3477313952469" intname="NW  92 Av  @  NW 12000 Blk " intnum="6718 "/>
 <marker lat="25.8777883928119" lng="-80.3474190907886" intname="NW  92 Av  @  NW 11400 Blk " intnum="6717 "/>
 <marker lat="25.882306605092" lng="-80.3476681514335" intname="NW  92 Av  and  NW 120 St " intnum="6716 "/>
@@ -3615,7 +3615,7 @@
 <marker lat="25.956970238307" lng="-80.1402326059049" intname="Abigail Rd  and  Spoke Rd " intnum="5951 "/>
 <marker lat="25.9064786354452" lng="-80.1928569888744" intname="NE 143 St  @ NE   200 Blk " intnum="5962 "/>
 <marker lat="25.5959554883916" lng="-80.4296947106291" intname="SW 147 Av  and SW 184 St " intnum="5964 "/>
-<marker lat="25.7682408854409" lng="-80.3821157661755" intname="Flagler St W \/ W 114 Av  \/ W 115 Av " intnum="5967 "/>
+<marker lat="25.7682408854409" lng="-80.3821157661755" intname="Flagler St W - W 114 Av  - W 115 Av " intnum="5967 "/>
 <marker lat="25.8732291306619" lng="-80.2832725357173" intname="Palm Av  and  56 St " intnum="5968 "/>
 <marker lat="25.8711134230938" lng="-80.2831921039354" intname="Palm Av  and  53 Ter " intnum="5969 "/>
 <marker lat="25.8020876267371" lng="-80.2256173157312" intname="NW  18 Av  and NW  28 St " intnum="5970 "/>
@@ -3628,7 +3628,7 @@
 <marker lat="25.880830273413" lng="-80.2652546220786" intname="Douglas-LeJeune Conn  @ E  6300 Blk " intnum="5979 "/>
 <marker lat="25.9116743685676" lng="-80.3211273859431" intname="Fairway Dr  and Miami Lakes Dr " intnum="5980 "/>
 <marker lat="25.9540466327831" lng="-80.2798468262811" intname="NW  47 Pl  and NW 199 St " intnum="5981 "/>
-<marker lat="25.9038406837726" lng="-80.3446046542058" intname="NW  89 Av  \/ NW 143 Ter  \/ NW 144 Ter " intnum="5982 "/>
+<marker lat="25.9038406837726" lng="-80.3446046542058" intname="NW  89 Av  - NW 143 Ter  - NW 144 Ter " intnum="5982 "/>
 <marker lat="25.58617604813" lng="-80.3871000642148" intname="Quail Roost Dr  @  SW 12100 Blk " intnum="5983 "/>
 <marker lat="25.7609174784518" lng="-80.4060381775799" intname="SW 129 Pl  and  SW   8 St " intnum="5984 "/>
 <marker lat="25.45791182144" lng="-80.4751842900499" intname="US-1   @  SW 33300 Blk " intnum="5985 "/>
@@ -3683,50 +3683,50 @@
 <marker lat="25.6005035030225" lng="-80.4137747166823" intname="SW 137 Av  and SW 180 St " intnum="6027 "/>
 <marker lat="25.7652059419969" lng="-80.3687277871115" intname="SW 107 Av  @ SW   350 Blk " intnum="5125 "/>
 <marker lat="25.9330068480922" lng="-80.1622996084659" intname="NE  19 Av  @ NE 17000 Blk " intnum="5126 "/>
-<marker lat="25.7278006558055" lng="-80.2841926474517" intname="Alhambra Cir  \/ Mercado Av  \/ Palancia Av " intnum="2572 "/>
-<marker lat="25.7918990478468" lng="-80.2102395961559" intname="Bob Hope Rd  \/ NW  17 St  \/ NW  18 St " intnum="2273 "/>
+<marker lat="25.7278006558055" lng="-80.2841926474517" intname="Alhambra Cir  - Mercado Av  - Palancia Av " intnum="2572 "/>
+<marker lat="25.7918990478468" lng="-80.2102395961559" intname="Bob Hope Rd  - NW  17 St  - NW  18 St " intnum="2273 "/>
 <marker lat="25.7697656066335" lng="-80.1340485250764" intname="Collins Av  and   1 St " intnum="2656 "/>
 <marker lat="25.7734421894498" lng="-80.1332326547435" intname="Collins Av  and   4 St " intnum="2657 "/>
-<marker lat="25.8131432685641" lng="-80.272960103894" intname="East Dr  \/ Labaron Dr  \/ Eastward Dr " intnum="3154 "/>
-<marker lat="25.5816269178295" lng="-80.3510729563953" intname="Gulfstream Rd  \/ Cutler Ridge Rd  \/ Marlin Rd " intnum="3212 "/>
-<marker lat="25.6872481701326" lng="-80.3589546791294" intname="Kendall Dr  \/  SW 102 Av  \/  SW 103 Av " intnum="3607 "/>
-<marker lat="25.6662607183414" lng="-80.3279526879894" intname="Killian Dr  \/  SW  82 Av  \/  SW  83 Av " intnum="3309 "/>
-<marker lat="25.7663909939538" lng="-80.3040305968575" intname="Ludlam Rd  \/ SW   4 St  \/ SW   5 St " intnum="2134 "/>
+<marker lat="25.8131432685641" lng="-80.272960103894" intname="East Dr  - Labaron Dr  - Eastward Dr " intnum="3154 "/>
+<marker lat="25.5816269178295" lng="-80.3510729563953" intname="Gulfstream Rd  - Cutler Ridge Rd  - Marlin Rd " intnum="3212 "/>
+<marker lat="25.6872481701326" lng="-80.3589546791294" intname="Kendall Dr  -  SW 102 Av  -  SW 103 Av " intnum="3607 "/>
+<marker lat="25.6662607183414" lng="-80.3279526879894" intname="Killian Dr  -  SW  82 Av  -  SW  83 Av " intnum="3309 "/>
+<marker lat="25.7663909939538" lng="-80.3040305968575" intname="Ludlam Rd  - SW   4 St  - SW   5 St " intnum="2134 "/>
 <marker lat="25.7870177547497" lng="-80.1940011002476" intname="N Miami Av and N  13 St " intnum="2365 "/>
 <marker lat="25.7894064722094" lng="-80.1946141704596" intname="N Miami Av and N  15 St " intnum="3095 "/>
 <marker lat="25.7750918536756" lng="-80.1947070054057" intname="Miami Ct  and NW   1 St " intnum="2300 "/>
-<marker lat="25.9424381208622" lng="-80.2066822211727" intname="Miami Gardens Dr  \/ NW   2 Ct  \/ NW   3 Av " intnum="3246 "/>
-<marker lat="25.4698050700057" lng="-80.4830852561425" intname="Mowry Dr  \/  W   3 Av  \/  W   4 Av " intnum="3571 "/>
+<marker lat="25.9424381208622" lng="-80.2066822211727" intname="Miami Gardens Dr  - NW   2 Ct  - NW   3 Av " intnum="3246 "/>
+<marker lat="25.4698050700057" lng="-80.4830852561425" intname="Mowry Dr  -  W   3 Av  -  W   4 Av " intnum="3571 "/>
 <marker lat="25.8076334485768" lng="-80.2876465193143" intname="Perimeter Rd  and NW  36 St " intnum="3582 "/>
-<marker lat="25.7394375866653" lng="-80.2586075797986" intname="Ponce De Leon Blvd  \/ Alesio Av  \/ Cadima Av " intnum="2580 "/>
+<marker lat="25.7394375866653" lng="-80.2586075797986" intname="Ponce De Leon Blvd  - Alesio Av  - Cadima Av " intnum="2580 "/>
 <marker lat="25.9221402570318" lng="-80.2930443229348" intname="Red Rd  and NW 164 St " intnum="3947 "/>
 <marker lat="25.8125679949643" lng="-80.2322155031365" intname="SR- 112 WB and NW  22 Av " intnum="3960 "/>
 <marker lat="25.9298038053428" lng="-80.1238342787257" intname="SR- 826  @   200 Blk " intnum="3513 "/>
-<marker lat="25.7047979853628" lng="-80.2768058819747" intname="Sunset Dr  \/  Corsica St  \/  Trionfo St " intnum="2951 "/>
-<marker lat="25.9525770729328" lng="-80.1467649811605" intname="US 1   \/ NE 191 St  \/ NE 192 St " intnum="3178 "/>
+<marker lat="25.7047979853628" lng="-80.2768058819747" intname="Sunset Dr  -  Corsica St  -  Trionfo St " intnum="2951 "/>
+<marker lat="25.9525770729328" lng="-80.1467649811605" intname="US 1   - NE 191 St  - NE 192 St " intnum="3178 "/>
 <marker lat="25.7699299448649" lng="-80.1351843291978" intname="Washington Av  and   1 St " intnum="2791 "/>
 <marker lat="25.7736131986424" lng="-80.1343679478345" intname="Washington Av  and   4 St " intnum="2793 "/>
 <marker lat="25.8236390703962" lng="-80.2793421781664" intname="E   1 Av  and E   2 St " intnum="2855 "/>
-<marker lat="25.880299122092" lng="-80.2750034724314" intname="E   4 Av  \/ E  63 St  \/ E  64 St " intnum="2830 "/>
-<marker lat="25.841946214782" lng="-80.2700533607533" intname="E   6 Av  \/ E  21 St  \/ E  22 St " intnum="3050 "/>
+<marker lat="25.880299122092" lng="-80.2750034724314" intname="E   4 Av  - E  63 St  - E  64 St " intnum="2830 "/>
+<marker lat="25.841946214782" lng="-80.2700533607533" intname="E   6 Av  - E  21 St  - E  22 St " intnum="3050 "/>
 <marker lat="25.8670354162609" lng="-80.1935952023804" intname="NE   2 Av  and NE 100 St " intnum="3962 "/>
-<marker lat="25.7752003131215" lng="-80.1911411912074" intname="NE   1 St  \/  NE   1 Av  \/  NE   2 Av " intnum="2281 "/>
-<marker lat="25.7946553182655" lng="-80.1931466511812" intname="NE  19 St  \/ Miami Ct  \/ NE   2 Av " intnum="3706 "/>
-<marker lat="25.8738657285891" lng="-80.1802597760835" intname="NE 107 St  \/ NE   8 Av  \/ NE   9 Av " intnum="2529 "/>
-<marker lat="25.8061204183221" lng="-80.2074008643094" intname="NW   7 Av  \/ NW  31 St  \/ NW  32 St " intnum="2272 "/>
+<marker lat="25.7752003131215" lng="-80.1911411912074" intname="NE   1 St  -  NE   1 Av  -  NE   2 Av " intnum="2281 "/>
+<marker lat="25.7946553182655" lng="-80.1931466511812" intname="NE  19 St  - Miami Ct  - NE   2 Av " intnum="3706 "/>
+<marker lat="25.8738657285891" lng="-80.1802597760835" intname="NE 107 St  - NE   8 Av  - NE   9 Av " intnum="2529 "/>
+<marker lat="25.8061204183221" lng="-80.2074008643094" intname="NW   7 Av  - NW  31 St  - NW  32 St " intnum="2272 "/>
 <marker lat="25.7840489019745" lng="-80.2112389474185" intname="NW  10 Av  and NW  11 St " intnum="2358 "/>
 <marker lat="25.7978725106748" lng="-80.2111995242206" intname="NW  10 Av  and NW  22 St " intnum="2408 "/>
-<marker lat="25.8499147371486" lng="-80.2255094339016" intname="NW  17 Av  \/ NW  82 St  \/ NW  83 St " intnum="3475 "/>
-<marker lat="25.9064210874849" lng="-80.235880174132" intname="NW  22 Av  \/ Rutland St  \/ Willmington St " intnum="3176 "/>
-<marker lat="25.8386458043325" lng="-80.2333228022092" intname="NW  22 Av  \/ NW  70 St  \/ NW  71 St " intnum="2444 "/>
-<marker lat="25.836398082239" lng="-80.2495850929995" intname="NW  32 Av  \/ NW  68 St  \/ NW  69 St " intnum="3355 "/>
-<marker lat="25.8498608656742" lng="-80.2500573907121" intname="NW  32 Av  \/ NW  83 St  \/ NW  83 Ter " intnum="2453 "/>
-<marker lat="25.7800435619355" lng="-80.218427578306" intname="NW   7 St  \/ NW  14 Av  \/ NW  14 Ct " intnum="3250 "/>
-<marker lat="25.7786971852323" lng="-80.267433058839" intname="NW   7 St  \/ NW  43 Ct  \/ NW  44 Av " intnum="2131 "/>
-<marker lat="25.8095722674491" lng="-80.2230645602395" intname="NW  36 St  \/ NW  15 Av  \/ NW  17 Av " intnum="3471 "/>
+<marker lat="25.8499147371486" lng="-80.2255094339016" intname="NW  17 Av  - NW  82 St  - NW  83 St " intnum="3475 "/>
+<marker lat="25.9064210874849" lng="-80.235880174132" intname="NW  22 Av  - Rutland St  - Willmington St " intnum="3176 "/>
+<marker lat="25.8386458043325" lng="-80.2333228022092" intname="NW  22 Av  - NW  70 St  - NW  71 St " intnum="2444 "/>
+<marker lat="25.836398082239" lng="-80.2495850929995" intname="NW  32 Av  - NW  68 St  - NW  69 St " intnum="3355 "/>
+<marker lat="25.8498608656742" lng="-80.2500573907121" intname="NW  32 Av  - NW  83 St  - NW  83 Ter " intnum="2453 "/>
+<marker lat="25.7800435619355" lng="-80.218427578306" intname="NW   7 St  - NW  14 Av  - NW  14 Ct " intnum="3250 "/>
+<marker lat="25.7786971852323" lng="-80.267433058839" intname="NW   7 St  - NW  43 Ct  - NW  44 Av " intnum="2131 "/>
+<marker lat="25.8095722674491" lng="-80.2230645602395" intname="NW  36 St  - NW  15 Av  - NW  17 Av " intnum="3471 "/>
 <marker lat="25.849310426716" lng="-80.2545179617896" intname="NW  79 St  @ NW  3500 Blk " intnum="3985 "/>
-<marker lat="25.8617416686436" lng="-80.2123358161852" intname="NW  95 St  \/ NW   8 Av  \/ NW   9 Av " intnum="2466 "/>
-<marker lat="25.8905705523426" lng="-80.2220276366619" intname="NW 119 St  \/ NW  13 Av  \/ NW  14 Av " intnum="2471 "/>
+<marker lat="25.8617416686436" lng="-80.2123358161852" intname="NW  95 St  - NW   8 Av  - NW   9 Av " intnum="2466 "/>
+<marker lat="25.8905705523426" lng="-80.2220276366619" intname="NW 119 St  - NW  13 Av  - NW  14 Av " intnum="2471 "/>
 <marker lat="25.7728860535546" lng="-80.2026921429225" intname="SW   5 Av  and SW   1 St " intnum="2218 "/>
 <marker lat="25.8770041023508" lng="-80.3331074581926" intname="W  24 Pl  and W  60 St " intnum="5957 "/>
 <marker lat="25.8669202005605" lng="-80.3249652164024" intname="NW  77 Ct  and NW 103 St " intnum="5956 "/>
@@ -3779,7 +3779,7 @@
 <marker lat="25.6973865530224" lng="-80.3983481935346" intname="SW 127 Av  @ SW  7500 Blk " intnum="5976 "/>
 <marker lat="25.693199948822" lng="-80.4011994823392" intname="SW 127 Av  @ SW  7900 Blk " intnum="5977 "/>
 <marker lat="25.8171683492927" lng="-80.2206192103888" intname="NW  46 St  @ NW  1400 Blk " intnum="3358 "/>
-<marker lat="25.7687127220276" lng="-80.3624702022867" intname="Flagler St W \/ SW 102 Av  \/ W 103 Av " intnum="4220 "/>
+<marker lat="25.7687127220276" lng="-80.3624702022867" intname="Flagler St W - SW 102 Av  - W 103 Av " intnum="4220 "/>
 <marker lat="25.9670369666705" lng="-80.1619087232809" intname="Highland Lakes Blvd  and NE 207 St " intnum="4546 "/>
 <marker lat="25.9130380811882" lng="-80.2101108912178" intname="I-  95 SB Off and NW 151 St " intnum="4744 "/>
 <marker lat="25.5808879638139" lng="-80.3809263119566" intname="Caribbean Blvd  and SW 117 Av W " intnum="5486 "/>
@@ -3791,7 +3791,7 @@
 <marker lat="25.7972282736052" lng="-80.3063710673432" intname="Ludlam Rd  and NW  25 St " intnum="4893 "/>
 <marker lat="25.9240370093221" lng="-80.3093558874076" intname="Ludlam Rd  @ NW 16600 Blk " intnum="4211 "/>
 <marker lat="25.8131414196853" lng="-80.1240050314564" intname="Indian Creek Dr  @  Art Godfrey Rd E " intnum="4203 "/>
-<marker lat="25.8446064253856" lng="-80.1216124637754" intname="Indian Creek Dr  \/  63 St  \/  64 St " intnum="6452 "/>
+<marker lat="25.8446064253856" lng="-80.1216124637754" intname="Indian Creek Dr  -  63 St  -  64 St " intnum="6452 "/>
 <marker lat="25.5216803781634" lng="-80.4250016437378" intname="SW 264 St  @  SW 14400 Blk " intnum="6453 "/>
 <marker lat="25.8105058429479" lng="-80.1931361230408" intname="NE   1 Av  and  NE  36 St " intnum="6454 "/>
 <marker lat="25.7971042225844" lng="-80.3771452367035" intname="NW 112 Av  @  NW  2500 Blk " intnum="6451 "/>
@@ -3841,7 +3841,7 @@
 <marker lat="25.7819503025941" lng="-80.1905366356676" intname="NE   2 Av  and  NE   8 St " intnum="6571 "/>
 <marker lat="25.79171830652" lng="-80.1923562145364" intname="NE   1 Av  and  NE  17 St " intnum="6572 "/>
 <marker lat="25.8542602945602" lng="-80.1213620924468" intname="Harding Av  and  69 St " intnum="6573 "/>
-<marker lat="25.7790507632254" lng="-80.191544194883" intname="NE   5 St  \/  NE   1 Av  \/  NE   2 Av " intnum="6574 "/>
+<marker lat="25.7790507632254" lng="-80.191544194883" intname="NE   5 St  -  NE   1 Av  -  NE   2 Av " intnum="6574 "/>
 <marker lat="25.672043010072" lng="-80.3656459731014" intname="Killian Pkwy  and  SR- 874 SWB " intnum="6575 "/>
 <marker lat="25.8541940708126" lng="-80.1237800654229" intname="Indian Creek Dr  and  69 St " intnum="6577 "/>
 <marker lat="25.8406534328237" lng="-80.3703629063122" intname="NW 107 Av  and  NW  74 St " intnum="6576 "/>
@@ -3852,7 +3852,7 @@
 <marker lat="25.6187658332613" lng="-80.4185964575488" intname="SW 139 Av  and  SW 160 St " intnum="6582 "/>
 <marker lat="25.8086656491303" lng="-80.311876968778" intname="NW  36 St Ext  @  NW  7100 Blk " intnum="6996 "/>
 <marker lat="25.7609105755519" lng="-80.440918295668" intname="SW 152 Av  and  SW   8 St " intnum="6583 "/>
-<marker lat="25.7781665321891" lng="-80.1920591234055" intname="NE   1 Av  \/  NE   3 St  \/  NE   5 St " intnum="6584 "/>
+<marker lat="25.7781665321891" lng="-80.1920591234055" intname="NE   1 Av  -  NE   3 St  -  NE   5 St " intnum="6584 "/>
 <marker lat="25.7240825987975" lng="-80.42351513754" intname="SW 142 Av  and  SW  47 St " intnum="6585 "/>
 <marker lat="25.6663152276672" lng="-80.3267280271812" intname="Killian Dr  and  SW  82 Av " intnum="6586 "/>
 <marker lat="25.7754719348968" lng="-80.4009495780742" intname="NW 127 Av  and  NW   7 Ter " intnum="6587 "/>
@@ -3898,7 +3898,7 @@
 <marker lat="25.5962318627864" lng="-80.4215144091625" intname="SW 142 Av  and  SW 184 St " intnum="6426 "/>
 <marker lat="25.6769880401891" lng="-80.4492236246902" intname="SW 157 Av  and  SW  96 St " intnum="6423 "/>
 <marker lat="25.6767903929517" lng="-80.4574146464425" intname="SW 162 Av  and  SW  96 St " intnum="6424 "/>
-<marker lat="25.765713023122" lng="-80.2196253372119" intname="SW   8 St  \/  SW  15 Av  \/  SW  16 Av " intnum="6427 "/>
+<marker lat="25.765713023122" lng="-80.2196253372119" intname="SW   8 St  -  SW  15 Av  -  SW  16 Av " intnum="6427 "/>
 <marker lat="25.9516306850363" lng="-80.2944861775493" intname="Red Rd  and  NW 195 Dr " intnum="6428 "/>
 <marker lat="25.7432098583662" lng="-80.4255467718281" intname="Coral Way  @  SW 14200 Blk " intnum="6429 "/>
 <marker lat="25.7433336689696" lng="-80.4219942668943" intname="Coral Way  @  SW 14000 Blk " intnum="6430 "/>
@@ -3915,10 +3915,10 @@
 <marker lat="25.7713808569586" lng="-80.2317362759577" intname="SW   1 St  @  SW  2200 Blk " intnum="6442 "/>
 <marker lat="25.7785490685625" lng="-80.2752626442664" intname="NW   7 St  @  NW  4800 Blk " intnum="6443 "/>
 <marker lat="25.7829446918422" lng="-80.1896026088384" intname="US-1   and  NE   9 St " intnum="6444 "/>
-<marker lat="25.9411318818949" lng="-80.2404854706289" intname="Miami Gardens Dr  \/  NW  23 Av  \/  NW  24 Av " intnum="6445 "/>
-<marker lat="25.7438223792128" lng="-80.2379861495544" intname="SW  27 Av  \/  SW  25 Ter  \/  SW  26 St " intnum="6446 "/>
+<marker lat="25.9411318818949" lng="-80.2404854706289" intname="Miami Gardens Dr  -  NW  23 Av  -  NW  24 Av " intnum="6445 "/>
+<marker lat="25.7438223792128" lng="-80.2379861495544" intname="SW  27 Av  -  SW  25 Ter  -  SW  26 St " intnum="6446 "/>
 <marker lat="25.4777380255595" lng="-80.411983013381" intname="SW 137 Av  and  SW 312 St " intnum="6447 "/>
-<marker lat="25.8335025580719" lng="-80.208555761295" intname="NW   7 Av  \/  NW  63 St  \/  NW  64 St " intnum="6448 "/>
+<marker lat="25.8335025580719" lng="-80.208555761295" intname="NW   7 Av  -  NW  63 St  -  NW  64 St " intnum="6448 "/>
 <marker lat="25.7142731920031" lng="-80.4190888955729" intname="Miller Dr  and  SW 140 Av " intnum="6449 "/>
 <marker lat="25.7615499557997" lng="-80.1954469323846" intname="Coral Way  @  SW   100 Blk " intnum="7342 "/>
 <marker lat="25.7529804600898" lng="-80.2061460870857" intname="SW  26 Rd  @  SW   100 Blk " intnum="7340 "/>
@@ -3941,9 +3941,9 @@
 <marker lat="25.6317487312201" lng="-80.4471249902734" intname="SW 157 Av  @  SW 14400 Blk " intnum="6685 "/>
 <marker lat="25.6350623910249" lng="-80.4472792271065" intname="SW 157 Av  @  SW 14100 Blk " intnum="6686 "/>
 <marker lat="25.632631241064" lng="-80.4494090848685" intname="SW 144 St  @  SW 15800 Blk " intnum="6687 "/>
-<marker lat="25.7717918397211" lng="-80.2576992450173" intname="Flagler St W \/  W  38 Av  \/  W  38 Ct " intnum="6688 "/>
-<marker lat="25.9008111673961" lng="-80.1869122986051" intname="NE   6 Av  \/  NE 136 St  \/  NE 137 St " intnum="6689 "/>
-<marker lat="25.4478184722728" lng="-80.4887375030524" intname="SW 344 St  \/  SW 183 Av  \/  SW 184 Av " intnum="6690 "/>
+<marker lat="25.7717918397211" lng="-80.2576992450173" intname="Flagler St W -  W  38 Av  -  W  38 Ct " intnum="6688 "/>
+<marker lat="25.9008111673961" lng="-80.1869122986051" intname="NE   6 Av  -  NE 136 St  -  NE 137 St " intnum="6689 "/>
+<marker lat="25.4478184722728" lng="-80.4887375030524" intname="SW 344 St  -  SW 183 Av  -  SW 184 Av " intnum="6690 "/>
 <marker lat="25.8770408518467" lng="-80.3212809197344" intname="W  19 Av  and  W  60 St " intnum="6693 "/>
 <marker lat="25.9205452844959" lng="-80.3333219164497" intname="NW  82 Av  and  NW 162 St " intnum="6695 "/>
 <marker lat="25.5366574386102" lng="-80.3964898624037" intname="SW 127 Av  and  SW 248 St " intnum="6694 "/>
@@ -3977,7 +3977,7 @@
 <marker lat="25.8625255408299" lng="-80.3205469332988" intname="W  44 Pl  @  W  1800 Blk " intnum="7112 "/>
 <marker lat="25.7283674936801" lng="-80.4381109206812" intname="Bird Rd  @  SW 15000 Blk " intnum="7109 "/>
 <marker lat="25.7284356767011" lng="-80.4354687171889" intname="Bird Rd  @  SW 14800 Blk " intnum="7110 "/>
-<marker lat="25.685375643115" lng="-80.3131648802057" intname="Dadeland Blvd  \/  S Dadeland Blvd  \/  US-1 " intnum="6820 "/>
+<marker lat="25.685375643115" lng="-80.3131648802057" intname="Dadeland Blvd  -  S Dadeland Blvd  -  US-1 " intnum="6820 "/>
 <marker lat="25.5512601207419" lng="-80.3802143087136" intname="SW 117 Av  @  SW 23200 Blk " intnum="7113 "/>
 <marker lat="25.551567658347" lng="-80.3806340508599" intname="SW 232 St  @  SW 11700 Blk " intnum="7114 "/>
 <marker lat="25.5529769269528" lng="-80.3807712628591" intname="Bailes Rd  @  SW 11700 Blk " intnum="7115 "/>
@@ -4051,7 +4051,7 @@
 <marker lat="25.438712374513" lng="-80.4932976858022" intname="SW 187 Av  @  SW 35400 Blk E " intnum="7041 "/>
 <marker lat="25.7900231639069" lng="-80.3529000877936" intname="NW  97 Av  and  NW  17 St " intnum="6865 "/>
 <marker lat="25.7831735632248" lng="-80.4336292125447" intname="NW 147 Path  and  NW  12 St " intnum="6866 "/>
-<marker lat="25.7943353037068" lng="-80.2110603728172" intname="Bob Hope Rd  \/  NW  19 St  \/  NW  20 St " intnum="6867 "/>
+<marker lat="25.7943353037068" lng="-80.2110603728172" intname="Bob Hope Rd  -  NW  19 St  -  NW  20 St " intnum="6867 "/>
 <marker lat="25.9155466711604" lng="-80.1494050388104" intname="NE 151 St  @  NE  2300 Blk " intnum="7042 "/>
 <marker lat="25.9156491783421" lng="-80.1471695495871" intname="NE 151 St  @  NE  2400 Blk " intnum="7043 "/>
 <marker lat="25.9131598516255" lng="-80.3093673435366" intname="Ludlam Rd  and  Main St " intnum="6868 "/>
@@ -4060,7 +4060,7 @@
 <marker lat="25.7707213077623" lng="-80.2916793622884" intname="Flagler St W and  W  59 Av " intnum="6871 "/>
 <marker lat="25.6347731307236" lng="-80.3758175249359" intname="Boggs Dr  @  SW 14400 Blk E " intnum="7044 "/>
 <marker lat="25.6387286793859" lng="-80.3748408707966" intname="Boggs Dr  @  SW 14000 Blk E " intnum="7045 "/>
-<marker lat="25.7750747880047" lng="-80.195053569255" intname="NW   1 St  \/  Miami Ct  \/  NW   1 Av " intnum="6872 "/>
+<marker lat="25.7750747880047" lng="-80.195053569255" intname="NW   1 St  -  Miami Ct  -  NW   1 Av " intnum="6872 "/>
 <marker lat="25.9322892959599" lng="-80.3418223133021" intname="NW  87 Av  @  NW 17400 Blk " intnum="7047 "/>
 <marker lat="25.9301292753331" lng="-80.3417322476963" intname="NW  87 Av  @  NW 17200 Blk " intnum="7048 "/>
 <marker lat="25.9321968528847" lng="-80.3458647117088" intname="NW  89 Av  @  NW 17400 Blk " intnum="7049 "/>
@@ -4136,12 +4136,12 @@
 <marker lat="25.7174097110656" lng="-80.271484975225" intname="Marius St  @ Aguero Blk " intnum="6256 "/>
 <marker lat="25.7164170759238" lng="-80.2730841669647" intname="Augusto St  @  Leonardo Blk " intnum="6257 "/>
 <marker lat="25.7151406223606" lng="-80.2699109171713" intname="Augusto St  @ Marmore Blk " intnum="6258 "/>
-<marker lat="25.7536830712998" lng="-80.2142159464134" intname="SW  12 Av  \/ SW  19 St  \/ SW  20 St " intnum="2156 "/>
-<marker lat="25.7549080908296" lng="-80.2303038876023" intname="SW  22 Av  \/ SW  18 St  \/ SW  19 St " intnum="2160 "/>
-<marker lat="25.7395045650745" lng="-80.2460069540278" intname="SW  32 Av  \/ SW  27 Ln  \/ SW  28 St " intnum="2163 "/>
-<marker lat="25.7375688423724" lng="-80.3918697475746" intname="SW 122 Av  \/ SW  33 St  \/ SW  34 St " intnum="3287 "/>
-<marker lat="25.5124911927553" lng="-80.3961626681979" intname="SW 127 Av  \/ Phoenix Dr  \/ SW 280 St " intnum="3988 "/>
-<marker lat="25.5921408499615" lng="-80.3868520783999" intname="SW 188 Ter  \/ SW 120 Av  \/ SW 122 Av " intnum="3066 "/>
+<marker lat="25.7536830712998" lng="-80.2142159464134" intname="SW  12 Av  - SW  19 St  - SW  20 St " intnum="2156 "/>
+<marker lat="25.7549080908296" lng="-80.2303038876023" intname="SW  22 Av  - SW  18 St  - SW  19 St " intnum="2160 "/>
+<marker lat="25.7395045650745" lng="-80.2460069540278" intname="SW  32 Av  - SW  27 Ln  - SW  28 St " intnum="2163 "/>
+<marker lat="25.7375688423724" lng="-80.3918697475746" intname="SW 122 Av  - SW  33 St  - SW  34 St " intnum="3287 "/>
+<marker lat="25.5124911927553" lng="-80.3961626681979" intname="SW 127 Av  - Phoenix Dr  - SW 280 St " intnum="3988 "/>
+<marker lat="25.5921408499615" lng="-80.3868520783999" intname="SW 188 Ter  - SW 120 Av  - SW 122 Av " intnum="3066 "/>
 <marker lat="25.5662563851389" lng="-80.382366179589" intname="S Dade Bswy  and SW 216 St " intnum="6039 "/>
 <marker lat="25.5720192968406" lng="-80.3766763213404" intname="S Dade Bswy  and SW 117 Av " intnum="6038 "/>
 <marker lat="25.5625129578164" lng="-80.3856701389809" intname="S Dade Bswy  and SW 220 St " intnum="6040 "/>
@@ -4299,7 +4299,7 @@
 <marker lat="25.4404669734879" lng="-80.4964111194556" intname="SW 352 St  @  SW 18800 Blk S " intnum="7072 "/>
 <marker lat="25.7428588949234" lng="-80.4362401476769" intname="Coral Way  and  SW 149 Av " intnum="6877 "/>
 <marker lat="25.5033726227779" lng="-80.4123821156946" intname="SW 137 Av  and  SW 284 St " intnum="6878 "/>
-<marker lat="25.8344919771871" lng="-80.1922804974399" intname="NE   2 Av  \/  NE  63 Ter  \/  NE  64 St " intnum="6879 "/>
+<marker lat="25.8344919771871" lng="-80.1922804974399" intname="NE   2 Av  -  NE  63 Ter  -  NE  64 St " intnum="6879 "/>
 <marker lat="25.7267222827341" lng="-80.2437514463869" intname="Commodore Plz  and  Main Hwy " intnum="6880 "/>
 <marker lat="25.7769590548262" lng="-80.1970866385867" intname="NW   3 St  @  NW   120 Blk " intnum="7074 "/>
 <marker lat="25.8432340081082" lng="-80.3021649486466" intname="W  10 Av  @  W  2300 Blk " intnum="7075 "/>
@@ -4344,9 +4344,9 @@
 <marker lat="25.7902187744788" lng="-80.1720641171641" intname="Venetian Cswy EB @  1198 Blk " intnum="7367 "/>
 <marker lat="25.6668789629357" lng="-80.3582882495566" intname="Killian Pkwy  @  SW 10100 Blk " intnum="7311 "/>
 <marker lat="25.6654843029553" lng="-80.3542929924596" intname="Killian Pkwy  @  SW  9800 Blk " intnum="7312 "/>
-<marker lat="25.7907636891019" lng="-80.1611576561562" intname="Venetian Cswy EB \/  Dilido Isle  \/  San Marino Isle " intnum="7368 "/>
-<marker lat="25.7909115870597" lng="-80.1610184176216" intname="Venetian Cswy WB \/  Dilido Isle  \/  San Marino Isle " intnum="7369 "/>
-<marker lat="25.7912775450463" lng="-80.1531417637687" intname="Venetian Cswy WB \/  Belle Isle  \/  Rivo Alto Isle " intnum="7370 "/>
+<marker lat="25.7907636891019" lng="-80.1611576561562" intname="Venetian Cswy EB -  Dilido Isle  -  San Marino Isle " intnum="7368 "/>
+<marker lat="25.7909115870597" lng="-80.1610184176216" intname="Venetian Cswy WB -  Dilido Isle  -  San Marino Isle " intnum="7369 "/>
+<marker lat="25.7912775450463" lng="-80.1531417637687" intname="Venetian Cswy WB -  Belle Isle  -  Rivo Alto Isle " intnum="7370 "/>
 <marker lat="25.7629508688002" lng="-80.3085600569496" intname="SW  70 Av  and  SW   8 St " intnum="6944 "/>
 <marker lat="25.7951800656258" lng="-80.2094307902422" intname="NW  20 St  @  NW   800 Blk " intnum="7354 "/>
 <marker lat="25.8217478036801" lng="-80.2811203865813" intname="Curtiss Pkwy  @  50 Blk " intnum="7371 "/>
@@ -4375,7 +4375,7 @@
 <marker lat="25.7725222561355" lng="-80.2329434312793" intname="Flagler St W @  W  23 Av " intnum="7387 "/>
 <marker lat="25.7726353347303" lng="-80.2292090517852" intname="Flagler St W @  W  21 Av " intnum="7388 "/>
 <marker lat="25.7733333887564" lng="-80.2197303543496" intname="Flagler St W @  W  15 Av " intnum="7389 "/>
-<marker lat="25.942825104329" lng="-80.1212324510631" intname="Collins Av  \/  178 St  \/  182 St " intnum="6952 "/>
+<marker lat="25.942825104329" lng="-80.1212324510631" intname="Collins Av  -  178 St  -  182 St " intnum="6952 "/>
 <marker lat="25.9631738256535" lng="-80.146661513989" intname="US-1 NB   @  NE 20200 Blk " intnum="7390 "/>
 <marker lat="25.9629943513018" lng="-80.1470010625978" intname="US-1   @  NE 20200 Blk " intnum="7391 "/>
 <marker lat="25.9642203269497" lng="-80.1470613531348" intname="US-1 SB   @  NE 20400 Blk " intnum="7395 "/>
@@ -4582,7 +4582,7 @@
 <marker lat="25.8797444991878" lng="-80.2196572985062" intname="NW 115 St  @  NW  1200 Blk " intnum="7131 "/>
 <marker lat="25.8531459802045" lng="-80.2508476776216" intname="NW  87 St  @  NW  3200 Blk " intnum="7127 "/>
 <marker lat="25.8530196719263" lng="-80.2546588141745" intname="NW  87 St  @  NW  3500 Blk " intnum="7126 "/>
-<marker lat="25.7630466003483" lng="-80.1915292782813" intname="US-1   \/  SE  10 St  \/  SE  12 St " intnum="6896 "/>
+<marker lat="25.7630466003483" lng="-80.1915292782813" intname="US-1   -  SE  10 St  -  SE  12 St " intnum="6896 "/>
 <marker lat="25.7448886450076" lng="-80.2820170149936" intname="Sevilla Av  @  1300 Blk " intnum="7132 "/>
 <marker lat="25.7449765336708" lng="-80.2798508791052" intname="Sevilla Av  @  1200 Blk " intnum="7133 "/>
 <marker lat="25.7200182887361" lng="-80.2727288060622" intname="Carillo St  @  5400 Blk " intnum="7046 "/>
@@ -4614,7 +4614,7 @@
 <marker lat="25.8624011646053" lng="-80.1255152632752" intname="Dickens Av  @  7700 Blk " intnum="7159 "/>
 <marker lat="25.8598313431575" lng="-80.1253945265712" intname="Dickens Av  @  7400 Blk " intnum="7160 "/>
 <marker lat="25.8634313291767" lng="-80.124701778447" intname="Carlyle Av  @  7800 Blk " intnum="7161 "/>
-<marker lat="25.835068745299" lng="-80.2250681867191" intname="NW  17 Av  \/  NW  66 St  \/  NW  67 St " intnum="6897 "/>
+<marker lat="25.835068745299" lng="-80.2250681867191" intname="NW  17 Av  -  NW  66 St  -  NW  67 St " intnum="6897 "/>
 <marker lat="25.7436221475708" lng="-80.3516937513018" intname="SW  97 Av  and  SW  28 St " intnum="6899 "/>
 <marker lat="25.7869993909597" lng="-80.1940632175397" intname="N Miami Av  and  N  13 St " intnum="6898 "/>
 <marker lat="25.7380001211767" lng="-80.3275496449262" intname="SW  82 Av  @  SW  3500 Blk " intnum="7162 "/>
@@ -4633,7 +4633,7 @@
 <marker lat="25.7705518098889" lng="-80.3013544041221" intname="Flagler St W @  W  6400 Blk " intnum="7173 "/>
 <marker lat="25.7705921845719" lng="-80.2992692305228" intname="Flagler St W @  W  6300 Blk " intnum="7174 "/>
 <marker lat="25.7711926396924" lng="-80.2777668840927" intname="Flagler St W @  W  51 Av " intnum="7175 "/>
-<marker lat="25.8182868777277" lng="-80.1300618675365" intname="Prairie Av  \/  Chase Av  \/  45 St " intnum="6903 "/>
+<marker lat="25.8182868777277" lng="-80.1300618675365" intname="Prairie Av  -  Chase Av  -  45 St " intnum="6903 "/>
 <marker lat="25.8505071978722" lng="-80.3188059638969" intname="South River Dr  and  NW  74 Av " intnum="6902 "/>
 <marker lat="25.5713347574734" lng="-80.3682608729339" intname="SW 211 St  @  SW 10950 Blk " intnum="6904 "/>
 <marker lat="25.8512652250494" lng="-80.280352044607" intname="E  32 St  @  E   100 Blk " intnum="6905 "/>
@@ -4643,10 +4643,10 @@
 <marker lat="25.7826881107977" lng="-80.1422027637493" intname="West Av  and  12 St " intnum="6906 "/>
 <marker lat="25.7874014574766" lng="-80.138699993267" intname="Michigan Av  and  15 St " intnum="6907 "/>
 <marker lat="25.8116646546862" lng="-80.3839528867345" intname="NW 115 Av  and  NW  41 St " intnum="6908 "/>
-<marker lat="25.7053772893251" lng="-80.2618495381822" intname="Sunset Dr  \/  Granada Blvd  \/  Cocoplum Cir " intnum="6910 "/>
+<marker lat="25.7053772893251" lng="-80.2618495381822" intname="Sunset Dr  -  Granada Blvd  -  Cocoplum Cir " intnum="6910 "/>
 <marker lat="25.8043513127473" lng="-80.3251758675925" intname="NW  79 Av  and  NW  33 St " intnum="6911 "/>
 <marker lat="25.7922004478631" lng="-80.1343009352646" intname="Pennsylvania Av  and  17 St " intnum="6912 "/>
-<marker lat="25.7922377925306" lng="-80.1331901793657" intname="17 St  \/  Pennsylvania Av  \/  Washington Av " intnum="6913 "/>
+<marker lat="25.7922377925306" lng="-80.1331901793657" intname="17 St  -  Pennsylvania Av  -  Washington Av " intnum="6913 "/>
 <marker lat="25.9363880209403" lng="-80.2692281361528" intname="LeJeune Rd  @  NW 179 St " intnum="7179 "/>
 <marker lat="25.7851698685977" lng="-80.1422214633875" intname="West Av  @  14 St " intnum="7180 "/>
 <marker lat="25.8415789058651" lng="-80.2741065974147" intname="E   4 Av  @  E  2100 Blk " intnum="7181 "/>

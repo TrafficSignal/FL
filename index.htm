@@ -10,15 +10,35 @@
 <!-- JQuery Related Scripts -->
 	<script src="jquery/jquery.js"></script>
 	<script src="jquery/jquery.sticky.js"></script>
-	<script>  $(window).load(function(){
-					$("#header").sticky({ topSpacing: 0 }); }); </script>
+<!-- <script>  $(window).load(function(){
+					$("#header").sticky({ topSpacing: 0 }); });
+	</script> -->
+	<script>  
+		$(document).ready(function()	{
+			$('#updateinfo').hide();
+			$('#disclaiminfo').hide();
+			$('#updatebtn').on('click', function(){
+				$('#updateinfo').toggle(1000);
+				$('#disclaiminfo').hide(1000);
+			});
+			$('#disclaimbtn').on('click', function(){
+				$('#disclaiminfo').toggle(1000);
+				$('#updateinfo').hide(1000);
+			});		
+			$('#hidebtn').on('click', function(){
+				$('#disclaiminfo').hide(1000);
+				$('#updateinfo').hide(1000);
+			});		
+		 });
+	</script>
 <!--CSS Style Sheets -->
 	<link href="css/HeaderStyle.css" rel="stylesheet" >
 </head>
 
 <body>
 <div id="topnav">
-	[ <A href="info.htm"> Contact Information  </a> | <A href="http://trint.us/Dev4/"> Client Login  </a> 
+	[ <A href="info.htm"> Contact Information  </a> | <A href="http://trint.us/Dev4/"> Client Login  </a>  ] <br>
+	<button id='updatebtn'>Update Info</button><button id='disclaimbtn'>Disclaimer Info</button><button id='hidebtn'>Hide Info</button>
 </div>
 
 <br><br><br><br><br>
@@ -35,20 +55,30 @@ Desktop Version
 	<br><br><br><br><br>
 	
 <div id="updateinfo">
-<span id="updateinfotitle"> Monthly Rolling Status Update</span>
-	<p>Next Scheduled Update, 02/14/15; last updated 02/07/15 </P>
-	<p>02/07/15 - Seminole County Traffic Signals, data obtained and now mapped in TRINT.  </P>
-	<p>02/07/15 - Lee County Traffic Signals, data obtained and now mapped in TRINT. </P>
-	<p>02/07/15 - Polk County Traffic Signals, data obtained and now mapped in TRINT. </P>
-	<p>02/07/15 - Data requested from City of Orlando, Escambia County, Lake County, Pasco County, Okaloosa County, Manatee County </p>
-	<p>02/07/15 - Retrying Data request from Pinellas County, City of Gainesville, City of Tallahassee </P>
-	<p>02/07/15 - City of Jacksonville refuses to share data, requesting again through Florida Statutes 119 - Public Records Request </P>
+<span id="infotitle"> Monthly Status Update</span>
+	<p>Next Scheduled Update, 02/14/2015; last updated 02/07/2015 </p>
+	<p>02/07/15 - Pasco County Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/07/15 - Seminole County Traffic Signals, data obtained and now mapped in TRINT.  </p>
+	<p>02/07/15 - Lee County Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/07/15 - Polk County Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/07/15 - Data requested from City of Orlando, Escambia County, Lake County, Okaloosa County, Manatee County </p>
+	<p>02/07/15 - Retrying Data request from Pinellas County, City of Gainesville, City of Tallahassee. Data not yet received </p>
+	<p>02/07/15 - City of Jacksonville declined to share data, requesting again through Florida Statutes 119 - Public Records Request </p>
 	<p>01/31/15 - Data requested from City of Gainesville, City of Tallahassee, Seminole County, Lee County, Polk County </p>
-	<p>01/31/15 - Volusia County Traffic Signals mapped in TRINT </p>
-	<p>01/24/15 - City of Tampa Traffic Signals mapped  in TRINT </p>
-	<p>01/24/15 - Hillsborough County Traffic Signals mapped  </p>	
+	<p>01/31/15 - Volusia County Traffic Signals data obtained and mapped in TRINT </p>
+	<p>01/24/15 - City of Tampa Traffic Signals data obtained and mapped  in TRINT </p>
+	<p>01/24/15 - Hillsborough County Traffic Signals mapped  and mapped  in TRINT</p>	
 	<p>01/24/15 - Brevard  County Data/list Obtained, manual geocoding required   </p>	
+</div>
+<div id="disclaiminfo">
+<span id="infotitle"> Disclaimer</span>
+<p>Data is as current as possible on posting date. Transportation Intelligence, LLC makes no representations or guarantees as to the completeness or accuracy of this data (and/or any provided attribute data thereof). </p>
+<p>Data is provided as is, without warranty of any kind, either expressed or implied, including without limitation any warranties that this data is fit for a particular purpose. 
+Transportation Intelligence, LLC  shall have no liability whatsoever relative to the use of provided data. Full responsibility and liability relating to the use of provided data rests with the user.
+Any data that is obtained from the this website may have  (naming, spatial or metadata) inaccuracies </p>
 
+<p>That being said. If you find any errors, please contact us at <a href='mailto:data@trint.us?Subject=Data%20Error'>data@trint.us </a> so we can correct inaccuracies as soon as possible.
+</p>
 </div>
 	<br><br><br><br><br>
 	
@@ -65,7 +95,8 @@ Desktop Version
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<!-- Analytics -->
+
+<!-- Analytics  -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -74,8 +105,8 @@ Desktop Version
 
   ga('create', 'UA-59057956-1', 'auto');
   ga('send', 'pageview');
-
 </script>
+
  
 </body>
 </html>

@@ -3106,7 +3106,7 @@ function loadD1Counties(){
 	document.getElementById('HardeeCheckBox').checked=!document.getElementById('HardeeCheckBox').checked;
 	document.getElementById('HendryCheckBox').checked=!document.getElementById('HendryCheckBox').checked;
 	document.getElementById('HighlandsCheckBox').checked=!document.getElementById('HighlandsCheckBox').checked;
-	document.getElementById('LeeCheckBox').checked=!document.getElementById('ManateeCheckBox').checked;
+	document.getElementById('LeeCheckBox').checked=!document.getElementById('LeeCheckBox').checked;
 	document.getElementById('ManateeCheckBox').checked=!document.getElementById('ManateeCheckBox').checked;
 	document.getElementById('OkeechobeeCheckBox').checked=!document.getElementById('OkeechobeeCheckBox').checked;
 	document.getElementById('PolkCheckBox').checked=!document.getElementById('PolkCheckBox').checked;

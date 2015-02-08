@@ -1,551 +1,551 @@
 <markers>
-<marker lat="27.9466277701255" lng="-82.4609730217468" intname="W KENNEDY BLVDandDRAWBRIDGE" intnum="1" />
-<marker lat="27.9515552545278" lng="-82.4616741127759" intname="ASHLEYandTYLER" intnum="2" />
-<marker lat="27.9507909240232" lng="-82.4613698441956" intname="ASHLEYandCASS" intnum="3" />
-<marker lat="27.9500880804709" lng="-82.4610310536407" intname="ASHLEYandPOLK" intnum="4" />
-<marker lat="27.9493227440412" lng="-82.4606763261035" intname="ASHLEYandZACK" intnum="5" />
-<marker lat="27.9485879998578" lng="-82.4603494800568" intname="ASHLEYandTWIGGS" intnum="6" />
-<marker lat="27.9478367723218" lng="-82.4600123425679" intname="ASHLEYandMADISON" intnum="7" />
-<marker lat="27.9471160721112" lng="-82.4596685488257" intname="KENNEDYandASHLEY" intnum="8" />
-<marker lat="27.9463940511878" lng="-82.4592063960861" intname="ASHLEYandJACKSON" intnum="9" />
-<marker lat="27.9449745839766" lng="-82.4583268923407" intname="ASHLEYandWHITING" intnum="10" />
-<marker lat="27.9518677421625" lng="-82.4607493264241" intname="TAMPAandTYLER" intnum="11" />
-<marker lat="27.9511246935244" lng="-82.460422772092" intname="TAMPAandCASS" intnum="12" />
-<marker lat="27.9503857855499" lng="-82.4600993413858" intname="TAMPAandPOLK" intnum="13" />
-<marker lat="27.9496377800304" lng="-82.4597703432821" intname="TAMPAandZACK" intnum="14" />
-<marker lat="27.9488997981143" lng="-82.4594392977835" intname="TAMPAandTWIGGS" intnum="15" />
-<marker lat="27.9481598162957" lng="-82.4591123548988" intname="TAMPAandMADISON" intnum="16" />
-<marker lat="27.9474157788507" lng="-82.4587833039907" intname="TAMPAandKENNEDY" intnum="17" />
-<marker lat="27.94663179784" lng="-82.4584423539635" intname="TAMPAandJACKSON" intnum="18" />
-<marker lat="27.9451677466943" lng="-82.4577783426628" intname="TAMPAandWHITING" intnum="19" />
-<marker lat="27.9563537569728" lng="-82.4609492763424" intname="TAMPAandSCOTT" intnum="20" />
-<marker lat="27.9521479695097" lng="-82.4599156021168" intname="FRANKLINandTYLER" intnum="21" />
-<marker lat="27.951423520509" lng="-82.4595862807984" intname="FRANKLINandCASS" intnum="22" />
-<marker lat="27.9506647902009" lng="-82.459279284763" intname="FRANKLINandPOLK" intnum="23" />
-<marker lat="27.9499227995138" lng="-82.458932295091" intname="FRANKLINandZACK" intnum="24" />
-<marker lat="27.9491827967679" lng="-82.4586113043701" intname="FRANKLINandTWIGGS" intnum="25" />
-<marker lat="27.9484437690392" lng="-82.4582953514451" intname="FRANKLINandMADISON" intnum="26" />
-<marker lat="27.947690751005" lng="-82.4579523524415" intname="FRANKLINandKENNEDY" intnum="27" />
-<marker lat="27.9469297832688" lng="-82.4576113368301" intname="FRANKLINandJACKSON" intnum="28" />
-<marker lat="27.9454428023158" lng="-82.4569473216315" intname="WHITINGandFRANKLIN" intnum="29" />
-<marker lat="27.9563537589703" lng="-82.4594913060186" intname="FLORIDAandSCOTT" intnum="30" />
-<marker lat="27.9524427653928" lng="-82.4590692766735" intname="FLORIDAandTYLER" intnum="31" />
-<marker lat="27.9517044044155" lng="-82.4587432548622" intname="FLORIDAandCASS" intnum="32" />
-<marker lat="27.9509618067788" lng="-82.4584152908463" intname="FLORIDAandPOLK" intnum="33" />
-<marker lat="27.950217778679" lng="-82.4580833020995" intname="FLORIDAandZACK" intnum="34" />
-<marker lat="27.9494768102093" lng="-82.4577533429943" intname="FLORIDAandTWIGGS" intnum="35" />
-<marker lat="27.9487327571254" lng="-82.4574283213831" intname="FLORIDAandMADISON" intnum="36" />
-<marker lat="27.94798608132" lng="-82.4571042139377" intname="FLORIDAandKENNEDY" intnum="37" />
-<marker lat="27.9472317698136" lng="-82.4567693508581" intname="FLORIDAandJACKSON" intnum="38" />
-<marker lat="27.95635680919" lng="-82.458793349728" intname="SCOTTandMARION" intnum="39" />
-<marker lat="27.9527367419365" lng="-82.4582232784924" intname="MARIONandTYLER" intnum="40" />
-<marker lat="27.9519876464476" lng="-82.4578951207181" intname="MARIONandCASS" intnum="41" />
-<marker lat="27.9512498234149" lng="-82.4575692772093" intname="MARIONandPOLK" intnum="42" />
-<marker lat="27.9505077609151" lng="-82.4572423319557" intname="MARIONandZACK" intnum="43" />
-<marker lat="27.9497690370135" lng="-82.4569154876079" intname="MARIONandTWIGGS" intnum="44" />
-<marker lat="27.9490181102739" lng="-82.4565942141027" intname="MARIONandMADISON" intnum="45" />
-<marker lat="27.9482739948237" lng="-82.4562596451189" intname="MARIONandKENNEDY" intnum="46" />
-<marker lat="27.9475263257548" lng="-82.4559351242524" intname="MARIONandJACKSON" intnum="47" />
-<marker lat="27.9570667866153" lng="-82.4609413239803" intname="TAMPAandKAY" intnum="48" />
-<marker lat="27.9530277147938" lng="-82.4573834662485" intname="MORGANandTYLER" intnum="49" />
-<marker lat="27.9522827616344" lng="-82.4570573419375" intname="MORGANandCASS" intnum="50" />
-<marker lat="27.9515437509544" lng="-82.4567352714934" intname="MORGANandPOLK" intnum="51" />
-<marker lat="27.9507989017965" lng="-82.4564044626775" intname="MORGANandZACK" intnum="52" />
-<marker lat="27.9500559354329" lng="-82.4560773542711" intname="MORGANandTWIGGS" intnum="53" />
-<marker lat="27.9493080998459" lng="-82.4557485542202" intname="MORGANandMADISON" intnum="54" />
-<marker lat="27.9485663991067" lng="-82.455419951165" intname="MORGANandKENNEDY" intnum="55" />
-<marker lat="27.9478229691025" lng="-82.4550957892913" intname="MORGANandJACKSON" intnum="56" />
-<marker lat="27.9531413158753" lng="-82.4560047305226" intname="ORANGE \/ PIERCEandCASS \/ JEFFERSON\/ TYLER" intnum="57" />
-<marker lat="27.9525833285226" lng="-82.4562073437753" intname="ORANGE \/ PIERCEandCASS \/ JEFFERSON\/ TYLER" intnum="58" />
-<marker lat="27.9529883830359" lng="-82.4555270263543" intname="ORANGE \/ PIERCEandCASS \/ JEFFERSON\/ TYLER" intnum="59" />
-<marker lat="27.9528360001205" lng="-82.4554558039258" intname="ORANGE \/ PIERCEandCASS \/ JEFFERSON\/ TYLER" intnum="60" />
-<marker lat="27.9518277822795" lng="-82.4558903214485" intname="PIERCEandPOLK" intnum="61" />
-<marker lat="27.9510878871186" lng="-82.4555619691456" intname="PIERCEandZACK" intnum="62" />
-<marker lat="27.9503437433162" lng="-82.4552352803489" intname="PIERCEandTWIGGS" intnum="63" />
-<marker lat="27.9495988813938" lng="-82.4549071683454" intname="PIERCEandMADISON" intnum="64" />
-<marker lat="27.9488584343019" lng="-82.4545811738229" intname="PIERCEandKENNEDY" intnum="65" />
-<marker lat="27.9481195154035" lng="-82.4542567002975" intname="PIERCEandJACKSON" intnum="66" />
-<marker lat="27.9564048722584" lng="-82.4558180060019" intname="JEFFERSON \/ ORANGEandSCOTT" intnum="67" />
-<marker lat="27.9563941115604" lng="-82.4565864302358" intname="JEFFERSON \/ ORANGEandSCOTT" intnum="68" />
-<marker lat="27.9541548282751" lng="-82.4559062992035" intname="ORANGEandHARRISON" intnum="69" />
-<marker lat="27.9513647506557" lng="-82.4547262951652" intname="JEFFERSONandZACK" intnum="70" />
-<marker lat="27.9506317875511" lng="-82.4544023398583" intname="JEFFERSONandTWIGGS" intnum="71" />
-<marker lat="27.9499291697402" lng="-82.4540992215463" intname="JEFFERSONandKENNEDY \/ TWIGGS (MID)" intnum="72" />
-<marker lat="27.949148823805" lng="-82.4537473309848" intname="JEFFERSONandKENNEDY" intnum="73" />
-<marker lat="27.9484137827598" lng="-82.4534232970932" intname="JEFFERSONandJACKSON" intnum="74" />
-<marker lat="27.951795686863" lng="-82.4510029336403" intname="NEBRASKAandTWIGGS" intnum="75" />
-<marker lat="27.9503001176952" lng="-82.450388902147" intname="NEBRASKAandKENNEDY" intnum="76" />
-<marker lat="27.9464035623519" lng="-82.4684912626931" intname="BOULEVARDandNORTH B" intnum="77" />
-<marker lat="27.9455756591973" lng="-82.4638553719557" intname="KENNEDYandHYDE PARK" intnum="78" />
-<marker lat="27.9450915503224" lng="-82.4651894143113" intname="KENNEDYandCRESCENT \/ HYDE PARK" intnum="79" />
-<marker lat="27.9446159365054" lng="-82.4666760355729" intname="KENNEDYandBREVARD" intnum="80" />
-<marker lat="27.9446377651952" lng="-82.4685398031889" intname="KENNEDYandBOULEVARD" intnum="81" />
-<marker lat="27.9446675517375" lng="-82.4726843719087" intname="KENNEDYandWILLOW" intnum="82" />
-<marker lat="27.9447608134963" lng="-82.4829993601032" intname="KENNEDYandHOWARD" intnum="83" />
-<marker lat="27.9447778135943" lng="-82.4850693077653" intname="KENNEDYandARMENIA" intnum="84" />
-<marker lat="27.9447966774212" lng="-82.49072294265" intname="KENNEDYandBUNGALOW \/ GOMEZ (MID)" intnum="85" />
-<marker lat="27.9448017812613" lng="-82.4932852845851" intname="KENNEDYandMACDILL" intnum="86" />
-<marker lat="27.9447677917984" lng="-82.4944576161922" intname="KENNEDYandHENDERSON" intnum="87" />
-<marker lat="27.9448197639376" lng="-82.5015723120674" intname="KENNEDYandHIMES" intnum="88" />
-<marker lat="27.9571898019013" lng="-82.484999283908" intname="ARMENIAandMAIN" intnum="89" />
-<marker lat="27.9571730033313" lng="-82.4829233989834" intname="HOWARDandMAIN" intnum="90" />
-<marker lat="27.9557387664795" lng="-82.4850083074023" intname="ARMENIA \/ HOWARDandGREEN \/ LAUREL (I-275)" intnum="91" />
-<marker lat="27.955715639101" lng="-82.4829615110134" intname="ARMENIA \/ HOWARDandGREEN \/ LAUREL (I-275)" intnum="92" />
-<marker lat="27.9564608213631" lng="-82.485000301426" intname="ARMENIA \/ HOWARDandGREEN \/ LAUREL (I-275)" intnum="93" />
-<marker lat="27.9564526068398" lng="-82.4829474377127" intname="ARMENIA \/ HOWARDandGREEN \/ LAUREL (I-275)" intnum="94" />
-<marker lat="27.9521107132526" lng="-82.4850732387103" intname="ARMENIAandCYPRESS" intnum="95" />
-<marker lat="27.9520956432363" lng="-82.4829934353361" intname="HOWARDandCYPRESS" intnum="96" />
-<marker lat="27.9412086695078" lng="-82.5016124593245" intname="AZEELEandHIMES" intnum="97" />
-<marker lat="27.941187805721" lng="-82.4985103428561" intname="HENDERSONandAZEELE" intnum="98" />
-<marker lat="27.9411537844352" lng="-82.4933473340439" intname="MACDILLandAZEELE" intnum="99" />
-<marker lat="27.9411433304879" lng="-82.4907417196726" intname="AZEELEandBUNGALOW \/ GOMEZ (MID)" intnum="100" />
-<marker lat="27.9433657908328" lng="-82.485071298596" intname="ARMENIAandCLEVELAND" intnum="101" />
-<marker lat="27.9433487792329" lng="-82.483004310453" intname="HOWARDandCLEVELAND" intnum="102" />
-<marker lat="27.9419304832252" lng="-82.4850729326316" intname="ARMENIAandPLATT" intnum="103" />
-<marker lat="27.9419128349199" lng="-82.4830073103015" intname="HOWARDandPLATT" intnum="104" />
-<marker lat="27.9374587655984" lng="-82.4933333143347" intname="MACDILLandSWANN" intnum="105" />
-<marker lat="27.9373787680433" lng="-82.4830323217881" intname="SWANNandHOWARD" intnum="106" />
-<marker lat="27.9338317676648" lng="-82.4933522925889" intname="MACDILLandMORRISON" intnum="107" />
-<marker lat="27.9337588326258" lng="-82.483070281825" intname="HOWARDandMORRISON" intnum="108" />
-<marker lat="27.9521277716445" lng="-82.5015432922706" intname="HIMESandCYPRESS" intnum="109" />
-<marker lat="27.952042879816" lng="-82.4932660499179" intname="MACDILLandCYPRESS" intnum="110" />
-<marker lat="27.9374187535807" lng="-82.4850853009998" intname="SWANNandARMENIA" intnum="111" />
-<marker lat="27.9595328218877" lng="-82.4594723237673" intname="FLORIDAandHENDERSON" intnum="112" />
-<marker lat="27.9622752520288" lng="-82.4594758056698" intname="FLORIDAandFRANKLIN \/ PALM" intnum="113" />
-<marker lat="27.9669027718374" lng="-82.4594622898166" intname="FLORIDAandCOLUMBUS" intnum="114" />
-<marker lat="27.9709347183556" lng="-82.459444994405" intname="FLORIDAandFLORIBRASKA" intnum="115" />
-<marker lat="27.977862513761" lng="-82.4594323414433" intname="FLORIDAandLAKE" intnum="116" />
-<marker lat="27.9815277684534" lng="-82.4594113159087" intname="M L KING JRandFLORIDA" intnum="117" />
-<marker lat="27.9888162116741" lng="-82.4594235924034" intname="FLORIDAandOSBORNE" intnum="118" />
-<marker lat="27.9709097847912" lng="-82.4608823471873" intname="TAMPAandFLORIBRASKA" intnum="119" />
-<marker lat="27.966905549276" lng="-82.4608987006951" intname="TAMPAandCOLUMBUS" intnum="120" />
-<marker lat="27.9622798219979" lng="-82.4609162709379" intname="TAMPAandPALM" intnum="121" />
-<marker lat="27.9814793572565" lng="-82.4511870739146" intname="NEBRASKAandM L KING JR" intnum="122" />
-<marker lat="27.9815493733582" lng="-82.4619610172484" intname="M L KING JRandHIGHLANDS" intnum="123" />
-<marker lat="27.981571782526" lng="-82.467668912344" intname="M L KING JRandBOULEVARD" intnum="124" />
-<marker lat="27.9815187523442" lng="-82.4552822779499" intname="M L KING JRandCENTRAL" intnum="125" />
-<marker lat="27.981484492896" lng="-82.4542336808834" intname="M L KING JRandI-275 (W)" intnum="126" />
-<marker lat="27.9851562700865" lng="-82.451160871639" intname="NEBRASKAandCHELSEA" intnum="127" />
-<marker lat="27.9887933078673" lng="-82.4511564729986" intname="NEBRASKAandOSBORNE" intnum="128" />
-<marker lat="27.9888134780322" lng="-82.4620715569955" intname="HIGHLANDandOSBORNE" intnum="129" />
-<marker lat="27.9814724748339" lng="-82.45328051394" intname="M L KING JRandI-275 (E)" intnum="130" />
-<marker lat="27.977864788926" lng="-82.4553003048383" intname="LAKEandCENTRAL" intnum="131" />
-<marker lat="27.9888087935988" lng="-82.4552763396262" intname="CENTRALandOSBORNE" intnum="132" />
-<marker lat="27.9558403410307" lng="-82.4455906805614" intname="ADAMOandCHANNELSIDE" intnum="133" />
-<marker lat="27.9557847633912" lng="-82.4380213053443" intname="ADAMOand19TH ST" intnum="134" />
-<marker lat="27.9557815125186" lng="-82.4355188911637" intname="ADAMOand21ST ST \/ 22ND ST" intnum="135" />
-<marker lat="27.9557917869796" lng="-82.4347243109306" intname="ADAMOand21ST ST \/ 22ND ST" intnum="136" />
-<marker lat="27.9545592939309" lng="-82.4224596634477" intname="ADAMOand34TH ST" intnum="137" />
-<marker lat="27.9553533402497" lng="-82.4155837916431" intname="ADAMOand39TH ST" intnum="138" />
-<marker lat="27.9521090878957" lng="-82.4016850037196" intname="ADAMOand50TH ST" intnum="139" />
-<marker lat="27.9503427547972" lng="-82.4017993432441" intname="50TH STandCROSSTOWN (N)" intnum="140" />
-<marker lat="27.949441731152" lng="-82.4018053127168" intname="50TH STandCROSSTOWN (S)" intnum="141" />
-<marker lat="27.9532747571031" lng="-82.4512803462753" intname="NEBRASKAandCASS" intnum="142" />
-<marker lat="27.956417618036" lng="-82.4512650799356" intname="NEBRASKAandSCOTT" intnum="143" />
-<marker lat="27.9595831132256" lng="-82.4512554420452" intname="NEBRASKAandHENDERSON" intnum="144" />
-<marker lat="27.9604681279546" lng="-82.4512589550199" intname="NEBRASKAand7TH AVE" intnum="145" />
-<marker lat="27.9622977994473" lng="-82.4512433425168" intname="NEBRASKAandPALM" intnum="146" />
-<marker lat="27.966883041152" lng="-82.4575558104794" intname="COLUMBUSandJEFFERSON \/ MORGAN (MID)" intnum="147" />
-<marker lat="27.9668418970145" lng="-82.4512386865286" intname="NEBRASKAandCOLUMBUS" intnum="148" />
-<marker lat="27.9707522860207" lng="-82.4512178129219" intname="NEBRASKAandFLORIBRASKA" intnum="149" />
-<marker lat="27.9778397451586" lng="-82.451177293308" intname="NEBRASKAandLAKE" intnum="150" />
-<marker lat="27.9961473452731" lng="-82.5237114740414" intname="HILLSBOROUGHandANDERSON \/ WESTSHORE" intnum="151" />
-<marker lat="27.996123907464" lng="-82.5194927678687" intname="HILLSBOROUGHandHESPERIDES" intnum="152" />
-<marker lat="27.996083347531" lng="-82.5134953034801" intname="HILLSBOROUGHandLOIS" intnum="153" />
-<marker lat="27.9960019989485" lng="-82.5064708633721" intname="HILLSBOROUGHandDALE MABRY (W)" intnum="154" />
-<marker lat="27.9959369280814" lng="-82.503964729819" intname="HILLSBOROUGHandDALE MABRY (E)" intnum="155" />
-<marker lat="27.9960073281779" lng="-82.5010248296147" intname="HILLSBOROUGHandHIMES" intnum="156" />
-<marker lat="27.9961210183701" lng="-82.4885415464235" intname="HILLSBOROUGHandHABANA" intnum="157" />
-<marker lat="27.9961096067627" lng="-82.4844199998705" intname="HILLSBOROUGHandARMENIA" intnum="158" />
-<marker lat="27.9960491001538" lng="-82.4792275887787" intname="HILLSBOROUGHandALBANY \/ MENDENHALL (MID)" intnum="159" />
-<marker lat="27.996016747018" lng="-82.4762001644389" intname="HILLSBOROUGHandROME" intnum="160" />
-<marker lat="27.9960532841166" lng="-82.4699875958494" intname="HILLSBOROUGHandLEE" intnum="161" />
-<marker lat="27.9894947399946" lng="-82.4763735098509" intname="ROMEandWISHART" intnum="162" />
-<marker lat="27.9868146038769" lng="-82.4764467562024" intname="ROMEandERNA \/ RIVERSHORE (MID)" intnum="163" />
-<marker lat="27.9997270011914" lng="-82.4843768845736" intname="ARMENIAandHENRY" intnum="164" />
-<marker lat="27.9939129812947" lng="-82.5135117678197" intname="LOISandCREST" intnum="165" />
-<marker lat="27.9914758194207" lng="-82.5135303226756" intname="LOISandSOUTH" intnum="166" />
-<marker lat="27.9889886732165" lng="-82.5135443639756" intname="LOISandOSBORNE" intnum="167" />
-<marker lat="27.9960808136009" lng="-82.4511512599489" intname="HILLSBOROUGHandNEBRASKA" intnum="168" />
-<marker lat="27.9960767416918" lng="-82.4429652557526" intname="HILLSBOROUGHand15TH ST" intnum="169" />
-<marker lat="27.9960824236428" lng="-82.4347656172178" intname="HILLSBOROUGHand22ND ST" intnum="170" />
-<marker lat="27.9960498939579" lng="-82.4264485017094" intname="HILLSBOROUGHand30TH ST" intnum="171" />
-<marker lat="27.9960840632921" lng="-82.4223957203095" intname="HILLSBOROUGHand34TH ST" intnum="172" />
-<marker lat="27.9961077303855" lng="-82.4141102630848" intname="HILLSBOROUGHand40TH ST" intnum="173" />
-<marker lat="27.9960840174112" lng="-82.4620909897785" intname="HILLSBOROUGHandHIGHLAND" intnum="174" />
-<marker lat="27.9960706367216" lng="-82.4594314586675" intname="HILLSBOROUGHandFLORIDA" intnum="175" />
-<marker lat="27.9960763825447" lng="-82.4553161851736" intname="HILLSBOROUGHandCENTRAL" intnum="176" />
-<marker lat="27.9960959087997" lng="-82.4541875853392" intname="HILLSBOROUGHandI-275 (W)" intnum="177" />
-<marker lat="28.0033587218887" lng="-82.4347371219832" intname="22ND STandHANNA" intnum="178" />
-<marker lat="28.0033837924244" lng="-82.4265313002323" intname="30TH STandHANNA" intnum="179" />
-<marker lat="28.0070567433872" lng="-82.4142203119232" intname="40TH STandRIVER GROVE \/ DIANA" intnum="180" />
-<marker lat="28.0033849550186" lng="-82.4594743910069" intname="FLORIDAandHANNA" intnum="181" />
-<marker lat="28.003359802118" lng="-82.4513189501809" intname="NEBRASKAandHANNA" intnum="182" />
-<marker lat="28.0107553221228" lng="-82.4843825162662" intname="SLIGHandARMENIA" intnum="183" />
-<marker lat="28.010764107831" lng="-82.4761329956038" intname="SLIGHandROME" intnum="184" />
-<marker lat="28.0107504247494" lng="-82.4678164403671" intname="SLIGHandBOULEVARD" intnum="185" />
-<marker lat="28.0107007973144" lng="-82.4595452724484" intname="SLIGHandFLORIDA" intnum="186" />
-<marker lat="28.0106891975821" lng="-82.4554102481989" intname="SLIGHandCENTRAL" intnum="187" />
-<marker lat="28.0107060050588" lng="-82.4544495642323" intname="SLIGHandI-275 (W)" intnum="188" />
-<marker lat="28.0107110730608" lng="-82.4534067203351" intname="SLIGHandI-275 (E)" intnum="189" />
-<marker lat="28.010688806223" lng="-82.4513146893842" intname="NEBRASKAandSLIGH" intnum="190" />
-<marker lat="28.0106530913979" lng="-82.442983108048" intname="SLIGHand15TH ST" intnum="191" />
-<marker lat="28.0105500774983" lng="-82.4347108054591" intname="SLIGHand22ND ST" intnum="192" />
-<marker lat="28.0161637513934" lng="-82.4595323113606" intname="FLORIDAandBROAD" intnum="193" />
-<marker lat="28.0161257758556" lng="-82.4513002822974" intname="NEBRASKAandBROAD" intnum="194" />
-<marker lat="28.0138466914207" lng="-82.4513062978086" intname="NEBRASKAandCRAWFORD \/ HAMILTON (MID)" intnum="195" />
-<marker lat="28.0046299016218" lng="-82.4843997344365" intname="ARMENIAandFERN \/ DIANA (MID)" intnum="196" />
-<marker lat="28.0161487512571" lng="-82.4554162713458" intname="BROADandCENTRAL" intnum="197" />
-<marker lat="28.0033842743751" lng="-82.4554202870096" intname="HANNAandCENTRAL" intnum="198" />
-<marker lat="28.0106608124208" lng="-82.4300932486158" intname="SLIGHandROWLETTE PARK" intnum="199" />
-<marker lat="28.0225305261916" lng="-82.4352512208607" intname="ROWLETTE PARKandMULBERRY" intnum="200" />
-<marker lat="28.0105504503148" lng="-82.4884882949573" intname="HABANAandSLIGH" intnum="201" />
-<marker lat="28.0334708607991" lng="-82.4841586235645" intname="BUSCHandARMENIA" intnum="202" />
-<marker lat="28.0332453682806" lng="-82.4678374362107" intname="BUSCHandBOULEVARD" intnum="203" />
-<marker lat="28.0329619022067" lng="-82.4594883902801" intname="BUSCHandFLORIDA" intnum="204" />
-<marker lat="28.0329358267716" lng="-82.4563722959851" intname="BUSCHandI-275 (W)" intnum="205" />
-<marker lat="28.0329108979727" lng="-82.4534339685603" intname="BUSCHandI-275 (E)" intnum="206" />
-<marker lat="28.0328678190563" lng="-82.4512772464356" intname="BUSCHandNEBRASKA" intnum="207" />
-<marker lat="28.0400511031874" lng="-82.4798527432891" intname="LINEBAUGHandARMENIA" intnum="208" />
-<marker lat="28.0349490361154" lng="-82.4594481741792" intname="FLORIDAandFLORILAND MALL" intnum="209" />
-<marker lat="28.0399517763223" lng="-82.4512392705845" intname="NEBRASKAandLINEBAUGH" intnum="210" />
-<marker lat="28.0436248025695" lng="-82.4512052670194" intname="NEBRASKAandBOUGAINVILLEA" intnum="211" />
-<marker lat="28.0472732026114" lng="-82.451194484269" intname="NEBRASKAand109TH AVE" intnum="212" />
-<marker lat="28.039983903689" lng="-82.459435586664" intname="FLORIDAandLINEBAUGH" intnum="213" />
-<marker lat="28.0436497451945" lng="-82.4594448708872" intname="FLORIDAandBOUGAINVILLEA" intnum="214" />
-<marker lat="28.0400037462691" lng="-82.4661898675597" intname="LINEBAUGHandBOULEVARD \/ OLA (MID)" intnum="215" />
-<marker lat="28.0400098239304" lng="-82.4677473150584" intname="BOULEVARDandLINEBAUGH" intnum="216" />
-<marker lat="28.0546397453455" lng="-82.4512052655056" intname="FOWLERandNEBRASKA" intnum="217" />
-<marker lat="28.0546668255349" lng="-82.4542972369532" intname="FOWLERandI-275 (E\/W)" intnum="218" />
-<marker lat="28.0546628255366" lng="-82.4553142467639" intname="FOWLERandI-275 (E\/W)" intnum="219" />
-<marker lat="28.0471933032286" lng="-82.4428280214237" intname="15TH STand109TH AVE" intnum="220" />
-<marker lat="28.0472033835738" lng="-82.4345575731002" intname="22ND STand109TH AVE" intnum="221" />
-<marker lat="28.0435707474614" lng="-82.4346055599402" intname="22ND STandBOUGAINVILLEA" intnum="222" />
-<marker lat="28.0546618154159" lng="-82.4593842778101" intname="FLORIDAandFOWLER" intnum="223" />
-<marker lat="28.054506741881" lng="-82.4345743501641" intname="FOWLERand22ND ST" intnum="224" />
-<marker lat="28.0545148007471" lng="-82.4428992990011" intname="FOWLERand15TH ST" intnum="225" />
-<marker lat="28.0544737779601" lng="-82.4261142950584" intname="FOWLERand30TH ST" intnum="226" />
-<marker lat="28.0544492720763" lng="-82.4162125952769" intname="FOWLERandMCKINLEY" intnum="227" />
-<marker lat="28.0544741871483" lng="-82.413222523261" intname="FOWLERandLEROY COLLINS" intnum="228" />
-<marker lat="28.054451316683" lng="-82.404841456986" intname="FOWLERandBULL RUN" intnum="229" />
-<marker lat="28.0545014332146" lng="-82.4276988048278" intname="FOWLERandUNIVERSITY COLLECTION" intnum="230" />
-<marker lat="28.057027688768" lng="-82.4260731811784" intname="BRUCE B DOWNSandPINE" intnum="231" />
-<marker lat="28.0544377298273" lng="-82.4017852868563" intname="FOWLERand50TH ST" intnum="232" />
-<marker lat="27.9457367642058" lng="-82.4561292843984" intname="FLORIDAandWHITING" intnum="233" />
-<marker lat="27.9463493766757" lng="-82.4544460245422" intname="MORGANandWHITING" intnum="234" />
-<marker lat="27.9468992413028" lng="-82.4527632378512" intname="JEFFERSONandWHITING" intnum="235" />
-<marker lat="27.9434915544895" lng="-82.457968336592" intname="ASHLEYandBROREIN" intnum="236" />
-<marker lat="27.9435803927412" lng="-82.4570906110236" intname="BROREINandTAMPA" intnum="237" />
-<marker lat="27.9437537701192" lng="-82.4562198615344" intname="BROREINandFRANKLIN" intnum="238" />
-<marker lat="27.9441689151592" lng="-82.4554632810506" intname="BROREINandFLORIDA" intnum="239" />
-<marker lat="27.9447687064254" lng="-82.4537519912113" intname="BROREINandMORGAN" intnum="240" />
-<marker lat="27.9450130426339" lng="-82.4519350133454" intname="BROREINandJEFFERSON" intnum="241" />
-<marker lat="27.9416246556602" lng="-82.4594584688586" intname="PLATTandBAYSHORE" intnum="242" />
-<marker lat="27.9425047051897" lng="-82.4556878925989" intname="CHANNELSIDEandFRANKLIN" intnum="243" />
-<marker lat="27.9427827817381" lng="-82.4548676287008" intname="CHANNELSIDEandFLORIDA" intnum="244" />
-<marker lat="27.9433729383803" lng="-82.4531745063731" intname="CHANNELSIDEandCROSSTOWN RAMP \/ MORGAN" intnum="245" />
-<marker lat="27.9435377819911" lng="-82.450384318345" intname="BROREIN \/ CHANNELSIDEandICE PALACE" intnum="246" />
-<marker lat="27.9435570471576" lng="-82.4488793234447" intname="CHANNELSIDEandBENEFICIAL \/ MERIDIAN" intnum="247" />
-<marker lat="27.9450609184741" lng="-82.4487494151866" intname="MERIDIANandCUMBERLAND" intnum="248" />
-<marker lat="27.9522847923037" lng="-82.4490362915382" intname="TWIGGSandMERIDIAN" intnum="249" />
-<marker lat="27.9505829346747" lng="-82.4488256387048" intname="KENNEDYandMERIDIAN" intnum="250" />
-<marker lat="27.9497477676298" lng="-82.4487299783148" intname="JACKSONandMERIDIAN" intnum="251" />
-<marker lat="27.952263585372" lng="-82.4455357596703" intname="CHANNELSIDEandTWIGGS" intnum="252" />
-<marker lat="27.9505647538553" lng="-82.4455872962388" intname="CHANNELSIDEandKENNEDY" intnum="253" />
-<marker lat="27.9486897994866" lng="-82.4456503478772" intname="CHANNELSIDEandYORK" intnum="254" />
-<marker lat="27.9902022458685" lng="-82.4140887836043" intname="40TH STandELLICOTT \/ LOUISIANA (MID)" intnum="255" />
-<marker lat="27.9888207871914" lng="-82.4141022885995" intname="40TH STandOSBORNE" intnum="256" />
-<marker lat="27.9851507381865" lng="-82.4140963165044" intname="40TH STandCHELSEA" intnum="257" />
-<marker lat="27.9814907940403" lng="-82.4140913070982" intname="40TH STandM L KING JR" intnum="258" />
-<marker lat="27.9777810799299" lng="-82.414068920784" intname="40TH STandLAKE" intnum="259" />
-<marker lat="27.9741308144447" lng="-82.414055317186" intname="40TH STand26TH AVE \/ MELBURNE" intnum="260" />
-<marker lat="27.9704585247157" lng="-82.4140716470431" intname="40TH STand21ST AVE" intnum="261" />
-<marker lat="27.9685268821161" lng="-82.4141426628558" intname="40TH STand19TH AVE" intnum="262" />
-<marker lat="27.9667623492973" lng="-82.4141370164403" intname="40TH STandCOLUMBUS" intnum="263" />
-<marker lat="27.9602009445713" lng="-82.4155601053568" intname="39TH STand7TH AVE" intnum="264" />
-<marker lat="27.9667685626569" lng="-82.4090424353924" intname="COLUMBUSandDACCO DWY" intnum="265" />
-<marker lat="27.9580956064794" lng="-82.4355225623194" intname="21ST STand4TH AVE" intnum="266" />
-<marker lat="27.9580896369147" lng="-82.4347556472129" intname="22ND STand4TH AVE" intnum="267" />
-<marker lat="27.9602550987691" lng="-82.4355246909567" intname="21ST STand7TH AVE" intnum="268" />
-<marker lat="27.9602509544247" lng="-82.4347516486067" intname="22ND STand7TH AVE" intnum="269" />
-<marker lat="27.9624457955053" lng="-82.4355343232112" intname="21ST STandPALM" intnum="270" />
-<marker lat="27.9624417699704" lng="-82.4347522954632" intname="22ND STandPALM" intnum="271" />
-<marker lat="27.9602823632088" lng="-82.446729183859" intname="NUCCIOand7TH AVE" intnum="272" />
-<marker lat="27.9624236764051" lng="-82.4467424429767" intname="NUCCIOandPALM" intnum="273" />
-<marker lat="27.9602983631522" lng="-82.4429797292115" intname="7TH AVEand15TH ST" intnum="274" />
-<marker lat="27.9602767762188" lng="-82.4404823357841" intname="7TH AVEand17TH ST" intnum="275" />
-<marker lat="27.9602727746474" lng="-82.4380032894138" intname="7TH AVEand19TH ST" intnum="276" />
-<marker lat="27.9645135633211" lng="-82.434745423605" intname="21ST\/ 22ND STand13TH AVE \/ 14TH AVE" intnum="277" />
-<marker lat="27.9656615997643" lng="-82.4355125245109" intname="21ST\/ 22ND STand13TH AVE \/ 14TH AVE" intnum="278" />
-<marker lat="27.9645242105829" lng="-82.4355169287789" intname="21ST\/ 22ND STand13TH AVE \/ 14TH AVE" intnum="279" />
-<marker lat="27.9656454398764" lng="-82.4347432526212" intname="21ST\/ 22ND STand13TH AVE \/ 14TH AVE" intnum="280" />
-<marker lat="27.9609715187023" lng="-82.4355291592509" intname="21ST STand8TH AVE" intnum="281" />
-<marker lat="27.9609737977483" lng="-82.4347512754043" intname="22ND STand8TH AVE" intnum="282" />
-<marker lat="27.9624402963295" lng="-82.4429408556297" intname="PALMand15TH ST" intnum="283" />
-<marker lat="27.961009108939" lng="-82.4429802832548" intname="15TH STand8TH AVE" intnum="284" />
-<marker lat="27.9610049226478" lng="-82.4454793480296" intname="8TH AVEand13TH ST" intnum="285" />
-<marker lat="27.9602925867496" lng="-82.4454685427993" intname="7TH AVEand13TH ST" intnum="286" />
-<marker lat="28.1435432637443" lng="-82.353217710887" intname="BRUCE B DOWNSandCROSS CREEK" intnum="287" />
-<marker lat="28.1380913403228" lng="-82.3580842910973" intname="BRUCE B DOWNSandHUNTERS GREEN" intnum="288" />
-<marker lat="28.1293822119207" lng="-82.366790788124" intname="BRUCE B DOWNSandHIGHWOODS PRESERVE" intnum="289" />
-<marker lat="28.1267844967606" lng="-82.3693435644143" intname="BRUCE B DOWNSandDONA MICHELLE" intnum="290" />
-<marker lat="28.1232771242616" lng="-82.3729451821188" intname="BRUCE B DOWNSandI-75  (N)" intnum="291" />
-<marker lat="28.1208062820306" lng="-82.3754310255223" intname="BRUCE B DOWNSandI-75  (S)" intnum="292" />
-<marker lat="28.1161013772232" lng="-82.3802060835252" intname="BRUCE B DOWNSandCOMMERCE PALMS" intnum="293" />
-<marker lat="28.117651989455" lng="-82.3829328890825" intname="TAMPA PALMS BLVDandCOMMERCE PALMS" intnum="294" />
-<marker lat="28.1127506920507" lng="-82.3835407510263" intname="BRUCE B DOWNSandPALM SPRINGS \/ TAMPA PALMS" intnum="295" />
-<marker lat="28.1095568020911" lng="-82.3866768993731" intname="BRUCE B DOWNSandCYPRESS PRESERVE" intnum="296" />
-<marker lat="28.1062637092372" lng="-82.3898886431619" intname="BRUCE B DOWNSandMETHODIST PLACE" intnum="297" />
-<marker lat="28.0975837939926" lng="-82.3985914644011" intname="BRUCE B DOWNSandTAMPA PALMS" intnum="298" />
-<marker lat="28.0905126863424" lng="-82.4057156253201" intname="BRUCE B DOWNSandAMBERLY" intnum="299" />
-<marker lat="28.14410272117" lng="-82.2818699879912" intname="MORRIS BRIDGEandCROSS CREEK" intnum="300" />
-<marker lat="28.1421110034224" lng="-82.3213361491055" intname="CROSS CREEKandARBOR GREENE DR" intnum="301" />
-<marker lat="28.142107598758" lng="-82.3259497219382" intname="CROSS CREEKandKINNAN" intnum="302" />
-<marker lat="28.1421033655778" lng="-82.3313651676679" intname="CROSS CREEKandHIGHLAND OAK DR" intnum="303" />
-<marker lat="28.142535893554" lng="-82.3471348571435" intname="CROSS CREEKandGREEN PINE(FIREHOUSE)" intnum="304" />
-<marker lat="27.941364662985" lng="-82.5242784997763" intname="WESTSHOREandAZEELE" intnum="305" />
-<marker lat="27.9441971089008" lng="-82.5242708020045" intname="WESTSHOREandURBAN CENTER" intnum="306" />
-<marker lat="27.9448446312908" lng="-82.5242824787565" intname="KENNEDYandWESTSHORE" intnum="307" />
-<marker lat="27.9467358446326" lng="-82.5242222900706" intname="WESTSHOREandNORTH B" intnum="308" />
-<marker lat="27.9485827713025" lng="-82.5242022894326" intname="WESTSHOREandGRAY" intnum="309" />
-<marker lat="27.9498066333577" lng="-82.5241708981203" intname="WESTSHOREandI-275" intnum="310" />
-<marker lat="27.95071460568" lng="-82.5241639659389" intname="WESTSHOREandI-275" intnum="311" />
-<marker lat="27.9522897960495" lng="-82.5241633574354" intname="WESTSHOREandCYPRESS" intnum="312" />
-<marker lat="27.9448445109634" lng="-82.5263009623023" intname="KENNEDYandOCCIDENT" intnum="313" />
-<marker lat="27.9448618717649" lng="-82.5273302802206" intname="KENNEDYandGARDENIA" intnum="314" />
-<marker lat="27.9454604327119" lng="-82.5298215835824" intname="MEMORIALandKENNEDY" intnum="315" />
-<marker lat="27.9448839267124" lng="-82.5345299913729" intname="KENNEDYandHOOVER" intnum="316" />
-<marker lat="27.9559522097761" lng="-82.5242254754183" intname="WESTSHOREandLAUREL" intnum="317" />
-<marker lat="27.9597260798627" lng="-82.5241228218701" intname="BOY SCOUTandWESTSHORE" intnum="318" />
-<marker lat="27.9522890984058" lng="-82.5221144694276" intname="CYPRESSandTRASK" intnum="319" />
-<marker lat="27.9448431201924" lng="-82.5140081513622" intname="KENNEDYandLOIS" intnum="320" />
-<marker lat="27.9412798422597" lng="-82.5140533088756" intname="LOISandAZEELE \/ WOODMERE" intnum="321" />
-<marker lat="27.937645818625" lng="-82.5140700524588" intname="LOISandSWANN" intnum="322" />
-<marker lat="27.9339695038821" lng="-82.5140762887827" intname="LOISandMORRISON" intnum="323" />
-<marker lat="27.9599076079264" lng="-82.5318082649208" intname="SPRUCEandO'BRIEN" intnum="324" />
-<marker lat="28.0435795746389" lng="-82.4262006396953" intname="30TH STandBOUGAINVILLEA" intnum="325" />
-<marker lat="28.0435833476368" lng="-82.4162292367184" intname="MCKINLEYandBOUGAINVILLEA" intnum="326" />
-<marker lat="28.0436047838294" lng="-82.4099113088081" intname="46TH STandBOUGAINVILLEA" intnum="327" />
-<marker lat="28.0362595265605" lng="-82.4262053470141" intname="30TH STandANNIE" intnum="328" />
-<marker lat="28.032564026365" lng="-82.4346498340599" intname="BUSCHand22ND ST" intnum="329" />
-<marker lat="28.0325827546187" lng="-82.4305074619719" intname="BUSCHand26TH ST" intnum="330" />
-<marker lat="28.0325823845709" lng="-82.4263425300136" intname="BUSCHand30TH ST" intnum="331" />
-<marker lat="28.0326257931499" lng="-82.4163373117423" intname="BUSCHand40TH ST \/ MCKINLEY" intnum="332" />
-<marker lat="28.0326417913725" lng="-82.4099362824566" intname="BUSCHand46TH ST" intnum="333" />
-<marker lat="28.0326557922074" lng="-82.4016822905463" intname="BUSCHand50TH ST" intnum="334" />
-<marker lat="28.0289217536954" lng="-82.4263642590323" intname="30TH STandYUKON" intnum="335" />
-<marker lat="28.0374946435263" lng="-82.4162537878715" intname="MCKINLEYandBUSCH GARDENS ENTRANCE" intnum="336" />
-<marker lat="28.0350379250961" lng="-82.4162959257911" intname="MCKINLEYandBUSCH GARDENS PARKING EXIT" intnum="337" />
-<marker lat="27.8934394904068" lng="-82.5268337023002" intname="GANDYandWESTSHORE" intnum="338" />
-<marker lat="27.8935637832085" lng="-82.5184273724447" intname="GANDYandMANHATTAN" intnum="339" />
-<marker lat="27.8937548431282" lng="-82.5154453337972" intname="GANDYandLOIS" intnum="340" />
-<marker lat="27.8937067716192" lng="-82.506353325514" intname="GANDYandDALE MABRY" intnum="341" />
-<marker lat="27.8936954222081" lng="-82.5021034639282" intname="GANDYandHIMES" intnum="342" />
-<marker lat="27.8936944058141" lng="-82.4938658220569" intname="GANDYandMACDILL" intnum="343" />
-<marker lat="27.893598882513" lng="-82.4872309923117" intname="GANDYandBAYSHORE" intnum="344" />
-<marker lat="27.8900440583365" lng="-82.5064090859588" intname="DALE MABRYandBALLAST POINT BLVD" intnum="345" />
-<marker lat="27.8915917274611" lng="-82.4857712728105" intname="BAYSHOREandINTERBAY" intnum="346" />
-<marker lat="27.9412388081872" lng="-82.5057343492042" intname="DALE MABRYandAZEELE" intnum="347" />
-<marker lat="27.9375882191382" lng="-82.5057641183588" intname="DALE MABRYandSWANN" intnum="348" />
-<marker lat="27.9338868177412" lng="-82.5058423452005" intname="DALE MABRYandHENDERSON" intnum="349" />
-<marker lat="27.9302277558819" lng="-82.5058433266295" intname="DALE MABRYandNEPTUNE" intnum="350" />
-<marker lat="27.9238557383691" lng="-82.5059239491356" intname="DALE MABRYandSAN CARLOS" intnum="351" />
-<marker lat="27.9197737787237" lng="-82.505964362383" intname="DALE MABRYandBAY TO BAY" intnum="352" />
-<marker lat="27.9115317607645" lng="-82.506100296192" intname="DALE MABRYandEL PRADO" intnum="353" />
-<marker lat="27.9086796767341" lng="-82.5061424087578" intname="DALE MABRYandEUCLID" intnum="354" />
-<marker lat="27.9064957635117" lng="-82.5061783285606" intname="DALE MABRYandBAY VISTA" intnum="355" />
-<marker lat="27.9375368616876" lng="-82.5016444486103" intname="HENDERSONandHIMES \/ SWANN" intnum="356" />
-<marker lat="27.9339047994583" lng="-82.5078963334668" intname="CHURCHandMORRISON" intnum="357" />
-<marker lat="27.9321028372733" lng="-82.5079102859551" intname="HENDERSONandCHURCH \/ WATROUS" intnum="358" />
-<marker lat="27.9302338151788" lng="-82.5079243445825" intname="CHURCHandNEPTUNE" intnum="359" />
-<marker lat="27.9198067972216" lng="-82.5080525965018" intname="BAY TO BAYandCHURCH" intnum="360" />
-<marker lat="27.9197647185458" lng="-82.5018781620184" intname="BAY TO BAYandHIMES" intnum="361" />
-<marker lat="27.9448346005131" lng="-82.5057074272525" intname="DALE MABRYandKENNEDY" intnum="362" />
-<marker lat="27.9485674957643" lng="-82.5056780416745" intname="DALE MABRYandGRAY" intnum="363" />
-<marker lat="27.9521748166916" lng="-82.5056323123287" intname="DALE MABRYandCYPRESS" intnum="364" />
-<marker lat="27.9536425833583" lng="-82.5056136665011" intname="DALE MABRYandI-275 (S)" intnum="365" />
-<marker lat="27.9558357737542" lng="-82.5056033463349" intname="DALE MABRYandI-275 (N)" intnum="366" />
-<marker lat="27.9572555097555" lng="-82.5055889197594" intname="DALE MABRYandHOME DEPOT- WALMART" intnum="367" />
-<marker lat="27.9594655638123" lng="-82.5055575524755" intname="DALE MABRYandSPRUCE" intnum="368" />
-<marker lat="27.9640748359451" lng="-82.5054962852002" intname="DALE MABRYandGOLD TRIANGLE" intnum="369" />
-<marker lat="27.9667738336446" lng="-82.5054773392358" intname="DALE MABRYandCOLUMBUS" intnum="370" />
-<marker lat="27.9740398191792" lng="-82.505456286903" intname="DALE MABRYandTAMPA BAY" intnum="371" />
-<marker lat="27.9815646284884" lng="-82.5054148140863" intname="DALE MABRYandM L KING JR" intnum="372" />
-<marker lat="27.9740836605555" lng="-82.5090117858143" intname="H C CandTAMPA BAY" intnum="373" />
-<marker lat="27.9816097457236" lng="-82.5136525335754" intname="M L KING JRandLOIS" intnum="374" />
-<marker lat="27.966373441218" lng="-82.5121002202847" intname="BOY SCOUTandCOLUMBUS" intnum="375" />
-<marker lat="27.9636846780361" lng="-82.515397595872" intname="BOY SCOUTandLOIS" intnum="376" />
-<marker lat="27.9686821054226" lng="-82.5385780170796" intname="AIRPORT SERV RDandPOST OFFICE (N)" intnum="377" />
-<marker lat="27.9666499671782" lng="-82.5386258584095" intname="AIRPORT SERV RDandPOST OFFICE (S)" intnum="378" />
-<marker lat="27.9665965372134" lng="-82.5359214194243" intname="AIRPORT SERV RDandPOST OFFICE (E)" intnum="379" />
-<marker lat="27.9687991025303" lng="-82.5396990231155" intname="AIRPORT SERVICE RDandPOST OFFICE (W)" intnum="380" />
-<marker lat="27.9686544526254" lng="-82.5377332029377" intname="AIRPORT SERVICE RDandPOST OFFICE PEDESTRIAN" intnum="381" />
-<marker lat="27.956071056148" lng="-82.5323190124206" intname="O'BRIENandLAUREL" intnum="382" />
-<marker lat="27.9523964965886" lng="-82.5323652843889" intname="CYPRESSandO'BRIEN" intnum="383" />
-<marker lat="27.9524108669195" lng="-82.5340841316958" intname="CYPRESSandFRONTAGE (E)" intnum="384" />
-<marker lat="27.9524282652975" lng="-82.5352743008689" intname="CYPRESSandFRONTAGE (W)" intnum="385" />
-<marker lat="27.9813585269287" lng="-82.5013849919856" intname="M L KING JRandHIMES" intnum="386" />
-<marker lat="27.9813497368213" lng="-82.4985640186342" intname="M L KING JRandSEARS" intnum="387" />
-<marker lat="27.9813274061604" lng="-82.4953269236099" intname="M L KING JRandBURDINES" intnum="388" />
-<marker lat="27.9813646905119" lng="-82.4930127756923" intname="M L KING JRandMACDILL" intnum="389" />
-<marker lat="27.9813277678554" lng="-82.4888173028705" intname="M L KING JRandHABANA" intnum="390" />
-<marker lat="27.9831597207921" lng="-82.5013308549404" intname="HIMESandTAMPA BAY PARKWAY" intnum="391" />
-<marker lat="27.9788635169665" lng="-82.5014256897689" intname="HIMESandSEARS" intnum="392" />
-<marker lat="27.9740528320926" lng="-82.501456348522" intname="HIMESandTAMPA BAY" intnum="393" />
-<marker lat="27.9667668353131" lng="-82.5015193271983" intname="HIMESandCOLUMBUS" intnum="394" />
-<marker lat="27.9740118158078" lng="-82.484824310678" intname="ARMENIAandCIMINO \/ TAMPA BAY" intnum="395" />
-<marker lat="27.9813125522978" lng="-82.4847005785092" intname="M L KING JRandARMENIA" intnum="396" />
-<marker lat="27.974019809053" lng="-82.4889413117077" intname="TAMPA BAYandHABANA" intnum="397" />
-<marker lat="27.9740257811556" lng="-82.4930842943502" intname="TAMPA BAYandMACDILL" intnum="398" />
-<marker lat="27.9740273139599" lng="-82.4941161617755" intname="TAMPA BAYandMACDILL \/ MATANAZAS (MID)" intnum="399" />
-<marker lat="27.9830349625409" lng="-82.4846176376426" intname="ARMENIAandALVA \/ WISHART" intnum="400" />
-<marker lat="27.9887935884522" lng="-82.4845820892649" intname="ARMENIAandOSBORNE" intnum="401" />
-<marker lat="27.9667281262405" lng="-82.4973141833682" intname="COLUMBUSandLINCOLN" intnum="402" />
-<marker lat="27.9667359537457" lng="-82.4931833650307" intname="COLUMBUSandMACDILL" intnum="403" />
-<marker lat="27.966731449343" lng="-82.4890337927224" intname="COLUMBUSandHABANA" intnum="404" />
-<marker lat="27.9667077582649" lng="-82.4848893323355" intname="COLUMBUSandARMENIA" intnum="405" />
-<marker lat="27.9666937763144" lng="-82.4828082477165" intname="COLUMBUSandHOWARD" intnum="406" />
-<marker lat="27.9604711933261" lng="-82.4849588721731" intname="ARMENIAandPINE \/ WALNUT (MID)" intnum="407" />
-<marker lat="27.9580640094888" lng="-82.4932239207406" intname="MACDILLandMAIN \/ CHESTNUT (MID)" intnum="408" />
-<marker lat="27.9594624120862" lng="-82.4932186240786" intname="MACDILLandSPRUCE" intnum="409" />
-<marker lat="27.9594340028343" lng="-82.5014301016442" intname="HIMESandSPRUCE" intnum="410" />
-<marker lat="27.9557665832462" lng="-82.5014741828572" intname="HIMESandI-275 (N\/S)" intnum="411" />
-<marker lat="27.9565457791714" lng="-82.5014632811184" intname="HIMESandI-275 (N\/S)" intnum="412" />
-<marker lat="27.9632598293178" lng="-82.4677002775158" intname="BOULEVARDandROSS" intnum="413" />
-<marker lat="27.9669307653251" lng="-82.4676823178127" intname="COLUMBUSandBOULEVARD" intnum="414" />
-<marker lat="27.9705937505695" lng="-82.467666337038" intname="BOULEVARDandWEST" intnum="415" />
-<marker lat="27.9669236843368" lng="-82.4731067797707" intname="COLUMBUSandRIDGEWOOD" intnum="416" />
-<marker lat="27.9669212974801" lng="-82.4641613280406" intname="COLUMBUSandNEVADA \/ OLA (MID)" intnum="417" />
-<marker lat="28.1682628317631" lng="-82.3536658320057" intname="BRUCE B. DOWNSandIMPERIAL OAK BLVD" intnum="418" />
-<marker lat="28.1610738049521" lng="-82.3535086539388" intname="BRUCE B DOWNSandWHARTON HIGH" intnum="419" />
-<marker lat="28.1541328902334" lng="-82.3533794437725" intname="BRUCE B DOWNSandREGENTS PARK" intnum="420" />
-<marker lat="28.1513764886791" lng="-82.3532845643194" intname="BRUCE B DOWNSandPEBBLE CREEK" intnum="421" />
-<marker lat="27.9432091923929" lng="-82.4726966310861" intname="CLEVELANDandWILLOW" intnum="422" />
-<marker lat="27.943177766955" lng="-82.4685563016256" intname="CLEVELANDandBOULEVARD" intnum="423" />
-<marker lat="27.9431520761917" lng="-82.4639093076749" intname="BROREIN \/ CLEVELANDandHYDE PARK" intnum="424" />
-<marker lat="27.9433528123895" lng="-82.4627793513005" intname="BROREINandPLANT" intnum="425" />
-<marker lat="27.9417910951676" lng="-82.4727058798836" intname="PLATTandWILLOW" intnum="426" />
-<marker lat="27.9417418474394" lng="-82.4685778494215" intname="PLATTandBOULEVARD" intnum="427" />
-<marker lat="27.9416867238546" lng="-82.4639343121419" intname="PLATTandHYDE PARK" intnum="428" />
-<marker lat="27.9416704945485" lng="-82.4628031099698" intname="PLATTandPLANT" intnum="429" />
-<marker lat="27.9393007038807" lng="-82.4686198691247" intname="BOULEVARDandDELEON \/ HORATIO (MID)" intnum="430" />
-<marker lat="27.9373285068622" lng="-82.4758231554802" intname="SWANNandDAKOTA" intnum="431" />
-<marker lat="27.9373111665269" lng="-82.4701509704203" intname="SWANNandDELAWARE \/ EDISON (MID)" intnum="432" />
-<marker lat="27.9372792612728" lng="-82.4686551503363" intname="SWANNandBOULEVARD" intnum="433" />
-<marker lat="27.9286757917727" lng="-82.493469341511" intname="MACDILLandESTRELLA" intnum="434" />
-<marker lat="27.9245537609798" lng="-82.493560322676" intname="MACDILLandSAN MIGUEL" intnum="435" />
-<marker lat="27.9217947080166" lng="-82.4936098062697" intname="MACDILLandBARCELONA" intnum="436" />
-<marker lat="27.9197507880156" lng="-82.4987556557347" intname="BAY TO BAYandCONCORDIA" intnum="437" />
-<marker lat="27.9197281873328" lng="-82.4953642747263" intname="BAY TO BAYandESPERANZA" intnum="438" />
-<marker lat="27.9197193062663" lng="-82.4936395999165" intname="MACDILLandBAY TO BAY" intnum="439" />
-<marker lat="27.9193492738766" lng="-82.4904789485211" intname="BAYSHOREandBAY TO BAY" intnum="440" />
-<marker lat="27.925379513237" lng="-82.4825249950005" intname="BAYSHOREandHOWARD" intnum="441" />
-<marker lat="27.91150444643" lng="-82.501971335169" intname="EL PRADOandHIMES" intnum="442" />
-<marker lat="27.9086627735721" lng="-82.5020293567063" intname="EUCLIDandHIMES" intnum="443" />
-<marker lat="27.911477526087" lng="-82.4990213721664" intname="EL PRADOandCONCORDIA" intnum="444" />
-<marker lat="27.9086531754571" lng="-82.4983833150747" intname="EUCLIDandDREXEL \/ WAVERLY (MID)" intnum="445" />
-<marker lat="27.9114737639671" lng="-82.4937022932988" intname="MACDILLandEL PRADO" intnum="446" />
-<marker lat="27.9086787709365" lng="-82.4937303267527" intname="MACDILLandEUCLID" intnum="447" />
-<marker lat="27.9116087883018" lng="-82.5179653695559" intname="MANHATTANandEL PRADO" intnum="448" />
-<marker lat="27.9087806188492" lng="-82.5180078708844" intname="MANHATTANandEUCLID" intnum="449" />
-<marker lat="27.9068719011656" lng="-82.5182084252852" intname="MANHATTANandBAY VISTA" intnum="450" />
-<marker lat="27.9116698105596" lng="-82.5267233339011" intname="WESTSHOREandEL PRADO" intnum="451" />
-<marker lat="27.9088447667254" lng="-82.5267273285429" intname="WESTSHOREandEUCLID" intnum="452" />
-<marker lat="27.9004873056261" lng="-82.5184599473558" intname="MANHATTANandBAY VISTA \/ FAIR OAKS (MID)" intnum="453" />
-<marker lat="27.9266149525498" lng="-82.514142726496" intname="HENDERSONandLOIS \/ SAN RAFAEL" intnum="454" />
-<marker lat="27.9285039786945" lng="-82.5182309401907" intname="MANHATTANandESTRELLA" intnum="455" />
-<marker lat="27.9280792474417" lng="-82.5243825810863" intname="WESTSHOREandESTRELLA \/ SAN MIGUEL (MID)" intnum="456" />
-<marker lat="27.9230477673728" lng="-82.523750303092" intname="WESTSHOREandSAN JOSE" intnum="457" />
-<marker lat="27.9229879505699" lng="-82.517872436101" intname="HENDERSON \/ MANHATTANandSAN JOSE\r\n SAN JOSE" intnum="458" />
-<marker lat="27.9198826632287" lng="-82.5178547063786" intname="MANHATTANandBAY TO BAY" intnum="459" />
-<marker lat="27.9302578137083" lng="-82.5099782919779" intname="HENDERSONandGRADY \/ NEPTUNE" intnum="460" />
-<marker lat="27.9309573914305" lng="-82.5243447614827" intname="WESTSHOREandCULBREATH ISLE" intnum="461" />
-<marker lat="27.8839388401461" lng="-82.5064773558421" intname="DALE MABRYandOKLAHOMA" intnum="462" />
-<marker lat="27.8809448047947" lng="-82.5184823705044" intname="MANHATTANandIOWA" intnum="463" />
-<marker lat="27.8894748765773" lng="-82.493907327471" intname="MACDILLandBALLAST PT \/ CHEROKEE (MID)" intnum="464" />
-<marker lat="27.8726309772445" lng="-82.5063803619606" intname="DALE MABRYandINTERBAY" intnum="465" />
-<marker lat="27.8801518000002" lng="-82.4940073528841" intname="MACDILLandINTERBAY" intnum="466" />
-<marker lat="27.8659144218463" lng="-82.5186492797316" intname="INTERBAYandMANHATTAN" intnum="467" />
-<marker lat="27.8840967285374" lng="-82.4857502197869" intname="INTERBAY BLVDandBAYSHORE BLVD" intnum="468" />
-<marker lat="27.9499985683398" lng="-82.4684836409978" intname="BOULEVARDandCASS" intnum="469" />
-<marker lat="27.9498182827199" lng="-82.472617105834" intname="CASSandWILLOW" intnum="470" />
-<marker lat="27.9520054796401" lng="-82.4725928471314" intname="CYPRESSandWILLOW" intnum="471" />
-<marker lat="27.9519747886296" lng="-82.4684753221206" intname="BOULEVARDandCYPRESS" intnum="472" />
-<marker lat="27.956307756851" lng="-82.4683992978007" intname="BOULEVARDandGREEN" intnum="473" />
-<marker lat="27.9570786249854" lng="-82.4725408327339" intname="MAINandWILLOW" intnum="474" />
-<marker lat="27.9571098365937" lng="-82.4767069239161" intname="MAINandROME" intnum="475" />
-<marker lat="27.9502915055998" lng="-82.4664448501822" intname="CASSandTAMPA PREP" intnum="476" />
-<marker lat="27.9570360761188" lng="-82.4684069679894" intname="BOULEVARDandMAIN" intnum="477" />
-<marker lat="27.9571538034899" lng="-82.4808542945668" intname="MAINandALBANY" intnum="478" />
-<marker lat="27.9502186855493" lng="-82.465186907959" intname="CASSandDRAWBRIDGE" intnum="479" />
-<marker lat="27.9595043240758" lng="-82.5138322104108" intname="LOISandSPRUCE" intnum="480" />
-<marker lat="27.9522020835673" lng="-82.5159420839906" intname="CYPRESSandHUBERT" intnum="481" />
-<marker lat="27.9521971340034" lng="-82.5138632497402" intname="LOISandCYPRESS" intnum="482" />
-<marker lat="27.9511712646266" lng="-82.513901143959" intname="LOISandI-275 (N)" intnum="483" />
-<marker lat="27.9503640695726" lng="-82.5139174406115" intname="LOISandI-275 (S)" intnum="484" />
-<marker lat="28.0253714435107" lng="-82.4842826793515" intname="WATERSandARMENIA" intnum="485" />
-<marker lat="28.0253210343931" lng="-82.4759530175906" intname="WATERSandROME" intnum="486" />
-<marker lat="28.0253505317013" lng="-82.4677569102912" intname="WATERSandBOULEVARD" intnum="487" />
-<marker lat="28.0253558251531" lng="-82.4595273044093" intname="WATERSandFLORIDA" intnum="488" />
-<marker lat="28.0225588182879" lng="-82.4595233110339" intname="FLORIDAandBIRD" intnum="489" />
-<marker lat="28.0252547925726" lng="-82.4551463198824" intname="WATERSandCENTRAL \/ KLONDIKE" intnum="490" />
-<marker lat="28.0251948094806" lng="-82.4512772855176" intname="NEBRASKAandWATERS" intnum="491" />
-<marker lat="28.0225686455252" lng="-82.4563575912164" intname="BIRDandI-275 (E\/W)" intnum="492" />
-<marker lat="28.022579502482" lng="-82.4553155799632" intname="BIRDandI-275 (E\/W)" intnum="493" />
-<marker lat="28.030323739914" lng="-82.4842155071009" intname="ARMENIAandHUMPHREY \/ WATERS (MID)" intnum="494" />
-<marker lat="28.022590824483" lng="-82.4512812731381" intname="NEBRASKAandBIRD" intnum="495" />
-<marker lat="28.0212190668141" lng="-82.4512832701961" intname="NEBRASKAandSITKA" intnum="496" />
-<marker lat="28.0290789059246" lng="-82.459506542819" intname="FLORIDAandYUKON" intnum="497" />
-<marker lat="28.0293018224158" lng="-82.4512572545479" intname="NEBRASKAandYUKON" intnum="498" />
-<marker lat="27.9663305018978" lng="-82.4056169232533" intname="COLUMBUSandI - 4" intnum="499" />
-<marker lat="27.9658595475868" lng="-82.405283416024" intname="COLUMBUSandI - 4" intnum="500" />
-<marker lat="27.9685940591498" lng="-82.4016503744257" intname="50TH STandI-4 N-S" intnum="501" />
-<marker lat="27.966783870124" lng="-82.4016707522326" intname="50TH STandI-4 N-S" intnum="502" />
-<marker lat="27.9704274542689" lng="-82.4016571638351" intname="50TH STandMELBOURNE" intnum="503" />
-<marker lat="27.9814746933058" lng="-82.4016539833955" intname="50TH STandM L KING JR" intnum="504" />
-<marker lat="27.9618296464158" lng="-82.4018599830897" intname="50TH STand7TH AVE \/ BROADWAY" intnum="505" />
-<marker lat="27.9649647399145" lng="-82.4017855795451" intname="50TH STandCOLUMBUS" intnum="506" />
-<marker lat="27.9667426470965" lng="-82.3729974277575" intname="BROADWAYandORIENT" intnum="507" />
-<marker lat="27.9437122075652" lng="-82.4366101773679" intname="CAUSEWAYandGRANT" intnum="508" />
-<marker lat="27.9508030160711" lng="-82.4350366987634" intname="22ND STandDURHAM" intnum="509" />
-<marker lat="27.9368791483368" lng="-82.4353072073649" intname="CAUSEWAYandMARITIME" intnum="510" />
-<marker lat="27.9674668149004" lng="-82.4355243003105" intname="21ST STand17TH AVE" intnum="511" />
-<marker lat="27.9668247732507" lng="-82.4355172788279" intname="21ST STandCOLUMBUS" intnum="512" />
-<marker lat="27.9668217800032" lng="-82.4347513201544" intname="22ND STandCOLUMBUS" intnum="513" />
-<marker lat="27.9674698007361" lng="-82.4347513184849" intname="22ND STand17TH AVE" intnum="514" />
-<marker lat="27.9741381354152" lng="-82.4347662284518" intname="22ND STand26TH AVE" intnum="515" />
-<marker lat="27.9778134911216" lng="-82.4347772755052" intname="22ND STandLAKE" intnum="516" />
-<marker lat="27.9668239167244" lng="-82.444255060785" intname="COLUMBUSandA R D C" intnum="517" />
-<marker lat="27.9668177757626" lng="-82.4429682874303" intname="15TH STandCOLUMBUS" intnum="518" />
-<marker lat="27.9667618210887" lng="-82.4223872885837" intname="34TH STandCOLUMBUS" intnum="519" />
-<marker lat="27.9682353890374" lng="-82.422388416341" intname="34TH STand18TH AVE" intnum="520" />
-<marker lat="27.9674308869373" lng="-82.4429624913513" intname="15TH STand17TH AVE" intnum="521" />
-<marker lat="27.960227745604" lng="-82.4223802930543" intname="7TH AVEand34TH ST" intnum="522" />
-<marker lat="27.97783082376" lng="-82.4429523168422" intname="15TH STandLAKE" intnum="523" />
-<marker lat="27.9705658309894" lng="-82.444225616039" intname="A R D Cand21ST AVE" intnum="524" />
-<marker lat="27.9705124486497" lng="-82.4429790161851" intname="15TH STand21ST AVE" intnum="525" />
-<marker lat="27.9814908038801" lng="-82.4429442963136" intname="M L KING JRand15TH ST" intnum="526" />
-<marker lat="27.981475736919" lng="-82.434795317024" intname="M L KING JRand22ND ST" intnum="527" />
-<marker lat="27.9814398083331" lng="-82.4280353043589" intname="M L KING JRand29TH ST" intnum="528" />
-<marker lat="27.981480741686" lng="-82.4223843363147" intname="M L KING JRand34TH ST" intnum="529" />
-<marker lat="27.9778056050109" lng="-82.4224478285305" intname="34TH STandLAKE" intnum="530" />
-<marker lat="27.9887774780497" lng="-82.4429768421388" intname="15TH STandOSBORNE" intnum="531" />
-<marker lat="27.9923949505266" lng="-82.4347647415019" intname="22ND STandWILDER" intnum="532" />
-<marker lat="27.9887631808144" lng="-82.4347579691947" intname="22ND STandOSBORNE" intnum="533" />
-<marker lat="27.988796998341" lng="-82.4224289487994" intname="34TH STandOSBORNE" intnum="534" />
-<marker lat="27.9867103738805" lng="-82.422417796531" intname="34TH STandCAYUGA \/ PALIFOX (MID)" intnum="535" />
-<marker lat="27.9273651410096" lng="-82.3188983540884" intname="TOWN CENTER BLVDandBRANDON PARKWAY" intnum="536" />
-<marker lat="27.9674851275359" lng="-82.5679274125831" intname="C C CAUSEWAYandROCKY POINT" intnum="537" />
-<marker lat="27.9677204634068" lng="-82.5696407845676" intname="C C CAUSEWAYandBAY HARBOR DR" intnum="538" />
-<marker lat="27.970793299276" lng="-82.5784429661677" intname="C C CAUSEWAYandMUNICIPAL BEACH" intnum="539" />
-<marker lat="27.9717122863586" lng="-82.6100909079169" intname="C C CAUSEWAYandBOAT RAMP" intnum="540" />
-<marker lat="27.996135570756" lng="-82.4926839034284" intname="HILLSBOROUGHandMACDILL" intnum="541" />
-<marker lat="27.9719392547039" lng="-82.4223760113266" intname="34TH STand23RD AVE" intnum="542" />
-<marker lat="27.9501339431135" lng="-82.4639284133103" intname="DOYLE CARLTONandCASS \/ TYLER  (FLASHER)" intnum="543" />
-<marker lat="27.9816353471354" lng="-82.5200022980617" intname="AIR CARGO RDandW MARTIN LUTHER KING BLVD" intnum="544" />
-<marker lat="28.1332665670994" lng="-82.362889013704" intname="BRUCE B DOWNSandRICHMOND PLACE\/FLATWOODS DR" intnum="945" />
-<marker lat="28.1465810573307" lng="-82.35324883928" intname="BRUCE B DOWNSandREGENTS PARK" intnum="946" />
-<marker lat="28.1460607928154" lng="-82.3653506915072" intname="NEW TAMPA BLVDandWOOD SAGE DR" intnum="947" />
-<marker lat="28.1346888522681" lng="-82.3825676358393" intname="COMMERCE PARKandFREEDOM HIGH SCHOOL" intnum="948" />
-<marker lat="28.1439738999237" lng="-82.2907406826346" intname="CROSS CREEK BLVDandFIRE STATION 22" intnum="949" />
+<marker lat="27.9466277701255" lng="-82.4609730217468" intname="W KENNEDY BLVD and DRAWBRIDGE" intnum="1" />
+<marker lat="27.9515552545278" lng="-82.4616741127759" intname="ASHLEY and TYLER" intnum="2" />
+<marker lat="27.9507909240232" lng="-82.4613698441956" intname="ASHLEY and CASS" intnum="3" />
+<marker lat="27.9500880804709" lng="-82.4610310536407" intname="ASHLEY and POLK" intnum="4" />
+<marker lat="27.9493227440412" lng="-82.4606763261035" intname="ASHLEY and ZACK" intnum="5" />
+<marker lat="27.9485879998578" lng="-82.4603494800568" intname="ASHLEY and TWIGGS" intnum="6" />
+<marker lat="27.9478367723218" lng="-82.4600123425679" intname="ASHLEY and MADISON" intnum="7" />
+<marker lat="27.9471160721112" lng="-82.4596685488257" intname="KENNEDY and ASHLEY" intnum="8" />
+<marker lat="27.9463940511878" lng="-82.4592063960861" intname="ASHLEY and JACKSON" intnum="9" />
+<marker lat="27.9449745839766" lng="-82.4583268923407" intname="ASHLEY and WHITING" intnum="10" />
+<marker lat="27.9518677421625" lng="-82.4607493264241" intname="TAMPA and TYLER" intnum="11" />
+<marker lat="27.9511246935244" lng="-82.460422772092" intname="TAMPA and CASS" intnum="12" />
+<marker lat="27.9503857855499" lng="-82.4600993413858" intname="TAMPA and POLK" intnum="13" />
+<marker lat="27.9496377800304" lng="-82.4597703432821" intname="TAMPA and ZACK" intnum="14" />
+<marker lat="27.9488997981143" lng="-82.4594392977835" intname="TAMPA and TWIGGS" intnum="15" />
+<marker lat="27.9481598162957" lng="-82.4591123548988" intname="TAMPA and MADISON" intnum="16" />
+<marker lat="27.9474157788507" lng="-82.4587833039907" intname="TAMPA and KENNEDY" intnum="17" />
+<marker lat="27.94663179784" lng="-82.4584423539635" intname="TAMPA and JACKSON" intnum="18" />
+<marker lat="27.9451677466943" lng="-82.4577783426628" intname="TAMPA and WHITING" intnum="19" />
+<marker lat="27.9563537569728" lng="-82.4609492763424" intname="TAMPA and SCOTT" intnum="20" />
+<marker lat="27.9521479695097" lng="-82.4599156021168" intname="FRANKLIN and TYLER" intnum="21" />
+<marker lat="27.951423520509" lng="-82.4595862807984" intname="FRANKLIN and CASS" intnum="22" />
+<marker lat="27.9506647902009" lng="-82.459279284763" intname="FRANKLIN and POLK" intnum="23" />
+<marker lat="27.9499227995138" lng="-82.458932295091" intname="FRANKLIN and ZACK" intnum="24" />
+<marker lat="27.9491827967679" lng="-82.4586113043701" intname="FRANKLIN and TWIGGS" intnum="25" />
+<marker lat="27.9484437690392" lng="-82.4582953514451" intname="FRANKLIN and MADISON" intnum="26" />
+<marker lat="27.947690751005" lng="-82.4579523524415" intname="FRANKLIN and KENNEDY" intnum="27" />
+<marker lat="27.9469297832688" lng="-82.4576113368301" intname="FRANKLIN and JACKSON" intnum="28" />
+<marker lat="27.9454428023158" lng="-82.4569473216315" intname="WHITING and FRANKLIN" intnum="29" />
+<marker lat="27.9563537589703" lng="-82.4594913060186" intname="FLORIDA and SCOTT" intnum="30" />
+<marker lat="27.9524427653928" lng="-82.4590692766735" intname="FLORIDA and TYLER" intnum="31" />
+<marker lat="27.9517044044155" lng="-82.4587432548622" intname="FLORIDA and CASS" intnum="32" />
+<marker lat="27.9509618067788" lng="-82.4584152908463" intname="FLORIDA and POLK" intnum="33" />
+<marker lat="27.950217778679" lng="-82.4580833020995" intname="FLORIDA and ZACK" intnum="34" />
+<marker lat="27.9494768102093" lng="-82.4577533429943" intname="FLORIDA and TWIGGS" intnum="35" />
+<marker lat="27.9487327571254" lng="-82.4574283213831" intname="FLORIDA and MADISON" intnum="36" />
+<marker lat="27.94798608132" lng="-82.4571042139377" intname="FLORIDA and KENNEDY" intnum="37" />
+<marker lat="27.9472317698136" lng="-82.4567693508581" intname="FLORIDA and JACKSON" intnum="38" />
+<marker lat="27.95635680919" lng="-82.458793349728" intname="SCOTT and MARION" intnum="39" />
+<marker lat="27.9527367419365" lng="-82.4582232784924" intname="MARION and TYLER" intnum="40" />
+<marker lat="27.9519876464476" lng="-82.4578951207181" intname="MARION and CASS" intnum="41" />
+<marker lat="27.9512498234149" lng="-82.4575692772093" intname="MARION and POLK" intnum="42" />
+<marker lat="27.9505077609151" lng="-82.4572423319557" intname="MARION and ZACK" intnum="43" />
+<marker lat="27.9497690370135" lng="-82.4569154876079" intname="MARION and TWIGGS" intnum="44" />
+<marker lat="27.9490181102739" lng="-82.4565942141027" intname="MARION and MADISON" intnum="45" />
+<marker lat="27.9482739948237" lng="-82.4562596451189" intname="MARION and KENNEDY" intnum="46" />
+<marker lat="27.9475263257548" lng="-82.4559351242524" intname="MARION and JACKSON" intnum="47" />
+<marker lat="27.9570667866153" lng="-82.4609413239803" intname="TAMPA and KAY" intnum="48" />
+<marker lat="27.9530277147938" lng="-82.4573834662485" intname="MORGAN and TYLER" intnum="49" />
+<marker lat="27.9522827616344" lng="-82.4570573419375" intname="MORGAN and CASS" intnum="50" />
+<marker lat="27.9515437509544" lng="-82.4567352714934" intname="MORGAN and POLK" intnum="51" />
+<marker lat="27.9507989017965" lng="-82.4564044626775" intname="MORGAN and ZACK" intnum="52" />
+<marker lat="27.9500559354329" lng="-82.4560773542711" intname="MORGAN and TWIGGS" intnum="53" />
+<marker lat="27.9493080998459" lng="-82.4557485542202" intname="MORGAN and MADISON" intnum="54" />
+<marker lat="27.9485663991067" lng="-82.455419951165" intname="MORGAN and KENNEDY" intnum="55" />
+<marker lat="27.9478229691025" lng="-82.4550957892913" intname="MORGAN and JACKSON" intnum="56" />
+<marker lat="27.9531413158753" lng="-82.4560047305226" intname="ORANGE \/ PIERCE and CASS \/ JEFFERSON\/ TYLER" intnum="57" />
+<marker lat="27.9525833285226" lng="-82.4562073437753" intname="ORANGE \/ PIERCE and CASS \/ JEFFERSON\/ TYLER" intnum="58" />
+<marker lat="27.9529883830359" lng="-82.4555270263543" intname="ORANGE \/ PIERCE and CASS \/ JEFFERSON\/ TYLER" intnum="59" />
+<marker lat="27.9528360001205" lng="-82.4554558039258" intname="ORANGE \/ PIERCE and CASS \/ JEFFERSON\/ TYLER" intnum="60" />
+<marker lat="27.9518277822795" lng="-82.4558903214485" intname="PIERCE and POLK" intnum="61" />
+<marker lat="27.9510878871186" lng="-82.4555619691456" intname="PIERCE and ZACK" intnum="62" />
+<marker lat="27.9503437433162" lng="-82.4552352803489" intname="PIERCE and TWIGGS" intnum="63" />
+<marker lat="27.9495988813938" lng="-82.4549071683454" intname="PIERCE and MADISON" intnum="64" />
+<marker lat="27.9488584343019" lng="-82.4545811738229" intname="PIERCE and KENNEDY" intnum="65" />
+<marker lat="27.9481195154035" lng="-82.4542567002975" intname="PIERCE and JACKSON" intnum="66" />
+<marker lat="27.9564048722584" lng="-82.4558180060019" intname="JEFFERSON \/ ORANGE and SCOTT" intnum="67" />
+<marker lat="27.9563941115604" lng="-82.4565864302358" intname="JEFFERSON \/ ORANGE and SCOTT" intnum="68" />
+<marker lat="27.9541548282751" lng="-82.4559062992035" intname="ORANGE and HARRISON" intnum="69" />
+<marker lat="27.9513647506557" lng="-82.4547262951652" intname="JEFFERSON and ZACK" intnum="70" />
+<marker lat="27.9506317875511" lng="-82.4544023398583" intname="JEFFERSON and TWIGGS" intnum="71" />
+<marker lat="27.9499291697402" lng="-82.4540992215463" intname="JEFFERSON and KENNEDY \/ TWIGGS (MID)" intnum="72" />
+<marker lat="27.949148823805" lng="-82.4537473309848" intname="JEFFERSON and KENNEDY" intnum="73" />
+<marker lat="27.9484137827598" lng="-82.4534232970932" intname="JEFFERSON and JACKSON" intnum="74" />
+<marker lat="27.951795686863" lng="-82.4510029336403" intname="NEBRASKA and TWIGGS" intnum="75" />
+<marker lat="27.9503001176952" lng="-82.450388902147" intname="NEBRASKA and KENNEDY" intnum="76" />
+<marker lat="27.9464035623519" lng="-82.4684912626931" intname="BOULEVARD and NORTH B" intnum="77" />
+<marker lat="27.9455756591973" lng="-82.4638553719557" intname="KENNEDY and HYDE PARK" intnum="78" />
+<marker lat="27.9450915503224" lng="-82.4651894143113" intname="KENNEDY and CRESCENT \/ HYDE PARK" intnum="79" />
+<marker lat="27.9446159365054" lng="-82.4666760355729" intname="KENNEDY and BREVARD" intnum="80" />
+<marker lat="27.9446377651952" lng="-82.4685398031889" intname="KENNEDY and BOULEVARD" intnum="81" />
+<marker lat="27.9446675517375" lng="-82.4726843719087" intname="KENNEDY and WILLOW" intnum="82" />
+<marker lat="27.9447608134963" lng="-82.4829993601032" intname="KENNEDY and HOWARD" intnum="83" />
+<marker lat="27.9447778135943" lng="-82.4850693077653" intname="KENNEDY and ARMENIA" intnum="84" />
+<marker lat="27.9447966774212" lng="-82.49072294265" intname="KENNEDY and BUNGALOW \/ GOMEZ (MID)" intnum="85" />
+<marker lat="27.9448017812613" lng="-82.4932852845851" intname="KENNEDY and MACDILL" intnum="86" />
+<marker lat="27.9447677917984" lng="-82.4944576161922" intname="KENNEDY and HENDERSON" intnum="87" />
+<marker lat="27.9448197639376" lng="-82.5015723120674" intname="KENNEDY and HIMES" intnum="88" />
+<marker lat="27.9571898019013" lng="-82.484999283908" intname="ARMENIA and MAIN" intnum="89" />
+<marker lat="27.9571730033313" lng="-82.4829233989834" intname="HOWARD and MAIN" intnum="90" />
+<marker lat="27.9557387664795" lng="-82.4850083074023" intname="ARMENIA \/ HOWARD and GREEN \/ LAUREL (I-275)" intnum="91" />
+<marker lat="27.955715639101" lng="-82.4829615110134" intname="ARMENIA \/ HOWARD and GREEN \/ LAUREL (I-275)" intnum="92" />
+<marker lat="27.9564608213631" lng="-82.485000301426" intname="ARMENIA \/ HOWARD and GREEN \/ LAUREL (I-275)" intnum="93" />
+<marker lat="27.9564526068398" lng="-82.4829474377127" intname="ARMENIA \/ HOWARD and GREEN \/ LAUREL (I-275)" intnum="94" />
+<marker lat="27.9521107132526" lng="-82.4850732387103" intname="ARMENIA and CYPRESS" intnum="95" />
+<marker lat="27.9520956432363" lng="-82.4829934353361" intname="HOWARD and CYPRESS" intnum="96" />
+<marker lat="27.9412086695078" lng="-82.5016124593245" intname="AZEELE and HIMES" intnum="97" />
+<marker lat="27.941187805721" lng="-82.4985103428561" intname="HENDERSON and AZEELE" intnum="98" />
+<marker lat="27.9411537844352" lng="-82.4933473340439" intname="MACDILL and AZEELE" intnum="99" />
+<marker lat="27.9411433304879" lng="-82.4907417196726" intname="AZEELE and BUNGALOW \/ GOMEZ (MID)" intnum="100" />
+<marker lat="27.9433657908328" lng="-82.485071298596" intname="ARMENIA and CLEVEL and " intnum="101" />
+<marker lat="27.9433487792329" lng="-82.483004310453" intname="HOWARD and CLEVEL and " intnum="102" />
+<marker lat="27.9419304832252" lng="-82.4850729326316" intname="ARMENIA and PLATT" intnum="103" />
+<marker lat="27.9419128349199" lng="-82.4830073103015" intname="HOWARD and PLATT" intnum="104" />
+<marker lat="27.9374587655984" lng="-82.4933333143347" intname="MACDILL and SWANN" intnum="105" />
+<marker lat="27.9373787680433" lng="-82.4830323217881" intname="SWANN and HOWARD" intnum="106" />
+<marker lat="27.9338317676648" lng="-82.4933522925889" intname="MACDILL and MORRISON" intnum="107" />
+<marker lat="27.9337588326258" lng="-82.483070281825" intname="HOWARD and MORRISON" intnum="108" />
+<marker lat="27.9521277716445" lng="-82.5015432922706" intname="HIMES and CYPRESS" intnum="109" />
+<marker lat="27.952042879816" lng="-82.4932660499179" intname="MACDILL and CYPRESS" intnum="110" />
+<marker lat="27.9374187535807" lng="-82.4850853009998" intname="SWANN and ARMENIA" intnum="111" />
+<marker lat="27.9595328218877" lng="-82.4594723237673" intname="FLORIDA and HENDERSON" intnum="112" />
+<marker lat="27.9622752520288" lng="-82.4594758056698" intname="FLORIDA and FRANKLIN \/ PALM" intnum="113" />
+<marker lat="27.9669027718374" lng="-82.4594622898166" intname="FLORIDA and COLUMBUS" intnum="114" />
+<marker lat="27.9709347183556" lng="-82.459444994405" intname="FLORIDA and FLORIBRASKA" intnum="115" />
+<marker lat="27.977862513761" lng="-82.4594323414433" intname="FLORIDA and LAKE" intnum="116" />
+<marker lat="27.9815277684534" lng="-82.4594113159087" intname="M L KING JR and FLORIDA" intnum="117" />
+<marker lat="27.9888162116741" lng="-82.4594235924034" intname="FLORIDA and OSBORNE" intnum="118" />
+<marker lat="27.9709097847912" lng="-82.4608823471873" intname="TAMPA and FLORIBRASKA" intnum="119" />
+<marker lat="27.966905549276" lng="-82.4608987006951" intname="TAMPA and COLUMBUS" intnum="120" />
+<marker lat="27.9622798219979" lng="-82.4609162709379" intname="TAMPA and PALM" intnum="121" />
+<marker lat="27.9814793572565" lng="-82.4511870739146" intname="NEBRASKA and M L KING JR" intnum="122" />
+<marker lat="27.9815493733582" lng="-82.4619610172484" intname="M L KING JR and HIGHL and S" intnum="123" />
+<marker lat="27.981571782526" lng="-82.467668912344" intname="M L KING JR and BOULEVARD" intnum="124" />
+<marker lat="27.9815187523442" lng="-82.4552822779499" intname="M L KING JR and CENTRAL" intnum="125" />
+<marker lat="27.981484492896" lng="-82.4542336808834" intname="M L KING JR and I-275 (W)" intnum="126" />
+<marker lat="27.9851562700865" lng="-82.451160871639" intname="NEBRASKA and CHELSEA" intnum="127" />
+<marker lat="27.9887933078673" lng="-82.4511564729986" intname="NEBRASKA and OSBORNE" intnum="128" />
+<marker lat="27.9888134780322" lng="-82.4620715569955" intname="HIGHL and  and OSBORNE" intnum="129" />
+<marker lat="27.9814724748339" lng="-82.45328051394" intname="M L KING JR and I-275 (E)" intnum="130" />
+<marker lat="27.977864788926" lng="-82.4553003048383" intname="LAKE and CENTRAL" intnum="131" />
+<marker lat="27.9888087935988" lng="-82.4552763396262" intname="CENTRAL and OSBORNE" intnum="132" />
+<marker lat="27.9558403410307" lng="-82.4455906805614" intname="ADAMO and CHANNELSIDE" intnum="133" />
+<marker lat="27.9557847633912" lng="-82.4380213053443" intname="ADAMO and 19TH ST" intnum="134" />
+<marker lat="27.9557815125186" lng="-82.4355188911637" intname="ADAMO and 21ST ST \/ 22ND ST" intnum="135" />
+<marker lat="27.9557917869796" lng="-82.4347243109306" intname="ADAMO and 21ST ST \/ 22ND ST" intnum="136" />
+<marker lat="27.9545592939309" lng="-82.4224596634477" intname="ADAMO and 34TH ST" intnum="137" />
+<marker lat="27.9553533402497" lng="-82.4155837916431" intname="ADAMO and 39TH ST" intnum="138" />
+<marker lat="27.9521090878957" lng="-82.4016850037196" intname="ADAMO and 50TH ST" intnum="139" />
+<marker lat="27.9503427547972" lng="-82.4017993432441" intname="50TH ST and CROSSTOWN (N)" intnum="140" />
+<marker lat="27.949441731152" lng="-82.4018053127168" intname="50TH ST and CROSSTOWN (S)" intnum="141" />
+<marker lat="27.9532747571031" lng="-82.4512803462753" intname="NEBRASKA and CASS" intnum="142" />
+<marker lat="27.956417618036" lng="-82.4512650799356" intname="NEBRASKA and SCOTT" intnum="143" />
+<marker lat="27.9595831132256" lng="-82.4512554420452" intname="NEBRASKA and HENDERSON" intnum="144" />
+<marker lat="27.9604681279546" lng="-82.4512589550199" intname="NEBRASKA and 7TH AVE" intnum="145" />
+<marker lat="27.9622977994473" lng="-82.4512433425168" intname="NEBRASKA and PALM" intnum="146" />
+<marker lat="27.966883041152" lng="-82.4575558104794" intname="COLUMBUS and JEFFERSON \/ MORGAN (MID)" intnum="147" />
+<marker lat="27.9668418970145" lng="-82.4512386865286" intname="NEBRASKA and COLUMBUS" intnum="148" />
+<marker lat="27.9707522860207" lng="-82.4512178129219" intname="NEBRASKA and FLORIBRASKA" intnum="149" />
+<marker lat="27.9778397451586" lng="-82.451177293308" intname="NEBRASKA and LAKE" intnum="150" />
+<marker lat="27.9961473452731" lng="-82.5237114740414" intname="HILLSBOROUGH and  and ERSON \/ WESTSHORE" intnum="151" />
+<marker lat="27.996123907464" lng="-82.5194927678687" intname="HILLSBOROUGH and HESPERIDES" intnum="152" />
+<marker lat="27.996083347531" lng="-82.5134953034801" intname="HILLSBOROUGH and LOIS" intnum="153" />
+<marker lat="27.9960019989485" lng="-82.5064708633721" intname="HILLSBOROUGH and DALE MABRY (W)" intnum="154" />
+<marker lat="27.9959369280814" lng="-82.503964729819" intname="HILLSBOROUGH and DALE MABRY (E)" intnum="155" />
+<marker lat="27.9960073281779" lng="-82.5010248296147" intname="HILLSBOROUGH and HIMES" intnum="156" />
+<marker lat="27.9961210183701" lng="-82.4885415464235" intname="HILLSBOROUGH and HABANA" intnum="157" />
+<marker lat="27.9961096067627" lng="-82.4844199998705" intname="HILLSBOROUGH and ARMENIA" intnum="158" />
+<marker lat="27.9960491001538" lng="-82.4792275887787" intname="HILLSBOROUGH and ALBANY \/ MENDENHALL (MID)" intnum="159" />
+<marker lat="27.996016747018" lng="-82.4762001644389" intname="HILLSBOROUGH and ROME" intnum="160" />
+<marker lat="27.9960532841166" lng="-82.4699875958494" intname="HILLSBOROUGH and LEE" intnum="161" />
+<marker lat="27.9894947399946" lng="-82.4763735098509" intname="ROME and WISHART" intnum="162" />
+<marker lat="27.9868146038769" lng="-82.4764467562024" intname="ROME and ERNA \/ RIVERSHORE (MID)" intnum="163" />
+<marker lat="27.9997270011914" lng="-82.4843768845736" intname="ARMENIA and HENRY" intnum="164" />
+<marker lat="27.9939129812947" lng="-82.5135117678197" intname="LOIS and CREST" intnum="165" />
+<marker lat="27.9914758194207" lng="-82.5135303226756" intname="LOIS and SOUTH" intnum="166" />
+<marker lat="27.9889886732165" lng="-82.5135443639756" intname="LOIS and OSBORNE" intnum="167" />
+<marker lat="27.9960808136009" lng="-82.4511512599489" intname="HILLSBOROUGH and NEBRASKA" intnum="168" />
+<marker lat="27.9960767416918" lng="-82.4429652557526" intname="HILLSBOROUGH and 15TH ST" intnum="169" />
+<marker lat="27.9960824236428" lng="-82.4347656172178" intname="HILLSBOROUGH and 22ND ST" intnum="170" />
+<marker lat="27.9960498939579" lng="-82.4264485017094" intname="HILLSBOROUGH and 30TH ST" intnum="171" />
+<marker lat="27.9960840632921" lng="-82.4223957203095" intname="HILLSBOROUGH and 34TH ST" intnum="172" />
+<marker lat="27.9961077303855" lng="-82.4141102630848" intname="HILLSBOROUGH and 40TH ST" intnum="173" />
+<marker lat="27.9960840174112" lng="-82.4620909897785" intname="HILLSBOROUGH and HIGHL and " intnum="174" />
+<marker lat="27.9960706367216" lng="-82.4594314586675" intname="HILLSBOROUGH and FLORIDA" intnum="175" />
+<marker lat="27.9960763825447" lng="-82.4553161851736" intname="HILLSBOROUGH and CENTRAL" intnum="176" />
+<marker lat="27.9960959087997" lng="-82.4541875853392" intname="HILLSBOROUGH and I-275 (W)" intnum="177" />
+<marker lat="28.0033587218887" lng="-82.4347371219832" intname="22ND ST and HANNA" intnum="178" />
+<marker lat="28.0033837924244" lng="-82.4265313002323" intname="30TH ST and HANNA" intnum="179" />
+<marker lat="28.0070567433872" lng="-82.4142203119232" intname="40TH ST and RIVER GROVE \/ DIANA" intnum="180" />
+<marker lat="28.0033849550186" lng="-82.4594743910069" intname="FLORIDA and HANNA" intnum="181" />
+<marker lat="28.003359802118" lng="-82.4513189501809" intname="NEBRASKA and HANNA" intnum="182" />
+<marker lat="28.0107553221228" lng="-82.4843825162662" intname="SLIGH and ARMENIA" intnum="183" />
+<marker lat="28.010764107831" lng="-82.4761329956038" intname="SLIGH and ROME" intnum="184" />
+<marker lat="28.0107504247494" lng="-82.4678164403671" intname="SLIGH and BOULEVARD" intnum="185" />
+<marker lat="28.0107007973144" lng="-82.4595452724484" intname="SLIGH and FLORIDA" intnum="186" />
+<marker lat="28.0106891975821" lng="-82.4554102481989" intname="SLIGH and CENTRAL" intnum="187" />
+<marker lat="28.0107060050588" lng="-82.4544495642323" intname="SLIGH and I-275 (W)" intnum="188" />
+<marker lat="28.0107110730608" lng="-82.4534067203351" intname="SLIGH and I-275 (E)" intnum="189" />
+<marker lat="28.010688806223" lng="-82.4513146893842" intname="NEBRASKA and SLIGH" intnum="190" />
+<marker lat="28.0106530913979" lng="-82.442983108048" intname="SLIGH and 15TH ST" intnum="191" />
+<marker lat="28.0105500774983" lng="-82.4347108054591" intname="SLIGH and 22ND ST" intnum="192" />
+<marker lat="28.0161637513934" lng="-82.4595323113606" intname="FLORIDA and BROAD" intnum="193" />
+<marker lat="28.0161257758556" lng="-82.4513002822974" intname="NEBRASKA and BROAD" intnum="194" />
+<marker lat="28.0138466914207" lng="-82.4513062978086" intname="NEBRASKA and CRAWFORD \/ HAMILTON (MID)" intnum="195" />
+<marker lat="28.0046299016218" lng="-82.4843997344365" intname="ARMENIA and FERN \/ DIANA (MID)" intnum="196" />
+<marker lat="28.0161487512571" lng="-82.4554162713458" intname="BROAD and CENTRAL" intnum="197" />
+<marker lat="28.0033842743751" lng="-82.4554202870096" intname="HANNA and CENTRAL" intnum="198" />
+<marker lat="28.0106608124208" lng="-82.4300932486158" intname="SLIGH and ROWLETTE PARK" intnum="199" />
+<marker lat="28.0225305261916" lng="-82.4352512208607" intname="ROWLETTE PARK and MULBERRY" intnum="200" />
+<marker lat="28.0105504503148" lng="-82.4884882949573" intname="HABANA and SLIGH" intnum="201" />
+<marker lat="28.0334708607991" lng="-82.4841586235645" intname="BUSCH and ARMENIA" intnum="202" />
+<marker lat="28.0332453682806" lng="-82.4678374362107" intname="BUSCH and BOULEVARD" intnum="203" />
+<marker lat="28.0329619022067" lng="-82.4594883902801" intname="BUSCH and FLORIDA" intnum="204" />
+<marker lat="28.0329358267716" lng="-82.4563722959851" intname="BUSCH and I-275 (W)" intnum="205" />
+<marker lat="28.0329108979727" lng="-82.4534339685603" intname="BUSCH and I-275 (E)" intnum="206" />
+<marker lat="28.0328678190563" lng="-82.4512772464356" intname="BUSCH and NEBRASKA" intnum="207" />
+<marker lat="28.0400511031874" lng="-82.4798527432891" intname="LINEBAUGH and ARMENIA" intnum="208" />
+<marker lat="28.0349490361154" lng="-82.4594481741792" intname="FLORIDA and FLORIL and  MALL" intnum="209" />
+<marker lat="28.0399517763223" lng="-82.4512392705845" intname="NEBRASKA and LINEBAUGH" intnum="210" />
+<marker lat="28.0436248025695" lng="-82.4512052670194" intname="NEBRASKA and BOUGAINVILLEA" intnum="211" />
+<marker lat="28.0472732026114" lng="-82.451194484269" intname="NEBRASKA and 109TH AVE" intnum="212" />
+<marker lat="28.039983903689" lng="-82.459435586664" intname="FLORIDA and LINEBAUGH" intnum="213" />
+<marker lat="28.0436497451945" lng="-82.4594448708872" intname="FLORIDA and BOUGAINVILLEA" intnum="214" />
+<marker lat="28.0400037462691" lng="-82.4661898675597" intname="LINEBAUGH and BOULEVARD \/ OLA (MID)" intnum="215" />
+<marker lat="28.0400098239304" lng="-82.4677473150584" intname="BOULEVARD and LINEBAUGH" intnum="216" />
+<marker lat="28.0546397453455" lng="-82.4512052655056" intname="FOWLER and NEBRASKA" intnum="217" />
+<marker lat="28.0546668255349" lng="-82.4542972369532" intname="FOWLER and I-275 (E\/W)" intnum="218" />
+<marker lat="28.0546628255366" lng="-82.4553142467639" intname="FOWLER and I-275 (E\/W)" intnum="219" />
+<marker lat="28.0471933032286" lng="-82.4428280214237" intname="15TH ST and 109TH AVE" intnum="220" />
+<marker lat="28.0472033835738" lng="-82.4345575731002" intname="22ND ST and 109TH AVE" intnum="221" />
+<marker lat="28.0435707474614" lng="-82.4346055599402" intname="22ND ST and BOUGAINVILLEA" intnum="222" />
+<marker lat="28.0546618154159" lng="-82.4593842778101" intname="FLORIDA and FOWLER" intnum="223" />
+<marker lat="28.054506741881" lng="-82.4345743501641" intname="FOWLER and 22ND ST" intnum="224" />
+<marker lat="28.0545148007471" lng="-82.4428992990011" intname="FOWLER and 15TH ST" intnum="225" />
+<marker lat="28.0544737779601" lng="-82.4261142950584" intname="FOWLER and 30TH ST" intnum="226" />
+<marker lat="28.0544492720763" lng="-82.4162125952769" intname="FOWLER and MCKINLEY" intnum="227" />
+<marker lat="28.0544741871483" lng="-82.413222523261" intname="FOWLER and LEROY COLLINS" intnum="228" />
+<marker lat="28.054451316683" lng="-82.404841456986" intname="FOWLER and BULL RUN" intnum="229" />
+<marker lat="28.0545014332146" lng="-82.4276988048278" intname="FOWLER and UNIVERSITY COLLECTION" intnum="230" />
+<marker lat="28.057027688768" lng="-82.4260731811784" intname="BRUCE B DOWNS and PINE" intnum="231" />
+<marker lat="28.0544377298273" lng="-82.4017852868563" intname="FOWLER and 50TH ST" intnum="232" />
+<marker lat="27.9457367642058" lng="-82.4561292843984" intname="FLORIDA and WHITING" intnum="233" />
+<marker lat="27.9463493766757" lng="-82.4544460245422" intname="MORGAN and WHITING" intnum="234" />
+<marker lat="27.9468992413028" lng="-82.4527632378512" intname="JEFFERSON and WHITING" intnum="235" />
+<marker lat="27.9434915544895" lng="-82.457968336592" intname="ASHLEY and BROREIN" intnum="236" />
+<marker lat="27.9435803927412" lng="-82.4570906110236" intname="BROREIN and TAMPA" intnum="237" />
+<marker lat="27.9437537701192" lng="-82.4562198615344" intname="BROREIN and FRANKLIN" intnum="238" />
+<marker lat="27.9441689151592" lng="-82.4554632810506" intname="BROREIN and FLORIDA" intnum="239" />
+<marker lat="27.9447687064254" lng="-82.4537519912113" intname="BROREIN and MORGAN" intnum="240" />
+<marker lat="27.9450130426339" lng="-82.4519350133454" intname="BROREIN and JEFFERSON" intnum="241" />
+<marker lat="27.9416246556602" lng="-82.4594584688586" intname="PLATT and BAYSHORE" intnum="242" />
+<marker lat="27.9425047051897" lng="-82.4556878925989" intname="CHANNELSIDE and FRANKLIN" intnum="243" />
+<marker lat="27.9427827817381" lng="-82.4548676287008" intname="CHANNELSIDE and FLORIDA" intnum="244" />
+<marker lat="27.9433729383803" lng="-82.4531745063731" intname="CHANNELSIDE and CROSSTOWN RAMP \/ MORGAN" intnum="245" />
+<marker lat="27.9435377819911" lng="-82.450384318345" intname="BROREIN \/ CHANNELSIDE and ICE PALACE" intnum="246" />
+<marker lat="27.9435570471576" lng="-82.4488793234447" intname="CHANNELSIDE and BENEFICIAL \/ MERIDIAN" intnum="247" />
+<marker lat="27.9450609184741" lng="-82.4487494151866" intname="MERIDIAN and CUMBERL and " intnum="248" />
+<marker lat="27.9522847923037" lng="-82.4490362915382" intname="TWIGGS and MERIDIAN" intnum="249" />
+<marker lat="27.9505829346747" lng="-82.4488256387048" intname="KENNEDY and MERIDIAN" intnum="250" />
+<marker lat="27.9497477676298" lng="-82.4487299783148" intname="JACKSON and MERIDIAN" intnum="251" />
+<marker lat="27.952263585372" lng="-82.4455357596703" intname="CHANNELSIDE and TWIGGS" intnum="252" />
+<marker lat="27.9505647538553" lng="-82.4455872962388" intname="CHANNELSIDE and KENNEDY" intnum="253" />
+<marker lat="27.9486897994866" lng="-82.4456503478772" intname="CHANNELSIDE and YORK" intnum="254" />
+<marker lat="27.9902022458685" lng="-82.4140887836043" intname="40TH ST and ELLICOTT \/ LOUISIANA (MID)" intnum="255" />
+<marker lat="27.9888207871914" lng="-82.4141022885995" intname="40TH ST and OSBORNE" intnum="256" />
+<marker lat="27.9851507381865" lng="-82.4140963165044" intname="40TH ST and CHELSEA" intnum="257" />
+<marker lat="27.9814907940403" lng="-82.4140913070982" intname="40TH ST and M L KING JR" intnum="258" />
+<marker lat="27.9777810799299" lng="-82.414068920784" intname="40TH ST and LAKE" intnum="259" />
+<marker lat="27.9741308144447" lng="-82.414055317186" intname="40TH ST and 26TH AVE \/ MELBURNE" intnum="260" />
+<marker lat="27.9704585247157" lng="-82.4140716470431" intname="40TH ST and 21ST AVE" intnum="261" />
+<marker lat="27.9685268821161" lng="-82.4141426628558" intname="40TH ST and 19TH AVE" intnum="262" />
+<marker lat="27.9667623492973" lng="-82.4141370164403" intname="40TH ST and COLUMBUS" intnum="263" />
+<marker lat="27.9602009445713" lng="-82.4155601053568" intname="39TH ST and 7TH AVE" intnum="264" />
+<marker lat="27.9667685626569" lng="-82.4090424353924" intname="COLUMBUS and DACCO DWY" intnum="265" />
+<marker lat="27.9580956064794" lng="-82.4355225623194" intname="21ST ST and 4TH AVE" intnum="266" />
+<marker lat="27.9580896369147" lng="-82.4347556472129" intname="22ND ST and 4TH AVE" intnum="267" />
+<marker lat="27.9602550987691" lng="-82.4355246909567" intname="21ST ST and 7TH AVE" intnum="268" />
+<marker lat="27.9602509544247" lng="-82.4347516486067" intname="22ND ST and 7TH AVE" intnum="269" />
+<marker lat="27.9624457955053" lng="-82.4355343232112" intname="21ST ST and PALM" intnum="270" />
+<marker lat="27.9624417699704" lng="-82.4347522954632" intname="22ND ST and PALM" intnum="271" />
+<marker lat="27.9602823632088" lng="-82.446729183859" intname="NUCCIO and 7TH AVE" intnum="272" />
+<marker lat="27.9624236764051" lng="-82.4467424429767" intname="NUCCIO and PALM" intnum="273" />
+<marker lat="27.9602983631522" lng="-82.4429797292115" intname="7TH AVE and 15TH ST" intnum="274" />
+<marker lat="27.9602767762188" lng="-82.4404823357841" intname="7TH AVE and 17TH ST" intnum="275" />
+<marker lat="27.9602727746474" lng="-82.4380032894138" intname="7TH AVE and 19TH ST" intnum="276" />
+<marker lat="27.9645135633211" lng="-82.434745423605" intname="21ST\/ 22ND ST and 13TH AVE \/ 14TH AVE" intnum="277" />
+<marker lat="27.9656615997643" lng="-82.4355125245109" intname="21ST\/ 22ND ST and 13TH AVE \/ 14TH AVE" intnum="278" />
+<marker lat="27.9645242105829" lng="-82.4355169287789" intname="21ST\/ 22ND ST and 13TH AVE \/ 14TH AVE" intnum="279" />
+<marker lat="27.9656454398764" lng="-82.4347432526212" intname="21ST\/ 22ND ST and 13TH AVE \/ 14TH AVE" intnum="280" />
+<marker lat="27.9609715187023" lng="-82.4355291592509" intname="21ST ST and 8TH AVE" intnum="281" />
+<marker lat="27.9609737977483" lng="-82.4347512754043" intname="22ND ST and 8TH AVE" intnum="282" />
+<marker lat="27.9624402963295" lng="-82.4429408556297" intname="PALM and 15TH ST" intnum="283" />
+<marker lat="27.961009108939" lng="-82.4429802832548" intname="15TH ST and 8TH AVE" intnum="284" />
+<marker lat="27.9610049226478" lng="-82.4454793480296" intname="8TH AVE and 13TH ST" intnum="285" />
+<marker lat="27.9602925867496" lng="-82.4454685427993" intname="7TH AVE and 13TH ST" intnum="286" />
+<marker lat="28.1435432637443" lng="-82.353217710887" intname="BRUCE B DOWNS and CROSS CREEK" intnum="287" />
+<marker lat="28.1380913403228" lng="-82.3580842910973" intname="BRUCE B DOWNS and HUNTERS GREEN" intnum="288" />
+<marker lat="28.1293822119207" lng="-82.366790788124" intname="BRUCE B DOWNS and HIGHWOODS PRESERVE" intnum="289" />
+<marker lat="28.1267844967606" lng="-82.3693435644143" intname="BRUCE B DOWNS and DONA MICHELLE" intnum="290" />
+<marker lat="28.1232771242616" lng="-82.3729451821188" intname="BRUCE B DOWNS and I-75  (N)" intnum="291" />
+<marker lat="28.1208062820306" lng="-82.3754310255223" intname="BRUCE B DOWNS and I-75  (S)" intnum="292" />
+<marker lat="28.1161013772232" lng="-82.3802060835252" intname="BRUCE B DOWNS and COMMERCE PALMS" intnum="293" />
+<marker lat="28.117651989455" lng="-82.3829328890825" intname="TAMPA PALMS BLVD and COMMERCE PALMS" intnum="294" />
+<marker lat="28.1127506920507" lng="-82.3835407510263" intname="BRUCE B DOWNS and PALM SPRINGS \/ TAMPA PALMS" intnum="295" />
+<marker lat="28.1095568020911" lng="-82.3866768993731" intname="BRUCE B DOWNS and CYPRESS PRESERVE" intnum="296" />
+<marker lat="28.1062637092372" lng="-82.3898886431619" intname="BRUCE B DOWNS and METHODIST PLACE" intnum="297" />
+<marker lat="28.0975837939926" lng="-82.3985914644011" intname="BRUCE B DOWNS and TAMPA PALMS" intnum="298" />
+<marker lat="28.0905126863424" lng="-82.4057156253201" intname="BRUCE B DOWNS and AMBERLY" intnum="299" />
+<marker lat="28.14410272117" lng="-82.2818699879912" intname="MORRIS BRIDGE and CROSS CREEK" intnum="300" />
+<marker lat="28.1421110034224" lng="-82.3213361491055" intname="CROSS CREEK and ARBOR GREENE DR" intnum="301" />
+<marker lat="28.142107598758" lng="-82.3259497219382" intname="CROSS CREEK and KINNAN" intnum="302" />
+<marker lat="28.1421033655778" lng="-82.3313651676679" intname="CROSS CREEK and HIGHL and  OAK DR" intnum="303" />
+<marker lat="28.142535893554" lng="-82.3471348571435" intname="CROSS CREEK and GREEN PINE(FIREHOUSE)" intnum="304" />
+<marker lat="27.941364662985" lng="-82.5242784997763" intname="WESTSHORE and AZEELE" intnum="305" />
+<marker lat="27.9441971089008" lng="-82.5242708020045" intname="WESTSHORE and URBAN CENTER" intnum="306" />
+<marker lat="27.9448446312908" lng="-82.5242824787565" intname="KENNEDY and WESTSHORE" intnum="307" />
+<marker lat="27.9467358446326" lng="-82.5242222900706" intname="WESTSHORE and NORTH B" intnum="308" />
+<marker lat="27.9485827713025" lng="-82.5242022894326" intname="WESTSHORE and GRAY" intnum="309" />
+<marker lat="27.9498066333577" lng="-82.5241708981203" intname="WESTSHORE and I-275" intnum="310" />
+<marker lat="27.95071460568" lng="-82.5241639659389" intname="WESTSHORE and I-275" intnum="311" />
+<marker lat="27.9522897960495" lng="-82.5241633574354" intname="WESTSHORE and CYPRESS" intnum="312" />
+<marker lat="27.9448445109634" lng="-82.5263009623023" intname="KENNEDY and OCCIDENT" intnum="313" />
+<marker lat="27.9448618717649" lng="-82.5273302802206" intname="KENNEDY and GARDENIA" intnum="314" />
+<marker lat="27.9454604327119" lng="-82.5298215835824" intname="MEMORIAL and KENNEDY" intnum="315" />
+<marker lat="27.9448839267124" lng="-82.5345299913729" intname="KENNEDY and HOOVER" intnum="316" />
+<marker lat="27.9559522097761" lng="-82.5242254754183" intname="WESTSHORE and LAUREL" intnum="317" />
+<marker lat="27.9597260798627" lng="-82.5241228218701" intname="BOY SCOUT and WESTSHORE" intnum="318" />
+<marker lat="27.9522890984058" lng="-82.5221144694276" intname="CYPRESS and TRASK" intnum="319" />
+<marker lat="27.9448431201924" lng="-82.5140081513622" intname="KENNEDY and LOIS" intnum="320" />
+<marker lat="27.9412798422597" lng="-82.5140533088756" intname="LOIS and AZEELE \/ WOODMERE" intnum="321" />
+<marker lat="27.937645818625" lng="-82.5140700524588" intname="LOIS and SWANN" intnum="322" />
+<marker lat="27.9339695038821" lng="-82.5140762887827" intname="LOIS and MORRISON" intnum="323" />
+<marker lat="27.9599076079264" lng="-82.5318082649208" intname="SPRUCE and O'BRIEN" intnum="324" />
+<marker lat="28.0435795746389" lng="-82.4262006396953" intname="30TH ST and BOUGAINVILLEA" intnum="325" />
+<marker lat="28.0435833476368" lng="-82.4162292367184" intname="MCKINLEY and BOUGAINVILLEA" intnum="326" />
+<marker lat="28.0436047838294" lng="-82.4099113088081" intname="46TH ST and BOUGAINVILLEA" intnum="327" />
+<marker lat="28.0362595265605" lng="-82.4262053470141" intname="30TH ST and ANNIE" intnum="328" />
+<marker lat="28.032564026365" lng="-82.4346498340599" intname="BUSCH and 22ND ST" intnum="329" />
+<marker lat="28.0325827546187" lng="-82.4305074619719" intname="BUSCH and 26TH ST" intnum="330" />
+<marker lat="28.0325823845709" lng="-82.4263425300136" intname="BUSCH and 30TH ST" intnum="331" />
+<marker lat="28.0326257931499" lng="-82.4163373117423" intname="BUSCH and 40TH ST \/ MCKINLEY" intnum="332" />
+<marker lat="28.0326417913725" lng="-82.4099362824566" intname="BUSCH and 46TH ST" intnum="333" />
+<marker lat="28.0326557922074" lng="-82.4016822905463" intname="BUSCH and 50TH ST" intnum="334" />
+<marker lat="28.0289217536954" lng="-82.4263642590323" intname="30TH ST and YUKON" intnum="335" />
+<marker lat="28.0374946435263" lng="-82.4162537878715" intname="MCKINLEY and BUSCH GARDENS ENTRANCE" intnum="336" />
+<marker lat="28.0350379250961" lng="-82.4162959257911" intname="MCKINLEY and BUSCH GARDENS PARKING EXIT" intnum="337" />
+<marker lat="27.8934394904068" lng="-82.5268337023002" intname="G and Y and WESTSHORE" intnum="338" />
+<marker lat="27.8935637832085" lng="-82.5184273724447" intname="G and Y and MANHATTAN" intnum="339" />
+<marker lat="27.8937548431282" lng="-82.5154453337972" intname="G and Y and LOIS" intnum="340" />
+<marker lat="27.8937067716192" lng="-82.506353325514" intname="G and Y and DALE MABRY" intnum="341" />
+<marker lat="27.8936954222081" lng="-82.5021034639282" intname="G and Y and HIMES" intnum="342" />
+<marker lat="27.8936944058141" lng="-82.4938658220569" intname="G and Y and MACDILL" intnum="343" />
+<marker lat="27.893598882513" lng="-82.4872309923117" intname="G and Y and BAYSHORE" intnum="344" />
+<marker lat="27.8900440583365" lng="-82.5064090859588" intname="DALE MABRY and BALLAST POINT BLVD" intnum="345" />
+<marker lat="27.8915917274611" lng="-82.4857712728105" intname="BAYSHORE and INTERBAY" intnum="346" />
+<marker lat="27.9412388081872" lng="-82.5057343492042" intname="DALE MABRY and AZEELE" intnum="347" />
+<marker lat="27.9375882191382" lng="-82.5057641183588" intname="DALE MABRY and SWANN" intnum="348" />
+<marker lat="27.9338868177412" lng="-82.5058423452005" intname="DALE MABRY and HENDERSON" intnum="349" />
+<marker lat="27.9302277558819" lng="-82.5058433266295" intname="DALE MABRY and NEPTUNE" intnum="350" />
+<marker lat="27.9238557383691" lng="-82.5059239491356" intname="DALE MABRY and SAN CARLOS" intnum="351" />
+<marker lat="27.9197737787237" lng="-82.505964362383" intname="DALE MABRY and BAY TO BAY" intnum="352" />
+<marker lat="27.9115317607645" lng="-82.506100296192" intname="DALE MABRY and EL PRADO" intnum="353" />
+<marker lat="27.9086796767341" lng="-82.5061424087578" intname="DALE MABRY and EUCLID" intnum="354" />
+<marker lat="27.9064957635117" lng="-82.5061783285606" intname="DALE MABRY and BAY VISTA" intnum="355" />
+<marker lat="27.9375368616876" lng="-82.5016444486103" intname="HENDERSON and HIMES \/ SWANN" intnum="356" />
+<marker lat="27.9339047994583" lng="-82.5078963334668" intname="CHURCH and MORRISON" intnum="357" />
+<marker lat="27.9321028372733" lng="-82.5079102859551" intname="HENDERSON and CHURCH \/ WATROUS" intnum="358" />
+<marker lat="27.9302338151788" lng="-82.5079243445825" intname="CHURCH and NEPTUNE" intnum="359" />
+<marker lat="27.9198067972216" lng="-82.5080525965018" intname="BAY TO BAY and CHURCH" intnum="360" />
+<marker lat="27.9197647185458" lng="-82.5018781620184" intname="BAY TO BAY and HIMES" intnum="361" />
+<marker lat="27.9448346005131" lng="-82.5057074272525" intname="DALE MABRY and KENNEDY" intnum="362" />
+<marker lat="27.9485674957643" lng="-82.5056780416745" intname="DALE MABRY and GRAY" intnum="363" />
+<marker lat="27.9521748166916" lng="-82.5056323123287" intname="DALE MABRY and CYPRESS" intnum="364" />
+<marker lat="27.9536425833583" lng="-82.5056136665011" intname="DALE MABRY and I-275 (S)" intnum="365" />
+<marker lat="27.9558357737542" lng="-82.5056033463349" intname="DALE MABRY and I-275 (N)" intnum="366" />
+<marker lat="27.9572555097555" lng="-82.5055889197594" intname="DALE MABRY and HOME DEPOT- WALMART" intnum="367" />
+<marker lat="27.9594655638123" lng="-82.5055575524755" intname="DALE MABRY and SPRUCE" intnum="368" />
+<marker lat="27.9640748359451" lng="-82.5054962852002" intname="DALE MABRY and GOLD TRIANGLE" intnum="369" />
+<marker lat="27.9667738336446" lng="-82.5054773392358" intname="DALE MABRY and COLUMBUS" intnum="370" />
+<marker lat="27.9740398191792" lng="-82.505456286903" intname="DALE MABRY and TAMPA BAY" intnum="371" />
+<marker lat="27.9815646284884" lng="-82.5054148140863" intname="DALE MABRY and M L KING JR" intnum="372" />
+<marker lat="27.9740836605555" lng="-82.5090117858143" intname="H C C and TAMPA BAY" intnum="373" />
+<marker lat="27.9816097457236" lng="-82.5136525335754" intname="M L KING JR and LOIS" intnum="374" />
+<marker lat="27.966373441218" lng="-82.5121002202847" intname="BOY SCOUT and COLUMBUS" intnum="375" />
+<marker lat="27.9636846780361" lng="-82.515397595872" intname="BOY SCOUT and LOIS" intnum="376" />
+<marker lat="27.9686821054226" lng="-82.5385780170796" intname="AIRPORT SERV RD and POST OFFICE (N)" intnum="377" />
+<marker lat="27.9666499671782" lng="-82.5386258584095" intname="AIRPORT SERV RD and POST OFFICE (S)" intnum="378" />
+<marker lat="27.9665965372134" lng="-82.5359214194243" intname="AIRPORT SERV RD and POST OFFICE (E)" intnum="379" />
+<marker lat="27.9687991025303" lng="-82.5396990231155" intname="AIRPORT SERVICE RD and POST OFFICE (W)" intnum="380" />
+<marker lat="27.9686544526254" lng="-82.5377332029377" intname="AIRPORT SERVICE RD and POST OFFICE PEDESTRIAN" intnum="381" />
+<marker lat="27.956071056148" lng="-82.5323190124206" intname="O'BRIEN and LAUREL" intnum="382" />
+<marker lat="27.9523964965886" lng="-82.5323652843889" intname="CYPRESS and O'BRIEN" intnum="383" />
+<marker lat="27.9524108669195" lng="-82.5340841316958" intname="CYPRESS and FRONTAGE (E)" intnum="384" />
+<marker lat="27.9524282652975" lng="-82.5352743008689" intname="CYPRESS and FRONTAGE (W)" intnum="385" />
+<marker lat="27.9813585269287" lng="-82.5013849919856" intname="M L KING JR and HIMES" intnum="386" />
+<marker lat="27.9813497368213" lng="-82.4985640186342" intname="M L KING JR and SEARS" intnum="387" />
+<marker lat="27.9813274061604" lng="-82.4953269236099" intname="M L KING JR and BURDINES" intnum="388" />
+<marker lat="27.9813646905119" lng="-82.4930127756923" intname="M L KING JR and MACDILL" intnum="389" />
+<marker lat="27.9813277678554" lng="-82.4888173028705" intname="M L KING JR and HABANA" intnum="390" />
+<marker lat="27.9831597207921" lng="-82.5013308549404" intname="HIMES and TAMPA BAY PARKWAY" intnum="391" />
+<marker lat="27.9788635169665" lng="-82.5014256897689" intname="HIMES and SEARS" intnum="392" />
+<marker lat="27.9740528320926" lng="-82.501456348522" intname="HIMES and TAMPA BAY" intnum="393" />
+<marker lat="27.9667668353131" lng="-82.5015193271983" intname="HIMES and COLUMBUS" intnum="394" />
+<marker lat="27.9740118158078" lng="-82.484824310678" intname="ARMENIA and CIMINO \/ TAMPA BAY" intnum="395" />
+<marker lat="27.9813125522978" lng="-82.4847005785092" intname="M L KING JR and ARMENIA" intnum="396" />
+<marker lat="27.974019809053" lng="-82.4889413117077" intname="TAMPA BAY and HABANA" intnum="397" />
+<marker lat="27.9740257811556" lng="-82.4930842943502" intname="TAMPA BAY and MACDILL" intnum="398" />
+<marker lat="27.9740273139599" lng="-82.4941161617755" intname="TAMPA BAY and MACDILL \/ MATANAZAS (MID)" intnum="399" />
+<marker lat="27.9830349625409" lng="-82.4846176376426" intname="ARMENIA and ALVA \/ WISHART" intnum="400" />
+<marker lat="27.9887935884522" lng="-82.4845820892649" intname="ARMENIA and OSBORNE" intnum="401" />
+<marker lat="27.9667281262405" lng="-82.4973141833682" intname="COLUMBUS and LINCOLN" intnum="402" />
+<marker lat="27.9667359537457" lng="-82.4931833650307" intname="COLUMBUS and MACDILL" intnum="403" />
+<marker lat="27.966731449343" lng="-82.4890337927224" intname="COLUMBUS and HABANA" intnum="404" />
+<marker lat="27.9667077582649" lng="-82.4848893323355" intname="COLUMBUS and ARMENIA" intnum="405" />
+<marker lat="27.9666937763144" lng="-82.4828082477165" intname="COLUMBUS and HOWARD" intnum="406" />
+<marker lat="27.9604711933261" lng="-82.4849588721731" intname="ARMENIA and PINE \/ WALNUT (MID)" intnum="407" />
+<marker lat="27.9580640094888" lng="-82.4932239207406" intname="MACDILL and MAIN \/ CHESTNUT (MID)" intnum="408" />
+<marker lat="27.9594624120862" lng="-82.4932186240786" intname="MACDILL and SPRUCE" intnum="409" />
+<marker lat="27.9594340028343" lng="-82.5014301016442" intname="HIMES and SPRUCE" intnum="410" />
+<marker lat="27.9557665832462" lng="-82.5014741828572" intname="HIMES and I-275 (N\/S)" intnum="411" />
+<marker lat="27.9565457791714" lng="-82.5014632811184" intname="HIMES and I-275 (N\/S)" intnum="412" />
+<marker lat="27.9632598293178" lng="-82.4677002775158" intname="BOULEVARD and ROSS" intnum="413" />
+<marker lat="27.9669307653251" lng="-82.4676823178127" intname="COLUMBUS and BOULEVARD" intnum="414" />
+<marker lat="27.9705937505695" lng="-82.467666337038" intname="BOULEVARD and WEST" intnum="415" />
+<marker lat="27.9669236843368" lng="-82.4731067797707" intname="COLUMBUS and RIDGEWOOD" intnum="416" />
+<marker lat="27.9669212974801" lng="-82.4641613280406" intname="COLUMBUS and NEVADA \/ OLA (MID)" intnum="417" />
+<marker lat="28.1682628317631" lng="-82.3536658320057" intname="BRUCE B. DOWNS and IMPERIAL OAK BLVD" intnum="418" />
+<marker lat="28.1610738049521" lng="-82.3535086539388" intname="BRUCE B DOWNS and WHARTON HIGH" intnum="419" />
+<marker lat="28.1541328902334" lng="-82.3533794437725" intname="BRUCE B DOWNS and REGENTS PARK" intnum="420" />
+<marker lat="28.1513764886791" lng="-82.3532845643194" intname="BRUCE B DOWNS and PEBBLE CREEK" intnum="421" />
+<marker lat="27.9432091923929" lng="-82.4726966310861" intname="CLEVEL and  and WILLOW" intnum="422" />
+<marker lat="27.943177766955" lng="-82.4685563016256" intname="CLEVEL and  and BOULEVARD" intnum="423" />
+<marker lat="27.9431520761917" lng="-82.4639093076749" intname="BROREIN \/ CLEVEL and  and HYDE PARK" intnum="424" />
+<marker lat="27.9433528123895" lng="-82.4627793513005" intname="BROREIN and PLANT" intnum="425" />
+<marker lat="27.9417910951676" lng="-82.4727058798836" intname="PLATT and WILLOW" intnum="426" />
+<marker lat="27.9417418474394" lng="-82.4685778494215" intname="PLATT and BOULEVARD" intnum="427" />
+<marker lat="27.9416867238546" lng="-82.4639343121419" intname="PLATT and HYDE PARK" intnum="428" />
+<marker lat="27.9416704945485" lng="-82.4628031099698" intname="PLATT and PLANT" intnum="429" />
+<marker lat="27.9393007038807" lng="-82.4686198691247" intname="BOULEVARD and DELEON \/ HORATIO (MID)" intnum="430" />
+<marker lat="27.9373285068622" lng="-82.4758231554802" intname="SWANN and DAKOTA" intnum="431" />
+<marker lat="27.9373111665269" lng="-82.4701509704203" intname="SWANN and DELAWARE \/ EDISON (MID)" intnum="432" />
+<marker lat="27.9372792612728" lng="-82.4686551503363" intname="SWANN and BOULEVARD" intnum="433" />
+<marker lat="27.9286757917727" lng="-82.493469341511" intname="MACDILL and ESTRELLA" intnum="434" />
+<marker lat="27.9245537609798" lng="-82.493560322676" intname="MACDILL and SAN MIGUEL" intnum="435" />
+<marker lat="27.9217947080166" lng="-82.4936098062697" intname="MACDILL and BARCELONA" intnum="436" />
+<marker lat="27.9197507880156" lng="-82.4987556557347" intname="BAY TO BAY and CONCORDIA" intnum="437" />
+<marker lat="27.9197281873328" lng="-82.4953642747263" intname="BAY TO BAY and ESPERANZA" intnum="438" />
+<marker lat="27.9197193062663" lng="-82.4936395999165" intname="MACDILL and BAY TO BAY" intnum="439" />
+<marker lat="27.9193492738766" lng="-82.4904789485211" intname="BAYSHORE and BAY TO BAY" intnum="440" />
+<marker lat="27.925379513237" lng="-82.4825249950005" intname="BAYSHORE and HOWARD" intnum="441" />
+<marker lat="27.91150444643" lng="-82.501971335169" intname="EL PRADO and HIMES" intnum="442" />
+<marker lat="27.9086627735721" lng="-82.5020293567063" intname="EUCLID and HIMES" intnum="443" />
+<marker lat="27.911477526087" lng="-82.4990213721664" intname="EL PRADO and CONCORDIA" intnum="444" />
+<marker lat="27.9086531754571" lng="-82.4983833150747" intname="EUCLID and DREXEL \/ WAVERLY (MID)" intnum="445" />
+<marker lat="27.9114737639671" lng="-82.4937022932988" intname="MACDILL and EL PRADO" intnum="446" />
+<marker lat="27.9086787709365" lng="-82.4937303267527" intname="MACDILL and EUCLID" intnum="447" />
+<marker lat="27.9116087883018" lng="-82.5179653695559" intname="MANHATTAN and EL PRADO" intnum="448" />
+<marker lat="27.9087806188492" lng="-82.5180078708844" intname="MANHATTAN and EUCLID" intnum="449" />
+<marker lat="27.9068719011656" lng="-82.5182084252852" intname="MANHATTAN and BAY VISTA" intnum="450" />
+<marker lat="27.9116698105596" lng="-82.5267233339011" intname="WESTSHORE and EL PRADO" intnum="451" />
+<marker lat="27.9088447667254" lng="-82.5267273285429" intname="WESTSHORE and EUCLID" intnum="452" />
+<marker lat="27.9004873056261" lng="-82.5184599473558" intname="MANHATTAN and BAY VISTA \/ FAIR OAKS (MID)" intnum="453" />
+<marker lat="27.9266149525498" lng="-82.514142726496" intname="HENDERSON and LOIS \/ SAN RAFAEL" intnum="454" />
+<marker lat="27.9285039786945" lng="-82.5182309401907" intname="MANHATTAN and ESTRELLA" intnum="455" />
+<marker lat="27.9280792474417" lng="-82.5243825810863" intname="WESTSHORE and ESTRELLA \/ SAN MIGUEL (MID)" intnum="456" />
+<marker lat="27.9230477673728" lng="-82.523750303092" intname="WESTSHORE and SAN JOSE" intnum="457" />
+<marker lat="27.9229879505699" lng="-82.517872436101" intname="HENDERSON \/ MANHATTAN and SAN JOSE\r\n SAN JOSE" intnum="458" />
+<marker lat="27.9198826632287" lng="-82.5178547063786" intname="MANHATTAN and BAY TO BAY" intnum="459" />
+<marker lat="27.9302578137083" lng="-82.5099782919779" intname="HENDERSON and GRADY \/ NEPTUNE" intnum="460" />
+<marker lat="27.9309573914305" lng="-82.5243447614827" intname="WESTSHORE and CULBREATH ISLE" intnum="461" />
+<marker lat="27.8839388401461" lng="-82.5064773558421" intname="DALE MABRY and OKLAHOMA" intnum="462" />
+<marker lat="27.8809448047947" lng="-82.5184823705044" intname="MANHATTAN and IOWA" intnum="463" />
+<marker lat="27.8894748765773" lng="-82.493907327471" intname="MACDILL and BALLAST PT \/ CHEROKEE (MID)" intnum="464" />
+<marker lat="27.8726309772445" lng="-82.5063803619606" intname="DALE MABRY and INTERBAY" intnum="465" />
+<marker lat="27.8801518000002" lng="-82.4940073528841" intname="MACDILL and INTERBAY" intnum="466" />
+<marker lat="27.8659144218463" lng="-82.5186492797316" intname="INTERBAY and MANHATTAN" intnum="467" />
+<marker lat="27.8840967285374" lng="-82.4857502197869" intname="INTERBAY BLVD and BAYSHORE BLVD" intnum="468" />
+<marker lat="27.9499985683398" lng="-82.4684836409978" intname="BOULEVARD and CASS" intnum="469" />
+<marker lat="27.9498182827199" lng="-82.472617105834" intname="CASS and WILLOW" intnum="470" />
+<marker lat="27.9520054796401" lng="-82.4725928471314" intname="CYPRESS and WILLOW" intnum="471" />
+<marker lat="27.9519747886296" lng="-82.4684753221206" intname="BOULEVARD and CYPRESS" intnum="472" />
+<marker lat="27.956307756851" lng="-82.4683992978007" intname="BOULEVARD and GREEN" intnum="473" />
+<marker lat="27.9570786249854" lng="-82.4725408327339" intname="MAIN and WILLOW" intnum="474" />
+<marker lat="27.9571098365937" lng="-82.4767069239161" intname="MAIN and ROME" intnum="475" />
+<marker lat="27.9502915055998" lng="-82.4664448501822" intname="CASS and TAMPA PREP" intnum="476" />
+<marker lat="27.9570360761188" lng="-82.4684069679894" intname="BOULEVARD and MAIN" intnum="477" />
+<marker lat="27.9571538034899" lng="-82.4808542945668" intname="MAIN and ALBANY" intnum="478" />
+<marker lat="27.9502186855493" lng="-82.465186907959" intname="CASS and DRAWBRIDGE" intnum="479" />
+<marker lat="27.9595043240758" lng="-82.5138322104108" intname="LOIS and SPRUCE" intnum="480" />
+<marker lat="27.9522020835673" lng="-82.5159420839906" intname="CYPRESS and HUBERT" intnum="481" />
+<marker lat="27.9521971340034" lng="-82.5138632497402" intname="LOIS and CYPRESS" intnum="482" />
+<marker lat="27.9511712646266" lng="-82.513901143959" intname="LOIS and I-275 (N)" intnum="483" />
+<marker lat="27.9503640695726" lng="-82.5139174406115" intname="LOIS and I-275 (S)" intnum="484" />
+<marker lat="28.0253714435107" lng="-82.4842826793515" intname="WATERS and ARMENIA" intnum="485" />
+<marker lat="28.0253210343931" lng="-82.4759530175906" intname="WATERS and ROME" intnum="486" />
+<marker lat="28.0253505317013" lng="-82.4677569102912" intname="WATERS and BOULEVARD" intnum="487" />
+<marker lat="28.0253558251531" lng="-82.4595273044093" intname="WATERS and FLORIDA" intnum="488" />
+<marker lat="28.0225588182879" lng="-82.4595233110339" intname="FLORIDA and BIRD" intnum="489" />
+<marker lat="28.0252547925726" lng="-82.4551463198824" intname="WATERS and CENTRAL \/ KLONDIKE" intnum="490" />
+<marker lat="28.0251948094806" lng="-82.4512772855176" intname="NEBRASKA and WATERS" intnum="491" />
+<marker lat="28.0225686455252" lng="-82.4563575912164" intname="BIRD and I-275 (E\/W)" intnum="492" />
+<marker lat="28.022579502482" lng="-82.4553155799632" intname="BIRD and I-275 (E\/W)" intnum="493" />
+<marker lat="28.030323739914" lng="-82.4842155071009" intname="ARMENIA and HUMPHREY \/ WATERS (MID)" intnum="494" />
+<marker lat="28.022590824483" lng="-82.4512812731381" intname="NEBRASKA and BIRD" intnum="495" />
+<marker lat="28.0212190668141" lng="-82.4512832701961" intname="NEBRASKA and SITKA" intnum="496" />
+<marker lat="28.0290789059246" lng="-82.459506542819" intname="FLORIDA and YUKON" intnum="497" />
+<marker lat="28.0293018224158" lng="-82.4512572545479" intname="NEBRASKA and YUKON" intnum="498" />
+<marker lat="27.9663305018978" lng="-82.4056169232533" intname="COLUMBUS and I - 4" intnum="499" />
+<marker lat="27.9658595475868" lng="-82.405283416024" intname="COLUMBUS and I - 4" intnum="500" />
+<marker lat="27.9685940591498" lng="-82.4016503744257" intname="50TH ST and I-4 N-S" intnum="501" />
+<marker lat="27.966783870124" lng="-82.4016707522326" intname="50TH ST and I-4 N-S" intnum="502" />
+<marker lat="27.9704274542689" lng="-82.4016571638351" intname="50TH ST and MELBOURNE" intnum="503" />
+<marker lat="27.9814746933058" lng="-82.4016539833955" intname="50TH ST and M L KING JR" intnum="504" />
+<marker lat="27.9618296464158" lng="-82.4018599830897" intname="50TH ST and 7TH AVE \/ BROADWAY" intnum="505" />
+<marker lat="27.9649647399145" lng="-82.4017855795451" intname="50TH ST and COLUMBUS" intnum="506" />
+<marker lat="27.9667426470965" lng="-82.3729974277575" intname="BROADWAY and ORIENT" intnum="507" />
+<marker lat="27.9437122075652" lng="-82.4366101773679" intname="CAUSEWAY and GRANT" intnum="508" />
+<marker lat="27.9508030160711" lng="-82.4350366987634" intname="22ND ST and DURHAM" intnum="509" />
+<marker lat="27.9368791483368" lng="-82.4353072073649" intname="CAUSEWAY and MARITIME" intnum="510" />
+<marker lat="27.9674668149004" lng="-82.4355243003105" intname="21ST ST and 17TH AVE" intnum="511" />
+<marker lat="27.9668247732507" lng="-82.4355172788279" intname="21ST ST and COLUMBUS" intnum="512" />
+<marker lat="27.9668217800032" lng="-82.4347513201544" intname="22ND ST and COLUMBUS" intnum="513" />
+<marker lat="27.9674698007361" lng="-82.4347513184849" intname="22ND ST and 17TH AVE" intnum="514" />
+<marker lat="27.9741381354152" lng="-82.4347662284518" intname="22ND ST and 26TH AVE" intnum="515" />
+<marker lat="27.9778134911216" lng="-82.4347772755052" intname="22ND ST and LAKE" intnum="516" />
+<marker lat="27.9668239167244" lng="-82.444255060785" intname="COLUMBUS and A R D C" intnum="517" />
+<marker lat="27.9668177757626" lng="-82.4429682874303" intname="15TH ST and COLUMBUS" intnum="518" />
+<marker lat="27.9667618210887" lng="-82.4223872885837" intname="34TH ST and COLUMBUS" intnum="519" />
+<marker lat="27.9682353890374" lng="-82.422388416341" intname="34TH ST and 18TH AVE" intnum="520" />
+<marker lat="27.9674308869373" lng="-82.4429624913513" intname="15TH ST and 17TH AVE" intnum="521" />
+<marker lat="27.960227745604" lng="-82.4223802930543" intname="7TH AVE and 34TH ST" intnum="522" />
+<marker lat="27.97783082376" lng="-82.4429523168422" intname="15TH ST and LAKE" intnum="523" />
+<marker lat="27.9705658309894" lng="-82.444225616039" intname="A R D C and 21ST AVE" intnum="524" />
+<marker lat="27.9705124486497" lng="-82.4429790161851" intname="15TH ST and 21ST AVE" intnum="525" />
+<marker lat="27.9814908038801" lng="-82.4429442963136" intname="M L KING JR and 15TH ST" intnum="526" />
+<marker lat="27.981475736919" lng="-82.434795317024" intname="M L KING JR and 22ND ST" intnum="527" />
+<marker lat="27.9814398083331" lng="-82.4280353043589" intname="M L KING JR and 29TH ST" intnum="528" />
+<marker lat="27.981480741686" lng="-82.4223843363147" intname="M L KING JR and 34TH ST" intnum="529" />
+<marker lat="27.9778056050109" lng="-82.4224478285305" intname="34TH ST and LAKE" intnum="530" />
+<marker lat="27.9887774780497" lng="-82.4429768421388" intname="15TH ST and OSBORNE" intnum="531" />
+<marker lat="27.9923949505266" lng="-82.4347647415019" intname="22ND ST and WILDER" intnum="532" />
+<marker lat="27.9887631808144" lng="-82.4347579691947" intname="22ND ST and OSBORNE" intnum="533" />
+<marker lat="27.988796998341" lng="-82.4224289487994" intname="34TH ST and OSBORNE" intnum="534" />
+<marker lat="27.9867103738805" lng="-82.422417796531" intname="34TH ST and CAYUGA \/ PALIFOX (MID)" intnum="535" />
+<marker lat="27.9273651410096" lng="-82.3188983540884" intname="TOWN CENTER BLVD and BR and ON PARKWAY" intnum="536" />
+<marker lat="27.9674851275359" lng="-82.5679274125831" intname="C C CAUSEWAY and ROCKY POINT" intnum="537" />
+<marker lat="27.9677204634068" lng="-82.5696407845676" intname="C C CAUSEWAY and BAY HARBOR DR" intnum="538" />
+<marker lat="27.970793299276" lng="-82.5784429661677" intname="C C CAUSEWAY and MUNICIPAL BEACH" intnum="539" />
+<marker lat="27.9717122863586" lng="-82.6100909079169" intname="C C CAUSEWAY and BOAT RAMP" intnum="540" />
+<marker lat="27.996135570756" lng="-82.4926839034284" intname="HILLSBOROUGH and MACDILL" intnum="541" />
+<marker lat="27.9719392547039" lng="-82.4223760113266" intname="34TH ST and 23RD AVE" intnum="542" />
+<marker lat="27.9501339431135" lng="-82.4639284133103" intname="DOYLE CARLTON and CASS \/ TYLER  (FLASHER)" intnum="543" />
+<marker lat="27.9816353471354" lng="-82.5200022980617" intname="AIR CARGO RD and W MARTIN LUTHER KING BLVD" intnum="544" />
+<marker lat="28.1332665670994" lng="-82.362889013704" intname="BRUCE B DOWNS and RICHMOND PLACE\/FLATWOODS DR" intnum="945" />
+<marker lat="28.1465810573307" lng="-82.35324883928" intname="BRUCE B DOWNS and REGENTS PARK" intnum="946" />
+<marker lat="28.1460607928154" lng="-82.3653506915072" intname="NEW TAMPA BLVD and WOOD SAGE DR" intnum="947" />
+<marker lat="28.1346888522681" lng="-82.3825676358393" intname="COMMERCE PARK and FREEDOM HIGH SCHOOL" intnum="948" />
+<marker lat="28.1439738999237" lng="-82.2907406826346" intname="CROSS CREEK BLVD and FIRE STATION 22" intnum="949" />
 </markers>
