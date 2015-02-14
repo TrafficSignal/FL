@@ -1,0 +1,35 @@
+Boca Raton -		-Green
+Brevard			-Brown
+Broward County 		-Blue
+Escambia		-Blue
+Fort Pierce		-LightBlue
+HillsboroughCounty	-Green
+Indian River		-Orange
+Lee 			-LightBlue
+Martin			-AshBlue
+Manatee			-Green
+Miami Dade		-Red
+Okaloosa		-Ashblue
+Orange			-Orange
+Palm Beach		-Purple
+Pasco			-Orange
+Polk			-Purple
+Port Saint Lucie	-Brown
+Seminole		-Yellow
+St Lucie		-YellowGreen
+Tallahassee		-Red
+Tampa			-Red
+Town of Palm Beach	-Yellow
+Volusia			-YellowGreen
+
+Count
+Green - 	3 (Boca, Hillsborough, Manatee) 
+Brown - 	2 (Brevard, Port Saint Lucie)
+Blue		2 (Broward,Escambia)
+Orange		3 (Pasco, Indian River, Orange)
+Red		3 (Tampa, Miami Dade, Talhasee)
+LightBlue	2 (Fort Pierce, Lee
+AshBlue		2 (Martin, Okaloosa)
+Purple		2 (Palm Beach, Polk)
+Yellow		2 (Seminole, Town of Palm Beach
+YellowGreen	2 (Saint Lucie, Volusia)

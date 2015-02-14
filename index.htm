@@ -9,10 +9,6 @@
 	<noscript><b>JavaScript must be enabled in order for you to use this Application/Website</b> </noscript>
 <!-- JQuery Related Scripts -->
 	<script src="jquery/jquery.js"></script>
-	<script src="jquery/jquery.sticky.js"></script>
-<!-- <script>  $(window).load(function(){
-					$("#header").sticky({ topSpacing: 0 }); });
-	</script> -->
 	<script>  
 		$(document).ready(function()	{
 			$('#updateinfo').hide();
@@ -32,43 +28,57 @@
 		 });
 	</script>
 <!--CSS Style Sheets -->
-	<link href="css/HeaderStyle.css" rel="stylesheet" >
+	<link href="css/index.css" rel="stylesheet" >
 </head>
 
 <body>
 <div id="topnav">
-	[ <A href="info.htm"> Contact Information  </a> | <A href="http://trint.us/Dev4/"> Client Login  </a>  ] <br>
+	[ <A href="info.htm"> Contact Information  </a> | <A href="http://trint.us/Dev4/"> Client Login  </a>  |  <A href="https://github.com/TrafficSignal/">GitHub </a> ] <br>
 	<button id='updatebtn'>Update Info</button><button id='disclaimbtn'>Disclaimer Info</button><button id='hidebtn'>Hide Info</button>
 </div>
 
-<br><br><br><br><br>
-<div id="header1">
+<br><br>
+<div id="desktopversion">
 Desktop Version
-	[ <A href="FLStateIndex.D.htm"> Desktop Site - Multi Jurisdiction, starting with Florida  </a> ]
+	[ <A href="FLStateIndex.D.htm">  FL Traffic Signals  </a> ]
 </div>
   <br><br>
 
-  <div id="header2">
- Mobile and Tablet Version
-	[ <A href="FLStateIndex.M.htm"> Mobile Site - Multi Jurisdiction  </a> ]
+  <div id="mobileversion">
+ Smartphone and Tablet Version
+	[ <A href="FLStateIndex.M.htm">  FL Traffic Signals </a> ]
  </div>	
-	<br><br><br><br><br>
+	<br><br>
 	
 <div id="updateinfo">
 <span id="infotitle"> Monthly Status Update</span>
-	<p>Next Scheduled Update, 02/14/2015; last updated 02/07/2015 </p>
+	<p>Next Scheduled Update, 02/21/2015; last updated 02/14/2015 </p>
+	<p>02/16-02/20 -2015 - Traffic Signal Data requested from City of Saint Petersburg, Sarasota County, Saint John's County, City of Daytona Beach, Bay County </p>
+	<p>02/16-02/20 -2015 - Follow up/Retry Data request from Pinellas County (no response), Lake County (Positive Response, no data received), City of Gainesville (positive response, no data received) </p>
+	<p>02/14/15 - Okaloosa County Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/14/15 - Escambia County Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/14/15 - City of Tallahassee Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/14/15 - Orange County (City of Orlando) Traffic Signals, data obtained and now mapped in TRINT. </p>
+	<p>02/14/15 - Manatee County  Traffic Signals, data obtained and now mapped in TRINT. (No Data on Local Names - requesting lists) </p>d
+	<p>02/14/15 - Brevard County Traffic Signals, data obtained and now mapped in TRINT. </p>d
+	<p>02/08/15 - Added Categories for Signals on SHS (State Highway System). Beacon, Full Color, Mid-Block, Emergency Signal, School Signal as found in 
+<a href="ftp://ftp.dot.state.fl.us/fdot/co/planning/transtat/gis/TRANSTAT_metadata/traffic_signal_locations.shp.xml">FDOT Metadata</a></p>
 	<p>02/07/15 - Pasco County Traffic Signals, data obtained and now mapped in TRINT. </p>
 	<p>02/07/15 - Seminole County Traffic Signals, data obtained and now mapped in TRINT.  </p>
 	<p>02/07/15 - Lee County Traffic Signals, data obtained and now mapped in TRINT. </p>
 	<p>02/07/15 - Polk County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/07/15 - Data requested from City of Orlando, Escambia County, Lake County, Okaloosa County, Manatee County </p>
-	<p>02/07/15 - Retrying Data request from Pinellas County, City of Gainesville, City of Tallahassee. Data not yet received </p>
-	<p>02/07/15 - City of Jacksonville declined to share data, requesting again through Florida Statutes 119 - Public Records Request </p>
-	<p>01/31/15 - Data requested from City of Gainesville, City of Tallahassee, Seminole County, Lee County, Polk County </p>
-	<p>01/31/15 - Volusia County Traffic Signals data obtained and mapped in TRINT </p>
-	<p>01/24/15 - City of Tampa Traffic Signals data obtained and mapped  in TRINT </p>
-	<p>01/24/15 - Hillsborough County Traffic Signals mapped  and mapped  in TRINT</p>	
-	<p>01/24/15 - Brevard  County Data/list Obtained, manual geocoding required   </p>	
+	<p>02/07/15 - Traffic Signal Data requested from City of Orlando(Orange County), Escambia County, Lake County, Okaloosa County, Manatee County </p>
+	<p>02/07/15 - Traffic Signal Data requested from Pinellas County, City of Gainesville, City of Tallahassee. Data not yet received </p>
+	<p>02/07/15 - City of Jacksonville declined to share data, data request again through Florida Statutes 119 - Public Records Request </p>
+	<p> Map Traffic Signal Agencies, by Florida Districts:
+			<ul><li>D1 - Lee County, Manatee County, Polk County</li>
+			<li>D3 - Escambia County, Okaloosa County, City of Tallahassee</li>
+			<li>D4 - Broward County, City of Boca Raton, City of Ft Pierce, Indian River County, Martin County, Palm Beach County, City of Port St. Lucie, Town of Palm Beach</li>
+			<li>D5 - Brevard County, Orange County, Seminole County, Volusia County</li>
+			<li>D6 - Miami-Dade County</li>
+			<li>D7 - Hillsborough County, Pasco County, City of Tampa, </li>
+			</uL></p>	
+		
 </div>
 <div id="disclaiminfo">
 <span id="infotitle"> Disclaimer</span>
@@ -80,14 +90,11 @@ Any data that is obtained from the this website may have  (naming, spatial or me
 <p>That being said. If you find any errors, please contact us at <a href='mailto:data@trint.us?Subject=Data%20Error'>data@trint.us </a> so we can correct inaccuracies as soon as possible.
 </p>
 </div>
-	<br><br><br><br><br>
-	
-<div id="bottomnav">
-	 Trint Labs [ <A href="https://github.com/TrafficSignal/">GitHub </a> | <A href="http://trint.us/Dev4/USNationalIndex.htm"> National, Multi State & Regional Demo </a>  | <A href="http://trint.us/Dev4/BocaRatonCityIndex.htm">Single Jurisdiction Demo </a> ]
-</div><br><br>
+	<br><br>
 
+<div id="adsense">
+<!-- Mobile  -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Mobile -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
      data-ad-client="ca-pub-7074806197787335"
@@ -102,10 +109,11 @@ Any data that is obtained from the this website may have  (naming, spatial or me
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-59057956-1', 'auto');
   ga('send', 'pageview');
-</script>
+</script>	
+
+</div>
 
  
 </body>

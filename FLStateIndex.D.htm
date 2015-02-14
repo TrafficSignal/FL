@@ -25,6 +25,7 @@
 <!--Traffic Signal Layers -->
 	<script src="js/FloridaSignalLayer.js"></script> 
 	<script src="js/Signals/D1Signals.D.js"></script> 
+	<script src="js/Signals/D3Signals.D.js"></script> 
 	<script src="js/Signals/D4Signals.D.js"></script> 
 	<script src="js/Signals/D5Signals.D.js"></script> 
 	<script src="js/Signals/D6Signals.D.js"></script> 
@@ -97,11 +98,16 @@
 											<input type="checkbox" id="District6CheckBox" onclick="FLDistrict6Toggle()" />District 6</label> <br>
 											<input type="checkbox" id="District7CheckBox" onclick="FLDistrict7Toggle()" />District 7</label> <br>
 										</td></tr>
-										<tr><td><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on State Highways</button><td></tr>
+										<tr><td><button id="button" onclick="loadFloridaStateSignals()"><img src="images/FLSignalALL.png" ></button>All Signals on State DOT <td></tr>
+										<tr><td><button id="button" onclick="loadFLStateBeacons()"><img src="images/FLBeacon.png" ></button>Beacons on State Highways<td></tr>
+										<tr><td><button id="button" onclick="loadFLStateSignals()"><img src="images/FLSignal.png" ></button>Full Traffic Signals on State Highways<td></tr>
+										<tr><td><button id="button" onclick="loadFLStateMidblocks()"><img src="images/FLMidblock.png" ></button>Mid Block Traffic Signals on State Highways<td></tr>
+										<tr><td><button id="button" onclick="loadFLStateSchools()"><img src="images/FLSchoolSignal.png" ></button>School Signals on State Highways<td></tr>
+										<tr><td><button id="button" onclick="loadFLStateEmergency()"><img src="images/FLEmergencySignal.png" ></button>Emergency Signals on State Highways<td></tr>
 									</table>
 									<br>
 								</div>
-							<h3>District 1 <strong class="headgreen"> Partial - Borders,  Some Signal Agencies</strong></h3>
+							<h3>District 1 <strong class="headgreen"> Partial.  Larger Signal Agencies mapped </strong></h3>
 								<div>
 									<button class="button load-toggle" onclick="clearD1basemap()">Clear Layers, Focus D1 </button>
 									<button class="button load-toggle" onclick="FLDistrict1Info()">District 1 Bounds</button><br>
@@ -128,6 +134,7 @@
 									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 									<tr><td>
 										<tr><td><button id="button" onclick="loadLeeCountySignals()"><img src="images/LeeCountySignal.png" ></button></td><td>Lee County</td></tr>
+										<tr><td><button id="button" onclick="loadManateeCountySignals()"><img src="images/ManateeCountySignal.png" ></button></td><td>Manatee County</td></tr>
 										<tr><td><button id="button" onclick="loadPolkCountySignals()"><img src="images/PolkCountySignal.png" > </button></td><td>Polk County</td></tr>
 										<tr><td><button id="button" onclick=""><img src="images/Red.png" ></button></td><td>Coming Soon. Collecting Data for District 1 </td></tr>
 									</td></tr>
@@ -169,7 +176,7 @@
 										</td></tr>
 									</table>
 								</div>
-							<h3>District 3 <strong class="headyellow"> Development - Borders okay </strong></h3>
+							<h3>District 3 <strong class="headgreen"> Partial. Larger Signal Agencies mapped </strong></h3>
 								<div>
 										<button class="button load-toggle" onclick="clearD3basemap()">Clear Layers, Focus D3 </button>
 									<button class="button load-toggle" onclick="FLDistrict3Info()">District 3 Bounds</button><br>
@@ -199,11 +206,14 @@
 										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
 										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 										<tr><td>
-											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 3 </td></tr>
+											<tr><td><button id="button" onclick="loadEscambiaCountySignals()"><img src="images/EscambiaCountySignal.png" ></button></td><td>Escambia County</td></tr>
+											<tr><td><button id="button" onclick="loadOkaloosaCountySignals()"><img src="images/OkaloosaCountySignal.png" > </button></td><td>Okaloosa  County</td></tr>
+											<tr><td><button id="button" onclick="loadTallahasseeSignals()"><img src="images/TallahasseeSignal.png" > </button></td><td>City of Tallahassee</td></tr>
+											<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 3 </td></tr>
 										</td></tr>
 									</table>
 								</div>
-								<h3>District 4  <strong class="headgreen"> Full - All Signal Agencies </strong> </h3>
+								<h3>District 4  <strong class="headgreen"> All Signal Agencies mapped</strong> </h3>
 								<div>
 									<button class="button load-toggle" onclick="clearD4basemap()">Clear and Focus D4 </button>
 									<button class="button load-toggle" onclick="FLDistrict4Info()">District 4 Bounds</button><br>
@@ -234,7 +244,7 @@
 									</td></tr>
 								</table>
 								</div>
-							<h3>District 5  <strong class="headgreen"> Partial - Borders,  Some Signal Agencies</strong> </h3>
+							<h3>District 5  <strong class="headgreen"> Partial.  Larger Signal Agencies mapped </strong> </h3>
 								<div>
 									<button class="button load-toggle" onclick="clearD5basemap()">Clear and Focus D5 </button>
 									<button class="button load-toggle" onclick="FLDistrict5Info()">District 5 Bounds</button><br>
@@ -257,13 +267,15 @@
 									<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
 									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 									<tr><td>
-										<tr><td><button id="button" onclick="loadVolusiaCountySignals()"><img src="images/VolusiaCountySignal.png" ></button></td><td>Volusia County</td></tr>
+										<tr><td><button id="button" onclick="loadBrevardCountySignals()"><img src="images/BrevardCountySignal.png" ></button></td><td>Brevard County</td></tr>
+										<tr><td><button id="button" onclick="loadOrangeCountySignals()"><img src="images/OrangeCountySignal.png" ></button></td><td>Orange County</td></tr>
 										<tr><td><button id="button" onclick="loadSeminoleCountySignals()"><img src="images/SeminoleCountySignal.png" ></button></td><td>Seminole County</td></tr>
-										<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 5 </td></tr>
+										<tr><td><button id="button" onclick="loadVolusiaCountySignals()"><img src="images/VolusiaCountySignal.png" ></button></td><td>Volusia County</td></tr>
+										<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 5 </td></tr>
 									</td></tr>
 								</table>
 								</div>
-							<h3>District 6 <strong class="headGreen">Partial - Borders,  Some Signal Agencies </strong> </h3>
+							<h3>District 6 <strong class="headgreen"> Partial.  Larger Signal Agencies mapped </strong> </h3>
 								<div>
 										<button class="button load-toggle" onclick="clearD6basemap()">Clear Layers, Focus D6 </button>
 										<button class="button load-toggle" onclick="FLDistrict6Info()">District 6 Bounds</button><br>
@@ -280,11 +292,11 @@
 										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 										<tr><td>
 											<tr><td><button id="button" onclick="loadMiamiDadeCountySignals()"><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Miami Dade County </td></tr>
-											<tr><td><button id="button" onclick=""><img src="images/BocaRatonSignal.png" ></button></td><td>Coming Soon.Collecting Data for Monroe County</td></tr>
+											<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 6 </td></tr>
 										</td></tr>
 									</table>
 								</div>
-							<h3>District 7 <strong class="headGreen"> Partial - Borders,  Some Signal Agencies  </strong></h3>
+							<h3>District 7 <strong class="headgreen"> Partial. Some Signal Agencies mapped </strong></h3>
 								<div>
 										<button class="button load-toggle" onclick="clearD7basemap()">Clear Layers, Focus D7 </button>
 										<button class="button load-toggle" onclick="FLDistrict7Info()">District 7 Bounds</button></br>
@@ -304,9 +316,9 @@
 										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 										<tr><td>
 											<tr><td><button id="button" onclick="loadHillsboroughCountySignals()"><img src="images/HillsboroughCountySignal.png" ></button></td><td>Hillsborough County </td></tr>
-											<tr><td><button id="button" onclick="loadCityofTampaSignals()"><img src="images/CityofTampaSignal.png" ></button></td><td>City of Tampa </td></tr>
+											<tr><td><button id="button" onclick="loadTampaSignals()"><img src="images/TampaSignal.png" ></button></td><td>City of Tampa </td></tr>
 											<tr><td><button id="button" onclick="loadPascoCountySignals()"><img src="images/PascoCountySignal.png" ></button></td><td>Pasco County </td></tr>
-											<tr><td><button id="button" onclick=""><img src="images/Red.png" ></button></td><td>Other Agencies Coming Soon. Collecting Data for District 7 </td></tr>
+											<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 7 </td></tr>
 										</td></tr>
 									</table>
 								</div>
@@ -335,9 +347,9 @@
 		</tr>
 		<tr><td colspan="3">
 		</table>		
-		
+		<!-- Desktop-Google Adsense-->
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- Desktop-Google Adsense -->
+		
 			<ins class="adsbygoogle"
 			style="display:inline-block;width:728px;height:90px"
 			data-ad-client="ca-pub-7074806197787335"
@@ -345,6 +357,7 @@
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
+		
 		</td></tr>
 		
 	</div><br>
@@ -377,9 +390,8 @@
 			</tr>
 		</tfoot>
 		</table>
-		
+		<!-- Desktop-Google Adsense	-->
 			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- Desktop-Google Adsense -->
 			<ins class="adsbygoogle"
 			style="display:inline-block;width:728px;height:90px"
 			data-ad-client="ca-pub-7074806197787335"
@@ -387,7 +399,7 @@
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-		
+	 
 		</div>
 	</div><br>
 </div>

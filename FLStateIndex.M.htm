@@ -24,6 +24,7 @@
 	<script src="js/Districts/D7Info.js"></script> 
 <!--County Layer Boundaries -->
 	<script src="js/Counties/D1Counties.D.js"></script> 
+	<script src="js/Counties/D3Counties.D.js"></script> 
 	<script src="js/Counties/D4Counties.D.js"></script> 
 	<script src="js/Counties/D5Counties.D.js"></script> 
 	<script src="js/Counties/D6Counties.D.js"></script> 
@@ -32,9 +33,10 @@
 <!--Traffic Signal Layers -->
 	<script src="js/FloridaSignalLayer.js"></script> 
 	 <script src="js/Signals/D1Signals.D.js"></script> 
+	 <script src="js/Signals/D3Signals.D.js"></script> 
 	 <script src="js/Signals/D4Signals.D.js"></script> 
-	 <script src="js/Signals/D6Signals.D.js"></script> 
 	 <script src="js/Signals/D5Signals.D.js"></script> 
+	 <script src="js/Signals/D6Signals.D.js"></script> 
 	 <script src="js/Signals/D7Signals.D.js"></script> 
 <!--Misc Layers -->	
 	<script src="js/3rdParty/Glayers.js"></script> 
@@ -60,8 +62,16 @@
 		<li><div class="accordion-container"> 
 				<a href="#" class="accordion-toggle">District and County Limits <span class="toggle-icon">+</span></a>
 				<div class="accordion-content">
-				<button class="button trint5-menu-toggle" onclick="loadFloridaStateSignals()">Traffic All Signals on SHS</button>
-					<button class="button trint6-menu-toggle" onclick="clearbasemap()">Statewide view - clear all</button><br><br>
+				<!-- State Controls-->
+				<button class="button trint5-menu-toggle" onclick="loadFloridaStateSignals()">All Signals on State DB/GIS</button>
+					<button class="button trint6-menu-toggle" onclick="clearbasemap()">Statewide view - clear all</button>
+						<button class="button trint3-menu-toggle" onclick="loadFLStateBeacons()">Beacons Signals SHS </button>
+						<button class="button trint3-menu-toggle" onclick="loadFLStateSignals()">Full Color Signals SHS</button>
+						<button class="button trint3-menu-toggle" onclick="loadFLStateMidblocks()">Mid-Blocks Signals SHS</button>
+						<button class="button trint3-menu-toggle" onclick="loadFLStateSchools()">School Signals SHS </button>
+						<button class="button trint3-menu-toggle" onclick="loadFLStateEmergency()">Emergency Signals SHS</button>					
+					<br><br>
+					<!-- District 1 Controls -->
 					<button class="button trint4-menu-toggle"  onclick="clearD1basemap()">Zoom D1, Clear Layers </button>
 					<button class="button trint-menu-toggle" onclick="FLDistrict1Info()">FDOT District 1 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLCharlotte()">Charlotte</button>
@@ -77,8 +87,33 @@
 						<button class="button trint2-menu-toggle" onclick="FLPolk()">Polk</button>
 						<button class="button trint2-menu-toggle" onclick="FLSarasota()">Sarasota</button>
 							<button class="button trint3-menu-toggle" onclick="loadLeeCountySignals()">Lee </button>
+							<button class="button trint3-menu-toggle" onclick="loadManateeCountySignals()">Manatee</button>
 							<button class="button trint3-menu-toggle" onclick="loadPolkCountySignals()">Polk</button>
 						<br><br>
+					<!-- District 2 Controls -->
+					<button class="button trint4-menu-toggle"  onclick="clearD3basemap()">Zoom D3, Clear Layers </button>
+					<button class="button trint-menu-toggle" onclick="FLDistrict3Info()">FDOT District 3 </button><br>
+						<button class="button trint2-menu-toggle" onclick="FLBay()">Bay</button>
+						<button class="button trint2-menu-toggle" onclick="FLCalhoun()">Calhoun</button>
+						<button class="button trint2-menu-toggle" onclick="FLEscambia()">Escambia</button>
+						<button class="button trint2-menu-toggle" onclick="FLFranklin()">Franklin</button>
+						<button class="button trint2-menu-toggle" onclick="FLGadsden()">Gadsden</button>
+						<button class="button trint2-menu-toggle" onclick="FLGulf()">Gulf</button>
+						<button class="button trint2-menu-toggle" onclick="FLHolmes()">Holmes</button>
+						<button class="button trint2-menu-toggle" onclick="FLJackson()">Jackson</button>
+						<button class="button trint2-menu-toggle" onclick="FLJefferson()">Jefferson</button>
+						<button class="button trint2-menu-toggle" onclick="FLLeon()">Leon</button>
+						<button class="button trint2-menu-toggle" onclick="FLLiberty()">Liberty</button>
+						<button class="button trint2-menu-toggle" onclick="FLOkaloosa()">Okaloosa</button>
+						<button class="button trint2-menu-toggle" onclick="FLSantaRosa()">SantaRosa</button>
+						<button class="button trint2-menu-toggle" onclick="FLWakulla()">Wakulla</button>
+						<button class="button trint2-menu-toggle" onclick="FLWalton()">Walton</button>
+						<button class="button trint2-menu-toggle" onclick="FLWashington()">Washington</button>
+							<button class="button trint3-menu-toggle" onclick="loadTallahasseeSignals()">Tallahassee </button>
+							<button class="button trint3-menu-toggle" onclick="loadEscambiaCountySignals()">Escambia</button>
+							<button class="button trint3-menu-toggle" onclick="loadOkaloosaCountySignals()">Okaloosa</button>
+						<br><br>
+					<!-- District 4 Controls -->
 					<button class="button trint4-menu-toggle"  onclick="clearD4basemap()">Zoom D4, Clear Layers </button>
 					<button class="button trint-menu-toggle" onclick="FLDistrict4Info()">FDOT District 4 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLIndianRiver()">Indian River</button>
@@ -86,15 +121,15 @@
 						<button class="button trint2-menu-toggle" onclick="FLMartin()">Martin</button>
 						<button class="button trint2-menu-toggle" onclick="FLPalmBeach()">Palm Beach</button>
 						<button class="button trint2-menu-toggle" onclick="FLBroward()">Broward</button>
+							<button class="button trint3-menu-toggle" onclick="loadBrowardCountySignals()">Broward </button>
+							<button class="button trint3-menu-toggle" onclick="loadBocaRatonSignals()"> Boca Raton </button>
+							<button class="button trint3-menu-toggle" onclick="loadFortPierceSignals()">Ft. Pierce  </button>
 							<button class="button trint3-menu-toggle" onclick="loadIndianRiverCountySignals()">Indian River  </button>
-							<button class="button trint3-menu-toggle" onclick="loadStLucieCountySignals()">St. Lucie </button>
 							<button class="button trint3-menu-toggle" onclick="loadMartinCountySignals()">Martin </button>
 							<button class="button trint3-menu-toggle" onclick="loadPalmBeachCountySignals()">Palm Beach </button>
-							<button class="button trint3-menu-toggle" onclick="loadBrowardCountySignals()">Broward </button>
-							<button class="button trint3-menu-toggle" onclick="loadTownofPalmBeachSignals()">Town of Palm Beach </button>
 							<button class="button trint3-menu-toggle" onclick="loadPortStLucieSignals()">Port St. Lucie </button>					
-							<button class="button trint3-menu-toggle" onclick="loadFortPierceSignals()">Ft. Pierce  </button>
-							<button class="button trint3-menu-toggle" onclick="loadBocaRatonSignals()"> Boca Raton </button>
+							<button class="button trint3-menu-toggle" onclick="loadTownofPalmBeachSignals()">Town of Palm Beach </button>
+							<button class="button trint3-menu-toggle" onclick="loadStLucieCountySignals()">St. Lucie </button>
 						<br><br>
 					<button class="button trint4-menu-toggle"  onclick="clearD5basemap()">Zoom D5, Clear Layers </button>
 					<button class="button trint-menu-toggle" onclick="FLDistrict5Info()">FDOT District 5 </button><br>
@@ -107,14 +142,16 @@
 						<button class="button trint2-menu-toggle" onclick="FLSeminole()">Seminole</button>
 						<button class="button trint2-menu-toggle" onclick="FLSumter()">Sumpter</button>
 						<button class="button trint2-menu-toggle" onclick="FLVolusia()">Volusia</button>						
-							<button class="button trint3-menu-toggle" onclick="loadVolusiaCountySignals()">Volusia </button>
+							<button class="button trint3-menu-toggle" onclick="loadBrevardCountySignals()">Brevard</button>
+							<button class="button trint3-menu-toggle" onclick="loadOrangeCountySignals()">Orange</button>
 							<button class="button trint3-menu-toggle" onclick="loadSeminoleCountySignals()">Seminole </button>
+							<button class="button trint3-menu-toggle" onclick="loadVolusiaCountySignals()">Volusia </button>
 						<br><br>
 					<button class="button trint4-menu-toggle"  onclick="clearD6basemap()">Zoom D6, Clear Layers </button>
 					<button class="button trint-menu-toggle" onclick="FLDistrict6Info()">FDOT District 6 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLMiamiDade()">MIami Dade</button>
-						<button class="button trint2-menu-toggle" onclick="FLMonroe()">Monroe</button>
-							<button class="button trint3-menu-toggle" onclick="loadMIamiDadeCountySignals()">Miami Dade </button>
+						<button class="button trint2-menu-toggle" onclick="FLMonroe()">Monroe</button>	
+							<button class="button trint3-menu-toggle" onclick="loadMiamiDadeCountySignals()">Miami Dade </button>
 						<br><br>
 					<button class="button trint4-menu-toggle"  onclick="clearD7basemap()">Zoom D7, Clear Layers </button>
 					<button class="button trint-menu-toggle" onclick="FLDistrict7Info()">FDOT District 7 </button><br>
@@ -125,7 +162,7 @@
 						<button class="button trint2-menu-toggle" onclick="FLPinellas()">Pinellas</button>
 							<button class="button trint3-menu-toggle" onclick="loadHillsboroughCountySignals()"> Hillsborough </button>
 							<button class="button trint3-menu-toggle" onclick="loadPascoCountySignals()"> Pasco </button>
-							<button class="button trint3-menu-toggle" onclick="loadCityofTampaSignals()">Tampa</button>
+							<button class="button trint3-menu-toggle" onclick="loadTampaSignals()">Tampa</button>
 						<br><br>
 				</div>
 		</div><lI>
@@ -166,11 +203,6 @@
 		</table>
 </div>
 
-<!--/ Toggle Menu-->
-<div class="content">
-	<a href="#" class="button slideout-menu-toggle"> <div class="box-shadow-menu">Toggle Menu</div></a>
-</div><br>
-
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Mobile -->
 		<ins class="adsbygoogle"
@@ -179,7 +211,7 @@
 		data-ad-slot="4605530607"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
+		</script>0
 
 </body>
 </html>

@@ -11,9 +11,9 @@
 		#infotitle{ background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.5em; font-weight: bold; text-align: center; 
 						padding: 0px; height: 100px;  position: relative }
 		#updateinfo{ background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: left; 
-						padding: 0px; width: 40%; height: 30%;  position: absolute; right: 0px; overflow-y: scroll; }
+						padding: 0px; width: 40%; height: 75%;  position: absolute; right: 0px; overflow-y: scroll; }
 		#disclaiminfo{ background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: left; 
-						padding: 0px; width: 40%; height: 30%;  position: absolute; right: 0px; overflow-y: scroll; }
+						padding: 0px; width: 40%; height: 75%;  position: absolute; right: 0px; overflow-y: scroll; }
 		#topnav { background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: right; 
 						padding: 10px; text-shadow: 0 1px 1px rgba(0,0,0,.2); box-sizing:border-box;  position: absolute; right: 0px ; display: inline-block;  }
 		#bottomnav { background: #FFFFFF;  color: #3B3B3B; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4em; font-weight: normal; text-align: left; 

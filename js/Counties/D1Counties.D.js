@@ -3163,10 +3163,10 @@ function FLCollierToggle(){
 		FLLeePolygon4.setMap(map);
 		}
 	else { 
-		FLLeePolygon1.setMap1(null);
-		FLLeePolygon2.setMap1(null);
-		FLLeePolygon3.setMap1(null);
-		FLLeePolygon4.setMap1(null);
+		FLLeePolygon1.setMap(null);
+		FLLeePolygon2.setMap(null);
+		FLLeePolygon3.setMap(null);
+		FLLeePolygon4.setMap(null);
 		}
  }
 

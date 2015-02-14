@@ -1,0 +1,163 @@
+<markers>
+
+<marker lat="30.3978916152133" lng="-86.5978382382229" intname="US 98 and Santa Rosa Blvd" intnum="1140" />
+<marker lat="30.4094959587971" lng="-86.6557813156573" intname="US 98 and SR 393 (Mary Esther Blvd)" intnum="1060" />
+<marker lat="30.4095290892689" lng="-86.6599887875282" intname="US 98 and Target Store" intnum="1050" />
+<marker lat="30.4096078045858" lng="-86.6647595293724" intname="US 98 and Doolittle Blvd" intnum="1040" />
+<marker lat="30.4134270629287" lng="-86.6545843767284" intname="SR 393 and Hollywood Blvd" intnum="4005" />
+<marker lat="30.417461508247" lng="-86.6534371045895" intname="SR 393 and Bryn Athen Blvd" intnum="4010" />
+<marker lat="30.4187967659892" lng="-86.6530118564812" intname="SR 393 and Page Bacon Road" intnum="4020" />
+<marker lat="30.4215578975101" lng="-86.6520544416046" intname="SR 393 and Anchor" intnum="4030" />
+<marker lat="30.4243254925264" lng="-86.6468089408269" intname="SR 393 and Jonquil Ave" intnum="4050" />
+<marker lat="30.4254249596542" lng="-86.6431496671007" intname="SR 393 and Marilyn Ave \/ Sun Plaza" intnum="4060" />
+<marker lat="30.4270345394362" lng="-86.6400228017409" intname="SR 393 and Wright Pkwy" intnum="4070" />
+<marker lat="30.4283882664522" lng="-86.6384585925939" intname="SR 189 and SR 393 (ME) \/ Oak St" intnum="3060" />
+<marker lat="30.4347503321836" lng="-86.6391177958709" intname="SR 189 and Pelham Rd \/ Duloft St" intnum="3070" />
+<marker lat="30.4395548164665" lng="-86.6387003311223" intname="SR 189 and Lewis St (Sam's)" intnum="3080" />
+<marker lat="30.4421995213207" lng="-86.6387575929887" intname="SR 189 and Carmel Dr \/ Clifford Dr" intnum="3090" />
+<marker lat="30.4491989704913" lng="-86.6237019225666" intname="SR 188 and Denton Blvd" intnum="3310" />
+<marker lat="30.4410488238566" lng="-86.5976071684018" intname="SR 85 and SR 188 (Racetrack \/ 4th Ave)" intnum="2100" />
+<marker lat="30.4343449752345" lng="-86.6032318320027" intname="SR 85 and South St \/ Ave" intnum="2090" />
+<marker lat="30.4237138396698" lng="-86.6093557511626" intname="SR 85 and Yacht Club Dr" intnum="2070" />
+<marker lat="30.419741308181" lng="-86.6096101262218" intname="SR 85 and Hughes St" intnum="2060" />
+<marker lat="30.4175096972039" lng="-86.6082057634964" intname="SR 85 and Walter Martin Rd" intnum="2050" />
+<marker lat="30.4121824320521" lng="-86.6043613382665" intname="SR 85 and Hollywood Blvd" intnum="2030" />
+<marker lat="30.41019856071" lng="-86.6038103583548" intname="SR 85 and  Fourth St. \/ SR 145 (Perry Ave)" intnum="2020" />
+<marker lat="30.4052414494698" lng="-86.6064179114531" intname="SR 85 and First St" intnum="2010" />
+<marker lat="30.4051822705874" lng="-86.6038794382248" intname="Perry Ave and 1st St" intnum="1130" />
+<marker lat="30.403370113299" lng="-86.6039560029801" intname="US 98 and Perry Ave (SR 145)" intnum="1120" />
+<marker lat="30.403582381999" lng="-86.6057713219626" intname="US 98 and Florida Place" intnum="1110" />
+<marker lat="30.4038138916232" lng="-86.6093774683094" intname="US 98 and Brooks St" intnum="1100" />
+<marker lat="30.4040995801285" lng="-86.6131218049152" intname="US 98 and Beal (SR 189)" intnum="1090" />
+<marker lat="30.4075448918526" lng="-86.639309676659" intname="US 98 and Wright Pkwy" intnum="1070" />
+<marker lat="30.4124843032879" lng="-86.6130358948556" intname="SR 189 and Hollywood Blvd" intnum="3010" />
+<marker lat="30.4153331191602" lng="-86.6135860624328" intname="SR 189 and Walter Martin Rd" intnum="3020" />
+<marker lat="30.4229315382384" lng="-86.6143339618979" intname="SR 189 and Yacht Club Dr" intnum="3040" />
+<marker lat="30.4271952031578" lng="-86.6304612556983" intname="SR 189 and Memorial Pkwy" intnum="3050" />
+<marker lat="30.4395421187202" lng="-86.5834766454826" intname="SR 85 and Shalimar Drive \/ Cherokee Rd" intnum="2110" />
+<marker lat="30.4408617870153" lng="-86.5816205552774" intname="SR 85 and Old Ferry" intnum="2120" />
+<marker lat="30.4448914770893" lng="-86.5798019572855" intname="SR 85 and  Fleet \/ 9th Ave" intnum="2130" />
+<marker lat="30.4482808603906" lng="-86.5782519731593" intname="SR 85 and 12th Ave \/  Richburg Ave" intnum="2140" />
+<marker lat="30.4653810353712" lng="-86.555650198985" intname="SR 189 and SR 397 (Eglin W Gate)" intnum="3160" />
+<marker lat="30.469846812213" lng="-86.5624958017126" intname="SR 85 and SR 189" intnum="2160" />
+<marker lat="30.4128932213653" lng="-86.6307997657764" intname="Hollywood Blvd and Memorial Pkwy" intnum="4500" />
+<marker lat="30.4062906823501" lng="-86.630990912474" intname="US 98 and Memorial Pkwy" intnum="1080" />
+<marker lat="30.4130652119793" lng="-86.6392683386673" intname="Hollywood Blvd and Wright" intnum="4520" />
+<marker lat="30.4126574836877" lng="-86.6193042723083" intname="Hollywood Blvd and Robinwood Dr" intnum="4510" />
+<marker lat="30.3959889312447" lng="-86.5927699436773" intname="US 98 and Conference Center \/ Pier Rd" intnum="1160" />
+<marker lat="30.395296761292" lng="-86.5104971316202" intname="US 98 and Stahlman Ave" intnum="1200" />
+<marker lat="30.3921971738803" lng="-86.4959862013091" intname="US 98 and Benning Drive" intnum="1210" />
+<marker lat="30.3909818776943" lng="-86.4902996581435" intname="US 98 and Beach Drive" intnum="1220" />
+<marker lat="30.3895549848165" lng="-86.4836066573314" intname="US 98 and Main Street" intnum="1230" />
+<marker lat="30.3889139533178" lng="-86.4805178375917" intname="US 98 and Gulf Shore Drive" intnum="1260" />
+<marker lat="30.3856910038498" lng="-86.4652665392426" intname="US 98 and Airport Road" intnum="1280" />
+<marker lat="30.3852867839811" lng="-86.4616149003892" intname="US 98 and Old 98 (CR 2378)" intnum="1290" />
+<marker lat="30.3871188518564" lng="-86.4474938608614" intname="US 98 and Henderson Bch  (Wal Mart)" intnum="1300" />
+<marker lat="30.3869160845382" lng="-86.4429876917052" intname="US 98 and Triumph Rd" intnum="1310" />
+<marker lat="30.3881648611405" lng="-86.4304007976801" intname="US 98 and Mathew Blvd" intnum="1330" />
+<marker lat="30.3887350869035" lng="-86.4351066321401" intname="Commons and Kelly Plantation Dr" intnum="1320" />
+<marker lat="30.3888810037606" lng="-86.4262965265651" intname="US 98 and SR 293 \/ Hutchinson St" intnum="1340" />
+<marker lat="30.3911656176835" lng="-86.4268352759472" intname="SR 293 and Commons Dr E\r\n" intnum="1400" />
+<marker lat="30.3895542523668" lng="-86.421844951425" intname="US 98 and Crystal Bch Dr" intnum="1350" />
+<marker lat="30.3885449512231" lng="-86.4137618984603" intname="US 98 and Regatta Bay Blvd\r\n" intnum="1360" />
+<marker lat="30.4816178535347" lng="-86.4139570158682" intname="SR  20 and SR 293 (White Point Rd )" intnum="6150" />
+<marker lat="30.4841129597921" lng="-86.4173218556339" intname="SR  20 and Bluewater Blvd" intnum="6140" />
+<marker lat="30.4886787572354" lng="-86.4235936654072" intname="SR  20 and Bay  Drive" intnum="6130" />
+<marker lat="30.4896459703909" lng="-86.4247970324776" intname="SR  20 and Range Road" intnum="6120" />
+<marker lat="30.4975094401423" lng="-86.4356119090791" intname="SR  20 and Lancaster Road" intnum="6110" />
+<marker lat="30.5120849888662" lng="-86.4489304735534" intname="SR 20 and Rocky Bayou Dr \/ Benton" intnum="6100" />
+<marker lat="30.5143942216602" lng="-86.4591210415672" intname="SR  20 and Redwood Ave \/ Revel Dr" intnum="6090" />
+<marker lat="30.5164685604735" lng="-86.4682221856588" intname="SR  20 and Bullock Blvd \/ Juniper Ave" intnum="6080" />
+<marker lat="30.517732765981" lng="-86.4738072203085" intname="SR  20 and Palm Blvd" intnum="6070" />
+<marker lat="30.5186892289708" lng="-86.4781292135732" intname="SR  20 and Cedar St" intnum="6060" />
+<marker lat="30.5193663803132" lng="-86.4809759289169" intname="SR 20 and SR 285 (Partin)" intnum="6050" />
+<marker lat="30.5207459515063" lng="-86.4872018159992" intname="SR 20 and  Armstrong – Fire Signal" intnum="6040" />
+<marker lat="30.5221889596747" lng="-86.4936418983832" intname="SR 20 E and SR 85 N" intnum="6030" />
+<marker lat="30.5196423642082" lng="-86.5017304810406" intname="SR 20 W and SR 85 S \/ SR 397" intnum="6020" />
+<marker lat="30.5129564080666" lng="-86.4939302904738" intname="SR 397 (John Sims) and Edge Ave" intnum="6010" />
+<marker lat="30.7114040598021" lng="-86.5701875412303" intname="SR 85 and P J Adams Rd" intnum="2220" />
+<marker lat="30.737016562374" lng="-86.5651695607263" intname="SR 85 and W and E Redstone Ave" intnum="2270" />
+<marker lat="30.7290836013391" lng="-86.5676792023356" intname="SR 85 and Wal-Mart" intnum="2260" />
+<marker lat="30.7250072635162" lng="-86.5687466456069" intname="SR 85 and Interstate 10" intnum="2250" />
+<marker lat="30.7205739535911" lng="-86.5692266807633" intname="SR 85 and John King Road" intnum="2240" />
+<marker lat="30.7441597565586" lng="-86.5638832559415" intname="SR 85 and Dugan Ave \/ Alpin Rd" intnum="2280" />
+<marker lat="30.7523623203796" lng="-86.563837582761" intname="SR 85 and Main St \/ Cane Ave" intnum="2290" />
+<marker lat="30.7618386426099" lng="-86.5707828522516" intname="SR 85 and US 90 (SR 10)" intnum="2300" />
+<marker lat="30.7619361816587" lng="-86.5744590767532" intname="US 90 and Wilson St \/ Main St \/ Hickory Ave" intnum="2500" />
+<marker lat="30.3971620616304" lng="-86.5991641898644" intname="Santa Rosa Fire Stationand" intnum="1150" />
+<marker lat="30.4137030232701" lng="-86.6052042654313" intname="SR 85 and Hospital Dr" intnum="2040" />
+<marker lat="30.4296123642585" lng="-86.606026181909" intname="SR 85 and Mariner Plaza (Highway Ave.)" intnum="2080" />
+<marker lat="30.7117205963408" lng="-86.5845595135547" intname="PJ Adams Fire Signal\r\n\r\nand" intnum="2230" />
+<marker lat="30.4198346752345" lng="-86.613655494543" intname="SR 189 and Hughes St" intnum="3030" />
+<marker lat="30.4236733461829" lng="-86.6488074758192" intname="SR 393 and Love Joy Rd" intnum="4040" />
+<marker lat="30.4245194179073" lng="-86.6672612214357" intname="Hill Ave and Love Joy Road" intnum="3500" />
+<marker lat="30.4294568594952" lng="-86.6672462184739" intname="ML King and Freedom Way (Defense Access)" intnum="3510" />
+<marker lat="30.4435537968344" lng="-86.6600134467264" intname="ML King andBuege Blvd (Air Force Housing)" intnum="3520" />
+<marker lat="30.4494643528256" lng="-86.6514777583553" intname="ML King and Hurlburt Rd" intnum="3530" />
+<marker lat="30.4536240954629" lng="-86.6514758598512" intname="ML King and Conservation Trl (NWFS College)" intnum="3540" />
+<marker lat="30.456091691347" lng="-86.6508820127947" intname="Green Acres Rd and Green Acres Blvd" intnum="3550" />
+<marker lat="30.4448282234825" lng="-86.6047858175685" intname="SR 188 and Skipper Ave" intnum="3340" />
+<marker lat="30.4491606191413" lng="-86.6196346293411" intname="SR 188 and Choctaw Plaza \/ Choctaw HS" intnum="3320" />
+<marker lat="30.4494428034599" lng="-86.632192910601" intname="SR 188 and Mar Walt Dr" intnum="3305" />
+<marker lat="30.4489162380974" lng="-86.6140288785427" intname="SR 189 and Mooney Fire Station #2" intnum="3140" />
+<marker lat="30.4489472957515" lng="-86.6142847308052" intname="SR 188 and Mooney Road" intnum="3330" />
+<marker lat="30.467126822216" lng="-86.6139043788766" intname="SR 189 and Mooney Rd" intnum="3150" />
+<marker lat="30.4561441596101" lng="-86.6341122636796" intname="Hospital Dr Flashing Signand" intnum="3130" />
+<marker lat="30.4587755269892" lng="-86.6339807044771" intname="SR 189 and Hospital Drive" intnum="3120" />
+<marker lat="30.4559581751323" lng="-86.6382681633087" intname="SR 189 and Green Acres Drive" intnum="3110" />
+<marker lat="30.4495526573984" lng="-86.6385437855218" intname="SR 189 and SR 188 \/ Racetrack \/ Hurlburt Rd" intnum="3100" />
+<marker lat="30.4195492928262" lng="-86.6728312538885" intname="Ready Ave - 1 (Road Dept)and" intnum="9001" />
+<marker lat="30.418284151356" lng="-86.6728703588545" intname="Ready Ave - 2  (Road Dept)and" intnum="9002" />
+<marker lat="30.4115738069563" lng="-86.7480934905208" intname="US 98 and Parish Point Rd" intnum="1010" />
+<marker lat="30.411929361047" lng="-86.7374917356488" intname="US 98 and Florosa Fire Dept" intnum="1020" />
+<marker lat="30.4120282250039" lng="-86.7299585433237" intname="US 98 and Florosa Elementary School" intnum="1025" />
+<marker lat="30.4110506529349" lng="-86.7015354525585" intname="US 98 and Cody Ave (Hurburt Gate)" intnum="1030" />
+<marker lat="30.3970523463656" lng="-86.4836350652273" intname="Main St and Airport Rd \/ Legion Dr" intnum="1250" />
+<marker lat="30.3925498074808" lng="-86.4834293431067" intname="Main St and 98 Palms Blvd" intnum="1240" />
+<marker lat="30.3967434616019" lng="-86.4807233036865" intname="Airport Rd and Destin FD" intnum="1252" />
+<marker lat="30.3863496319399" lng="-86.4021395355233" intname="US 98 and Tequesta Dr\r\n" intnum="1370" />
+<marker lat="30.4633505840637" lng="-86.5743834467852" intname="Poquito Rd and Sunset Lane" intnum="2150" />
+<marker lat="30.4971452972739" lng="-86.5574571616258" intname="SR 85 and SR 123 South End" intnum="2170" />
+<marker lat="30.5632842736242" lng="-86.5281437710641" intname="SR 85 and SR 123 North End" intnum="2200" />
+<marker lat="30.7003216258036" lng="-86.5712694429062" intname="SR 85 and Live Oak Church \/ Antioch" intnum="2210" />
+<marker lat="30.7118499589998" lng="-86.5896929434191" intname="PJ Adams and WildHorse" intnum="2232" />
+<marker lat="30.7731635906459" lng="-86.5648848553884" intname="SR 85 and Stillwell Blvd \/ 8th" intnum="2310" />
+<marker lat="30.787589349052" lng="-86.5590454327109" intname="SR 85 and Garden St" intnum="2320" />
+<marker lat="30.7948249655455" lng="-86.5572402772672" intname="SR 85 and Old Bethel \/ Airport" intnum="2330" />
+<marker lat="30.9659008089648" lng="-86.4609102649038" intname="SR 85 and Second Ave (Laurel Hill)\r\n" intnum="2340" />
+<marker lat="30.76502448801" lng="-86.5971712704544" intname="US 90 and Old Bethel" intnum="2505" />
+<marker lat="30.7531140616786" lng="-86.6199470626691" intname="US 90 and Antioch Rd" intnum="2510" />
+<marker lat="30.7507370062836" lng="-86.6368841774725" intname="US 90 and SR 4 (Milligan)" intnum="2520" />
+<marker lat="30.7140039531058" lng="-86.7497711160343" intname="US 90 and Log Lake Road (Holt)" intnum="2530" />
+<marker lat="30.4744755651597" lng="-86.4168269108047" intname="SR 293 and Woodlands Dr" intnum="6160" />
+<marker lat="30.4696769468657" lng="-86.4169330954266" intname="SR 293 and North Bay Fire Dept" intnum="6170" />
+<marker lat="30.5104168750052" lng="-86.5175143296685" intname="SR 85 and Wolverine By-Pass \/ N Gate" intnum="6200" />
+<marker lat="30.5347470600171" lng="-86.4734571073185" intname="College Blvd and Palm Blvd" intnum="6215" />
+<marker lat="30.535054222789" lng="-86.4926017615044" intname="SR 85 and CR 190 (College Blvd and Wolverine)" intnum="6210" />
+<marker lat="30.5344034784333" lng="-86.4582658918217" intname="SR 285 and CR 190 (College Blvd)" intnum="6220" />
+<marker lat="30.5247254875097" lng="-86.4736748981829" intname="SR 285 and Palm Blvd" intnum="6230" />
+<marker lat="30.423980267937" lng="-86.6704489130298" intname="Shop - 1and" intnum="8000" />
+<marker lat="30.4226358008372" lng="-86.670419377019" intname="Shop - 5and" intnum="8005" />
+<marker lat="30.4211291445462" lng="-86.6705156042149" intname="Shop - 10and" intnum="8010" />
+<marker lat="30.4200167573879" lng="-86.6704911665791" intname="Shop - 15and" intnum="8015" />
+<marker lat="30.4149947411244" lng="-86.6706394811814" intname="Shop - 35and" intnum="8035" />
+<marker lat="30.4166605412496" lng="-86.670602180521" intname="Shop - 30and" intnum="8030" />
+<marker lat="30.4179101956617" lng="-86.6705557364532" intname="Shop - 25and" intnum="8025" />
+<marker lat="30.4189203755173" lng="-86.6704670811024" intname="Shop - 20and" intnum="8020" />
+<marker lat="30.4223408022696" lng="-86.6974871241236" intname="Cody Ave (Hurlburt)and Tulley Street" intnum="7010" />
+<marker lat="30.4191562378482" lng="-86.7010823852534" intname="Cody Ave (Hurlburt) and Simpson Ave \/  Lukasik Ave" intnum="7000" />
+<marker lat="30.415287587738" lng="-86.7015707195594" intname="Cody Ave (Hurlburt) and Independence Rd" intnum="7020" />
+<marker lat="30.7971715500099" lng="-86.6816521252569" intname="SR 189 and SR 4 \/ Georgia Ave (Baker)" intnum="3200" />
+<marker lat="30.4191315285566" lng="-86.6827020837723" intname="Independence (Hurlburt) and Liemanis \/ Loop" intnum="7030" />
+<marker lat="30.4205696133725" lng="-86.6806802214775" intname="Independence (Hurlburt) and Brims \/ Loop" intnum="7040" />
+<marker lat="30.4239191771931" lng="-86.6749160891309" intname="Independence (Hurlburt) and Golf Course \/ Fire Dept." intnum="7050" />
+<marker lat="30.3894798979081" lng="-86.4642294092724" intname="Airport Rd and Indian Bayou" intnum="1255" />
+<marker lat="30.6404706194226" lng="-86.5491731830175" intname="SR 85 and Duke Field" intnum="2205" />
+<marker lat="30.5153952395444" lng="-86.4637838838127" intname="SR  20 and Wise Ave" intnum="6085" />
+<marker lat="30.4732693903418" lng="-86.4023707663756" intname="SR  20 and SR 293 (White Point Rd )" intnum="6155" />
+<marker lat="30.5139093116081" lng="-86.4568744814253" intname="SR  20 and Home Depot" intnum="6095" />
+<marker lat="30.3937361589321" lng="-86.4272441307853" intname="SR 293 and Turnberry Dr" intnum="1405" />
+<marker lat="30.4650674904676" lng="-86.6190061250156" intname="SR 189 and Judicial center (FWB Golf Course)" intnum="3135" />
+<marker lat="30.3847257004108" lng="-86.4831997978179" intname="Gulf Shores and Sand Piper Cove Dr" intnum="1270" />
+<marker lat="30.4149861739307" lng="-86.6989414019841" intname="Independence (Hurlburt) and Tulley \/ O'Neil" intnum="7025" />
+</markers>

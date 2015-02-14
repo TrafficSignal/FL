@@ -1,0 +1,435 @@
+<markers>
+<marker lat="28.665569" lng="-80.844939" intname="U.S. 1 and  S.R. 46 " intnum="BC0001" />
+<marker lat="28.536785" lng="-80.826336" intname="S.R. 405 (COLUMBIA BLVD) and  BARNA AVE " intnum="BC0002" />
+<marker lat="28.477944" lng="-80.769097" intname="U.S. 1 and  FAY BLVD " intnum="BC0003" />
+<marker lat="28.530203" lng="-80.810365" intname="S.R. 405 (COLUMBIA BLVD) and  SISSON RD " intnum="BC0004" />
+<marker lat="28.432286" lng="-80.760033" intname="U.S. 1 and  CANAVERAL GROVES BLVD " intnum="BC0005" />
+<marker lat="28.637129" lng="-80.846183" intname="DAIRY RD and  SINGLETON AVE " intnum="BC0006" />
+<marker lat="28.466286" lng="-80.765039" intname="U.S. 1 and  PORT SAINT JOHN PLAZA " intnum="BC0007" />
+<marker lat="28.52231" lng="-80.78772" intname="U.S. 1 and  VECTOR SPACE CENTER (REMOVED) " intnum="BC0008" />
+<marker lat="28.667422" lng="-80.8458" intname="U.S. 1 and  STANLEY ST (MIMS ELEM) " intnum="BC0009" />
+<marker lat="28.665241" lng="-80.84563" intname="S.R. 46 and  TAYLOR AVE " intnum="BC0010" />
+<marker lat="28.475646" lng="-80.780892" intname="FAY BLVD and  CAROLE AVE " intnum="BC0012" />
+<marker lat="28.434364" lng="-80.70826" intname="S.R. 3 (N. COURTENAY PKWY) and  HALL RD " intnum="BC0013" />
+<marker lat="28.398028" lng="-80.704908" intname="S.R. 3 (N. COURTENAY PKWY) and  PIONEER RD " intnum="BC0014" />
+<marker lat="28.356905" lng="-80.704721" intname="S.R. 520 and  TROPICAL TRAIL " intnum="BC0015" />
+<marker lat="28.356988" lng="-80.700166" intname="S.R. 520 and  S.R. 3 (COURTENAY PKWY) " intnum="BC0016" />
+<marker lat="28.357085" lng="-80.692085" intname="S.R. 520 and  PLUMOSA AVE " intnum="BC0017" />
+<marker lat="28.356415" lng="-80.721185" intname="S.R. 520 and  MERRITT SQUARE MALL " intnum="BC0018" />
+<marker lat="28.357169" lng="-80.683579" intname="S.R. 520 and  SYKES CREEK PKWY " intnum="BC0019" />
+<marker lat="28.357319" lng="-80.669045" intname="S.R. 520 and  NEWFOUND HARBOR DR " intnum="BC0020" />
+<marker lat="28.357256" lng="-80.678174" intname="S.R. 520 and  KIWANIS ISLAND PARK " intnum="BC0021" />
+<marker lat="28.357357" lng="-80.66489" intname="S.R. 520 and  N. BANANA RIVER DR (BC) " intnum="BC0022" />
+<marker lat="28.357393" lng="-80.662382" intname="S.R. 520 and  S. BANANA RIVER DR/MILFORD POINT DR " intnum="BC0023" />
+<marker lat="28.361468" lng="-80.70026" intname="S.R. 3 (N. COURTENAY PKWY) and  MERRITT AVE " intnum="BC0024" />
+<marker lat="28.365667" lng="-80.700314" intname="S.R. 3 (N. COURTENAY PKWY) and  NEEDLE BLVD " intnum="BC0025" />
+<marker lat="28.369246" lng="-80.700346" intname="S.R. 3 (N. COURTENAY PKWY) and  RICHLAND BLVD " intnum="BC0026" />
+<marker lat="28.372863" lng="-80.700443" intname="S.R. 3 (N. COURTENAY PKWY) and  CATALINA ISLES DR " intnum="BC0027" />
+<marker lat="28.376054" lng="-80.70145" intname="S.R. 3 (N. COURTENAY PKWY) and  LUCAS/MUSTANG WAY " intnum="BC0028" />
+<marker lat="28.379697" lng="-80.702523" intname="S.R. 3 (N. COURTENAY PKWY) and  GROVE BLVD " intnum="BC0029" />
+<marker lat="28.405507" lng="-80.705782" intname="S.R. 3 (N. COURTENAY PKWY) and  S.R. 528 (N. SIDE) " intnum="BC0030" />
+<marker lat="28.40523" lng="-80.705729" intname="S.R. 3 (N. COURTENAY PKWY) and  S.R. 528 (S. SIDE) " intnum="BC0031" />
+<marker lat="28.385168" lng="-80.70279" intname="S.R. 3 (N. COURTENAY PKWY) and  CROCKETT/DIANA BLVD " intnum="BC0032" />
+<marker lat="28.385442" lng="-80.668124" intname="N. BANANA RIVER DR and  BAYSIDE ST " intnum="BC0033" />
+<marker lat="28.386308" lng="-80.66811" intname="N. BANANA RIVER DR and  CENTRAL AVE " intnum="BC0034" />
+<marker lat="28.34679" lng="-80.702305" intname="S. COURTENAY PKWY and  CONE RD " intnum="BC0035" />
+<marker lat="28.355832" lng="-80.700182" intname="S. COURTENAY PKWY and  MAGNOLIA AVE " intnum="BC0036" />
+<marker lat="28.361295" lng="-80.684685" intname="SYKES CREEK PKWY and  MERRITT AVE " intnum="BC0037" />
+<marker lat="28.361384" lng="-80.692009" intname="MERRITT AVE and  PLUMOSA AVE " intnum="BC0038" />
+<marker lat="28.35394" lng="-80.692066" intname="FORTENBERRY AVE and  PLUMOSA ST " intnum="BC0039" />
+<marker lat="28.374637" lng="-80.605602" intname="S.R. A1A and  MCKINLEY/HOLMAN AVE " intnum="BC0040" />
+<marker lat="28.252629" lng="-80.603622" intname="S.R. A1A and  MAINGATE (P.A.F.B.) " intnum="BC0042" />
+<marker lat="28.357076" lng="-80.694081" intname="S.R. 520 and  HOLIDAY PLAZA (OLD WALMART) " intnum="BC0043" />
+<marker lat="28.257506" lng="-80.604384" intname="S.R. A1A and  OFFICERS CLUB ENTRANCE (P.A.F.B.) " intnum="BC0044" />
+<marker lat="28.259442" lng="-80.604806" intname="S.R. A1A and  OFFICERS CLUB PED XING (P.A.F.B.) " intnum="BC0046" />
+<marker lat="28.229795" lng="-80.600531" intname="S.R. A1A and  TECHNICAL LAB PED XING (P.A.F.B.) " intnum="BC0047" />
+<marker lat="28.203215" lng="-80.671991" intname="WICKHAM RD and  PINEDA PLAZA WAY/WINDSOR ESTATES DR " intnum="BC0049" />
+<marker lat="28.392446" lng="-80.60542" intname="N. ATLANTIC AVE and  CANAVERAL BLVD " intnum="CC0005" />
+<marker lat="28.035222" lng="-80.634223" intname="PALM BAY RD and  PORT MALABAR BLVD " intnum="BC0051" />
+<marker lat="27.998595" lng="-80.621861" intname="S.R. 514 (MALABAR RD) and  S.R. 507 (BABCOCK ST) " intnum="BC0052" />
+<marker lat="28.035075" lng="-80.621796" intname="PALM BAY RD and  BABCOCK ST (SR 507) " intnum="BC0053" />
+<marker lat="28.034751" lng="-80.597331" intname="PALM BAY RD and  ROBERT CONLAN BLVD " intnum="BC0054" />
+<marker lat="28.034649" lng="-80.603314" intname="PALM BAY RD and  TROUTMAN BLVD " intnum="BC0055" />
+<marker lat="28.034668" lng="-80.605402" intname="PALM BAY RD and  CLEARMONT ST/LIPSCOMB ST " intnum="BC0056" />
+<marker lat="28.035684" lng="-80.671466" intname="MINTON RD and  PALM BAY RD " intnum="BC0057" />
+<marker lat="28.078843" lng="-80.653515" intname="U.S. 192 and  HOLLYWOOD/EVANS RD " intnum="BC0058" />
+<marker lat="28.078829" lng="-80.649143" intname="U.S. 192 and  MCCLAIN ST " intnum="BC0059" />
+<marker lat="28.078749" lng="-80.637965" intname="U.S. 192 and  DAIRY RD " intnum="BC0060" />
+<marker lat="28.078883" lng="-80.67073" intname="U.S. 192 and  MEADOWLANE AVE " intnum="BC0061" />
+<marker lat="28.049718" lng="-80.63821" intname="EBER BLVD and  DAIRY RD " intnum="BC0064" />
+<marker lat="28.078827" lng="-80.646988" intname="U.S. 192 and  SHOPPES OF WEST MELBOURNE " intnum="BC0065" />
+<marker lat="28.032225" lng="-80.671603" intname="MINTON RD and  EMERSON RD " intnum="BC0067" />
+<marker lat="28.035268" lng="-80.638169" intname="PALM BAY RD and  DAIRY RD " intnum="BC0068" />
+<marker lat="28.098685" lng="-80.569116" intname="S.R. A1A and  GROSSE POINTE " intnum="BC0069" />
+<marker lat="27.884281" lng="-80.503297" intname="U.S. 1 and  BAREFOOT  BLVD " intnum="BC0070" />
+<marker lat="28.03538" lng="-80.659149" intname="PALM BAY RD and  I-95 S/B RAMP " intnum="BC0071" />
+<marker lat="28.011045" lng="-80.672145" intname="MINTON RD and  AMERICANA BLVD " intnum="BC0073" />
+<marker lat="28.227673" lng="-80.6789" intname="WICKHAM RD and  SUNTREE BLVD " intnum="BC0075" />
+<marker lat="28.360051" lng="-80.77145" intname="RANGE RD and  LAKE DR " intnum="BC0076" />
+<marker lat="28.400615" lng="-80.753079" intname="S.R. 528 (N. SIDE ) and  U.S.1 " intnum="BC0077" />
+<marker lat="28.400119" lng="-80.752835" intname="S.R. 528 (S. SIDE ) and  U.S. 1 " intnum="BC0078" />
+<marker lat="28.355725" lng="-80.754934" intname="S.R. 520 and  S.R. 501 (CLEARLAKE RD) " intnum="BC0079" />
+<marker lat="28.390108" lng="-80.74645" intname="U.S. 1 and  MICHIGAN BLVD " intnum="BC0080" />
+<marker lat="28.381887" lng="-80.75503" intname="S.R. 501 (CLEARLAKE RD) and  ROSETINE/TATE ST " intnum="BC0081" />
+<marker lat="28.38819" lng="-80.755072" intname="S.R. 501 (CLEARLAKE RD) and  MICHIGAN BLVD " intnum="BC0082" />
+<marker lat="28.360288" lng="-80.754988" intname="S.R. 501 (CLEARLAKE RD) and  LAKE DR " intnum="BC0083" />
+<marker lat="28.373091" lng="-80.755041" intname="S.R. 501 (CLEARLAKE RD) and  DIXON BLVD " intnum="BC0084" />
+<marker lat="28.376509" lng="-80.739964" intname="DIXON BLVD and  BYRD PLAZA " intnum="BC0085" />
+<marker lat="28.373718" lng="-80.742549" intname="S.R. 519 (FISKE BLVD) and  DIXON BLVD " intnum="BC0086" />
+<marker lat="28.373139" lng="-80.746714" intname="DIXON BLVD and  PINEDA AVE " intnum="BC0087" />
+<marker lat="28.355731" lng="-80.77156382" intname="S.R. 520 and  RANGE RD " intnum="BC0088" />
+<marker lat="28.406208" lng="-80.76318" intname="INDUSTRY RD and  GRISSOM PKWY " intnum="BC0089" />
+<marker lat="28.135853" lng="-80.671756" intname="WICKHAM RD and  AURORA RD " intnum="BC0090" />
+<marker lat="28.135919" lng="-80.655025" intname="AURORA RD and  CROTON RD " intnum="BC0091" />
+<marker lat="28.135962" lng="-80.646858" intname="AURORA RD and  COMMODORE BLVD/STEWART RD " intnum="BC0092" />
+<marker lat="28.356332" lng="-80.779786" intname="S.R. 520 and  BURNETT RD " intnum="BC0093" />
+<marker lat="28.264035" lng="-80.688895" intname="U.S. 1 and  BARNES BLVD " intnum="BC0094" />
+<marker lat="28.139511" lng="-80.671724" intname="WICKHAM RD and  NORTHGATE PLAZA " intnum="BC0095" />
+<marker lat="28.146732" lng="-80.671791" intname="WICKHAM RD and  LAKE WASHINGTON RD " intnum="BC0096" />
+<marker lat="28.157574" lng="-80.671894" intname="WICKHAM RD and  PARKWAY DR " intnum="BC0097" />
+<marker lat="28.172063" lng="-80.671967" intname="WICKHAM RD and  POST RD " intnum="BC0098" />
+<marker lat="28.168358" lng="-80.671934" intname="WICKHAM RD and  COLLEGEWOOD (B.C.C.) " intnum="BC0099" />
+<marker lat="28.229476" lng="-80.673" intname="U.S. 1 and  SUNTREE BLVD " intnum="BC0100" />
+<marker lat="28.373127" lng="-80.753052" intname="DIXON BLVD and  ASBURY ARMS " intnum="BC0101" />
+<marker lat="28.359827" lng="-80.794912" intname="S.R. 520 and  I-95 S/B RAMP " intnum="BC0102" />
+<marker lat="28.359827" lng="-80.794316" intname="S.R. 520 and  I-95 N/B RAMP " intnum="BC0103" />
+<marker lat="28.396248" lng="-80.604928" intname="N. ATLANTIC AVE and  CENTRAL AVE " intnum="CC0004" />
+<marker lat="28.120155" lng="-80.638557" intname="APOLLO BLVD and  MELBOURNE  WATER TREATMENT PLANT/K-MART " intnum="BC0105" />
+<marker lat="28.121516" lng="-80.638536" intname="SARNO RD and  APOLLO BLVD " intnum="BC0106" />
+<marker lat="28.121666" lng="-80.649159" intname="SARNO RD and  GARFIELD ST " intnum="BC0107" />
+<marker lat="28.121642" lng="-80.647065" intname="SARNO RD and  IXORA DR " intnum="BC0108" />
+<marker lat="28.121681" lng="-80.654949" intname="SARNO RD and  CROTON RD " intnum="BC0109" />
+<marker lat="28.138482" lng="-80.598524" intname="S.R. 518 (EAU GALLIE BLVD) and  S.R. 513/ S.PATRICK DR. " intnum="BC0110" />
+<marker lat="28.121606" lng="-80.671584" intname="WICKHAM RD and  SARNO RD " intnum="BC0111" />
+<marker lat="28.097857" lng="-80.672624" intname="WICKHAM RD and  NASA BLVD (USE " intnum="BC0112" />
+<marker lat="28.113236" lng="-80.672618" intname="WICKHAM RD and  WRIGHT AVE " intnum="BC0113" />
+<marker lat="28.118417" lng="-80.672585" intname="WICKHAM RD and  FOUNTAINHEAD BLVD " intnum="BC0114" />
+<marker lat="28.120617" lng="-80.700278" intname="S.R. 518 (EAU GALLIE BLVD) and  JOHN RODES BLVD " intnum="BC0115" />
+<marker lat="28.20052" lng="-80.59601711" intname="S.R. A1A and  BERKLEY ST " intnum="BC0116" />
+<marker lat="28.21269" lng="-80.59787" intname="S.R. A1A and  S.R. 404 (PINEDA CSWY) " intnum="BC0117" />
+<marker lat="28.195365" lng="-80.606235" intname="S.R. 513 (S. PATRICK DR) and  SHEARWATER PKWY (PATRICK DR) " intnum="BC0118" />
+<marker lat="28.078895" lng="-80.700201" intname="U.S. 192 and  JOHN RODES BLVD " intnum="BC0119" />
+<marker lat="28.200444" lng="-80.606317" intname="S.R. 513 (S. PATRICK DR) and  BERKELEY ST/ ST.GEORGE CT " intnum="BC0120" />
+<marker lat="28.085501" lng="-80.654566" intname="EVANS RD and  HIBISCUS BLVD " intnum="BC0121" />
+<marker lat="28.078912" lng="-80.672515" intname="U.S. 192 and  WICKHAM/MINTON RD " intnum="BC0122" />
+<marker lat="28.128615" lng="-80.671598" intname="S.R. 518 (EAU GALLIE BLVD) and  WICKHAM RD " intnum="BC0123" />
+<marker lat="28.121354" lng="-80.693886" intname="S.R. 518 (EAU GALLIE BLVD) and  SARNO RD " intnum="BC0124" />
+<marker lat="28.194092" lng="-80.594773" intname="S.R. A1A and  SHEARWATER PKWY(FKA PATRICK DR) " intnum="SB0018" />
+<marker lat="28.088964" lng="-80.672624" intname="WICKHAM RD and  SHERIDAN RD " intnum="BC0126" />
+<marker lat="28.105731" lng="-80.672629" intname="WICKHAM RD and  HARPER RD " intnum="BC0127" />
+<marker lat="28.099705" lng="-80.672628" intname="WICKHAM RD and  ELLIS RD/NASA Blvd " intnum="BC0128" />
+<marker lat="28.128831" lng="-80.65503" intname="S.R. 518 (EAU GALLIE BLVD) and  CROTON RD " intnum="BC0129" />
+<marker lat="28.230058" lng="-80.683538" intname="WICKHAM RD and  PINEHURST AVE (NORTH) " intnum="BC0130" />
+<marker lat="28.208428" lng="-80.606427" intname="S.R. 513 (S. PATRICK DR) and  OCEAN BLVD " intnum="BC0131" />
+<marker lat="28.07888" lng="-80.66647" intname="U.S. 192 and  DAYTON BLVD " intnum="BC0132" />
+<marker lat="28.20852" lng="-80.59723" intname="S.R. A1A and  OCEAN BLVD " intnum="BC0133" />
+<marker lat="27.880336" lng="-80.50121" intname="U.S. 1 and  MICCO RD " intnum="BC0134" />
+<marker lat="28.049822" lng="-80.654279" intname="EBER RD and  HOLLYWOOD BLVD " intnum="BC0135" />
+<marker lat="28.116499" lng="-80.637828" intname="APOLLO BLVD and  SAINT MICHAEL PL (MELBOURNE POLICE DEPT) " intnum="BC0136" />
+<marker lat="28.228033" lng="-80.600271" intname="S.R. A1A and  CENTRAL GATE (P.A.F.B.) " intnum="BC0137" />
+<marker lat="28.135288" lng="-80.580208" intname="S.R. A1A and  HOLY NAME OF JESUS CHURCH " intnum="BC0138" />
+<marker lat="28.078855" lng="-80.659243" intname="U.S. 192 and  LAILA CT/(WINDOVER SQUARE) " intnum="BC0139" />
+<marker lat="28.531119" lng="-80.813844" intname="S.R. 405 (COLUMBIA BLVD) and  GRISSOM PKWY " intnum="BC0140" />
+<marker lat="28.468561" lng="-80.804283" intname="FAY BLVD and  GRISSOM PKWY " intnum="BC0141" />
+<marker lat="28.446763" lng="-80.763066" intname="U.S. 1 and  CAMP RD " intnum="BC0142" />
+<marker lat="28.640338" lng="-80.831862" intname="U.S. 1 and  DAIRY RD " intnum="BC0143" />
+<marker lat="28.638149" lng="-80.836456" intname="DAIRY RD and  OLD DIXIE HWY " intnum="BC0144" />
+<marker lat="27.998671" lng="-80.63077" intname="S.R. 514 (MALABAR RD) and  I-95 S/B RAMP " intnum="BC0145" />
+<marker lat="27.998434" lng="-80.630262" intname="S.R. 514 (MALABAR RD) and  I-95 N/B RAMP " intnum="BC0146" />
+<marker lat="28.532435" lng="-80.818885" intname="S.R. 405 (COLUMBIA BLVD) and  S.R. 407 " intnum="BC0147" />
+<marker lat="28.666407" lng="-80.865401" intname="S.R. 46 and  HOLDER RD/PINE AVE " intnum="BC0155" />
+<marker lat="28.391223" lng="-80.703683" intname="S.R. 3 (N. COURTENAY PKWY) and  SPRUCE AVE (DIVINE MERCY) " intnum="BC0156" />
+<marker lat="28.468592" lng="-80.79933" intname="FAY BLVD and  ADAMS PL " intnum="BC0159" />
+<marker lat="28.396248" lng="-80.604928" intname="S.R. A1A and  CENTRAL BLVD " intnum="BC0161" />
+<marker lat="28.371508" lng="-80.668606" intname="N. BANANA RIVER DR and  MORNINGSIDE DR " intnum="BC0162" />
+<marker lat="28.607991" lng="-80.809723" intname="S.R. 405 (COLUMBIA BLVD) and  GOVT SERVICE COMPLEX (NORTH) " intnum="BC0165" />
+<marker lat="28.068554" lng="-80.670713" intname="MINTON RD and  MILWAUKEE AVE " intnum="BC0178" />
+<marker lat="28.261586" lng="-80.687929" intname="U.S. 1 and  VIERA BLVD/RIVERWAY " intnum="BC0179" />
+<marker lat="28.385397" lng="-80.787849" intname="S.R. 524 and  COX RD " intnum="BC0185" />
+<marker lat="28.295276" lng="-80.742887" intname="S.R. 519 (FISKE BLVD) and  I-95 NB RAMPS/BARNES BLVD " intnum="BC0186" />
+<marker lat="28.378482" lng="-80.668635" intname="N. BANANA RIVER DR and  ALL STAR LN (AUDUBON ELEM.) " intnum="BC0196" />
+<marker lat="28.2253630214592" lng="-80.6777787208557" intname="WICKHAM RD and  SAINT ANDREWS BLVD " intnum="BC0207" />
+<marker lat="28.4910698304607" lng="-80.7755935192108" intname="U.S. 1 and  KINGS HWY " intnum="BC0208" />
+<marker lat="28.4315247307832" lng="-80.7882213592529" intname="GRISSOM PKWY and  CANAVERAL GROVES BLVD " intnum="BC0209" />
+<marker lat="28.0755775741349" lng="-80.6720227003098" intname="MINTON RD and  HELEN ST " intnum="BC0210" />
+<marker lat="28.354238" lng="-80.700194" intname="S. COURTENAY PKWY and  FORTENBERRY AVE " intnum="BC0218" />
+<marker lat="28.121615" lng="-80.644616" intname="SARNO RD and  GOVERNMENT SERVICE COMPLEX (SOUTH) " intnum="BC0219" />
+<marker lat="28.035146" lng="-80.625778" intname="PALM BAY RD and  RIVIERA DR (EAST) " intnum="BC0220" />
+<marker lat="28.035376" lng="-80.649887" intname="PALM BAY RD and  HOLLYWOOD BLVD " intnum="BC0221" />
+<marker lat="28.056924" lng="-80.638096" intname="DAIRY RD and  FLORIDA AVE " intnum="BC0222" />
+<marker lat="28.099258" lng="-80.621803" intname="BABCOCK ST and  APOLLO BLVD " intnum="BC0223" />
+<marker lat="28.099861" lng="-80.62285" intname="APOLLO BLVD and  AIRPORT BLVD " intnum="BC0224" />
+<marker lat="28.05154" lng="-80.671295" intname="MINTON RD and  EBER BLVD/BURDOCK AVE " intnum="BC0225" />
+<marker lat="28.072131" lng="-80.670717" intname="MINTON RD and  HENRY AVE " intnum="BC0226" />
+<marker lat="28.132914" lng="-80.638577" intname="AURORA RD and  STEWART AVE " intnum="BC0227" />
+<marker lat="27.966128" lng="-80.622556" intname="BABCOCK ST and  WACO BLVD " intnum="BC0228" />
+<marker lat="28.035374" lng="-80.662637" intname="PALM BAY RD and  CULVER DR " intnum="BC0229" />
+<marker lat="28.230354" lng="-80.719018" intname="WICKHAM RD and  I-95 S/B RAMP " intnum="BC0230" />
+<marker lat="28.07889" lng="-80.705469" intname="U.S. 192 and  I-95 N/B RAMP " intnum="BC0231" />
+<marker lat="28.078891" lng="-80.706342" intname="U.S. 192 and  I-95 S/B RAMP " intnum="BC0232" />
+<marker lat="28.230333" lng="-80.712676" intname="WICKHAM RD and  MURRELL RD " intnum="BC0233" />
+<marker lat="28.490758" lng="-80.804243" intname="GRISSOM PKWY and  KINGS HWY " intnum="BC0243" />
+<marker lat="28.21607" lng="-80.673733" intname="WICKHAM RD and  JORDAN BLASS DR " intnum="BC0244" />
+<marker lat="28.23001" lng="-80.680782" intname="WICKHAM RD and  WAELTI DR " intnum="BC0245" />
+<marker lat="28.230795" lng="-80.698855" intname="WICKHAM RD and  INTERLACHEN RD " intnum="BC0246" />
+<marker lat="28.295291" lng="-80.721923" intname="BARNES BLVD and  MURRELL RD " intnum="BC0247" />
+<marker lat="28.120513" lng="-80.706299" intname="S.R. 518 (EAU GALLIE BLVD) and  I-95 S/B RAMP " intnum="BC0248" />
+<marker lat="28.120543" lng="-80.70546" intname="S.R. 518 (EAU GALLIE BLVD) and  I-95 N/B RAMP " intnum="BC0249" />
+<marker lat="28.686459" lng="-80.854799" intname="U.S. 1 and  BROCKETT RD " intnum="BC0252" />
+<marker lat="28.061147" lng="-80.670841" intname="MINTON RD and  WINGATE BLVD/FELL RD " intnum="BC0254" />
+<marker lat="28.212742" lng="-80.606535" intname="S.R. 513 (S. PATRICK DR) and  S.R. 404 (PINEDA CSWY) " intnum="BC0255" />
+<marker lat="28.129628" lng="-80.590995" intname="RIVERSIDE DR and  GARDEN ST APARTMENTS " intnum="BC0256" />
+<marker lat="28.121413" lng="-80.588022" intname="RIVERSIDE DR and  PARADISE LN " intnum="BC0257" />
+<marker lat="28.039273" lng="-80.671358" intname="MINTON RD and  HIELD RD " intnum="BC0258" />
+<marker lat="28.111701" lng="-80.700245" intname="JOHN RODES BLVD and  LANTERN BLVD " intnum="BC0259" />
+<marker lat="28.230317" lng="-80.715829" intname="WICKHAM RD and  SHERIFF DR/MCDONALDS " intnum="BC0262" />
+<marker lat="27.980408" lng="-80.622395" intname="BABCOCK ST and  FOUNDATION PARK BLVD " intnum="BC0265" />
+<marker lat="28.035162" lng="-80.62779" intname="PALM BAY RD and  STACK BLVD " intnum="BC0266" />
+<marker lat="28.081796" lng="-80.653934" intname="EVANS RD and  MELBOURNE SQUARE MALL " intnum="BC0268" />
+<marker lat="28.410797" lng="-80.70617" intname="S.R. 3 (N. COURTENAY PKWY) N OF BARGE CANAL (U-TURN) and Signal 2- Phase Actuated " intnum="BC0269" />
+<marker lat="28.035282" lng="-80.656146" intname="PALM BAY RD and  I-95 N/B RAMP " intnum="BC0276" />
+<marker lat="28.230601" lng="-80.705767" intname="WICKHAM RD and  BAYTREE DR " intnum="BC0277" />
+<marker lat="28.071497" lng="-80.637953" intname="DAIRY RD and  EDGEWOOD DR " intnum="BC0279" />
+<marker lat="28.45391" lng="-80.804423" intname="GRISSOM PKWY and  PORT SAINT JOHN PKWY " intnum="BC0285" />
+<marker lat="28.178073" lng="-80.672056" intname="WICKHAM RD and  KENSINGTON DR/(LONGLEAF ELEM) " intnum="BC0286" />
+<marker lat="28.035147" lng="-80.614532" intname="PALM BAY RD and  PINEWOOD DR " intnum="BC0299" />
+<marker lat="28.240613" lng="-80.601725" intname="S.R. A1A and  (P.A.F.B.) FIRE STATION " intnum="BC0300" />
+<marker lat="28.09478" lng="-80.672647" intname="WICKHAM RD and  GREENBORO DR " intnum="BC0303" />
+<marker lat="28.230349" lng="-80.717813" intname="WICKHAM RD and  I-95 N/B RAMP " intnum="BC0304" />
+<marker lat="28.035448" lng="-80.667435" intname="PALM BAY RD and  ATHENS DR " intnum="BC0305" />
+<marker lat="28.193957" lng="-80.671963" intname="WICKHAM RD and  BUSINESS CTR/PINEDA CROSSING " intnum="BC0306" />
+<marker lat="28.230318" lng="-80.7211" intname="WICKHAM RD and  SHOPPES DR  (WALMART/ TARGET ) " intnum="BC0311" />
+<marker lat="28.277385" lng="-80.721815" intname="MURRELL RD and  CLUBHOUSE DR " intnum="BC0312" />
+<marker lat="28.265471" lng="-80.718069" intname="MURRELL RD and  VIERA BLVD " intnum="BC0315" />
+<marker lat="28.108208" lng="-80.672631" intname="WICKHAM RD and  TECHNOLOGY DR " intnum="BC0316" />
+<marker lat="28.412713" lng="-80.70635" intname="S.R. 3 (N. COURTENAY PKWY) and  GRANT RD/SMITH RD " intnum="BC0318" />
+<marker lat="28.388053" lng="-80.703092" intname="S.R. 3 (N. COURTENAY PKWY) and  FLORIDA BLVD/MEADOWS BLVD " intnum="BC0320" />
+<marker lat="28.388053" lng="-80.703092" intname="FAY BLVD and  HOMESTEAD AVE " intnum="BC0321" />
+<marker lat="28.125192" lng="-80.671595" intname="WICKHAM RD and  DOG TRACK RD " intnum="BC0322" />
+<marker lat="28.237407" lng="-80.712998" intname="MURRELL RD and  SPYGLASS HILL RD " intnum="BC0323" />
+<marker lat="28.242381" lng="-80.729796" intname="LAKE ANDREW DR and  TOWN CENTER AV " intnum="BC0324" />
+<marker lat="28.289208" lng="-80.742889" intname="S.R. 519 (FISKE BLVD) and  I-95 SB RAMP " intnum="BC0327" />
+<marker lat="28.249032" lng="-80.715568" intname="MURRELL RD and  OLD GLORY " intnum="BC0329" />
+<marker lat="28.295291" lng="-80.729035" intname="BARNES BLVD and  THREE MEADOWS/PEREGRINE CIR " intnum="BC0332" />
+<marker lat="28.189376" lng="-80.672033" intname="WICKHAM RD and  MARIAH/CONSTELLATION DR " intnum="BC0333" />
+<marker lat="28.666233" lng="-80.870229" intname="S.R. 46 and  I-95 N/B RAMP " intnum="BC0334" />
+<marker lat="28.24771" lng="-80.737948" intname="STADIUM PKWY and  JUDGE FRAN JAMIESON WAY " intnum="BC0338" />
+<marker lat="28.247801" lng="-80.729718" intname="JUDGE FRAN JAMIESON WAY and  LAKE ANDREW DR " intnum="BC0345" />
+<marker lat="28.063531" lng="-80.670843" intname="MINTON RD and  BUS LOOP " intnum="BC0346" />
+<marker lat="28.266789" lng="-80.736596" intname="STADIUM PKWY and  VIERA BLVD/ SOLERNO BLVD " intnum="BC0347" />
+<marker lat="28.266762" lng="-80.738737" intname="VIERA BLVD and  PORADA DR " intnum="BC0348" />
+<marker lat="28.088667" lng="-80.700205" intname="JOHN RODES BLVD and  SHERIDAN RD " intnum="BC0349" />
+<marker lat="28.483267" lng="-80.804086" intname="GRISSOM PKWY and  FALCON BLVD " intnum="BC0351" />
+<marker lat="28.47721" lng="-80.804167" intname="GRISSOM PKWY and  CURTIS BLVD " intnum="BC0352" />
+<marker lat="28.200869" lng="-80.671961" intname="S.R. 404 (PINEDA CSWY) and  WICKHAM RD " intnum="BC0353" />
+<marker lat="28.043651" lng="-80.671359" intname="MINTON RD and  NORFOLK PKWY " intnum="BC0354" />
+<marker lat="28.368505" lng="-80.60562" intname="S.R. A1A and  SHEPARD DR " intnum="CB0001" />
+<marker lat="28.362816" lng="-80.607392" intname="S.R. A1A and  OSCEOLA LN " intnum="CB0002" />
+<marker lat="28.357949" lng="-80.608044" intname="S.R. A1A and  S.R. 520 " intnum="CB0003" />
+<marker lat="28.355991" lng="-80.608281" intname="S.R. A1A and  MARION LN " intnum="CB0004" />
+<marker lat="28.353393" lng="-80.608608" intname="S.R. A1A and  SAINT LUCIE LN " intnum="CB0005" />
+<marker lat="28.345341" lng="-80.609652" intname="S.R. A1A and  FISCHER PARK DR " intnum="CB0006" />
+<marker lat="28.342652" lng="-80.609953" intname="S.R. A1A and  S. BANANA RIVER BLVD " intnum="CB0007" />
+<marker lat="28.340942" lng="-80.610038" intname="S.R. A1A and  ROYALE WAY " intnum="CB0008" />
+<marker lat="28.333912" lng="-80.610515" intname="S.R. A1A and  HOLIDAY LN " intnum="CB0009" />
+<marker lat="28.329718" lng="-80.610572" intname="S.R. A1A and  COCOA ISLES BLVD " intnum="CB0010" />
+<marker lat="28.325668" lng="-80.609201" intname="S.R. A1A and  4TH ST " intnum="CB0011" />
+<marker lat="28.31844" lng="-80.610092" intname="S.R. A1A (ORLANDO AVE) and  MINUTEMEN CSWY S/B " intnum="CB0012" />
+<marker lat="28.318443" lng="-80.611182" intname="MINUTEMEN CSWY and  BREVARD AVE " intnum="CB0013" />
+<marker lat="28.318462" lng="-80.608922" intname="S.R. A1A (N. ATLANTIC AVE) and  MINUTEMEN CSWY N/B " intnum="CB0014" />
+<marker lat="28.357357" lng="-80.66489362" intname="S.R. 520 and  N. BANANA RIVER BLVD/BELT RD (CB) " intnum="CB0015" />
+<marker lat="28.357731" lng="-80.623157" intname="S.R. 520 and  Cape CanaveralRAL HOSPITAL/JOHN HORNE BLVD " intnum="CB0016" />
+<marker lat="28.283114" lng="-80.607554" intname="S.R. A1A and  N. ATLANTIC AVE " intnum="CC0001" />
+<marker lat="28.387094" lng="-80.605623" intname="S.R. A1A and  JACKSON AVE (CC) " intnum="CC0002" />
+<marker lat="28.381398" lng="-80.605612" intname="S.R. A1A and  BUCHANAN/CENTER ST " intnum="CC0003" />
+<marker lat="28.356431" lng="-80.728791" intname="S.R. 520 W/B/(WILLARD ST) and  FORREST AVE " intnum="CO0001" />
+<marker lat="28.355857" lng="-80.72834" intname="S.R. 520 E/B/(KING ST) and  FORREST AVE " intnum="CO0002" />
+<marker lat="28.356446" lng="-80.726261" intname="S.R. 520 W/B/(WILLARD ST) and  BREVARD AVE " intnum="CO0003" />
+<marker lat="28.355877" lng="-80.726254" intname="S.R. 520 E/B/(KING ST) and  BREVARD AVE " intnum="CO0004" />
+<marker lat="28.356462" lng="-80.725368" intname="S.R. 520 W/B/(WILLARD ST) and  DELANNOY AVE " intnum="CO0005" />
+<marker lat="28.355872" lng="-80.725385" intname="S.R. 520 E/B/(KING ST) and  DELANNOY AVE " intnum="CO0006" />
+<marker lat="28.355911" lng="-80.723923" intname="S.R. 520 E/B/(KING ST) and  RIVEREDGE BLVD " intnum="CO0007" />
+<marker lat="27.860035" lng="-80.492245" intname="S.R. 520 and  U.S. 1 " intnum="CO0008" />
+<marker lat="28.357712" lng="-80.732539" intname="U.S. 1 and  PEACHTREE ST " intnum="CO0009" />
+<marker lat="28.354797" lng="-80.732482" intname="U.S. 1 and  STONE ST " intnum="CO0010" />
+<marker lat="28.350421" lng="-80.7309" intname="U.S. 1 and  POINSETT DR/ROSA L. JONES DR " intnum="CO0011" />
+<marker lat="28.369302" lng="-80.735084" intname="U.S. 1 and  FORREST AVE " intnum="CO0012" />
+<marker lat="28.378112" lng="-80.738681" intname="U.S. 1 and  DIXON BLVD " intnum="CO0013" />
+<marker lat="28.355709" lng="-80.742552" intname="S.R. 520 and  S.R. 519 (FISKE BLVD) " intnum="CO0014" />
+<marker lat="28.355708" lng="-80.738432" intname="S.R. 520 and  BLAKE ST " intnum="CO0015" />
+<marker lat="28.355738" lng="-80.744438" intname="S.R. 520 and  VARR AVE " intnum="CO0016" />
+<marker lat="28.357627" lng="-80.742599" intname="S.R. 519 (FISKE BLVD) and  PEACHTREE ST " intnum="CO0017" />
+<marker lat="28.396877" lng="-80.763612" intname="S.R. 524 and  INDUSTRY RD " intnum="CO0018" />
+<marker lat="28.396405" lng="-80.770913" intname="S.R. 524 and  LONDON BLVD " intnum="CO0019" />
+<marker lat="28.350419" lng="-80.72771739" intname="FLORIDA AVE and  POINSETT DR/ROSA L. JONES DR " intnum="CO0021" />
+<marker lat="28.349299" lng="-80.742542" intname="S.R. 519 (FISKE BLVD) and  POINSETT DR/ROSA L. JONES DR " intnum="CO0022" />
+<marker lat="28.394478" lng="-80.755083" intname="S.R. 524 and  SHOPPES OF NORTH COCOA " intnum="CO0031" />
+<marker lat="28.394478" lng="-80.755083" intname="S.R. 501 (CLEARLAKE RD) and  OTTERBEIN AVE " intnum="CO0032" />
+<marker lat="28.448227" lng="-80.763044" intname="1 U.S. 1 and  FOUR COMMUNITIES FIRE STATION " intnum="FD000" />
+<marker lat="28.152952" lng="-80.584597" intname="S.R. A1A and  PINE TREE DR " intnum="IH0001" />
+<marker lat="28.148558" lng="-80.583531" intname="S.R. A1A and  PALM SPRINGS DR " intnum="IH0002" />
+<marker lat="28.145224" lng="-80.598662" intname="S.R. 513 (S. PATRICK DR) and  YACHT CLUB DR " intnum="IH0003" />
+<marker lat="28.151193" lng="-80.59989" intname="S.R. 513 (S. PATRICK DR) and  BANANA RIVER DR " intnum="IH0004" />
+<marker lat="28.164821" lng="-80.605806" intname="S.R. 513 (S. PATRICK DR) and  DESOTO PKWY " intnum="IH0005" />
+<marker lat="28.160355" lng="-80.603951" intname="S.R. 513 (S. PATRICK DR) and  TOMAHAWK DR " intnum="IH0006" />
+<marker lat="28.091544" lng="-80.566752" intname="S.R. A1A and  U.S. 192/5TH AVE " intnum="IL0001" />
+<marker lat="28.089187" lng="-80.57507" intname="U.S. 192 and  RIVERSIDE DR/5TH AVE " intnum="IL0002" />
+<marker lat="28.00437" lng="-80.563763" intname="U.S. 1 and  MALABAR RD " intnum="MA0001" />
+<marker lat="27.983538" lng="-80.554121" intname="U.S. 1 and  JORDAN BLVD (HARRIS CORP) " intnum="MA0002" />
+<marker lat="28.068299" lng="-80.560804" intname="S.R. A1A and  OCEAN/ OAK ST " intnum="MB0003" />
+<marker lat="28.054412" lng="-80.589109" intname="1 U.S. 1 and  ROBERT J. CONLAN BLVD " intnum="PB-000" />
+<marker lat="28.036396" lng="-80.582345" intname="U.S. 1 and  PALM BAY RD " intnum="PB0002" />
+<marker lat="28.024601" lng="-80.574443" intname="U.S. 1 and  PORT MALABAR BLVD " intnum="PB0003" />
+<marker lat="28.040079" lng="-80.59729" intname="ROBERT J. CONLAN BLVD and  KIRBY AVE " intnum="PB0004" />
+<marker lat="28.035004" lng="-80.609096" intname="PALM BAY RD and  BOTTLEBRUSH DR/(FIRE STATION #1) " intnum="PB0005" />
+<marker lat="28.031885" lng="-80.695895" intname="EMERSON DR and  JUPITER BLVD N/W " intnum="PB0006" />
+<marker lat="28.031885" lng="-80.695895" intname="EMERSON DR and  JUPITER BLVD S/E " intnum="PB0007" />
+<marker lat="28.030133" lng="-80.660857" intname="EMERSON DR N/E and  CULVER DR " intnum="PB0008" />
+<marker lat="27.999071" lng="-80.697016" intname="MALABAR RD and  JUPITER BLVD " intnum="PB0009" />
+<marker lat="27.998519" lng="-80.634547" intname="MALABAR RD and  SAN FILIPPO DR " intnum="PB0010" />
+<marker lat="27.998724" lng="-80.638862" intname="MALABAR RD and  HOLIDAY PARK " intnum="PB0011" />
+<marker lat="27.987488" lng="-80.672185" intname="JUPITER BLVD and  MINTON RD " intnum="PB0012" />
+<marker lat="27.987406" lng="-80.661518" intname="JUPITER BLVD and  ELDRON BLVD " intnum="PB0013" />
+<marker lat="27.966271" lng="-80.63476" intname="WACO BLVD and  SAN FILIPPO DR " intnum="PB0015" />
+<marker lat="27.98112" lng="-80.634484" intname="SAN FILIPPO DR and  FOUNDATION PKWY " intnum="PB0016" />
+<marker lat="27.9675170258616" lng="-80.648644566536" intname="EMERSON DR and  (PARK " intnum="PB0017" />
+<marker lat="28.0141234166374" lng="-80.6455492973328" intname="EMERSON DR and  FRED LEE PARK " intnum="PB0018" />
+<marker lat="28.0279891776517" lng="-80.6034761667252" intname="TROUTMAN BLVD and  PERIMETER RD/(HARRIS BLDG. #101) " intnum="PB0019" />
+<marker lat="28.0192475158517" lng="-80.6221067905426" intname="BABCOCK ST and  PORT MALABAR BLVD " intnum="PB0020" />
+<marker lat="28.0154399829645" lng="-80.6222355365753" intname="BABCOCK ST and  BLAINE ST/ST JOSEPH CHURCH " intnum="PB0021" />
+<marker lat="28.010410423462" lng="-80.6221282482147" intname="BABCOCK ST and  FALLON BLVD " intnum="PB0022" />
+<marker lat="28.0044144270139" lng="-80.6219780445098" intname="BABCOCK ST and  CHARLES BLVD/DWYER PL " intnum="PB0023" />
+<marker lat="28.0289812119676" lng="-80.6446132063865" intname="RIVIERA DR and  RIVIERA ELEM SCHOOL " intnum="PB0024" />
+<marker lat="28.016968" lng="-80.696766" intname="JUPITER BLVD and  PACE DR " intnum="PB0044" />
+<marker lat="27.987507" lng="-80.67449" intname="JUPITER BLVD and  DEGROODT RD " intnum="PB0045" />
+<marker lat="28.01869" lng="-80.598956" intname="PORT MALABAR BLVD and  TROUTMAN BLVD " intnum="PB0046" />
+<marker lat="27.995928" lng="-80.634573" intname="SAN FILIPPO DR and  COMMUNITY COLLEGE PKWY " intnum="PB0047" />
+<marker lat="27.9518759954845" lng="-80.6279540061951" intname="SAN FILIPPO DR and  FIRE STATION #5 " intnum="PB0048" />
+<marker lat="27.9986454519451" lng="-80.584545135498" intname="MALABAR RD and  FIRE STATION #2 " intnum="PB0049" />
+<marker lat="27.9987022906444" lng="-80.638200044632" intname="MALABAR RD and  PALM BAY CITY CENTER PLAZA " intnum="PB0050" />
+<marker lat="27.952904" lng="-80.677677" intname="DEGROODT DR and  BAYSIDE LAKES DR/BOMBARDIER " intnum="PB0051" />
+<marker lat="27.949552" lng="-80.658383" intname="BAYSIDE LAKES DR and  ELDRON BLVD " intnum="PB0052" />
+<marker lat="27.9528947926044" lng="-80.6754800677299" intname="BAYSIDE LAKES DR and  BAYSIDE LAKES HIGH SCHOOL " intnum="PB0053" />
+<marker lat="27.967445956933" lng="-80.6486392021179" intname="EMERSON DR and  WACO BLVD " intnum="PB0054" />
+<marker lat="27.991019" lng="-80.634875" intname="SAN FILIPPO DR and  JUPITER BLVD " intnum="PB0056" />
+<marker lat="27.998771" lng="-80.64858" intname="MALABAR RD and  EMERSON RD " intnum="PB0057" />
+<marker lat="27.9988" lng="-80.662991" intname="MALABAR RD and  ELDRON BLVD " intnum="PB0058" />
+<marker lat="27.999044" lng="-80.672588" intname="MALABAR RD and  MINTON RD " intnum="PB0059" />
+<marker lat="28.024702" lng="-80.660395" intname="EMERSON DR and  PEPPER ST " intnum="PB0060" />
+<marker lat="28.404958" lng="-80.614116" intname="GEORGE J KING BLVD and  COLUMBIA RD/FLOUNDER ST " intnum="PC0001" />
+<marker lat="28.416735" lng="-80.63064" intname="S.R. 401 OVERPASS RAMP and  CHRISTOPHER COLUMBUS DR " intnum="PC0002" />
+<marker lat="28.4128233127461" lng="-80.630110502243" intname="DISNEY CRUISE TERMINAL # 8 and  CHRISTOPHER COLUMBUS DR " intnum="PC0003" />
+<marker lat="28.403782795382" lng="-80.6186199188232" intname="S.R. A1A and  GEORGE KING BLVD " intnum="PC0006" />
+<marker lat="28.418759" lng="-80.619967" intname="S.R. 401 and  GROUPER ST " intnum="PC0005" />
+<marker lat="28.405576" lng="-80.604344" intname="N. ATLANTIC AVE and  GEORGE J KING BLVD " intnum="PC0004" />
+<marker lat="28.418704" lng="-80.626233" intname="S.R. 401 and  C. M. ROWLAND DR (CRUISE TERMINAL #5) " intnum="PC0007" />
+<marker lat="28.330734" lng="-80.722647" intname="U.S. 1 and  BARTON BLVD " intnum="RK0001" />
+<marker lat="28.3371536280341" lng="-80.7265305519104" intname="U.S. 1 and  FLORIDA AVE " intnum="RK0002" />
+<marker lat="28.3245367680029" lng="-80.7174861431122" intname="U.S. 1 and  EYSTER BLVD " intnum="RK0003" />
+<marker lat="28.330875" lng="-80.727835" intname="BARTON BLVD and  MURRELL RD " intnum="RK0004" />
+<marker lat="28.3308548290122" lng="-80.7323348522186" intname="BARTON BLVD and  COGSWELL ST " intnum="RK0005" />
+<marker lat="28.3308359414972" lng="-80.7349419593811" intname="BARTON BLVD and  HUNTINGTON LN " intnum="RK0006" />
+<marker lat="28.3308170539788" lng="-80.7379353046417" intname="BARTON BLVD and  CEDAR ST " intnum="RK0007" />
+<marker lat="28.3306565099369" lng="-80.7425916194916" intname="S.R. 519 (FISKE BLVD) and  BARTON BLVD " intnum="RK0008" />
+<marker lat="28.324102328484" lng="-80.7426989078522" intname="S.R. 519 (FISKE BLVD) and  EYSTER BLVD " intnum="RK0009" />
+<marker lat="28.3092217032971" lng="-80.7428115606307" intname="S.R. 519 (FISKE BLVD) and  ANDERSON ELEM SCHOOL " intnum="RK0010" />
+<marker lat="28.338546" lng="-80.742524" intname="S.R. 519 (FISKE BLVD) and  SAINT ANDREWS DR " intnum="RK0011" />
+<marker lat="28.345564" lng="-80.742498" intname="S.R. 519 (FISKE BLVD) and  PLUCKEBAUM RD " intnum="RK0012" />
+<marker lat="28.32421" lng="-80.721948502" intname="MURRELL RD and  EYSTER BLVD " intnum="RK0013" />
+<marker lat="28.315583" lng="-80.722061" intname="MURRELL RD and  LEVITT PKWY " intnum="RK0014" />
+<marker lat="28.34376" lng="-80.726019" intname="FLORIDA AVE and  BOUGAINVILLEA DR " intnum="RK0015" />
+<marker lat="28.338988" lng="-80.727147" intname="U.S. 1 and  ROCKLEDGE SQ. " intnum="RK0024" />
+<marker lat="28.3241" lng="-80.735" intname="EYSTER BLVD and  HUNTINGTON LN " intnum="RK0025" />
+<marker lat="28.334434" lng="-80.725318" intname="U.S. 1 and  LONGWOOD AVE " intnum="RK0026" />
+<marker lat="28.304083" lng="-80.722077" intname="MURRELL RD and  GUS HIPP BLVD " intnum="RK0027" />
+<marker lat="28.186633" lng="-80.593032" intname="S.R. A1A and  SCORPION CT " intnum="SB0001" />
+<marker lat="28.183364027925" lng="-80.5922698974609" intname="S.R. A1A and  JACKSON AVE (SB-) " intnum="SB0002" />
+<marker lat="28.172466" lng="-80.589464" intname="S.R. A1A and  CASSIA BLVD " intnum="SB0003" />
+<marker lat="28.164695" lng="-80.587554" intname="S.R. A1A and  DESOTO PKWY " intnum="SB0004" />
+<marker lat="28.183259" lng="-80.60612" intname="S.R. 513 (S. PATRICK DR) and  JACKSON AVE " intnum="SB0005" />
+<marker lat="28.0372983141649" lng="-80.662527680397" intname="NORFOLK PKWY and  SHOPPING CENTER DR " intnum="WM0001" />
+<marker lat="28.057192" lng="-80.653957" intname="HOLLYWOOD BLVD and  FLORIDA AVE/WINGATE BLVD " intnum="WM0002" />
+<marker lat="28.359921" lng="-80.792803" intname="S.R. 520 and  TOWNSEND RD " intnum="CO0033" />
+<marker lat="28.086913" lng="-80.627032" intname="airport and  eddie allen " intnum="ML0001" />
+<marker lat="28.0903062011114" lng="-80.6270313262939" intname="airport and  rialto " intnum="ML0002" />
+<marker lat="28.088855" lng="-80.617586" intname="apollo and  sheridan " intnum="ML0003" />
+<marker lat="28.122764" lng="-80.576812" intname="S.R. A1A and  PARADISE BLVD " intnum="ML0004" />
+<marker lat="28.107176" lng="-80.62178" intname="BABCOCK ST and  brevard " intnum="ML0005" />
+<marker lat="28.088859" lng="-80.621866" intname="babcock/sheridan/bulldog and Signal Melbou" intnum="ML0006" />
+<marker lat="28.0822322104055" lng="-80.6215703487396" intname="BABCOCK ST and  fee " intnum="ML0007" />
+<marker lat="28.056991" lng="-80.62151" intname="BABCOCK ST and  florida " intnum="ML0008" />
+<marker lat="28.085188" lng="-80.62168" intname="BABCOCK ST and  hibiscus " intnum="ML0009" />
+<marker lat="28.0765" lng="-80.62136" intname="BABCOCK ST and  melbourne " intnum="ML0010" />
+<marker lat="28.08334" lng="-80.62171" intname="BABCOCK ST and  nasa " intnum="ML0011" />
+<marker lat="28.049754" lng="-80.621615" intname="BABCOCK ST and  eber " intnum="ML0012" />
+<marker lat="28.067466" lng="-80.62126" intname="BABCOCK ST and  southgate " intnum="ML0013" />
+<marker lat="28.0673107679456" lng="-80.6213960051537" intname="BABCOCK ST and  FIT " intnum="ML0014" />
+<marker lat="28.0640280091537" lng="-80.6213825941086" intname="BABCOCK ST and  university " intnum="ML0015" />
+<marker lat="28.1386522427285" lng="-80.5810904502869" intname="sr a1a and  sr 518 " intnum="ML0016" />
+<marker lat="28.128839" lng="-80.646824" intname="sr 518 and  commodore " intnum="ML0017" />
+<marker lat="28.130837" lng="-80.626086" intname="sr 518 and  pineapple " intnum="ML0018" />
+<marker lat="28.129191041717" lng="-80.6264090538025" intname="sr 518 and  highland " intnum="ML0019" />
+<marker lat="28.171951" lng="-80.660783558" intname="post and  sherwood-bcc " intnum="ML0020" />
+<marker lat="28.085242" lng="-80.627076" intname="hibiscus and  airport " intnum="ML0021" />
+<marker lat="28.08517" lng="-80.617569" intname="hibiscus and  apollo " intnum="ML0022" />
+<marker lat="28.085232" lng="-80.63794" intname="hibiscus and  dairy " intnum="ML0023" />
+<marker lat="28.085454" lng="-80.649674" intname="hibiscus and  gateway " intnum="ML0024" />
+<marker lat="28.085143" lng="-80.613496" intname="hibiscus and  hickory " intnum="ML0025" />
+<marker lat="28.088848573612" lng="-80.6135237216949" intname="hickory and  sheridan " intnum="ML0026" />
+<marker lat="28.146849" lng="-80.655116" intname="lake washington and  croton " intnum="ML0027" />
+<marker lat="28.1470814689913" lng="-80.6468796730042" intname="lake washington and  stewart " intnum="ML0028" />
+<marker lat="28.05662" lng="-80.604921" intname="lipscomb and  florida " intnum="ML0029" />
+<marker lat="28.129189" lng="-80.626406" intname="montreal and  highland " intnum="ML0030" />
+<marker lat="28.09363" lng="-80.6265" intname="nasa and  airport " intnum="ML0031" />
+<marker lat="28.0934012276372" lng="-80.6175684928894" intname="nasa and  apollo " intnum="ML0032" />
+<marker lat="28.093057" lng="-80.6152403354645" intname="nasa and  hickory " intnum="ML0033" />
+<marker lat="28.078789" lng="-80.627114" intname="new haven and  airport " intnum="ML0034" />
+<marker lat="28.0787771520001" lng="-80.6247353553771" intname="new haven and  country club " intnum="ML0035" />
+<marker lat="28.0785878305191" lng="-80.6215167045593" intname="new haven (us 192) and   babcock " intnum="ML0036" />
+<marker lat="28.078976" lng="-80.616496" intname="new haven (US 192) and  strawbridge/pine " intnum="ML0037" />
+<marker lat="28.0784931696534" lng="-80.6095862388611" intname="new haven (US 192) and  livingston " intnum="ML0038" />
+<marker lat="28.0784553052838" lng="-80.6078374385834" intname="new haven (US 192) and  waverly " intnum="ML0039" />
+<marker lat="28.0784269069978" lng="-80.6060671806335" intname="new haven (US 192) and  municipal " intnum="ML0040" />
+<marker lat="28.157549" lng="-80.655404" intname="parkway and  croton " intnum="ML0041" />
+<marker lat="28.1575248425505" lng="-80.6474590301514" intname="parkway and  stewart " intnum="ML0042" />
+<marker lat="28.171984" lng="-80.65566" intname="post and  croton " intnum="ML0043" />
+<marker lat="28.079472" lng="-80.613233" intname="strawbridge and  hickory " intnum="ML0046" />
+<marker lat="28.0794113765297" lng="-80.6095862388611" intname="strawbridge and  livingston " intnum="ML0047" />
+<marker lat="28.0793829784966" lng="-80.6078159809113" intname="strawbridge and  waverly " intnum="ML0048" />
+<marker lat="28.063874" lng="-80.60482" intname="university and  lipscomb " intnum="ML0049" />
+<marker lat="28.172107" lng="-80.647147" intname="sr 5 (us #1) and  post " intnum="ML0050" />
+<marker lat="28.139772" lng="-80.634084" intname="sr 5 (us #1) and  masterson " intnum="ML0051" />
+<marker lat="28.607984" lng="-80.807618" intname="sr 5 (us #1) and  parkway " intnum="ML0052" />
+<marker lat="28.147933" lng="-80.638235" intname="sr 5 (us #1) lake washington and Signal " intnum="ML0053" />
+<marker lat="28.134955" lng="-80.633029" intname="sr 5 (us #1) and  aurora " intnum="ML0054" />
+<marker lat="28.1290018091761" lng="-80.6302821636199" intname="sr 5 (us #1) and  SR 518 (eau gallie blvd.) " intnum="ML0055" />
+<marker lat="28.121614" lng="-80.630943" intname="sr 5 (us #1) and  sarno " intnum="ML0056" />
+<marker lat="28.116118" lng="-80.62321" intname="sr 5 (us #1) and  ballard " intnum="ML0057" />
+<marker lat="28.099853" lng="-80.612943" intname="sr 5 (Us #1) and  cherry " intnum="ML0058" />
+<marker lat="28.0937798180283" lng="-80.6101763248444" intname="sr 5 (us #1) and  nasa " intnum="ML0059" />
+<marker lat="28.085148" lng="-80.60617" intname="sr 5 (us #1) and  hibiscus " intnum="ML0060" />
+<marker lat="28.0799320058072" lng="-80.6035137176514" intname="sr 5 (us #1) and  strawbridge " intnum="ML0061" />
+<marker lat="28.078852880499" lng="-80.6030094623566" intname="sr 5 (us #1) and  new haven (us 192) " intnum="ML0062" />
+<marker lat="28.071428" lng="-80.600917" intname="sr 5 (us #1) and  line " intnum="ML0063" />
+<marker lat="28.06381" lng="-80.597022" intname="sr 5 (us #1) and  university " intnum="ML0064" />
+<marker lat="28.093832" lng="-80.631677" intname="nasa and  eddie allen " intnum="ML0065" />
+<marker lat="28.1368168350462" lng="-80.5806291103363" intname="sr 518 (eau gallie blvd) and  wal mart " intnum="ML0066" />
+<marker lat="28.074899" lng="-80.601762" intname="sr 5 (us #1) and  prospect " intnum="ML0067" />
+<marker lat="28.093264" lng="-80.65468" intname="nasa and  evans " intnum="ML0068" />
+<marker lat="28.096098655035" lng="-80.6548190116882" intname="nasa and  grumman " intnum="ML0069" />
+<marker lat="28.092611" lng="-80.64043614" intname="nasa and  woody burke " intnum="ML0076" />
+<marker lat="28.092701" lng="-80.651583" intname="nasa and  gateway " intnum="ML0077" />
+<marker lat="28.138637" lng="-80.584137" intname="S.R. 518 (EAU GALLIE BLVD) and  SAN JUAN AVE (WAL Mart) " intnum="ML0078" />
+<marker lat="28.078971" lng="-80.703503" intname="U.S. 192 and  DIKE RD " intnum="WM0003" />
+<marker lat="28.172335" lng="-80.60594" intname="7 S.R. 513 (S. PATRICK DR) and  CASSIA BLVD " intnum="SB-001" />
+<marker lat="28.09895" lng="-80.700202" intname="JOHN RODES BLVD and  ELLIS RD " intnum="BC0361" />
+<marker lat="28.404627" lng="-80.617012" intname="GEORGE J KING BLVD and  DAVE NISBET DR " intnum="PC0008" />
+<marker lat="28.2034484520842" lng="-80.6678867340088" intname="S.R. 404 (PINEDA CSWY) and  HOLY TRINITY DR " intnum="BC0362" />
+<marker lat="28.1937944047366" lng="-80.6929707527161" intname="S.R. 404 (PINEDA CSWY) and  ESTUARY BLVD/BRISBANE BLVD " intnum="BC0363" />
+<marker lat="28.071761" lng="-80.653592" intname="HOLLYWOOD BLVD and  HENRY AVE " intnum="BC0366" />
+<marker lat="28.1915533307354" lng="-80.7112205028533" intname="S.R. 404 (PINEDA CSWY) and  I-95 SB RAMPS " intnum="BC0364" />
+<marker lat="28.1926691456051" lng="-80.7067251205444" intname="S.R. 404 (PINEDA CSWY) and  I-95 NB RAMPS " intnum="BC0365" />
+<marker lat="28.057359" lng="-80.67123" intname="MINTON RD and  FLANAGAN AVE " intnum="BC0369" />
+<marker lat="28.3599" lng="-80.7886" intname="S.R. 520 and  Cox Rd./A Ln. " intnum="BC0374" />
+<marker lat="28.26982" lng="-80.73756" intname="STADIUM PKWY and  ROSEMOUNT DR " intnum="BC0377" />
+</markers>	

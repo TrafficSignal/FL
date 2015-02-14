@@ -1,0 +1,315 @@
+<markers>
+<marker lng='-82.7590420501115' lat='30.3297983432117' main='ROBERTS ST or PLUM ST or HATLEY ST or US 41' side='SR 136\/BRIDGE STREET' sigid='N/A' roadid='32010000' agency='HAMILTON COUNTY'/>
+<marker lng='-83.9115229743496' lat='30.4110267017931' main='US 27' side='SR 57 FB' sigid='003' roadid='54020000' agency='JEFFERSON COUNTY'/>
+<marker lng='-80.6535209372637' lat='26.8127355178721' main='STATE MARKET RD' side='MUCK CITY RD' sigid='N/A' roadid='93230000' agency='N\/A'/>
+<marker lng='-85.7419676765764' lat='30.9497089647256' main='CR-2 or SR-2' side='CR 177 FB' sigid='009' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-82.8622416757701' lat='29.7547430368278' main='N MAIN ST or S MAIN ST or US 129 or US 129' side='CR 342\/STRICKLAND AV' sigid='N/A' roadid='31030000' agency='GILCHRIST COUNTY'/>
+<marker lng='-80.7107158260041' lat='26.5801717598738' main='US-27' side='OKEELANTA CORPORATN' sigid='81305' roadid='93160000' agency='N\/A'/>
+<marker lng='-81.9186852299167' lat='29.7277692336361' main='SR 100' side='CR 315\/LEMON ST' sigid='N/A' roadid='76110000' agency='PUTNAM COUNTY'/>
+<marker lng='-82.8727044308181' lat='29.4965445359177' main='NW 19TH AVE or SR 320 or NW 115 ST' side='CR 341' sigid='N/A' roadid='34150000' agency='CITY OF CHIEFLAND'/>
+<marker lng='-82.3489795158077' lat='30.0211811456955' main='SW 2ND ST or SE SR 238 or SW 6TH AVE' side='SW 9TH ST' sigid='N/A' roadid='39050000' agency='CITY OF LAKE BUTLER'/>
+<marker lng='-82.4662014004042' lat='29.4414880895612' main='N MAIN ST or US-41 N or US-27 N or SW 7TH ST' side='CR 335' sigid='N/A' roadid='34040000' agency='LEVY COUNTY'/>
+<marker lng='-83.3002358292881' lat='30.4198063600248' main='US 90 W or E BASE ST or W BASE ST or US 90 E' side='CR 255 MAIN STREET' sigid='N/A' roadid='35010000' agency='TOWN OF LEE'/>
+<marker lng='-81.6249296743422' lat='30.4905135220132' main='MAIN ST N' side='CR 110\/DUVAL RD' sigid='N/A' roadid='72060000' agency='JACKSONVILLE'/>
+<marker lng='-83.9533707715444' lat='30.4115229925543' main='US 27' side='WAUKEENAH HWY FB' sigid='005' roadid='54020000' agency='JEFFERSON COUNTY'/>
+<marker lng='-83.1696619820768' lat='30.1222173404191' main='SR 51 or 11TH ST or IRVIN AVE' side='180TH ST\/LURAVILLE R' sigid='N/A' roadid='37060000' agency='SUWANNEE COUNTY'/>
+<marker lng='-81.6440666407722' lat='29.6434736430464' main='CRILL AVE or SR 20 or SR 20 or S 9TH ST' side='SOUTH 13TH ST' sigid='N/A' roadid='76050000' agency='PALATKA'/>
+<marker lng='-84.9848834044929' lat='29.7276254716835' main='AVE E or US 98/US 319/SR 30 or MARKET ST or US 98/SR 30' side='MARKET STREET FB' sigid='002' roadid='49010000' agency='CITY OF APALACHICOLA'/>
+<marker lng='-83.375435309368' lat='30.4692007719318' main='US 90 W or E BASE ST or W BASE ST or US 90 E' side='SR 6' sigid='N/A' roadid='35010000' agency='MADISON COUNTY'/>
+<marker lng='-82.1627128573766' lat='27.3482113603095' main='SR 64 or 7TH AVENUE or SR 70 or MANATEE AVENUE' side='SINGLETARY RD' sigid='471' roadid='13050000' agency='MANATEE'/>
+<marker lng='-82.7229537657458' lat='29.2529733778032' main='US-19/98 or N MAIN ST or S MAIN ST' side='CR 326' sigid='N/A' roadid='34050000' agency='LEVY COUNTY'/>
+<marker lng='-81.5813415911329' lat='27.8722523950946' main='10TH ST S or SR 17 or MAIN ST or CENTER ST' side='CR 17B\/HUNT BROTHERS' sigid='683' roadid='16090000' agency='POLK'/>
+<marker lng='-81.0760526765922' lat='28.1450313982621' main='E BRONSON HWY or 13TH ST or E BRONSON HWY or VINE ST' side='SR 15' sigid='N/A' roadid='92030000' agency='N\/A'/>
+<marker lng='-82.5597744709376' lat='30.0042484043911' main='SW 2ND ST or SE SR 238 or SW 6TH AVE' side='CR 245\/241A' sigid='N/A' roadid='39050000' agency='UNION COUNTY'/>
+<marker lng='-82.7508012548161' lat='30.3298903914319' main='ROBERTS ST or PLUM ST or HATLEY ST or US 41' side='CR 135\/THIRD STREET' sigid='N/A' roadid='32010000' agency='HAMILTON COUNTY'/>
+<marker lng='-82.0304778486529' lat='29.7803565367159' main='S LAWRENCE BLVD or SR 21 or SR 21 or SR 21' side='N\/A' sigid='N/A' roadid='71110000' agency='N\/A'/>
+<marker lng='-81.704026472579' lat='30.3129999187213' main='I-10 ROOSEVELT CONN or ROOSEVELT BLVD' side='ADV WARN SR15\/US17\/R' sigid='N/A' roadid='72030000' agency='JACKSONVILLE'/>
+<marker lng='-80.0642652936443' lat='26.61681996005' main='LUCERNE AVE' side='N \' sigid='N/A' roadid='93180001' agency='N\/A'/>
+<marker lng='-82.4615745417893' lat='28.151031872753' main='N NEBRASKA AVE' side='N\/A' sigid='N/A' roadid='10040000' agency='N\/A'/>
+<marker lng='-82.0160476742707' lat='29.2180019137671' main='E SILVER SPGS BLVD or W SILVER SPGS BLVD or E SR-40' side='N\/A' sigid='N/A' roadid='36080000' agency='N\/A'/>
+<marker lng='-80.655368294684' lat='28.1882108199524' main='US 1 or S COCOA BLVD or HARBOR CITY BLVD or US 1' side='SILVER OAK BLVD' sigid='N/A' roadid='70020000' agency='N\/A'/>
+<marker lng='-82.9275871066176' lat='29.9558126768438' main='US 27 or US 27 SE or US 27 SW' side='SR 249 (US 129)' sigid='N/A' roadid='37030000' agency='TOWN OF BRANFORD'/>
+<marker lng='-80.1531612455263' lat='26.1882998585947' main='COMMERCIAL BLVD' side='CSX RAILRD CROSSING' sigid='1534' roadid='86014000' agency='N\/A'/>
+<marker lng='-81.4928326438387' lat='29.3170556678802' main='US 17' side='N\/A' sigid='N/A' roadid='79050000' agency='N\/A'/>
+<marker lng='-84.6617644186668' lat='30.615382164096' main='W JEFFERSON ST or MAIN ST or WASHINGTON ST or US HWY 90' side='HARDAWAY HIGHWAY FB' sigid='007' roadid='50010000' agency='GADSDEN COUNTY'/>
+<marker lng='-82.3589331328313' lat='29.6521958931723' main='W UNIVERSITY AVE or W NEWBERRY RD or NEWBERRY RD' side='NW 24TH STREET' sigid='N/A' roadid='26070000' agency='CITY OF GAINESVILLE'/>
+<marker lng='-82.5978277063643' lat='29.6512326682074' main='W UNIVERSITY AVE or W NEWBERRY RD or NEWBERRY RD' side='CR 235' sigid='N/A' roadid='26070000' agency='CITY OF NEWBERRY'/>
+<marker lng='-81.908186120741' lat='28.1178687604791' main='N COMBEE RD' side='SR 33' sigid='569' roadid='16006100' agency='LAKELAND'/>
+<marker lng='-81.4379428568281' lat='26.7469894541489' main='BRIDGE  ST or SR-29 or SR-29 or MAIN ST' side='COWBOY WAY \/ CR 80A' sigid='180' roadid='7060000' agency='HENDRY'/>
+<marker lng='-86.1107129586945' lat='30.5985812614439' main='MADISON ST or HWY 331 or US 331 / SR 83' side='ROCKHILL ROAD' sigid='022' roadid='60050000' agency='CITY OF DEFUNIAK'/>
+<marker lng='-82.0883944141865' lat='27.9366740037255' main='W BRANDON BLVD or E ADAMO DR or E SR 60 or SR 60' side='N\/A' sigid='N/A' roadid='10110000' agency='N\/A'/>
+<marker lng='-82.5999618460818' lat='30.0655185467626' main='S US-41 or SW MAIN BLVD or S US-441' side='CR 240\/MYRTIS ROAD' sigid='N/A' roadid='29030000' agency='COLUMBIA COUNTY'/>
+<marker lng='-82.0370450554883' lat='28.9019840283958' main='N LAWRENCE ST or NOBLE ST or MAIN ST or US 301' side='CR 114' sigid='N/A' roadid='18010000' agency='N\/A'/>
+<marker lng='-82.1531089555409' lat='27.588866350425' main='SR 62' side='CR 39 \/ COUNTY LINE' sigid='476' roadid='13060000' agency='MANATEE'/>
+<marker lng='-84.0226076028995' lat='30.4780578448989' main='GAMBLE RD' side='OLD LLOYD HWY FB' sigid='006' roadid='54060000' agency='JEFFERSON COUNTY'/>
+<marker lng='-81.9192396759651' lat='27.4821603922624' main='SR 64' side='CR 663' sigid='167' roadid='6050000' agency='HARDEE'/>
+<marker lng='-80.8102157864868' lat='27.4497938919786' main='PARROTT AVE or US98/US441 or US441' side='CR 68\/NE 224TH ST' sigid='999' roadid='91020000' agency='OKEECHOBEE'/>
+<marker lng='-82.6571389744026' lat='27.4616632414027' main='CORTEZ RD or 44TH AVE E' side='CATALINA DR\/MT VERNO' sigid='438' roadid='13040000' agency='MANATEE'/>
+<marker lng='-82.3774386287707' lat='28.556895324654' main='S BROAD ST or BROAD ST or N BROAD ST or BROAD ST' side='FT DADE\/MONDON HILL' sigid='N/A' roadid='8010000' agency='HERNANDO COUNTY'/>
+<marker lng='-80.190012462112' lat='25.768941249576' main='SOUTH DIXIE HWAY or BISCAYNE BLVD or BRICKELL AVE or BRICKELL AVE' side='N\/A' sigid='3318' roadid='87030000' agency='MIAMI-DADE'/>
+<marker lng='-82.697735225949' lat='30.0688238082514' main='SR 47' side='SW C-240' sigid='N/A' roadid='29020000' agency='COLUMBIA COUNTY'/>
+<marker lng='-83.0995695149237' lat='30.6026015663676' main='ROBERTS ST or PLUM ST or HATLEY ST or US 41' side='HAMILTAV\/CR 143\/141' sigid='N/A' roadid='32010000' agency='HAMILTON COUNTY'/>
+<marker lng='-82.8227512418927' lat='30.2218654299346' main='W HOWARD ST or E HOWARD ST or US-90 or US-90' side='CR 137' sigid='N/A' roadid='37010000' agency='SUWANNEE COUNTY'/>
+<marker lng='-85.7124535080122' lat='30.6211436035986' main='MAIN ST or SR-79 or SR-79' side='MOSS HILL ROAD FB' sigid='001' roadid='61040000' agency='CITY OF VERNON'/>
+<marker lng='-82.5663964588707' lat='30.1883490951738' main='US 90 or E DUVAL AVE or US 90 or W DUVAL AVE' side='LC COMM COLLEGE' sigid='N/A' roadid='29010000' agency='COLUMBIA COUNTY'/>
+<marker lng='-80.2123350441539' lat='25.8247878765317' main='HIALEAH DR or NE 54 ST or NW 54 ST' side='NW 10 AVE' sigid='2074' roadid='87250000' agency='MIAMI-DADE'/>
+<marker lng='-82.4287995201605' lat='30.2043909017023' main='MACCLENNY AVE or E US-90 or US-90 or E MT VERNON ST' side='C-231\/PINE STREET' sigid='N/A' roadid='27010000' agency='BAKER COUNTY'/>
+<marker lng='-83.8702674713922' lat='30.5901159326734' main='FLORIDA GEORGIA PKWY or S JEFFERSON ST or FLORIDA GEORGIA PKWY or N JEFFERSON ST' side='GREYHOUND RACING FB' sigid='002' roadid='54030000' agency='JEFFERSON COUNTY'/>
+<marker lng='-82.5393934709846' lat='27.6013322266088' main='8TH AVE W or TAMIAMI TRAIL' side='MOCCASIN WOLLOW RD' sigid='434' roadid='13030000' agency='MANATEE'/>
+<marker lng='-82.2902095475127' lat='29.5140181469442' main='US 441 or DR M L K JR DR' side='CR 234\/MICANOPY BYPA' sigid='N/A' roadid='26010000' agency='ALACHUA COUNTY'/>
+<marker lng='-82.1464190889402' lat='27.7044635470343' main='SR 674 or E COLLEGE AVE or SUN CITY CENTER BLVD' side='N\/A' sigid='N/A' roadid='10120000' agency='N\/A'/>
+<marker lng='-83.0471837834206' lat='30.2462245678064' main='SR 51 or 11TH ST or IRVIN AVE' side='CR 250' sigid='N/A' roadid='37060000' agency='SUWANNEE COUNTY'/>
+<marker lng='-82.7921071890542' lat='30.0591667278728' main='SW SR 247' side='CR 240' sigid='N/A' roadid='29090000' agency='COLUMBIA COUNTY'/>
+<marker lng='-81.2463764267056' lat='28.6236109397388' main='SR 426 or CR 426 or BROADWAY AVE or ALOMA AVE' side='VIA LOMA DR' sigid='N/A' roadid='77060000' agency='N\/A'/>
+<marker lng='-82.793455952979' lat='30.3656795276718' main='ROBERTS ST or PLUM ST or HATLEY ST or US 41' side='CR 137' sigid='N/A' roadid='32010000' agency='HAMILTON COUNTY'/>
+<marker lng='-85.6834468436303' lat='30.1921478193575' main='HARRISON AVE or AIRPORT RD' side='LISENBY AVE. FB' sigid='037' roadid='46110000' agency='BAY COUNTY'/>
+<marker lng='-85.458394287138' lat='30.8979302654596' main='SR 273' side='CR 169 FB' sigid='016' roadid='53220000' agency='JACKSON COUNTY'/>
+<marker lng='-86.1196020963814' lat='30.833572078079' main='SR-83 or N SR-83 or N 9TH ST' side='GUM CREEK CHURCH' sigid='017' roadid='60070000' agency='WALTON COUNTY'/>
+<marker lng='-82.9869414659686' lat='29.601884779436' main='SE US-19' side='NE 723 ST' sigid='N/A' roadid='30010000' agency='DIXIE COUNTY'/>
+<marker lng='-83.4277654228421' lat='30.5827503785102' main='SR 53 or N WASHINGTON ST' side='CR 150' sigid='N/A' roadid='35040000' agency='MADISON COUNTY'/>
+<marker lng='-80.2396250114641' lat='25.7918793147934' main='NW 27 AVE or SR 9 or SW 27 AVE' side='DRAWBRIDGE SIGNAL' sigid='6516' roadid='87240000' agency='MIAMI-DADE'/>
+<marker lng='-81.6396200000954' lat='29.7743543718667' main='N US-17' side='PALMETTO BLUFF RD' sigid='N/A' roadid='76030000' agency='PUTNAM COUNTY'/>
+<marker lng='-85.6565975290808' lat='30.5136964850323' main='MAIN ST or SR-77 or SR-77' side='MOSS HILL ROAD FB' sigid='004' roadid='61080000' agency='WASHINGTON COUNTY'/>
+<marker lng='-82.2248271980064' lat='29.6879007927573' main='NW 39TH AVE or NE 39TH AVE' side='SR 26' sigid='N/A' roadid='26005000' agency='ALACHUA COUNTY'/>
+<marker lng='-86.1355939920869' lat='30.9709266803518' main='SR-83 or N SR-83 or N 9TH ST' side='CR 181 FB' sigid='019' roadid='60070000' agency='WALTON COUNTY'/>
+<marker lng='-83.1070800771831' lat='29.6237014685824' main='SE US-19' side='CORRECTIONS FACILITY' sigid='N/A' roadid='30010000' agency='DIXIE COUNTY'/>
+<marker lng='-85.53912107135' lat='30.7899567977778' main='MAIN ST or SR-77 or SR-77' side='GLENNWOO\/CAMPBELLTON' sigid='008' roadid='61080000' agency='CITY OF CHIPLEY'/>
+<marker lng='-81.4339460388665' lat='26.4411053054671' main='SR-29 or N 15TH ST or W MAIN ST or E MAIN ST' side='NEW MARKET RD W' sigid='130' roadid='3080000' agency='COLLIER'/>
+<marker lng='-82.4051688902672' lat='29.8398511586403' main='SR 121 or NW 22ND ST' side='CR 235' sigid='N/A' roadid='26100000' agency='ALACHUA COUNTY'/>
+<marker lng='-82.7435856129096' lat='27.7500755423315' main='S PASADENA AVE or 75TH AVE' side='N\/A' sigid='N/A' roadid='15110000' agency='N\/A'/>
+<marker lng='-85.5885311050907' lat='30.6323028187892' main='MAIN ST or SR-77 or SR-77' side='PIONEER ROAD FB' sigid='003' roadid='61080000' agency='WASHINGTON COUNTY'/>
+<marker lng='-81.8944451389291' lat='30.0426166725349' main='BLANDING BLVD or SR 21' side='CR 215' sigid='N/A' roadid='71070000' agency='CLAY COUNTY'/>
+<marker lng='-80.4846759277963' lat='27.0313357561057' main='SW WARFIELD BLVD' side='SW DR MLK JR DR' sigid='N/A' roadid='89070000' agency='N\/A'/>
+<marker lng='-84.2156772407758' lat='30.190531983065' main='COASTAL HWY' side='PORT LEON DR\/WOODVIL' sigid='007' roadid='59110000' agency='WAKULLA COUNTY'/>
+<marker lng='-81.2950417504796' lat='28.7458323570719' main='FRENCH AVE or US-17/92 or US-17/92 or ORLANDO AVE' side='N\/A' sigid='N/A' roadid='77010000' agency='N\/A'/>
+<marker lng='-82.1874792943518' lat='28.3241963656631' main='7TH ST or US 301 or US 301 or 7TH ST' side='N\/A' sigid='N/A' roadid='14050000' agency='N\/A'/>
+<marker lng='-82.0557331139551' lat='28.2480686743545' main='N FLORIDA AVE or SR 35,700 / US 98 or PROVIDENCE RD' side='SR 471' sigid='776' roadid='16210000' agency='POLK'/>
+<marker lng='-81.4346558865168' lat='26.4855565512272' main='SR-82' side='SR 29' sigid='124' roadid='3050000' agency='COLLIER'/>
+<marker lng='-81.5104168847337' lat='29.4313308313901' main='S US-17 or SUMMIT ST or S US-17 or REID ST' side='FLORIDA AVENUE' sigid='N/A' roadid='76010000' agency='CRESCENT CITY'/>
+<marker lng='-80.4173034145915' lat='25.7726649808463' main='NW 137 AVE or SW 137 AVE' side='NW 6 ST' sigid='6479' roadid='87134000' agency='MIAMI-DADE'/>
+<marker lng='-85.8776538505329' lat='30.9519692175614' main='CR-2 or SR-2' side='CR 179A FB' sigid='006' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-85.516139007898' lat='30.9504315567326' main='SR 77 or BROWN ST or COTTON ST or SR 77' side='BROWN STREET FB' sigid='004' roadid='53060000' agency='CITY OF GRACEVILLE'/>
+<marker lng='-84.3138158231399' lat='30.1408678743549' main='COASTAL HWY' side='SPRING CREEK HWY' sigid='010' roadid='59110000' agency='WAKULLA COUNTY'/>
+<marker lng='-82.3617154523045' lat='29.6519746839885' main='W UNIVERSITY AVE or W NEWBERRY RD or NEWBERRY RD' side='NW 26TH STREET' sigid='N/A' roadid='26070000' agency='CITY OF GAINESVILLE'/>
+<marker lng='-84.7980791067554' lat='30.3901752173545' main='NW SR-20' side='SR 65 FB' sigid='001' roadid='56010000' agency='LIBERTY COUNTY'/>
+<marker lng='-82.3516737091888' lat='29.1583177346099' main='W SIL SPGS BLVD or W HWY 40 or BROADWAY AVE' side='SW 140TH AVE' sigid='N/A' roadid='36110000' agency='N\/A'/>
+<marker lng='-81.2561935584998' lat='28.7867402478145' main='SR-46 or SR-46 or 25TH ST' side='N\/A' sigid='N/A' roadid='77040000' agency='N\/A'/>
+<marker lng='-82.3370024740498' lat='29.2824172339141' main='BONNIE HEATH BLVD or NW 10  ST' side='CR 326' sigid='N/A' roadid='36070000' agency='N\/A'/>
+<marker lng='-82.424813786041' lat='29.9464489509272' main='NE SR 121 or SE 6TH ST or SW SR 121 or SW 6TH ST' side='CR 18' sigid='N/A' roadid='39020000' agency='TOWN WORTHINGTON SPG'/>
+<marker lng='-84.2156355515504' lat='30.1905323045245' main='WOODVILLE HWY or PORT LEON DR' side='N\/A' sigid='N/A' roadid='59040000' agency='N\/A'/>
+<marker lng='-85.5022349768015' lat='30.8367574966762' main='SR 273' side='LOVEWOOD ROAD FB' sigid='012' roadid='53220000' agency='JACKSON COUNTY'/>
+<marker lng='-82.8718502251666' lat='30.4361601840354' main='ROBERTS ST or PLUM ST or HATLEY ST or US 41' side='OCCIDENTAL\/SWIFT CRE' sigid='N/A' roadid='32010000' agency='HAMILTON COUNTY'/>
+<marker lng='-81.1968824667337' lat='29.406758412766' main='STATE ST or US 1 / SR 5 or US 1 / SR 5' side='OLD DIXIE HIGHWAY' sigid='N/A' roadid='73010000' agency='N\/A'/>
+<marker lng='-85.5800352298545' lat='30.9642880086083' main='CR-2 or SR-2' side='CR 173 N FB' sigid='010' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-82.5660743599511' lat='27.5369133604968' main='8TH AVE W or TAMIAMI TRAIL' side='26TH ST W\/BAYSHORE R' sigid='431' roadid='13030000' agency='PALMETTO'/>
+<marker lng='-81.6611717839442' lat='28.0224164237745' main='CENTRAL AVE or DUNDEE RD or LK ELBERT DR SE or CENTRAL AVE' side='OVERLOOK DR' sigid='813' roadid='16280000' agency='POLK'/>
+<marker lng='-81.4332673815395' lat='30.6554100047634' main='S FLETCHER AVE' side='JASMINE ST' sigid='N/A' roadid='74110000' agency='FERNANDINA BEACH'/>
+<marker lng='-82.0603472608182' lat='28.7533771984577' main='N LAWRENCE ST or NOBLE ST or MAIN ST or US 301' side='CR 471' sigid='N/A' roadid='18010000' agency='N\/A'/>
+<marker lng='-82.2366110789541' lat='28.0178476605999' main='E REYNOLDS ST or E US HWY 92 or E HILLSBOROUGH AVE or REYNOLDS ST' side='GALLAGHER RD' sigid='N/A' roadid='10030000' agency='HILLSBOROUGH COUNTY'/>
+<marker lng='-82.741283579067' lat='29.8097658259141' main='TRENTON BLVD or SR 47' side='CR 340' sigid='N/A' roadid='31050000' agency='GILCHRIST COUNTY'/>
+<marker lng='-82.7684612646742' lat='29.3274526685522' main='US-19/98 or N MAIN ST or S MAIN ST' side='SR 24' sigid='N/A' roadid='34050000' agency='TOWN OF OTTER CREEK'/>
+<marker lng='-81.6487885417185' lat='28.9660641470129' main='CENTRAL AVE or BAY ST or SR 19 or SR 19' side='N\/A' sigid='N/A' roadid='11100000' agency='N\/A'/>
+<marker lng='-85.5139793271456' lat='30.9572887859838' main='8TH AVE or WHITE AVE or SR 2 or 8TH AVE' side='CLIFF STREET' sigid='003' roadid='53070000' agency='CITY OF GRACEVILLE'/>
+<marker lng='-81.9019346114491' lat='28.1326532844122' main='N COMMONWEALTH AVE or SR 33 or MASSACHUSETTS AVE or COMMONWEALTH AVE' side='UNIVERSITY BLVD' sigid='1058' roadid='16070000' agency='LAKELAND'/>
+<marker lng='-85.3464778508914' lat='30.8413553147447' main='SR 75 or GEORGIA ST or LAKEPOINT RD or MAIN ST' side='SR 73 FB' sigid='015' roadid='53030000' agency='JACKSON COUNTY'/>
+<marker lng='-81.7985508448876' lat='27.9437923224736' main='US 17 or AVE A SW or 6TH ST NW or 3RD ST SW' side='GRIFFIN RD' sigid='617' roadid='16030000' agency='POLK'/>
+<marker lng='-81.8219780012321' lat='27.5949464964957' main='OAK AVE or US HWY 17 SOUTH or US HWY 17 NORTH' side='SR 62' sigid='157' roadid='6010000' agency='HARDEE'/>
+<marker lng='-82.2703080376089' lat='28.3353762967832' main='MERIDIAN AVE or SR 52' side='N\/A' sigid='N/A' roadid='14120000' agency='N\/A'/>
+<marker lng='-82.165503938107' lat='30.0396327135966' main='RAIFORD RD or SR-16 or W BROWNLEE ST' side='CR 225' sigid='N/A' roadid='28030001' agency='BRADFORD COUNTY'/>
+<marker lng='-85.1919109404662' lat='30.5356026053576' main='SR 73 or SR 73' side='CR 274 FB' sigid='003' roadid='47040000' agency='CALHOUN COUNTY'/>
+<marker lng='-81.7119126188403' lat='29.6064985813177' main='SR 19' side='PENIEL RD' sigid='N/A' roadid='76020000' agency='PUTNAM COUNTY'/>
+<marker lng='-85.6695942848638' lat='30.8213241963415' main='WAUKESHA ST or HWY 79 or SR-79' side='CR 177 FB' sigid='004' roadid='52030000' agency='HOLMES COUNTY'/>
+<marker lng='-82.2073812431797' lat='29.4015027483698' main='N US HWY 441' side='N\/A' sigid='N/A' roadid='36001000' agency='N\/A'/>
+<marker lng='-81.5939994326135' lat='29.4962266670466' main='S US-17 or SUMMIT ST or S US-17 or REID ST' side='C308B\/MAIN ST.' sigid='N/A' roadid='76010000' agency='PAMONA PARK'/>
+<marker lng='-80.6705361032714' lat='26.6695046763691' main='DR MLK JR BLVD or SR 80 or CR 880 or E CANAL ST S' side='GLADES GENERAL HOSP' sigid='84100' roadid='93110000' agency='N\/A'/>
+<marker lng='-81.6368956983481' lat='30.3520030481823' main='20TH ST EXP MLK JR E or COMMANDORE POINT EXP or HART BR EXP or HAINES ST EXP' side='11TH ST WB ON RAMP' sigid='N/A' roadid='72090000' agency='JACKSONVILLE'/>
+<marker lng='-81.0942471900691' lat='27.2258061270537' main='SR-70' side='CR 721' sigid='216' roadid='9060000' agency='HIGHLANDS'/>
+<marker lng='-85.1892693885024' lat='30.4367194057407' main='CENTRAL AVE or 24TH ST or SR 20 or W CENTRAL AVE' side='SR 73 SOUTHBOUND FB' sigid='005' roadid='47010000' agency='CALHOUN COUNTY'/>
+<marker lng='-81.7950511370287' lat='30.5152693486122' main='N KINGS RD or US-1 or KINGS RD or US-1' side='N\/A' sigid='N/A' roadid='74030000' agency='N\/A'/>
+<marker lng='-80.1953848353717' lat='26.1210564044445' main='BROWARD BLVD' side='SCHOOL ZONE' sigid='N/A' roadid='86006000' agency='N\/A'/>
+<marker lng='-80.6333793136956' lat='26.4585372174659' main='US-27' side='TALISMAN SUGARMIL RD' sigid='81310' roadid='93160000' agency='N\/A'/>
+<marker lng='-82.6071509744261' lat='29.7273361619477' main='NW SR 45/US27 US 41 or SW 250 ST/MAIN ST or S MAIN ST or NW 250 ST' side='CR 232\/NW 78TH AVE' sigid='N/A' roadid='26030000' agency='ALACHUA COUNTY'/>
+<marker lng='-87.3805392472699' lat='30.5356146135616' main='N DAVIS HWY or E NINE MILE RD or MOBILE HWY or W NINE MILE RD' side='BEULAH ROAD' sigid='138' roadid='48010000' agency='ESCAMBIA COUNTY'/>
+<marker lng='-81.7005446357138' lat='30.1533585534863' main='PARK AVE or N ORANGE AVE or US 17 or S ORANGE AVE' side='HOLLY POINT RD' sigid='N/A' roadid='71020000' agency='ORANGE PARK'/>
+<marker lng='-81.622588081972' lat='30.5178192798056' main='MAIN ST N' side='PECAN PARK\/PARK AVE' sigid='N/A' roadid='72060000' agency='JACKSONVILLE'/>
+<marker lng='-85.2417304826408' lat='30.2849820853335' main='SR 73 or SR 73' side='CR 392 FB' sigid='004' roadid='47040000' agency='CALHOUN COUNTY'/>
+<marker lng='-80.3902586867954' lat='27.6398029381247' main='21 ST or COMMERCE AVE or FEDERAL HWY or FEDERAL HWY' side='PREPARE TO STOP' sigid='N/A' roadid='88010000' agency='N\/A'/>
+<marker lng='-80.6533416421817' lat='26.8076981101593' main='S LAKE AVE or E 7 ST or N/S MAIN ST or E MAIN ST' side='SHIRLEY DR' sigid='75900' roadid='93130000' agency='N\/A'/>
+<marker lng='-85.4022290889845' lat='30.9490945716646' main='SR-73 or US-231' side='SR 273 TX CAMPBELLTO' sigid='002' roadid='53050000' agency='TOWN OF CAMPBELLTON'/>
+<marker lng='-80.4958635554153' lat='27.9447844338559' main='MIRAMAR AVE or OCEAN AVE or SR A1A/ATLANTIC AVE or OAK ST' side='FONTAINE ST' sigid='N/A' roadid='70060000' agency='N\/A'/>
+<marker lng='-81.860976522945' lat='28.8066754376231' main='SOUTH STREET or DIXIE AVENUE' side='LAKEPORT BLVD' sigid='N/A' roadid='11002000' agency='N\/A'/>
+<marker lng='-81.4630282310218' lat='29.243450610077' main='US 17' side='N\/A' sigid='N/A' roadid='79050000' agency='N\/A'/>
+<marker lng='-82.3817162368099' lat='27.8351994858542' main='S 50TH ST or N US-41 or MELBURNE BLVD or N 50TH ST' side='N\/A' sigid='N/A' roadid='10060000' agency='N\/A'/>
+<marker lng='-81.8630669303184' lat='30.0769884119915' main='BLANDING BLVD or SR 21' side='CR 220\/LONG BAY' sigid='N/A' roadid='71070000' agency='CLAY COUNTY'/>
+<marker lng='-82.2661421228906' lat='29.9937483635085' main='W MADISON ST or E MADISON ST or SE SR-100 or SR-100' side='CR 235\/SW 132 AVE' sigid='N/A' roadid='28020000' agency='BRADFORD COUNTY'/>
+<marker lng='-80.1310249448769' lat='25.9298217689322' main='GOLDEN GLADES INTCHG or NE 167 ST or OCEAN BEACH BLVD or NW 167 ST' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='87170000' agency='MIAMI-DADE'/>
+<marker lng='-82.1931826075112' lat='28.4634278647582' main='US 98 / SR 700' side='N\/A' sigid='N/A' roadid='14080000' agency='N\/A'/>
+<marker lng='-81.507295755736' lat='25.9597841413843' main='TAMIAMI TRL' side='PORT OF ISLANDS RD' sigid='115' roadid='3010000' agency='COLLIER'/>
+<marker lng='-82.4575780610238' lat='28.4415455763062' main='S BROAD ST or BROAD ST or N BROAD ST or BROAD ST' side='N\/A' sigid='N/A' roadid='8010000' agency='N\/A'/>
+<marker lng='-82.3534128829958' lat='27.9403264004425' main='US 301' side='N\/A' sigid='N/A' roadid='10010000' agency='N\/A'/>
+<marker lng='-80.5498940893558' lat='27.0746029454049' main='SW WARFIELD BLVD' side='MARTIN POWER PLANT' sigid='523' roadid='89070000' agency='N\/A'/>
+<marker lng='-80.8514333397291' lat='28.8642300771043' main='US 1 or S DIXIE FWY or S RIDGEWOOD AVE or US 1' side='HALIFAX AVE' sigid='N/A' roadid='79010000' agency='N\/A'/>
+<marker lng='-85.1859859915889' lat='30.4366862733997' main='CENTRAL AVE or 24TH ST or SR 20 or W CENTRAL AVE' side='DEMONT ROAD' sigid='002' roadid='47010000' agency='CALHOUN COUNTY'/>
+<marker lng='-82.2224504865576' lat='29.4490997442734' main='US 441 or US 441 or CR 25A/NW GAINES RD or PINE AVE' side='N\/A' sigid='N/A' roadid='36030000' agency='N\/A'/>
+<marker lng='-82.2756976887887' lat='29.7047892657988' main='WILLISTON RD or SE 11 ST or NE WALDO RD' side='NE 53RD AVENUE' sigid='N/A' roadid='26050000' agency='CITY OF GAINESVILLE'/>
+<marker lng='-83.7596912526903' lat='30.502611170127' main='MONTICELLO HWY or US-90 or E WASHINGTON ST or W WASHINGTON ST' side='N\/A' sigid='N/A' roadid='54010000' agency='N\/A'/>
+<marker lng='-82.4186882510483' lat='28.9656984404363' main='N FLORIDA AVE or US 41 or US 41 or S FLORIDA AVE' side='N\/A' sigid='N/A' roadid='2010000' agency='N\/A'/>
+<marker lng='-80.5546088090022' lat='26.7258189076498' main='SR-80' side='HATTON HWY' sigid='N/A' roadid='93110001' agency='N\/A'/>
+<marker lng='-82.0253976878763' lat='29.6078493791469' main='CRILL AVE or SR 20 or SR 20 or S 9TH ST' side='CR 21\/CR 20A' sigid='N/A' roadid='76050000' agency='PUTNAM COUNTY'/>
+<marker lng='-81.5923924875213' lat='25.9943018205335' main='TAMIAMI TRL' side='CR 92\/ MARCO RD' sigid='114' roadid='3010000' agency='COLLIER'/>
+<marker lng='-84.3114707608574' lat='30.3246774880576' main='ADAMS ST or CRAWFORDVILLE  RD or WAKULLA SPRINGS RD' side='OAKRIDGE ROAD FB' sigid='030' roadid='55120000' agency='LEON COUNTY'/>
+<marker lng='-81.4384963329214' lat='27.5037332083409' main='E MAIN ST or N RIDGEWOOD DR or RIDGEWOOD DR or W MAIN ST' side='HELENA ST' sigid='213' roadid='9040000' agency='SEBRING'/>
+<marker lng='-81.4587012127091' lat='30.5926129132146' main='S FLETCHER AVE' side='CR 105A' sigid='N/A' roadid='74110000' agency='NASSAU COUNTY'/>
+<marker lng='-80.291996526641' lat='27.4693475386934' main='SEAWAY DR or S OCEAN DR' side='SR A1A' sigid='N/A' roadid='94050000' agency='N\/A'/>
+<marker lng='-83.4214618657318' lat='30.448085143351' main='MILLINOR ST SW or RANGE AVE or CR 14 or SR 14' side='HARVEY GREENE DR.' sigid='N/A' roadid='35070000' agency='MADISON COUNTY'/>
+<marker lng='-83.6301679359687' lat='30.4693578625946' main='US 90 W or E BASE ST or W BASE ST or US 90 E' side='SR 55 (US 221 SOUTH)' sigid='N/A' roadid='35010000' agency='TOWN OF GREENVILLE'/>
+<marker lng='-83.6351687426125' lat='30.4706814549044' main='US 90 W or E BASE ST or W BASE ST or US 90 E' side='SR 55 (US 221 NORTH)' sigid='N/A' roadid='35010000' agency='TOWN OF GREENVILLE'/>
+<marker lng='-80.5868774033681' lat='24.9525652107461' main='OVERSEAS HWY' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='90060000' agency='N\/A'/>
+<marker lng='-81.9415768544099' lat='30.3771426578261' main='US 301 or SR 200 or US 301' side='CR 119\/OTTIS RD' sigid='N/A' roadid='74040000' agency='NASSAU COUNTY'/>
+<marker lng='-85.9376650353998' lat='30.6359400606125' main='SR 81' side='N\/A' sigid='N/A' roadid='60100000' agency='N\/A'/>
+<marker lng='-80.3144677384975' lat='27.5318829447008' main='NORTH BEACH CSWY or SR A1A' side='OCEAN RESORTS ENT' sigid='N/A' roadid='94060000' agency='N\/A'/>
+<marker lng='-80.1634127768798' lat='26.121896134537' main='BROWARD BLVD' side='SCHOOL ZONE' sigid='N/A' roadid='86006000' agency='N\/A'/>
+<marker lng='-80.6315075614882' lat='26.862291490738' main='CONNERS HWY or CONNERS HWY or CONNERS HWY' side='SR 15\/EVERGLADES DR' sigid='70495' roadid='93140000' agency='N\/A'/>
+<marker lng='-82.6903171339422' lat='29.6346600684253' main='E WADE or SR 26 or SR 26 or W WADE' side='70TH AVENUE' sigid='N/A' roadid='31010000' agency='GILCHRIST COUNTY'/>
+<marker lng='-82.9762343435259' lat='29.7813889080044' main='NE SR-349 or SE SR-349' side='CR 353' sigid='N/A' roadid='30030000' agency='DIXIE COUNTY'/>
+<marker lng='-85.127219881898' lat='30.5710556058244' main='SR-71 N or S MAIN ST or HWY 71 N or N MAIN ST' side='N\/A' sigid='N/A' roadid='47020000' agency='N\/A'/>
+<marker lng='-82.0413468365459' lat='29.0088381706634' main='US-301' side='N\/A' sigid='N/A' roadid='36050000' agency='N\/A'/>
+<marker lng='-84.4274130777395' lat='30.619888011856' main='SR-12 or N MADISON ST or US-27 or SR-159' side='SALEM ROAD FB' sigid='006' roadid='50020000' agency='GADSDEN COUNTY'/>
+<marker lng='-80.6341105556538' lat='28.1397729208486' main='US 1 or S COCOA BLVD or HARBOR CITY BLVD or US 1' side='MASTERSON ST' sigid='N/A' roadid='70020000' agency='N\/A'/>
+<marker lng='-81.887633321103' lat='29.7325329017782' main='SR 100' side='CORAL FARMS RD' sigid='N/A' roadid='76110000' agency='PUTNAM COUNTY'/>
+<marker lng='-83.0841081091793' lat='29.6099628030093' main='SE US-19' side='CR 55A\/NE 300 ST' sigid='N/A' roadid='30010000' agency='DIXIE COUNTY'/>
+<marker lng='-80.170453571229' lat='25.8479859739954' main='NE 79 ST or 71 ST or 79 ST CSWAY' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='87080000' agency='N\/A'/>
+<marker lng='-82.5341344664883' lat='27.4473936886667' main='SR-70 or SR-70 or 53RD AVE/ONECO RD' side='24 ST E \/ PO ENTRANC' sigid='522' roadid='13160000' agency='MANATEE'/>
+<marker lng='-82.9837772951589' lat='29.6501484477958' main='NE SR-349 or SE SR-349' side='NE 272 AVE' sigid='N/A' roadid='30030000' agency='DIXIE COUNTY'/>
+<marker lng='-81.5106050510943' lat='29.4374486245684' main='S US-17 or SUMMIT ST or S US-17 or REID ST' side='C-308\/VERNON ST.' sigid='N/A' roadid='76010000' agency='CRESCENT CITY'/>
+<marker lng='-82.713025886637' lat='29.9546931925523' main='SR 47' side='CR 238\/SW ELIM CHURC' sigid='N/A' roadid='29020000' agency='COLUMBIA COUNTY'/>
+<marker lng='-82.2365160909687' lat='30.063798016062' main='NE SR 121 or SE 6TH ST or SW SR 121 or SW 6TH ST' side='CR 229' sigid='N/A' roadid='39020000' agency='TOWN OF RAIFORD'/>
+<marker lng='-83.0162432898809' lat='29.6025674645504' main='SE US-19' side='SE 697 ST\/NE 592 ST.' sigid='N/A' roadid='30010000' agency='DIXIE COUNTY'/>
+<marker lng='-85.1272286358195' lat='30.5700246209945' main='SR-71 N or S MAIN ST or HWY 71 N or N MAIN ST' side='CR 274 FB' sigid='006' roadid='47020000' agency='CALHOUN COUNTY'/>
+<marker lng='-81.8324637666502' lat='30.5605493996148' main='US 301 or SR 200 or US 301' side='CR 15A\/MICKLER ST' sigid='N/A' roadid='74040000' agency='CALLAHAN'/>
+<marker lng='-82.1674352196997' lat='29.7930169312614' main='SE US 301 or SE US-301 or NE US-301 or SID MARTIN HWY' side='NW 1ST AVENUE' sigid='N/A' roadid='26060000' agency='CITY OF WALDO'/>
+<marker lng='-81.4138440453245' lat='27.391002782796' main='US-27' side='LK JOSEPHINE\/TWITTY' sigid='186' roadid='9010000' agency='HIGHLANDS'/>
+<marker lng='-80.2782962532285' lat='25.9634081983972' main='NW 47 AVE' side='N\/A' sigid='4951' roadid='87012000' agency='MIAMI-DADE'/>
+<marker lng='-80.3258756887741' lat='27.361752993749' main='FEDERAL HWY/US 1' side='ULRICH ROAD' sigid='68' roadid='94010000' agency='N\/A'/>
+<marker lng='-81.9628643695925' lat='29.7382868405169' main='NE SR-26' side='SR 100' sigid='N/A' roadid='76080000' agency='PUTNAM COUNTY'/>
+<marker lng='-82.2383774304999' lat='29.6757802320894' main='E UNIV AVE or NE SR 26 or NE SR 26 or NE SR 26' side='C-38C\/NE 27TH AVE' sigid='N/A' roadid='26130000' agency='ALACHUA COUNTY'/>
+<marker lng='-83.3000737380687' lat='30.472239930756' main='NE SR 6' side='CR 255' sigid='N/A' roadid='35020000' agency='MADISON COUNTY'/>
+<marker lng='-81.5953887524016' lat='27.9245820390071' main='10TH ST S or SR 17 or MAIN ST or CENTER ST' side='MOUNTAIN LAKE CUTOFF' sigid='688' roadid='16090000' agency='POLK'/>
+<marker lng='-80.5879461630138' lat='24.9521447166743' main='OVERSEAS HWY' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='90060000' agency='N\/A'/>
+<marker lng='-80.1720570712636' lat='25.8479315873226' main='NE 79 ST or 71 ST or 79 ST CSWAY' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='87080000' agency='N\/A'/>
+<marker lng='-81.769767096692' lat='30.525908630456' main='LEM TURNER RD' side='DORNBUSH RD' sigid='N/A' roadid='74070000' agency='NASSAU COUNTY'/>
+<marker lng='-87.0926750078887' lat='30.7778288183438' main='HWY 89 or S ALABAMA ST or HWY 89' side='CENTRAL SCHOOL RD FB' sigid='041' roadid='58060000' agency='SANTA ROSA COUNTY'/>
+<marker lng='-86.1323981444673' lat='30.9080700494637' main='SR-83 or N SR-83 or N 9TH ST' side='SR 83 @ SR 2 FB' sigid='018' roadid='60070000' agency='WALTON COUNTY'/>
+<marker lng='-85.0491109952234' lat='30.4521911443071' main='SR-71 N or S MAIN ST or HWY 71 N or N MAIN ST' side='CHARLEY E JOHNS ST' sigid='003' roadid='47020000' agency='CITY OF BLOUNTSTOWN'/>
+<marker lng='-84.0209210009861' lat='30.4045626343396' main='US 27' side='SR 59 FB' sigid='004' roadid='54020000' agency='JEFFERSON COUNTY'/>
+<marker lng='-81.8018041881917' lat='28.1660418423017' main='SR 559 or SR 559 or MAIN ST or BROADWAY BLVD' side='CR 557A\/GILEAD RD' sigid='1056' roadid='16160000' agency='POLK'/>
+<marker lng='-82.3775032661856' lat='28.5567148417652' main='S BROAD ST or BROAD ST or N BROAD ST or BROAD ST' side='N\/A' sigid='N/A' roadid='8010000' agency='N\/A'/>
+<marker lng='-87.349696073729' lat='30.7169580045416' main='N PALAFOX ST or N HWY 29 or S HWY 29 or PENSACOLA BLVD' side='MOLINO CROSSROADS FB' sigid='143' roadid='48040000' agency='ESCAMBIA COUNTY'/>
+<marker lng='-82.5527441651461' lat='28.7225619574666' main='N SUNCOAST BLVD or S SUNCOAST BLVD' side='N\/A' sigid='N/A' roadid='2030000' agency='N\/A'/>
+<marker lng='-82.4469654446861' lat='28.6509878043604' main='PONCE DE LEON BLVD' side='CITRUS AVE' sigid='N/A' roadid='8080000' agency='HERNANDO COUNTY'/>
+<marker lng='-82.3779329183208' lat='27.0497571197099' main='TAMIAMI TRL' side='VENICE EAST BLVD' sigid='860' roadid='17010000' agency='SARASOTA'/>
+<marker lng='-85.7623349260244' lat='30.9458182426576' main='CR-2 or SR-2' side='CR 177A FB' sigid='008' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-85.9978424019758' lat='30.975748338799' main='SR-81' side='CR2A ROYAL X ROAD FB' sigid='011' roadid='52040000' agency='HOLMES COUNTY'/>
+<marker lng='-82.758545541064' lat='28.1334203577894' main='S PINELLAS AVE or BAYSHORE BLVD or MAIN ST or N FT HARRISON AVE' side='N\/A' sigid='N/A' roadid='15020000' agency='N\/A'/>
+<marker lng='-80.8174458295611' lat='27.3760037762665' main='PARROTT AVE or US98/US441 or US441' side='NE 144TH ST' sigid='998' roadid='91020000' agency='OKEECHOBEE'/>
+<marker lng='-80.0535940919699' lat='26.5075164683602' main='QUADRILLE BLVD or ROYAL POINCIANA WAY or OCEAN BLVD or FLAGLER MEM BRIDGE' side='BRINY BREEZES BLVD' sigid='N/A' roadid='93060000' agency='N\/A'/>
+<marker lng='-80.3881493523985' lat='26.6873226133263' main='SR-80' side='CR 880' sigid='N/A' roadid='93110001' agency='N\/A'/>
+<marker lng='-85.8199746875261' lat='30.9423092284713' main='CR-2 or SR-2' side='CR 179 FB' sigid='007' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-83.9900983588305' lat='30.3585009530526' main='GAMBLE RD' side='WAUKEENAH ROAD FB' sigid='001' roadid='54060000' agency='JEFFERSON COUNTY'/>
+<marker lng='-81.9062675756059' lat='28.887237093902' main='CITRUS BLVD or CR 25 or TEAGUE TRL or 14 TH ST' side='EAGLES NEST RD' sigid='N/A' roadid='11040000' agency='N\/A'/>
+<marker lng='-82.2228147783255' lat='29.6878978781894' main='NW 39TH AVE or NE 39TH AVE' side='SR 26 (NEWBERRY RD)' sigid='N/A' roadid='26005000' agency='N\/A'/>
+<marker lng='-85.1504563109289' lat='30.4260016175335' main='CENTRAL AVE or 24TH ST or SR 20 or W CENTRAL AVE' side='CR 275 FB' sigid='001' roadid='47010000' agency='CALHOUN COUNTY'/>
+<marker lng='-81.6570221098409' lat='29.9817443906732' main='LEONARD TAYLOR PKWY' side='REYNOLDS ST' sigid='N/A' roadid='71100000' agency='GREEN COVE SPRINGS'/>
+<marker lng='-81.9756691388364' lat='30.3028465772224' main='BEAVER ST W' side='CENTER STREET' sigid='N/A' roadid='72010000' agency='JACKSONVILLE'/>
+<marker lng='-85.6466497938358' lat='30.9652363927211' main='CR-2 or SR-2' side='SR 2 FB' sigid='001' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-86.7497784860676' lat='30.7140034026731' main='E JAMES LEE BLVD or HWY 90 or HWY 90 or W JAMES LEE BLVD' side='LONG LAKE ROAD FB' sigid='047' roadid='57010000' agency='OKALOOSA COUNTY'/>
+<marker lng='-82.6449444032138' lat='30.1870765139568' main='SW BAYA AVE or SE BAYA DR' side='EB LAKE MONTGOMERY' sigid='N/A' roadid='29002000' agency='CITY OF LAKE CITY'/>
+<marker lng='-82.8612630955398' lat='29.9979433005632' main='SR 247 or E PLANT AVE or W PLANT AVE' side='CR 49' sigid='N/A' roadid='37080000' agency='SUWANNEE COUNTY'/>
+<marker lng='-81.6083181338154' lat='29.5879002370452' main='S US-17 or SUMMIT ST or S US-17 or REID ST' side='HORSE LANDING ROAD' sigid='N/A' roadid='76010000' agency='PUTNAM COUNTY'/>
+<marker lng='-80.143986670935' lat='25.8503801336105' main='NE 79 ST or 71 ST or 79 ST CSWAY' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='87080000' agency='N\/A'/>
+<marker lng='-84.3831889407322' lat='29.9786314322555' main='CRAWFORDVILLE HWY or SHADEVILLE HWY or COASTAL HWY' side='SURF ROAD FB' sigid='009' roadid='59010000' agency='WAKULLA COUNTY'/>
+<marker lng='-81.462914015878' lat='29.2395887307175' main='US 17' side='N\/A' sigid='N/A' roadid='79050000' agency='N\/A'/>
+<marker lng='-83.5516967056831' lat='30.0518726491378' main='BYRON BUTLER PKWY or US-19/27A/98' side='CR 361' sigid='N/A' roadid='38010000' agency='TAYLOR COUNTY'/>
+<marker lng='-83.3258854203493' lat='29.7779611027146' main='BYRON BUTLER PKWY or US-19/27A/98' side='SR 51' sigid='N/A' roadid='38010000' agency='TAYLOR COUNTY'/>
+<marker lng='-82.9404183693427' lat='30.0383136234443' main='NW SUWANNEE AVE or SW SUWANNEE AVE or US 129 or OHIO AVE N' side='CR 349\/226TH ST.' sigid='N/A' roadid='37040000' agency='SUWANNEE COUNTY'/>
+<marker lng='-82.5630666659555' lat='27.5175651363799' main='TAMIAMI TRAIL or 1ST ST or US19 or 1ST ST' side='7TH ST W' sigid='1011' roadid='13130000' agency='PALMETTO'/>
+<marker lng='-80.1319079063087' lat='26.1889399565686' main='COMMERCIAL BLVD' side='FEC RAILRD CROSSING' sigid='1247' roadid='86014000' agency='N\/A'/>
+<marker lng='-82.2745525159825' lat='28.3319264831241' main='MERIDIAN AVE or SR 52' side='N\/A' sigid='N/A' roadid='14120000' agency='N\/A'/>
+<marker lng='-81.8514543617187' lat='26.654532920622' main='FIRST ST or PALM BEACH BLVD or MAIN STREET or SR 80/MONROE ST' side='SEABOARD ST' sigid='320' roadid='12020000' agency='FORT MYERS'/>
+<marker lng='-80.5429507836101' lat='26.7972260064301' main='CONNERS HWY or CONNERS HWY or CONNERS HWY' side='HATTON HWY' sigid='75950' roadid='93140000' agency='N\/A'/>
+<marker lng='-80.6680001581931' lat='26.7162536184658' main='S LAKE AVE or E 7 ST or N/S MAIN ST or E MAIN ST' side='ORANGE AVE CIR' sigid='78100' roadid='93130000' agency='N\/A'/>
+<marker lng='-82.9843553807299' lat='29.7494058665031' main='NE SR-349 or SE SR-349' side='CR 351' sigid='N/A' roadid='30030000' agency='DIXIE COUNTY'/>
+<marker lng='-83.3527864464183' lat='30.5967267838103' main='N DUVAL ST or DUVAL AVE or SR 53 or NE COLIN KELLY HWY' side='CR 150\/BELLV\/PETUNIA' sigid='N/A' roadid='35060000' agency='MADISON COUNTY'/>
+<marker lng='-81.760846655671' lat='26.9458203287786' main='SR-31' side='CR 74' sigid='34' roadid='1030000' agency='CHARLOTTE'/>
+<marker lng='-83.407562253621' lat='30.4525393667703' main='N DUVAL ST or DUVAL AVE or SR 53 or NE COLIN KELLY HWY' side='HARVEY GREENE DR.' sigid='N/A' roadid='35060000' agency='MADISON COUNTY'/>
+<marker lng='-82.5354293613092' lat='29.2895397507309' main='SR 121' side='CR 326\/SE 30TH ST.' sigid='N/A' roadid='34030000' agency='LEVY COUNTY'/>
+<marker lng='-82.6412732137259' lat='29.8532087347097' main='SW US-27' side='CR 138' sigid='N/A' roadid='29050000' agency='COLUMBIA COUNTY'/>
+<marker lng='-80.2494867639913' lat='26.8747212910728' main='MLK JR BLVD or BEELINE HWY' side='CALOOSA BLVD' sigid='7030' roadid='93310000' agency='N\/A'/>
+<marker lng='-82.1251156085709' lat='30.3340976379526' main='SIXTH ST N or SR-121 or SR-121 or SIXTH ST' side='CR23C STEEL BRIDGE R' sigid='N/A' roadid='27030000' agency='BAKER COUNTY'/>
+<marker lng='-85.6853919379263' lat='30.7338687844395' main='MAIN ST or SR-79 or SR-79' side='DOUGLAS FERRY RD FB' sigid='006' roadid='61040000' agency='WASHINGTON COUNTY'/>
+<marker lng='-87.4749378249905' lat='30.8958256853403' main='HWY 97' side='ARTHUR BROWN ROAD FB' sigid='131' roadid='48130000' agency='ESCAMBIA COUNTY'/>
+<marker lng='-82.4228079233526' lat='28.6292059799665' main='PONCE DE LEON BLVD' side='LAKE LINDSEY RD' sigid='N/A' roadid='8080000' agency='HERNANDO COUNTY'/>
+<marker lng='-81.5292209150864' lat='30.621301927215' main='S 8TH ST or ATLANTIC AVE or SR A1A (SR 200)' side='CR 107\/BLACK ROCK RD' sigid='N/A' roadid='74060000' agency='NASSAU COUNTY'/>
+<marker lng='-81.5664701726825' lat='24.6453310184785' main='OVERSEAS HWY' side='SUGARLOAF BLVD' sigid='N/A' roadid='90020000' agency='N\/A'/>
+<marker lng='-81.772755536237' lat='28.7137244747296' main='CR 48 or CR 48 or NORTH PALM AVE' side='N\/A' sigid='N/A' roadid='11060000' agency='N\/A'/>
+<marker lng='-84.8334798096308' lat='30.7010239038827' main='W JEFFERSON ST or MAIN ST or WASHINGTON ST or US HWY 90' side='JINKS CROSSING RD FB' sigid='003' roadid='50010000' agency='CITYOF CHATTAHOOCHEE'/>
+<marker lng='-80.1452380036167' lat='25.8491142147478' main='NE 79 ST or 71 ST or 79 ST CSWAY' side='DRAWBRIDGE SIGNAL' sigid='N/A' roadid='87080000' agency='N\/A'/>
+<marker lng='-82.6354708450821' lat='28.9700083823504' main='N SUNCOAST BLVD or S SUNCOAST BLVD' side='CR 488 DUNELLON RD' sigid='N/A' roadid='2030000' agency='CITRUS COUNTY'/>
+<marker lng='-85.836189643672' lat='30.1986170602679' main='HUTCHISON BLVD' side='CLARA AVE FB' sigid='0023' roadid='46010002' agency='PANAMA CITY BEACH'/>
+<marker lng='-82.1525387601806' lat='28.5812453104961' main='N LAWRENCE ST or NOBLE ST or MAIN ST or US 301' side='CR 656' sigid='N/A' roadid='18010000' agency='N\/A'/>
+<marker lng='-83.6114581846233' lat='30.1463638685997' main='US-19/27 or BYRON BUTLER PKWY' side='CR359A WRIGHT\/SLAUGH' sigid='N/A' roadid='38020000' agency='TAYLOR COUNTY'/>
+<marker lng='-82.2796022026909' lat='29.5113122451574' main='US 441 or DR M L K JR DR' side='C-25A' sigid='N/A' roadid='26010000' agency='TOWN OF MICANOPY'/>
+<marker lng='-87.0344957055298' lat='30.9060308989513' main='STEWART ST or HWY 87 N' side='SR 4 FB' sigid='042' roadid='58050000' agency='SANTA ROSA COUNTY'/>
+<marker lng='-82.9489968864696' lat='29.9501688392748' main='E MAIN ST or W US-27 or W MAIN ST or E US-27' side='SR 349' sigid='N/A' roadid='33010000' agency='LAFAYETTE COUNTY'/>
+<marker lng='-83.6318963833745' lat='30.287835561441' main='N JEFFERSON ST or US-221 or S JEFFERSON ST' side='CR 14' sigid='N/A' roadid='38040000' agency='TAYLOR COUNTY'/>
+<marker lng='-81.4355283932307' lat='26.5430423583001' main='BRIDGE  ST or SR-29 or SR-29 or MAIN ST' side='CR 830' sigid='179' roadid='7060000' agency='HENDRY'/>
+<marker lng='-82.1384078331141' lat='29.713235996002' main='SE US 301 or SE US-301 or NE US-301 or SID MARTIN HWY' side='FOR SR 26' sigid='N/A' roadid='26060000' agency='ALACHUA COUNTY'/>
+<marker lng='-86.5173746284178' lat='30.5102856227989' main='SR 85 or SR-20 or JOHN SIMS PKWY or GOVERNMENT ST' side='NORTH GATE FB' sigid='032' roadid='57040000' agency='OKALOOSA COUNTY'/>
+<marker lng='-81.6576343762145' lat='29.7160107339633' main='N US-17' side='CR 209\/RIVER\/LANDFIL' sigid='N/A' roadid='76030000' agency='PUTNAM COUNTY'/>
+<marker lng='-87.3491067539685' lat='30.7313216241287' main='N PALAFOX ST or N HWY 29 or S HWY 29 or PENSACOLA BLVD' side='SR 97 ATMORE HWY FB' sigid='142' roadid='48040000' agency='ESCAMBIA COUNTY'/>
+<marker lng='-81.5304454767099' lat='27.7374172492087' main='10TH ST S or SR 17 or MAIN ST or CENTER ST' side='7TH ST' sigid='680' roadid='16090000' agency='FROSTPROOF'/>
+<marker lng='-84.7429142182936' lat='30.5702859564088' main='GREEN AVE or SR-12 or SR-12 or SELMAN ST' side='GREEN AVENUE FB' sigid='003' roadid='50050000' agency='GADSDEN COUNTY'/>
+<marker lng='-87.3491067539685' lat='30.7313216241287' main='N HWY 29 or N CENTURY BLVD or S CENTURY BLVD' side='N\/A' sigid='N/A' roadid='48060000' agency='N\/A'/>
+<marker lng='-82.571974114385' lat='28.8983076401615' main='E GULF TO LAKE HWY or W GULF TO LAKE HWY or MAIN ST or NE 5TH ST' side='N\/A' sigid='N/A' roadid='2050000' agency='N\/A'/>
+<marker lng='-82.4254759678318' lat='27.5767770616522' main='TENTH STREET WEST or US-301' side='CR 675\/RUTLAND RD' sigid='429' roadid='13020000' agency='MANATEE'/>
+<marker lng='-83.870147135058' lat='30.5466061306089' main='FLORIDA GEORGIA PKWY or S JEFFERSON ST or FLORIDA GEORGIA PKWY or N JEFFERSON ST' side='PEARL STREET FB' sigid='002' roadid='54030000' agency='CITY OF MONTICELLO'/>
+<marker lng='-80.2074848492024' lat='25.7778778693818' main='NW 8 AVE or NW 2 AVE or NW 7 AVE or SW 8 AVE' side='DRAWBRIDGE SIGNAL' sigid='5009' roadid='87140000' agency='MIAMI-DADE'/>
+<marker lng='-80.3258844419187' lat='27.3373431726841' main='FEDERAL HWY/US 1' side='LAKE VISTA TRAIL' sigid='67' roadid='94010000' agency='N\/A'/>
+<marker lng='-82.0813016194726' lat='30.2892863243084' main='MACCLENNY AVE or E US-90 or US-90 or E MT VERNON ST' side='WALMART\/ENTERPRISE B' sigid='N/A' roadid='27010000' agency='BAKER COUNTY'/>
+<marker lng='-82.2715635673769' lat='30.2501215463492' main='MACCLENNY AVE or E US-90 or US-90 or E MT VERNON ST' side='C-229\/127' sigid='N/A' roadid='27010000' agency='BAKER COUNTY'/>
+<marker lng='-84.9323843511467' lat='30.7094669468676' main='LAFAYETTE ST or US-90' side='RIVER ROAD' sigid='001' roadid='53020000' agency='TOWN OF SNEADS'/>
+<marker lng='-82.6117004274191' lat='29.6462048686725' main='W UNIVERSITY AVE or W NEWBERRY RD or NEWBERRY RD' side='NW 254TH STREET' sigid='N/A' roadid='26070000' agency='CITY OF NEWBERRY'/>
+<marker lng='-82.0083377865839' lat='30.3027344528381' main='BEAVER ST W' side='CR 121' sigid='N/A' roadid='72010000' agency='JACKSONVILLE'/>
+<marker lng='-82.6072263987193' lat='28.9132161028209' main='N SUNCOAST BLVD or S SUNCOAST BLVD' side='N\/A' sigid='N/A' roadid='2030000' agency='N\/A'/>
+<marker lng='-81.2226911741216' lat='28.7867893478449' main='SR-46 or SR-46 or 25TH ST' side='N\/A' sigid='N/A' roadid='77040000' agency='N\/A'/>
+<marker lng='-80.1456082535163' lat='26.1222135192414' main='BROWARD BLVD' side='FEC RAILRD CROSSING' sigid='2372' roadid='86006000' agency='N\/A'/>
+<marker lng='-82.5973743167277' lat='30.0036851555137' main='S US-41 or SW MAIN BLVD or S US-441' side='SR 238' sigid='N/A' roadid='29030000' agency='COLUMBIA COUNTY'/>
+<marker lng='-83.2925429715605' lat='30.1291906659359' main='E MAIN ST or W US-27 or W MAIN ST or E US-27' side='CR 53\/CR 534' sigid='N/A' roadid='33010000' agency='LAFAYETTE COUNTY'/>
+<marker lng='-81.6859166598748' lat='28.0691114348346' main='SCENIC HWY W or SR 544 or AVE T NW or LUCERNE PK RD' side='LAKE LUCERNE LOOP RD' sigid='1030' roadid='16140000' agency='WINTER HAVEN'/>
+<marker lng='-80.5826146038717' lat='28.0405040787657' main='US 1/ SR 5/DIXIE HWY' side='KIRKLAND DR' sigid='N/A' roadid='70010000' agency='N\/A'/>
+<marker lng='-81.9184200676056' lat='29.7277871933889' main='SR 100' side='ADVANCE WARN CR315' sigid='N/A' roadid='76110000' agency='PUTNAM COUNTY'/>
+<marker lng='-82.6259689538099' lat='28.9508990070148' main='N SUNCOAST BLVD or S SUNCOAST BLVD' side='7 RIVERS HOSPITAL' sigid='N/A' roadid='2030000' agency='CITRUS COUNTY'/>
+<marker lng='-84.3804050563208' lat='30.6882288940431' main='US HWY 27 or N MAIN ST or US HWY 27 or S MAIN ST' side='DARSEY CALAVARY RD' sigid='005' roadid='50040000' agency='GADSDEN COUNTY'/>
+<marker lng='-87.2132587769557' lat='30.4347458763429' main='N DAVIS ST or E WRIGHT ST or N ALCANIZ ST or N DAVIS HWY' side='SR 291@JORDAN ST FB' sigid='073' roadid='48070000' agency='CITY OF PENSACOLA'/>
+<marker lng='-81.3645209771531' lat='25.9108206902674' main='TAMIAMI TRL' side='CR 29' sigid='116' roadid='3010000' agency='COLLIER'/>
+<marker lng='-80.6311031680821' lat='26.8620116981525' main='S LAKE AVE or E 7 ST or N/S MAIN ST or E MAIN ST' side='US 98\/SR 700' sigid='70505' roadid='93130000' agency='N\/A'/>
+<marker lng='-81.690672339053' lat='30.413016109607' main='LEM TURNER RD or BRENTWOOD AVE or NORWOOD AVE' side='ADV WARNING' sigid='N/A' roadid='72150000' agency='JACKSONVILLE'/>
+<marker lng='-82.1578014785872' lat='28.0195933168424' main='E REYNOLDS ST or E US HWY 92 or E HILLSBOROUGH AVE or REYNOLDS ST' side='N\/A' sigid='N/A' roadid='10030000' agency='N\/A'/>
+<marker lng='-85.2521206465885' lat='30.7773268084943' main='KYNESVILLE RD or PENN AVE or KYNESVILLE RD' side='OLD COTTONDALE RD FB' sigid='014' roadid='53110000' agency='JACKSON COUNTY'/>
+<marker lng='-82.0567118687438' lat='27.6445487022749' main='SR 37' side='FOUR CORNER MINE RD' sigid='477' roadid='13070000' agency='MANATEE'/>
+<marker lng='-82.7472868571429' lat='29.7246863019248' main='TRENTON BLVD or SR 47' side='CR 232' sigid='N/A' roadid='31050000' agency='GILCHRIST COUNTY'/>
+<marker lng='-81.4223359754907' lat='30.4110505503449' main='HECKSCHER DR' side='HUGUENOT PARK ENT' sigid='N/A' roadid='72260000' agency='JACKSONVILLE'/>
+<marker lng='-85.5375457289972' lat='30.9640760360066' main='CR-2 or SR-2' side='CR 171 FB' sigid='005' roadid='52050000' agency='HOLMES COUNTY'/>
+<marker lng='-85.9757323692672' lat='30.9440955410742' main='SR-81' side='PETTY X ROAD FB' sigid='002' roadid='52040000' agency='HOLMES COUNTY'/>
+<marker lng='-80.4501414209476' lat='27.0133212332936' main='COLORADO AVE or KANNER HIGHWAY or COLORADO AVE' side='INDIAN AVE' sigid='520' roadid='89060000' agency='N\/A'/>
+<marker lng='-81.9044469551778' lat='30.6759066452483' main='N KINGS RD or US-1 or KINGS RD or US-1' side='HENRY SMITH RD' sigid='N/A' roadid='74030000' agency='HILLIARD'/>
+<marker lng='-83.5889306665137' lat='30.1465263089719' main='N JEFFERSON ST or US-221 or S JEFFERSON ST' side='CR359A\/WRIGHT ROAD' sigid='N/A' roadid='38040000' agency='TAYLOR COUNTY'/>
+<marker lng='-87.4087475606662' lat='30.5350606627226' main='N DAVIS HWY or E NINE MILE RD or MOBILE HWY or W NINE MILE RD' side='SR 10A MOBILE HWY FB' sigid='141' roadid='48010000' agency='ESCAMBIA COUNTY'/>
+<marker lng='-82.8668819804578' lat='29.7962288147836' main='N MAIN ST or S MAIN ST or US 129 or US 129' side='CR 340' sigid='N/A' roadid='31030000' agency='GILCHRIST COUNTY'/>
+<marker lng='-80.7366512183643' lat='27.182558707949' main='US-98/441' side='SE 86TH BLVD \/ CR 15' sigid='1001' roadid='91050000' agency='OKEECHOBEE'/>
+<marker lng='-82.5468858560281' lat='27.3506480814128' main='BAYFRONT DR or MOUND ST or US-41/TAMIAMI TRAIL or N TAMIAMI TRL' side='14TH ST\/WHITAKER GAT' sigid='918' roadid='17020000' agency='SARASOTA CITY'/>
+<marker lng='-81.8790602334642' lat='28.7583677474422' main='US 27' side='N\/A' sigid='N/A' roadid='11200000' agency='N\/A'/>
+<marker lng='-84.6232988719445' lat='30.483995007054' main='PAT THOMAS PKWY' side='OLD FEDERAL ROAD FB' sigid='004' roadid='50080000' agency='GADSDEN COUNTY'/>
+<marker lng='-84.277312923066' lat='30.4874337714727' main='MERIDIAN RD' side='PIEDMONT DRIVE' sigid='174' roadid='55110000' agency='CITY OF TALLAHASSEE'/>
+<marker lng='-81.6976610677073' lat='28.4039312357703' main='US 27' side='SAWGRASS BAY BLVD' sigid='N/A' roadid='11200000' agency='N\/A'/>
+</markers>
