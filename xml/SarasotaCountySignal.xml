@@ -1,0 +1,379 @@
+<markers>
+<marker lat="26.9619339624525" lng="-82.3372484514438" intname="Dearborn St and Pine St" intnum="5654" />
+<marker lat="27.2988671343972" lng="-82.4548601458192" intname="Bee Ridge Rd and Maxfield Park" intnum="5655" />
+<marker lat="27.1192620889536" lng="-82.4336619024641" intname="Albee Farm Rd and Colonia Ln" intnum="5656" />
+<marker lat="27.1076476655822" lng="-82.4335971496975" intname="Albee Farm Rd and Lucaya Rd" intnum="5657" />
+<marker lat="27.1374870648196" lng="-82.433504985365" intname="Laurel Rd and Albee Farm Rd" intnum="5658" />
+<marker lat="27.2949899596469" lng="-82.4516525784957" intname="Cattlemen Rd and Center Pointe Dr" intnum="5659" />
+<marker lat="27.2951521447144" lng="-82.53051107583" intname="US 41 and Glengary St" intnum="5660" />
+<marker lat="27.2915481641178" lng="-82.5306158299842" intname="US 41 and Worrington St" intnum="5661" />
+<marker lat="27.2878253349325" lng="-82.5306169453824" intname="US 41 and Field Rd" intnum="5662" />
+<marker lat="27.2745863769486" lng="-82.5306728047394" intname="US 41 and Phillippi Isle" intnum="5663" />
+<marker lat="27.1375464833155" lng="-82.4112973142978" intname="Laurel Rd and I-75 SB Ramp" intnum="5664" />
+<marker lat="27.1373829610892" lng="-82.4064231765274" intname="Laurel Rd and I-75 NB Ramp" intnum="5665" />
+<marker lat="27.2988858866071" lng="-82.4492211150424" intname="Bee Ridge Rd and I-75 SB Ramp" intnum="5666" />
+<marker lat="27.2695371169371" lng="-82.4503290343724" intname="Clark Rd and I-75 SB Ramp" intnum="5667" />
+<marker lat="27.3150918838339" lng="-82.482174989281" intname="McIntosh Rd and Linwood St" intnum="5668" />
+<marker lat="27.38689653954" lng="-82.5056325291605" intname="Lockwood Ridge Rd and 61th St" intnum="5669" />
+<marker lat="27.2898039286612" lng="-82.5590008074687" intname="Midnight Pass Rd and Higel Ave" intnum="5670" />
+<marker lat="27.3230688603931" lng="-82.463947230665" intname="Bahia Vista St and Honore Ave" intnum="5671" />
+<marker lat="27.0791454634609" lng="-82.3970334209608" intname="Center Rd and Shamrock Blvd" intnum="5672" />
+<marker lat="27.2889246348575" lng="-82.4521002585588" intname="Cattlemen Rd and Wilkinson Rd" intnum="5673" />
+<marker lat="27.3881342102358" lng="-82.4638302659468" intname="University Pkwy and Honore Ave" intnum="5674" />
+<marker lat="27.3440287856389" lng="-82.4638306842075" intname="Honore Ave and Richardson Rd" intnum="5675" />
+<marker lat="27.3485927028235" lng="-82.5057016491697" intname="Lockwood Ridge Rd and 12th St" intnum="5676" />
+<marker lat="27.2987855683805" lng="-82.4644924543937" intname="Bee Ridge Rd and Honore Ave" intnum="5677" />
+<marker lat="27.2915193667104" lng="-82.464522534961" intname="Honore Ave and Wilkinson Rd" intnum="5678" />
+<marker lat="27.2840164908112" lng="-82.4645478113076" intname="Proctor Rd and Honore Ave" intnum="5679" />
+<marker lat="27.3383457749969" lng="-82.4486021781474" intname="Fruitville Rd and I-75 SB Ramp" intnum="5680" />
+<marker lat="27.388544909272" lng="-82.4474281224416" intname="University Pkwy and I-75 NB Ramp" intnum="5681" />
+<marker lat="27.0469272692913" lng="-82.2612970109972" intname="US 41 and Ortiz Blvd" intnum="5682" />
+<marker lat="27.3885656509496" lng="-82.450134730135" intname="University Pkwy and I-75 SB Ramp" intnum="5683" />
+<marker lat="27.0382310145891" lng="-82.2196705796677" intname="US 41 and Sumter Blvd" intnum="5684" />
+<marker lat="27.0455190527034" lng="-82.243621515207" intname="US 41 and Pan American Blvd" intnum="5685" />
+<marker lat="27.3486186932289" lng="-82.5140575994286" intname="Tuttle Ave and 12th St" intnum="5686" />
+<marker lat="27.2624461871858" lng="-82.520699926659" intname="Stickney Point Rd and Fire Station 11" intnum="5687" />
+<marker lat="27.3596604416318" lng="-82.5305101127075" intname="US 301 and Dr Martin Luther King Jr Way" intnum="5688" />
+<marker lat="27.2542182472659" lng="-82.4808249882643" intname="McIntosh Rd and Palmer Ranch Pkwy" intnum="5689" />
+<marker lat="27.2914793809184" lng="-82.4810610768551" intname="McIntosh Rd and Wilkinson Rd" intnum="5690" />
+<marker lat="26.9497689445535" lng="-82.3371194119022" intname="Pine St and Medical Blvd" intnum="5691" />
+<marker lat="27.28399505262" lng="-82.489290858122" intname="Proctor Rd and Sawyer Rd" intnum="5692" />
+<marker lat="27.3886883112577" lng="-82.4556825859243" intname="University Pkwy and Cooper Creek Blvd" intnum="5693" />
+<marker lat="27.3383572917952" lng="-82.4268439234171" intname="Fruitville Rd and East Rd" intnum="5694" />
+<marker lat="27.1384131430688" lng="-82.4455399254547" intname="Laurel Rd and Mission Valley Rd" intnum="5695" />
+<marker lat="27.3008819637202" lng="-82.4515429072498" intname="Cattlemen Rd and Cattleridge Blvd" intnum="5696" />
+<marker lat="27.137423400606" lng="-82.4266906702476" intname="Laurel Rd and Access" intnum="5698" />
+<marker lat="27.1247719660616" lng="-82.4536834156875" intname="US 41 and Albee Rd" intnum="5501" />
+<marker lat="27.0563086898678" lng="-82.4123058671597" intname="US 41 and Alligator Dr" intnum="5502" />
+<marker lat="27.3228368322795" lng="-82.4974717462916" intname="Beneva Rd and Bahia Vista St" intnum="5503" />
+<marker lat="27.2655199908211" lng="-82.5273680393395" intname="US 41 and Upper Beechwood Ave" intnum="5504" />
+<marker lat="27.2987779563337" lng="-82.4975608685789" intname="Bee Ridge Rd and Beneva Rd" intnum="5505" />
+<marker lat="27.2989101758564" lng="-82.4515607425903" intname="Bee Ridge Rd and Cattlemen Rd" intnum="5506" />
+<marker lat="27.298731962428" lng="-82.4809608043232" intname="Bee Ridge Rd and McIntosh Rd" intnum="5507" />
+<marker lat="27.2988399217296" lng="-82.5223427830229" intname="Bee Ridge Rd and Shade Ave" intnum="5508" />
+<marker lat="27.2988329573808" lng="-82.5141650681962" intname="Bee Ridge Rd and Tuttle Ave" intnum="5509" />
+<marker lat="27.2692761008171" lng="-82.497608400973" intname="Clark Rd and Beneva Rd" intnum="5511" />
+<marker lat="27.3112056248752" lng="-82.497459512631" intname="Beneva Rd and Ped Xing" intnum="5512" />
+<marker lat="27.2364707095255" lng="-82.4975568637864" intname="Beneva Rd and Sarasota Square Blvd" intnum="5513" />
+<marker lat="27.2840526363883" lng="-82.4975585296538" intname="Beneva Rd and Proctor Rd" intnum="5514" />
+<marker lat="27.3154081935649" lng="-82.4974401296852" intname="Beneva Rd and Riveria Dr" intnum="5515" />
+<marker lat="27.3187864279666" lng="-82.4974305201724" intname="Beneva Rd and Sea View St" intnum="5516" />
+<marker lat="27.3082899357976" lng="-82.4975157520624" intname="Beneva Rd and Webber St" intnum="5517" />
+<marker lat="27.2914830578672" lng="-82.4975554562668" intname="Beneva Rd and Wilkinson Rd" intnum="5518" />
+<marker lat="27.2334325896054" lng="-82.4976507866389" intname="US 41 and Beneva Rd" intnum="5519" />
+<marker lat="27.0457419694465" lng="-82.2478314967805" intname="US 41 and Biscayne Dr" intnum="5520" />
+<marker lat="27.0790304624347" lng="-82.4247505369647" intname="US 41Bypass and Center Rd" intnum="5521" />
+<marker lat="27.2693281578382" lng="-82.5058708860155" intname="Clark Rd and Lockwood Ridge Rd" intnum="5523" />
+<marker lat="27.2690744523154" lng="-82.513791072808" intname="Clark Rd and Swift Rd" intnum="5524" />
+<marker lat="27.2305612287731" lng="-82.4951070774196" intname="US 41 and Club Dr" intnum="5525" />
+<marker lat="27.1159665533608" lng="-82.4492958782038" intname="US 41 and Colonia Ln" intnum="5526" />
+<marker lat="26.9620889693005" lng="-82.353027462152" intname="Indiana Ave and Dearborn St" intnum="5527" />
+<marker lat="27.3817545467141" lng="-82.5056485281337" intname="Lockwood Ridge Rd and Desoto Rd" intnum="5528" />
+<marker lat="27.3816554629959" lng="-82.513918914156" intname="Tuttle Ave and Desoto Rd" intnum="5529" />
+<marker lat="27.3816555681067" lng="-82.5308405091536" intname="US 301 and Desoto Rd" intnum="5530" />
+<marker lat="27.3813468865112" lng="-82.556598576988" intname="US 41 and University Pkwy" intnum="5531" />
+<marker lat="27.0997820194425" lng="-82.4335584353355" intname="US 41Bypass and Venice Ave" intnum="5532" />
+<marker lat="27.0500210277348" lng="-82.4062037871593" intname="US 41 and Englewood Rd" intnum="5533" />
+<marker lat="27.2669691112206" lng="-82.5462599107467" intname="Midnight Pass Rd and Beach Rd" intnum="5534" />
+<marker lat="27.3862026926723" lng="-82.5582949179687" intname="US 41 and General Spaatz Blvd" intnum="5535" />
+<marker lat="27.3523736463896" lng="-82.5056706181309" intname="17th St and Lockwood Ridge Rd" intnum="5537" />
+<marker lat="27.3597360936657" lng="-82.5056736058064" intname="Lockwood Ridge Rd and Dr Martin Luther King Jr Way" intnum="5538" />
+<marker lat="27.3698413442204" lng="-82.5056507027859" intname="Lockwood Ridge Rd and Fire Station 6" intnum="5539" />
+<marker lat="27.3082769268623" lng="-82.4821908063254" intname="McIntosh Rd and Webber St" intnum="5540" />
+<marker lat="27.2520791600068" lng="-82.5353949142534" intname="Stickney Point Rd and Midnight Pass Rd" intnum="5541" />
+<marker lat="27.0437519168952" lng="-82.235990273938" intname="US 41 and North Port Blvd" intnum="5542" />
+<marker lat="27.1090560178584" lng="-82.4441902158839" intname="US 41Bypass and US 41" intnum="5543" />
+<marker lat="27.1221485053407" lng="-82.4535142033646" intname="US 41 and Pavonia Rd" intnum="5544" />
+<marker lat="27.2846151995371" lng="-82.5244685772157" intname="Proctor Rd and Riverwood Ave" intnum="5545" />
+<marker lat="27.2840970718719" lng="-82.5141698205197" intname="Swift Rd and Proctor Rd" intnum="5546" />
+<marker lat="27.2846038161851" lng="-82.5307007254263" intname="US 41 and Proctor Rd" intnum="5547" />
+<marker lat="27.0620472190434" lng="-82.4163599868191" intname="US 41 and Seminole Dr" intnum="5548" />
+<marker lat="27.3030505609284" lng="-82.5222323100903" intname="Siesta Dr and Shade Ave" intnum="5549" />
+<marker lat="27.30831088799" lng="-82.522061743003" intname="Webber St and Shade Ave" intnum="5550" />
+<marker lat="27.0724162962805" lng="-82.4237514625582" intname="US 41 and Shamrock Blvd" intnum="5551" />
+<marker lat="27.0746527432807" lng="-82.4251881070147" intname="US 41 and US 41 Bypass" intnum="5552" />
+<marker lat="27.0002309874709" lng="-82.3765555976767" intname="Englewood Rd and Englewood Isles Pkwy" intnum="5553" />
+<marker lat="27.2603685257565" lng="-82.5226854446445" intname="US 41 and Stickney Point Rd" intnum="5554" />
+<marker lat="27.2914715608408" lng="-82.5141560985408" intname="Swift Rd and Wilkinson Rd" intnum="5555" />
+<marker lat="27.3881975429133" lng="-82.4722409834145" intname="University Pkwy and Medici Ct" intnum="5556" />
+<marker lat="27.3523121627971" lng="-82.513929116827" intname="Tuttle Ave and 17th St" intnum="5557" />
+<marker lat="27.3597384391063" lng="-82.5139460430356" intname="Tuttle Ave and Dr Martin Luther King Jr Way" intnum="5558" />
+<marker lat="26.9556360656447" lng="-82.3530893304566" intname="Indiana Ave and Virginia Ct" intnum="5560" />
+<marker lat="27.3819980521417" lng="-82.546874090881" intname="University Pkwy and Old Bradenton Rd" intnum="5561" />
+<marker lat="27.2987780181014" lng="-82.4581858336205" intname="Bee Ridge Rd and Center Gate Blvd" intnum="5562" />
+<marker lat="27.2988765561525" lng="-82.4461258896848" intname="Bee Ridge Rd and I-75 NB Ramp" intnum="5563" />
+<marker lat="27.2695201290957" lng="-82.4477459818816" intname="Clark Rd and I-75 NB Ramp" intnum="5564" />
+<marker lat="27.3385227730145" lng="-82.4452747348367" intname="Fruitville Rd and I-75 NB Ramp" intnum="5565" />
+<marker lat="27.1420471446543" lng="-82.4603529468144" intname="US 41 and Roberts Rd" intnum="5566" />
+<marker lat="27.179709128206" lng="-82.4821939929114" intname="US 41 and Blackburn Point Rd" intnum="5567" />
+<marker lat="27.0417994316209" lng="-82.2999087685735" intname="US 41 and River Rd" intnum="5569" />
+<marker lat="27.3230048910884" lng="-82.4828837148575" intname="McIntosh Rd and Bahia Vista St" intnum="5570" />
+<marker lat="27.1383148962519" lng="-82.4580578036577" intname="US 41 and Laurel Rd" intnum="5571" />
+<marker lat="27.269208092746" lng="-82.4810719475414" intname="Clark Rd and McIntosh Rd" intnum="5572" />
+<marker lat="27.2617789808072" lng="-82.5212932420139" intname="Stickney Point Rd and Mall Dr" intnum="5573" />
+<marker lat="27.2804106677949" lng="-82.5307737910738" intname="US 41 and Phillippi St" intnum="5574" />
+<marker lat="27.0209167641478" lng="-82.3906775914506" intname="Englewood Rd and Manasota Beach Rd" intnum="5575" />
+<marker lat="27.0701589512529" lng="-82.4220933704753" intname="US 41 and Venetian Plaza" intnum="5576" />
+<marker lat="27.0358523195455" lng="-82.3979218134658" intname="Englewood Rd and Rutgers Rd" intnum="5577" />
+<marker lat="27.2655301003025" lng="-82.5178679121903" intname="Stickney Point Rd and Gateway Ave" intnum="5578" />
+<marker lat="27.2987469551183" lng="-82.4892838004904" intname="Bee Ridge Rd and Sawyer Rd" intnum="5579" />
+<marker lat="27.3639902437048" lng="-82.4780483202484" intname="Longmeadow and Cart Crossing" intnum="5580" />
+<marker lat="27.3734320614071" lng="-82.4639096647013" intname="Honore Ave and Longmeadow" intnum="5581" />
+<marker lat="27.3671055904413" lng="-82.5306905785897" intname="US 301 and Myrtle St" intnum="5582" />
+<marker lat="27.103934931585" lng="-82.433995108416" intname="US 41Bypass and Albee Farm Rd" intnum="5583" />
+<marker lat="27.1066497138561" lng="-82.4371103724441" intname="US 41Bypass and Access" intnum="5584" />
+<marker lat="27.1078620531984" lng="-82.4401268846392" intname="US 41Bypass and Bird Bay Dr W" intnum="5585" />
+<marker lat="27.2350195325966" lng="-82.4975644860777" intname="Beneva Rd and Access" intnum="5586" />
+<marker lat="27.099707040136" lng="-82.4213198632931" intname="Venice Ave and Cherry St" intnum="5587" />
+<marker lat="27.2988144108602" lng="-82.5079302192984" intname="Bee Ridge Rd and Murdock Ave" intnum="5588" />
+<marker lat="27.2988089943692" lng="-82.5058641932015" intname="Bee Ridge Rd and Lockwood Ridge Rd" intnum="5589" />
+<marker lat="27.2692568695631" lng="-82.4893152484197" intname="Clark Rd and Sawyer Rd" intnum="5590" />
+<marker lat="27.0790921819931" lng="-82.3888370076417" intname="Jacaranda Blvd and Center Rd" intnum="5591" />
+<marker lat="27.2987379813357" lng="-82.4402753016696" intname="Bee Ridge Rd and Mauna Loa Blvd" intnum="5592" />
+<marker lat="27.2690149419493" lng="-82.456350770238" intname="Clark Rd and Gantt Ave" intnum="5593" />
+<marker lat="27.3380288239013" lng="-82.4524226990525" intname="Fruitville Rd and Cattlemen Rd" intnum="5594" />
+<marker lat="27.0410372457892" lng="-82.400012905247" intname="Englewood Rd and Jacaranda Blvd" intnum="5595" />
+<marker lat="27.0497027918186" lng="-82.3975913533026" intname="US 41 and Jacaranda Blvd" intnum="5596" />
+<marker lat="27.2513252911473" lng="-82.4975840390111" intname="Beneva Rd and Palmer Ranch Pkwy" intnum="5597" />
+<marker lat="27.2557412269796" lng="-82.5054779213923" intname="Gulf Gate Dr and Bispham Rd" intnum="5598" />
+<marker lat="27.0047717427183" lng="-82.3792843856093" intname="Englewood Rd and Overbrook Rd" intnum="5600" />
+<marker lat="27.0788559988019" lng="-82.3591591080208" intname="Center Rd and Rockley Blvd" intnum="5699" />
+<marker lat="27.3431368799452" lng="-82.5139692356538" intname="Tuttle Ave and 8th St" intnum="5700" />
+<marker lat="27.1375788428588" lng="-82.4171439633617" intname="Laurel Rd and Pinebrook Rd" intnum="5701" />
+<marker lat="27.1229040942779" lng="-82.4171458578075" intname="Pinebrook Rd and Edmondson Rd" intnum="5702" />
+<marker lat="27.2072386543482" lng="-82.4903078110185" intname="US 41 and MacEwen Dr" intnum="5703" />
+<marker lat="27.2691361655586" lng="-82.4645819600734" intname="Clark Rd and Honore Ave" intnum="5705" />
+<marker lat="27.2588111598316" lng="-82.4809489368965" intname="McIntosh Rd and Sawyer Loop Rd" intnum="5707" />
+<marker lat="27.2443936273867" lng="-82.4746373995515" intname="McIntosh Rd and Palmer Ranch Pkwy" intnum="5708" />
+<marker lat="27.3412137383534" lng="-82.4973756623165" intname="Beneva Rd and Circus Blvd" intnum="5709" />
+<marker lat="27.3446142639216" lng="-82.4973626604901" intname="Beneva Rd and Access" intnum="5710" />
+<marker lat="27.3398162496163" lng="-82.4973768762088" intname="Beneva Rd and Fire Station 5" intnum="5711" />
+<marker lat="27.3486106793587" lng="-82.4972271825368" intname="Beneva Rd and 12th St" intnum="5712" />
+<marker lat="27.2252082321725" lng="-82.4813129944206" intname="McIntosh Rd and Central Sarasota Pkwy" intnum="5714" />
+<marker lat="27.1059700740784" lng="-82.3844485966669" intname="Jacaranda Blvd and Commercial Ct" intnum="5717" />
+<marker lat="27.3380883164195" lng="-82.4573934036155" intname="Fruitville Rd and Arthur Andersen Pkwy" intnum="5718" />
+<marker lat="27.0996694193421" lng="-82.4172527131873" intname="Venice Ave and Pinebrook Rd" intnum="5719" />
+<marker lat="27.3383908049223" lng="-82.4066894615837" intname="Fruitville Rd and Sarasota Center Blvd" intnum="5720" />
+<marker lat="27.2344513090979" lng="-82.483284977713" intname="McIntosh Rd and Sarasota Square Blvd" intnum="5721" />
+<marker lat="27.0709770072701" lng="-82.2088786173738" intname="Sumter Blvd and Price Blvd" intnum="5722" />
+<marker lat="27.0791609600066" lng="-82.4025999020194" intname="Center Rd and Horse and Chaise Blvd" intnum="5723" />
+<marker lat="27.0684440691016" lng="-82.1568649398674" intname="Toledo Blade Blvd and Price Blvd" intnum="5724" />
+<marker lat="27.2540952503917" lng="-82.4976089289719" intname="Beneva Rd and Gulf Gate Dr" intnum="5522" />
+<marker lat="27.2585313136868" lng="-82.5209638619089" intname="US 41 and Gulf Gate Dr" intnum="5536" />
+<marker lat="27.2589241626613" lng="-82.5164178900854" intname="Gulf Gate Dr and Gateway Ave" intnum="5725" />
+<marker lat="26.9875730163723" lng="-82.307498193114" intname="S River Rd and Winchester Ave" intnum="5726" />
+<marker lat="27.1101122840132" lng="-82.3844351426041" intname="Jacaranda Blvd and I-75 SB Ramp" intnum="5730" />
+<marker lat="27.3883291271384" lng="-82.4962435123991" intname="University Pkwy and Conservatory Dr" intnum="5731" />
+<marker lat="27.3384924736697" lng="-82.4370298089941" intname="Fruitville Rd and Coburn Rd" intnum="5732" />
+<marker lat="27.30583984557" lng="-82.451518451453" intname="Cattlemen Rd and Country Wood Dr" intnum="5734" />
+<marker lat="27.3606073280544" lng="-82.4637053381055" intname="Honore Ave and Taywood Mdw" intnum="5735" />
+<marker lat="27.0997690687842" lng="-82.4009787684011" intname="Venice Ave and N Auburn Rd" intnum="5751" />
+<marker lat="27.3292018621775" lng="-82.4808918142614" intname="McIntosh Rd and King Richard Dr" intnum="5728" />
+<marker lat="27.3264828420416" lng="-82.4499447697393" intname="Palmer Rd and Packinghouse Rd" intnum="5729" />
+<marker lat="27.0034667183379" lng="-82.3785164470832" intname="Englewood Rd and Fire Station 73" intnum="5599" />
+<marker lat="26.9519414897589" lng="-82.3531284899826" intname="Indiana Ave and Hosmer Ave" intnum="5704" />
+<marker lat="27.0342869184523" lng="-82.2081401999865" intname="US 41 and Salford Blvd" intnum="5736" />
+<marker lat="27.1229051201305" lng="-82.4336189632151" intname="Albee Farm Rd and Edmondson Rd" intnum="5737" />
+<marker lat="27.2465535620408" lng="-82.4644847698649" intname="Honore Ave and Palmer Ranch Pkwy" intnum="5738" />
+<marker lat="27.0689476445301" lng="-82.1974705397097" intname="Price Blvd and Salford Blvd" intnum="5744" />
+<marker lat="27.265531399381" lng="-82.4647645471439" intname="Honore Ave and Northridge Rd" intnum="5741" />
+<marker lat="27.3381938454972" lng="-82.4165187966104" intname="Fruitville Rd and Tatum Rd" intnum="5739" />
+<marker lat="27.326033815162" lng="-82.4469841752703" intname="Palmer Rd and Porter Way" intnum="5727" />
+<marker lat="27.3083850291773" lng="-82.4515012192581" intname="Cattlemen Rd and Webber St" intnum="5733" />
+<marker lat="27.3811283151084" lng="-82.4638361253447" intname="Honore Ave and Desoto Rd" intnum="5763" />
+<marker lat="27.2840990422517" lng="-82.518306874352" intname="Proctor Rd and Lords Ave" intnum="5758" />
+<marker lat="27.137420682588" lng="-82.40111641213" intname="Laurel Rd and Knights Trail Rd" intnum="5743" />
+<marker lat="27.3228468752766" lng="-82.5016056907156" intname="Bahia Vista St and Kaufman Ave" intnum="5602" />
+<marker lat="27.2381275285006" lng="-82.4975689784742" intname="Beneva Rd and Lake Pointe Woods" intnum="5603" />
+<marker lat="27.3523836810813" lng="-82.4972465984144" intname="17th St and Beneva Rd" intnum="5604" />
+<marker lat="27.3519877111082" lng="-82.4639706838745" intname="Honore Ave and 17th St" intnum="5605" />
+<marker lat="27.3378198044778" lng="-82.4637816776317" intname="Fruitville Rd and Honore Ave" intnum="5606" />
+<marker lat="27.3521491482043" lng="-82.4723748783639" intname="17th St and Fire Station 7" intnum="5607" />
+<marker lat="27.0723940094328" lng="-82.3889117873017" intname="Jacaranda Blvd and Indian Hills Blvd" intnum="5608" />
+<marker lat="27.0653400965508" lng="-82.3921068882808" intname="Jacaranda Blvd and Sklar Dr" intnum="5609" />
+<marker lat="27.3268137550841" lng="-82.451367412227" intname="Cattlemen Rd and Palmer Blvd" intnum="5610" />
+<marker lat="27.2839670165168" lng="-82.4810301436757" intname="Proctor Rd and McIntosh Rd" intnum="5611" />
+<marker lat="27.2560221727276" lng="-82.4976059227644" intname="Beneva Rd and Kingston Blvd" intnum="5612" />
+<marker lat="27.2692591001735" lng="-82.454188256103" intname="Clark Rd and Catamaran Dr" intnum="5613" />
+<marker lat="27.3818739970787" lng="-82.5526348066557" intname="University Pkwy and Airport Cir" intnum="5614" />
+<marker lat="27.0997760305007" lng="-82.4130698669708" intname="Venice Ave and Capri Isle Blvd" intnum="5615" />
+<marker lat="27.3748245750154" lng="-82.5308715493964" intname="US 301 and 47th St" intnum="5616" />
+<marker lat="27.0790081695113" lng="-82.3803458873932" intname="Center Rd and Venice East Blvd" intnum="5617" />
+<marker lat="27.0771839935144" lng="-82.428093004794" intname="US 41 and Center Rd" intnum="5618" />
+<marker lat="27.2987009539952" lng="-82.4170479425525" intname="Bee Ridge Rd and Bent Tree Blvd" intnum="5619" />
+<marker lat="27.2987129489154" lng="-82.4353839527751" intname="Bee Ridge Rd and Sarasota Golf Club Blvd" intnum="5620" />
+<marker lat="27.352316132584" lng="-82.483481209774" intname="17th St and Longmeadow" intnum="5621" />
+<marker lat="27.2727207875253" lng="-82.5141728969339" intname="Swift Rd and Constitution Blvd" intnum="5622" />
+<marker lat="27.1962129943536" lng="-82.4901694265946" intname="US 41 and Bay St" intnum="5623" />
+<marker lat="27.0495110680479" lng="-82.358373693006" intname="US 41 and Rockley Blvd" intnum="5624" />
+<marker lat="27.2256641537544" lng="-82.4930215135097" intname="US 41 and Central Sarasota Pkwy" intnum="5625" />
+<marker lat="27.2147109655973" lng="-82.4902832558147" intname="US 41 and McIntosh Rd" intnum="5626" />
+<marker lat="27.3522846495108" lng="-82.5242226521613" intname="17th St and Lime St" intnum="5627" />
+<marker lat="27.2767257622845" lng="-82.5141527438738" intname="Swift Rd and Ashton Rd" intnum="5628" />
+<marker lat="27.2699156893601" lng="-82.5307385485561" intname="US 41 and Constitution Blvd" intnum="5629" />
+<marker lat="27.3721006041126" lng="-82.5308507201698" intname="US 301 and Northgate Blvd" intnum="5630" />
+<marker lat="27.2838780680928" lng="-82.452164911862" intname="Proctor Rd and Cattlemen Rd" intnum="5631" />
+<marker lat="27.283920820341" lng="-82.4562898927875" intname="Proctor Rd and Gantt Ave" intnum="5632" />
+<marker lat="27.3522948373729" lng="-82.4912620599969" intname="17th St and Prudence Dr" intnum="5633" />
+<marker lat="27.0739657630807" lng="-82.4214466678828" intname="Shamrock Blvd and Banyan Dr" intnum="5634" />
+<marker lat="27.3633106148194" lng="-82.5056655703254" intname="Lockwood Ridge Rd and Gocio Rd" intnum="5635" />
+<marker lat="27.245104769776" lng="-82.4975840182698" intname="Beneva Rd and Torrey Pines Blvd" intnum="5636" />
+<marker lat="27.3596976283201" lng="-82.5241535676596" intname="Dr Martin Luther King Jr Way and Newtown Blvd" intnum="5637" />
+<marker lat="27.3652835909245" lng="-82.5139268064757" intname="Tuttle Ave and Myrtle St" intnum="5638" />
+<marker lat="27.3230208802638" lng="-82.4513968284339" intname="Cattlemen Rd and Bahia Vista St" intnum="5639" />
+<marker lat="27.0997980936007" lng="-82.4353668941291" intname="Venice Ave and Grove St" intnum="5640" />
+<marker lat="27.3522316802929" lng="-82.5283626395451" intname="17th St and East Ave" intnum="5641" />
+<marker lat="27.3119126119586" lng="-82.4513881631788" intname="Cattlemen Rd and Colonial Oaks Blvd" intnum="5642" />
+<marker lat="27.3821776823561" lng="-82.5439924521709" intname="University Pkwy and Desoto Rd" intnum="5643" />
+<marker lat="27.0497866110339" lng="-82.3872798441555" intname="US 41 and Woodmere Park Blvd" intnum="5644" />
+<marker lat="27.3882922577913" lng="-82.5369049542522" intname="University Pkwy and W University Pkwy" intnum="5646" />
+<marker lat="27.3886832074126" lng="-82.5318056029064" intname="US 301 and University Pkwy" intnum="5647" />
+<marker lat="27.3883205474205" lng="-82.4787707635741" intname="University Pkwy and Longwood Run" intnum="5648" />
+<marker lat="27.388886736621" lng="-82.5138397384381" intname="University Pkwy and Tuttle Ave" intnum="5649" />
+<marker lat="27.3884397398672" lng="-82.487072933543" intname="University Pkwy and Whitfield Ave" intnum="5650" />
+<marker lat="27.3888168819879" lng="-82.5055720711505" intname="University Pkwy and Lockwood Ridge Rd" intnum="5651" />
+<marker lat="27.0551708314284" lng="-82.3949579814983" intname="Jacaranda Blvd and Woodmere Park Blvd" intnum="5652" />
+<marker lat="27.281620089032" lng="-82.4299109611652" intname="Proctor Rd and Hand Rd" intnum="5653" />
+<marker lat="27.3671452610828" lng="-82.551631756524" intname="US 41 and Myrtle St" intnum="1189" />
+<marker lat="27.3672135866197" lng="-82.5469295702913" intname="Myrtle St and Old Bradenton Rd" intnum="1190" />
+<marker lat="27.3598796407303" lng="-82.5469410737644" intname="Dr Martin Luther King Jr Way and Old Bradenton Rd" intnum="1199" />
+<marker lat="27.3598826508032" lng="-82.5490945965857" intname="US 41 and Dr Martin Luther King Jr Way" intnum="1198" />
+<marker lat="27.3598256640099" lng="-82.5448645902144" intname="Dr Martin Luther King Jr Way and Cocoanut Ave" intnum="1200" />
+<marker lat="27.3597545999794" lng="-82.5427636015486" intname="Dr Martin Luther King Jr Way and Central Ave" intnum="1201" />
+<marker lat="27.3597136492788" lng="-82.5383972740081" intname="Dr Martin Luther King Jr Way and Orange Ave" intnum="1202" />
+<marker lat="27.3522986482446" lng="-82.5384995853326" intname="Orange Ave and 17th St" intnum="1208" />
+<marker lat="27.3486227246046" lng="-82.5385415927393" intname="Orange Ave and 12th St" intnum="1215" />
+<marker lat="27.3522176472688" lng="-82.5303966334262" intname="US 301 and 17th St" intnum="1209" />
+<marker lat="27.3486336985533" lng="-82.5303446420383" intname="US 301 and 12th St" intnum="1216" />
+<marker lat="27.3449756999694" lng="-82.5469176802158" intname="US 41 and 10th St" intnum="1224" />
+<marker lat="27.3449377488708" lng="-82.544710673034" intname="10th St and Cocoanut Ave" intnum="1223" />
+<marker lat="27.344910745081" lng="-82.5426756172168" intname="10th St and Central Ave" intnum="1225" />
+<marker lat="27.3448127149058" lng="-82.5406056199569" intname="10th St and Lemon Ave" intnum="1226" />
+<marker lat="27.3445686983771" lng="-82.5386076133254" intname="Orange Ave and 10th St" intnum="1227" />
+<marker lat="27.3388527747185" lng="-82.5467616841128" intname="US 41 and Fruitville Rd" intnum="1239" />
+<marker lat="27.3388527041694" lng="-82.5447246184929" intname="Fruitville Rd and Cocoanut Ave" intnum="1258" />
+<marker lat="27.3388567767247" lng="-82.5426806541791" intname="Fruitville Rd and Central Ave" intnum="1241" />
+<marker lat="27.3388537807168" lng="-82.5406136490014" intname="Fruitville Rd and Lemon Ave" intnum="1242" />
+<marker lat="27.338876774282" lng="-82.5386106221052" intname="Fruitville Rd and Orange Ave" intnum="1243" />
+<marker lat="27.338865754666" lng="-82.5361258610123" intname="Fruitville Rd and Goodrich Ave" intnum="1259" />
+<marker lat="27.3388517413853" lng="-82.5344126640042" intname="Fruitville Rd and Osprey Ave" intnum="1244" />
+<marker lat="27.338830751886" lng="-82.5330076983333" intname="Fruitville Rd and Links Ave" intnum="1260" />
+<marker lat="27.3387796927214" lng="-82.530980306353" intname="US 301 and Fruitville Rd" intnum="1245" />
+<marker lat="27.3387723073283" lng="-82.5282539897963" intname="Fruitville Rd and East Ave" intnum="1249" />
+<marker lat="27.3341007286405" lng="-82.540317692489" intname="Ringling Blvd and Pineapple Ave" intnum="1279" />
+<marker lat="27.3380573745121" lng="-82.5447598312481" intname="2nd St and Cocoanut Ave" intnum="1246" />
+<marker lat="27.3372595571725" lng="-82.5437420426112" intname="1st St and Pineapple Ave" intnum="1248" />
+<marker lat="27.3357817553375" lng="-82.5467396187319" intname="US 41 and Gulfstream Ave" intnum="1269" />
+<marker lat="27.3343057265379" lng="-82.5446596442184" intname="US 41 and Main St" intnum="1188" />
+<marker lat="27.3328477476241" lng="-82.5428046964801" intname="US 41 and Ringling Blvd" intnum="1268" />
+<marker lat="27.3357637584604" lng="-82.549966632576" intname="John Ringling Cswy and Golden Gate Pt" intnum="1323" />
+<marker lat="27.3284878079373" lng="-82.5384886784028" intname="US 41 and Orange Ave" intnum="1282" />
+<marker lat="27.3286267947202" lng="-82.5337897012545" intname="US 41 and Osprey Ave" intnum="1283" />
+<marker lat="27.3283879456192" lng="-82.5305005633659" intname="US 41 and US 301" intnum="1285" />
+<marker lat="27.3364607565282" lng="-82.5309766836908" intname="US 301 and Main St" intnum="1266" />
+<marker lat="27.3364627591571" lng="-82.5330106322266" intname="Main St and Links Ave" intnum="1265" />
+<marker lat="27.336462779639" lng="-82.5343986273827" intname="Main St and Osprey Ave" intnum="1264" />
+<marker lat="27.3364657640205" lng="-82.5386046451955" intname="Main St and Orange Ave" intnum="1263" />
+<marker lat="27.3364507376375" lng="-82.5406476797247" intname="Main St and Lemon Ave" intnum="1262" />
+<marker lat="27.3349327437638" lng="-82.5386136604717" intname="Ringling Blvd and Orange Ave" intnum="1275" />
+<marker lat="27.3349826968673" lng="-82.536469129422" intname="Ringling Blvd and Pine Ln" intnum="1276" />
+<marker lat="27.3351038441072" lng="-82.5343684427431" intname="Ringling Blvd and Osprey Ave" intnum="1277" />
+<marker lat="27.3355957323961" lng="-82.5309680645512" intname="US 301 and Ringling Blvd" intnum="1270" />
+<marker lat="27.3355927403794" lng="-82.5282576791603" intname="Ringling Blvd and East Ave" intnum="1271" />
+<marker lat="27.3313988242469" lng="-82.5309606697459" intname="US 301 and Oak St" intnum="1280" />
+<marker lat="27.3228961762259" lng="-82.5297257347786" intname="US 41 and Bahia Vista St" intnum="1293" />
+<marker lat="27.3276011336885" lng="-82.5301944266425" intname="US 41 and Bay St" intnum="1320" />
+<marker lat="27.3234894452052" lng="-82.5378568559759" intname="Orange Ave and Gulfview Dr" intnum="1291" />
+<marker lat="27.3412596238665" lng="-82.5467707378686" intname="US 41 and 6th St" intnum="1230" />
+<marker lat="27.3412046923057" lng="-82.5386076204282" intname="Orange Ave and 6th St" intnum="1234" />
+<marker lat="27.3412507392476" lng="-82.5406136892013" intname="6th St and Lemon Ave" intnum="1233" />
+<marker lat="27.3411687738452" lng="-82.5344246915986" intname="Osprey Ave and 6th St" intnum="1235" />
+<marker lat="27.3412577126564" lng="-82.5426786733496" intname="Central Ave and 6th St" intnum="1232" />
+<marker lat="27.319177311096" lng="-82.5337655712328" intname="Osprey Ave and Waldemere St" intnum="1302" />
+<marker lat="27.3191712522773" lng="-82.5296899643974" intname="US 41 and Waldemere St" intnum="1187" />
+<marker lat="27.3164078591214" lng="-82.5296577580192" intname="US 41 and Hillview St" intnum="1306" />
+<marker lat="27.3164008978849" lng="-82.5337407076813" intname="Osprey Ave and Hillview St" intnum="1305" />
+<marker lat="27.3082844347151" lng="-82.5300248961084" intname="US 41 and Webber St" intnum="1311" />
+<marker lat="27.308301925045" lng="-82.5336827246108" intname="Osprey Ave and Webber St" intnum="1310" />
+<marker lat="27.3028449102746" lng="-82.5303207359894" intname="US 41 and Siesta Dr" intnum="1319" />
+<marker lat="27.3027438459862" lng="-82.5336576611819" intname="Osprey Ave and Siesta Dr" intnum="1318" />
+<marker lat="27.2988341487203" lng="-82.5304675882417" intname="US 41 and Bee Ridge Rd" intnum="1322" />
+<marker lat="27.3375385790162" lng="-82.4973880302588" intname="Fruitville Rd and Beneva Rd" intnum="1255" />
+<marker lat="27.3374037739465" lng="-82.48632042926" intname="Fruitville Rd and Mimosa Dr" intnum="1256" />
+<marker lat="27.3376827239943" lng="-82.52598956736" intname="Fruitville Rd and School Ave" intnum="1250" />
+<marker lat="27.3375909078786" lng="-82.5241935125123" intname="Fruitville Rd and Lime Ave" intnum="1251" />
+<marker lat="27.3375930226964" lng="-82.5221570640198" intname="Fruitville Rd and Shade Ave" intnum="1252" />
+<marker lat="27.33760750124" lng="-82.5139419463382" intname="Fruitville Rd and Tuttle Ave" intnum="1253" />
+<marker lat="27.3376025117377" lng="-82.5057149193453" intname="Fruitville Rd and Lockwood Ridge Rd" intnum="1254" />
+<marker lat="27.3364707668645" lng="-82.5139916606685" intname="Ringling Blvd and Tuttle Ave" intnum="1267" />
+<marker lat="27.3338195971941" lng="-82.5140291311478" intname="Tuttle Ave and Davis Blvd" intnum="1281" />
+<marker lat="27.3355946409957" lng="-82.5241826738067" intname="Ringling Blvd and Lime Ave" intnum="1273" />
+<marker lat="27.3355927852091" lng="-82.5262846940649" intname="Ringling Blvd and School Ave" intnum="1272" />
+<marker lat="27.3485446397757" lng="-82.5242168140544" intname="12th St and Lime Ave" intnum="1218" />
+<marker lat="27.3268758465722" lng="-82.5139985383713" intname="Tuttle Ave and Browning St" intnum="1289" />
+<marker lat="27.3228086503337" lng="-82.5141206992135" intname="Tuttle Ave and Bahia Vista St" intnum="1296" />
+<marker lat="27.3228345021619" lng="-82.5218898135309" intname="Bahia Vista St and Shade Ave" intnum="1294" />
+<marker lat="27.3228158778281" lng="-82.5179678679756" intname="Bahia Vista St and Euclid Ave" intnum="1295" />
+<marker lat="27.3155248100262" lng="-82.514015259199" intname="Tuttle Ave and Hyde Park St" intnum="1308" />
+<marker lat="27.3083211287846" lng="-82.5141711227569" intname="Tuttle Ave and Webber St" intnum="1309" />
+<marker lat="27.0360458013153" lng="-82.2138358602281" intname="US 41 and Access" intnum="5749" />
+<marker lat="27.083391160621" lng="-82.4365665748316" intname="US 41 and Avenida Del Circo" intnum="870" />
+<marker lat="27.0919377205656" lng="-82.4443441436606" intname="US 41 and Palermo Pl" intnum="872" />
+<marker lat="27.0941469254749" lng="-82.4443234241995" intname="US 41 and Turin St W" intnum="873" />
+<marker lat="27.0961084243678" lng="-82.4443100413166" intname="US 41 and Milan Ave" intnum="874" />
+<marker lat="27.0988954326284" lng="-82.4442840278361" intname="US 41 and Miami Ave" intnum="875" />
+<marker lat="27.0998588527048" lng="-82.4442770179005" intname="US 41 and Venice Ave" intnum="876" />
+<marker lat="27.100819888966" lng="-82.4442709031403" intname="US 41 and Tampa Ave" intnum="877" />
+<marker lat="27.0889207911952" lng="-82.4434597322713" intname="US 41 and San Marco Dr" intnum="871" />
+<marker lat="27.0998929988099" lng="-82.4500276684768" intname="Venice Ave and Harbor Dr" intnum="0" />
+<marker lat="27.1058928492255" lng="-82.4440187746148" intname="US 41 and Harbor Lights Dr" intnum="878" />
+<marker lat="27.0795170357788" lng="-82.3307064765855" intname="River Rd and Center Rd" intnum="5754" />
+<marker lat="27.3359358113395" lng="-82.4494977545764" intname="Cattlemen Rd and Packinghouse Rd" intnum="5752" />
+<marker lat="27.0495830364917" lng="-82.3774897548235" intname="US 41 and Venice East Blvd" intnum="5559" />
+<marker lat="27.0734517832422" lng="-82.2091273059867" intname="Sumter Blvd and City Center Blvd" intnum="5706" />
+<marker lat="27.0522589439464" lng="-82.1570550427764" intname="Toledo Blade Blvd and Bobcat Trl" intnum="5748" />
+<marker lat="27.2367172018281" lng="-82.4892329883698" intname="Sarasota Square Blvd and Potter Park Dr" intnum="5750" />
+<marker lat="27.0938680626611" lng="-82.1555616017746" intname="Toledo Blade Blvd and Cranberry Blvd" intnum="5759" />
+<marker lat="27.0787227073653" lng="-82.155639874115" intname="Toledo Blade Blvd and Commerce Pkwy" intnum="5762" />
+<marker lat="27.0511238683705" lng="-82.2164457937971" intname="Sumter Blvd and Appomattox Dr" intnum="5764" />
+<marker lat="27.0685131160136" lng="-82.1686497378247" intname="Price Blvd and Chamberlain Blvd" intnum="5765" />
+<marker lat="27.3862379004892" lng="-82.4559894201398" intname="Cattlemen Rd and Access" intnum="5766" />
+<marker lat="27.0404336902997" lng="-82.2268168468217" intname="US 41 and Tuscola Blvd" intnum="5767" />
+<marker lat="27.2258311873522" lng="-82.488912011261" intname="Central Sarasota Pkwy and Potter Park Dr" intnum="5770" />
+<marker lat="27.068731165691" lng="-82.184104815818" intname="Price Blvd and Cranberry Blvd" intnum="5771" />
+<marker lat="27.0862433248457" lng="-82.1554477301805" intname="Toledo Blade Blvd and Panacea Blvd" intnum="5769" />
+<marker lat="27.3378228918469" lng="-82.4808989782642" intname="Fruitville Rd and McIntosh Rd" intnum="1257" />
+<marker lat="27.3904550972687" lng="-82.4633383551482" intname="Honore Ave and Access" intnum="5715" />
+<marker lat="27.0789816784039" lng="-82.41701242866" intname="Center Rd and Pinebrook Rd" intnum="5745" />
+<marker lat="27.1383744930343" lng="-82.4492088245027" intname="Laurel Rd and Ped Xing" intnum="5757" />
+<marker lat="27.3912173462887" lng="-82.5056772469295" intname="Lockwood Ridge Rd and Access" intnum="5753" />
+<marker lat="27.0611534824454" lng="-82.3161288300661" intname="River Rd and West Villages Pkwy" intnum="5768" />
+<marker lat="27.0327533020429" lng="-82.163707901103" intname="Toledo Blade Blvd and Hillsborough Blvd" intnum="5760" />
+<marker lat="27.0467083375327" lng="-82.1584097405157" intname="Toledo Blade Blvd and Woodhaven Dr" intnum="5761" />
+<marker lat="27.1918220326927" lng="-82.4883526904539" intname="US 41 and Bay Acres Ave" intnum="5747" />
+<marker lat="27.0992935311335" lng="-82.3438201034121" intname="River Rd and Venice Ave" intnum="5756" />
+<marker lat="27.3444747303397" lng="-82.5309726736695" intname="US 301 and 10th St" intnum="1290" />
+<marker lat="27.3355931635829" lng="-82.5221676627566" intname="Ringling Blvd and Shade Ave" intnum="1274" />
+<marker lat="27.0941330685444" lng="-82.4429659743834" intname="Bahama St and Indian Ave" intnum="0" />
+<marker lat="27.3596357605409" lng="-82.5346144039104" intname="Dr Martin Luther King Jr Way and Osprey Ave" intnum="1203" />
+<marker lat="27.3549396982504" lng="-82.5384665778966" intname="Orange Ave and 20th St" intnum="1205" />
+<marker lat="27.3485987402684" lng="-82.517261650735" intname="12th St and Stringfield Ave" intnum="1214" />
+<marker lat="27.3485956852616" lng="-82.5283236418726" intname="12th St and East Ave" intnum="1217" />
+<marker lat="27.3396517723977" lng="-82.5406146855814" intname="4th St and Lemon Ave" intnum="1238" />
+<marker lat="27.3266677561478" lng="-82.5620117014211" intname="John Ringling Cswy and Bird Key Dr" intnum="1288" />
+<marker lat="27.3228666273825" lng="-82.5337903045838" intname="Bahia Vista St and Osprey Ave" intnum="1292" />
+<marker lat="27.3164151029179" lng="-82.5378282515204" intname="Orange Ave and Hillview St" intnum="1304" />
+<marker lat="27.331712757631" lng="-82.5809026942239" intname="John Ringling Pkwy and Ken Thompson Pkwy" intnum="1326" />
+<marker lat="27.3064126360679" lng="-82.5336697748816" intname="Osprey Ave and South Dr" intnum="1317" />
+<marker lat="27.3332941950241" lng="-82.5262643420259" intname="School Ave and Shopping Ln" intnum="1278" />
+<marker lat="27.2215419421095" lng="-82.4605666105992" intname="Honore Ave and Central Sarasota Pkwy" intnum="5746" />
+<marker lat="27.0610220945517" lng="-82.3577412022451" intname="Rockely Blvd and Cart Crossing" intnum="5755" />
+<marker lat="27.350184670822" lng="-82.546927656456" intname="US 41 and 14th St" intnum="0" />
+<marker lat="27.0322452272679" lng="-82.2039128735552" intname="US 41 and S Cranberry Blvd" intnum="0" />
+<marker lat="27.3291947772123" lng="-82.5309336277307" intname="US 41 and US 301" intnum="0" />
+<marker lat="27.3884693785428" lng="-82.4420746269191" intname="University Pwky and Lake Osprey Dr" intnum="0" />
+<marker lat="27.3867697465988" lng="-82.4377345647934" intname="University Pkwy and Town Center Pkwy" intnum="0" />
+<marker lat="27.3863317671032" lng="-82.4333472627333" intname="University Pkwy and Lakewood Ranch Blvd" intnum="0" />
+<marker lat="27.3364723017063" lng="-82.5865311357317" intname="Gulf of Mexico Dr and Longboat Club Rd" intnum="925" />
+<marker lat="27.3653375480622" lng="-82.6234675862734" intname="Gulf of Mexico Dr and Bay Isles Pkwy" intnum="927" />
+</markers>

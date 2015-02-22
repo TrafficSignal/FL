@@ -25,6 +25,7 @@
 <!--Traffic Signal Layers -->
 	<script src="js/FloridaSignalLayer.js"></script> 
 	<script src="js/Signals/D1Signals.D.js"></script> 
+	<script src="js/Signals/D2Signals.D.js"></script> 
 	<script src="js/Signals/D3Signals.D.js"></script> 
 	<script src="js/Signals/D4Signals.D.js"></script> 
 	<script src="js/Signals/D5Signals.D.js"></script> 
@@ -52,7 +53,7 @@
 <body>
 
 <div id="header">
-	[ <A href="FLStateIndex.M.htm"> Mobile SIte </a>  | <A href="info.htm"> Info </a> ]
+	[ <A href="FLStateIndex.M.htm"> Mobile SIte </a>  | <A href="info.htm"> Info </a>  | <A href="index.htm"> Home</a>  ]
 </div>
  
 <!-- Begin Tabs -->
@@ -136,11 +137,12 @@
 										<tr><td><button id="button" onclick="loadLeeCountySignals()"><img src="images/LeeCountySignal.png" ></button></td><td>Lee County</td></tr>
 										<tr><td><button id="button" onclick="loadManateeCountySignals()"><img src="images/ManateeCountySignal.png" ></button></td><td>Manatee County</td></tr>
 										<tr><td><button id="button" onclick="loadPolkCountySignals()"><img src="images/PolkCountySignal.png" > </button></td><td>Polk County</td></tr>
-										<tr><td><button id="button" onclick=""><img src="images/Red.png" ></button></td><td>Coming Soon. Collecting Data for District 1 </td></tr>
+										<tr><td><button id="button" onclick="loadSarasotaCountySignals()"><img src="images/SarasotaCountySignal.png" > </button></td><td>Sarasota County</td></tr>
+										<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District  1</td></tr>
 									</td></tr>
 								</table>
 								</div>
-							<h3>District 2 <strong class="headyellow"> Development - Borders okay </strong></h3>
+							<h3>District 2 <strong class="headyellow">  Partial - Some Signal Agencies mapped </strong></h3>
 								<div>
 									<button class="button load-toggle" onclick="clearD2basemap()">Clear Layers, Focus D2 </button>
 									<button class="button load-toggle" onclick="FLDistrict2Info()">District 2 Bounds</button><br>
@@ -172,7 +174,8 @@
 										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
 										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 										<tr><td>
-											<tr><td><button id="button" onclick=""><img src="images/MiamiDadeCountySignal.png" ></button></td><td>Coming Soon. Collecting Data for District 2 </td></tr>
+											<tr><td><button id="button" onclick="loadStJohnsCountySignals()"><img src="images/StJohnsCountySignal.png" > </button></td><td>St. John's County</td></tr>
+											<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 2 </td></tr>
 										</td></tr>
 									</table>
 								</div>
@@ -206,6 +209,7 @@
 										<tr><th class="head2" colspan="2"><strong> Traffic Signal Maintaining Agencies </strong></th></tr>
 										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 										<tr><td>
+											<tr><td><button id="button" onclick="loadBayCountySignals()"><img src="images/BayCountySignal.png" ></button></td><td>Bay County</td></tr>
 											<tr><td><button id="button" onclick="loadEscambiaCountySignals()"><img src="images/EscambiaCountySignal.png" ></button></td><td>Escambia County</td></tr>
 											<tr><td><button id="button" onclick="loadOkaloosaCountySignals()"><img src="images/OkaloosaCountySignal.png" > </button></td><td>Okaloosa  County</td></tr>
 											<tr><td><button id="button" onclick="loadTallahasseeSignals()"><img src="images/TallahasseeSignal.png" > </button></td><td>City of Tallahassee</td></tr>
@@ -268,7 +272,9 @@
 									<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 									<tr><td>
 										<tr><td><button id="button" onclick="loadBrevardCountySignals()"><img src="images/BrevardCountySignal.png" ></button></td><td>Brevard County</td></tr>
+										<tr><td><button id="button" onclick="loadKissimmeeSignals()"><img src="images/KissimmeeSignal.png" ></button></td><td>City of Kissimmee</td></tr>
 										<tr><td><button id="button" onclick="loadOrangeCountySignals()"><img src="images/OrangeCountySignal.png" ></button></td><td>Orange County</td></tr>
+										<tr><td><button id="button" onclick="loadOrlandoSignals()"><img src="images/OrlandoSignal.png" ></button></td><td>City of Orlando</td></tr>
 										<tr><td><button id="button" onclick="loadSeminoleCountySignals()"><img src="images/SeminoleCountySignal.png" ></button></td><td>Seminole County</td></tr>
 										<tr><td><button id="button" onclick="loadVolusiaCountySignals()"><img src="images/VolusiaCountySignal.png" ></button></td><td>Volusia County</td></tr>
 										<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 5 </td></tr>
@@ -296,7 +302,7 @@
 										</td></tr>
 									</table>
 								</div>
-							<h3>District 7 <strong class="headgreen"> Partial. Some Signal Agencies mapped </strong></h3>
+							<h3>District 7 <strong class="headgreen"> Partial. Larger Signal Agencies mapped </strong></h3>
 								<div>
 										<button class="button load-toggle" onclick="clearD7basemap()">Clear Layers, Focus D7 </button>
 										<button class="button load-toggle" onclick="FLDistrict7Info()">District 7 Bounds</button></br>
@@ -316,8 +322,9 @@
 										<tr><td colspan="2"><button id="button" onclick="loadFloridaStateSignals()">Traffic Signals on SHS</button></td></tr>
 										<tr><td>
 											<tr><td><button id="button" onclick="loadHillsboroughCountySignals()"><img src="images/HillsboroughCountySignal.png" ></button></td><td>Hillsborough County </td></tr>
-											<tr><td><button id="button" onclick="loadTampaSignals()"><img src="images/TampaSignal.png" ></button></td><td>City of Tampa </td></tr>
 											<tr><td><button id="button" onclick="loadPascoCountySignals()"><img src="images/PascoCountySignal.png" ></button></td><td>Pasco County </td></tr>
+											<tr><td><button id="button" onclick="loadPinellasCountySignals()"><img src="images/PinellasCountySignal.png" ></button></td><td>Pinellas County </td></tr>
+											<tr><td><button id="button" onclick="loadTampaSignals()"><img src="images/TampaSignal.png" ></button></td><td>City of Tampa </td></tr>
 											<tr><td></td><td>Other Traffic Signal Agencies Coming Soon. Collecting Data for District 7 </td></tr>
 										</td></tr>
 									</table>
@@ -347,7 +354,8 @@
 		</tr>
 		<tr><td colspan="3">
 		</table>		
-		<!-- Desktop-Google Adsense-->
+		<!-- Desktop-Google Adsense 		-->
+
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		
 			<ins class="adsbygoogle"
@@ -357,7 +365,6 @@
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-		
 		</td></tr>
 		
 	</div><br>
@@ -390,7 +397,7 @@
 			</tr>
 		</tfoot>
 		</table>
-		<!-- Desktop-Google Adsense	-->
+		<!-- Desktop-Google Adsense	 	-->
 			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			<ins class="adsbygoogle"
 			style="display:inline-block;width:728px;height:90px"
@@ -399,7 +406,7 @@
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	 
+
 		</div>
 	</div><br>
 </div>
