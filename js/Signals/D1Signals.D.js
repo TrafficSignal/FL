@@ -1,3 +1,37 @@
+// Read the data from XML using Jquery for Charlotte County Traffic Signals
+function loadCharlotteCountySignals(){ 
+	$.get("xml/CharlotteCountySignal.xml", {}, function(data) {
+		$(data).find("marker").each(function() {
+			var marker = $(this);
+			var intname = $(this).attr('intname');
+			var intnum = $(this).attr('intnum');
+			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
+		//Icon Sytyle
+			var image = 'images/CharlotteCountySignal.png' ;
+			var marker = new google.maps.Marker({
+				position: latlng, 
+				map: map,
+				icon: image
+				});
+		//Contents of Info Window
+				var contentString = '<div id="signalinfowindow"><img src="images/CharlotteCountySmallSeal.gif">' + 
+				'Intersection number: <b>' +intnum+ '</b><br>' +
+				'Intersection name:<b>' +intname+ '</b><br>' +
+				'<font size="1" color="purple">'+		
+				'</div>' ;
+ 		//Info Window 
+			var infowindow = new google.maps.InfoWindow({ 
+			content:contentString,
+			maxWidth:500
+			});  
+		//Event Listener, Opens Info Window on click
+			google.maps.event.addListener(marker, 'click', function() {
+				infowindow.open(map,marker); 
+			});
+		}); 
+    });
+}
+
 
 // Read the data from XML using Jquery for Lee County Traffic Signals
 function loadLeeCountySignals(){ 
@@ -19,7 +53,6 @@ function loadLeeCountySignals(){
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -53,8 +86,7 @@ function loadManateeCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/ManateeCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -88,8 +120,7 @@ function loadPolkCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/PolkCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+		
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -124,7 +155,6 @@ function loadSarasotaCountySignals(){
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 

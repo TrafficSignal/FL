@@ -12,15 +12,7 @@
 <marker lat="30.1942776780984" lng="-85.8371900391022" intname="US 98 (Front Beach Rd)  and  Clara Avenue" intnum="PCB-3" />
 <marker lat="30.1934754089606" lng="-85.825422268724" intname="Hutchison Blvd (Middle Beach Rd SR 392A)  and  Alf Coleman Road" intnum="PCB-1" />
 <marker lat="30.1893473244943" lng="-85.828536907681" intname="US 98 (Front Beach Rd)  and  Alf Coleman Road" intnum="PCB-9" />
-<marker lat="30.1898805303879" lng="-85.6918840738691" intname="23rd Street (SR 368)  and  Frankford Avenue" intnum="PC-5" />
-<marker lat="30.1898168188586" lng="-85.6835132475569" intname="23rd Street (SR 368)  and  Lisenby Avenue" intnum="PC-6" />
-<marker lat="30.189815699741" lng="-85.6789305610025" intname="23rd Street (SR 368)  and  Airport Road" intnum="PC-7" />
-<marker lat="30.1897946738521" lng="-85.6757186390664" intname="23rd Street (SR 368)  and  Stanford Road" intnum="PC-50" />
 <marker lat="30.1883564609232" lng="-85.8165749476165" intname="Hutchison Blvd (Middle Beach Rd SR 392A)  and  Richard Jackson Blvd" intnum="PCB-12" />
-<marker lat="30.1897430369393" lng="-85.6709406843283" intname="23rd Street (SR 368)  and  23rd Plaza" intnum="PC-63" />
-<marker lat="30.1896951499053" lng="-85.6667167221413" intname="23rd Street (SR 368)  and  State Avenue" intnum="PC-55" />
-<marker lat="30.1896424249959" lng="-85.6625583933954" intname="23rd Street (SR 368)  and  Jenks Avenue" intnum="PC-56" />
-<marker lat="30.1895998852959" lng="-85.658370509704" intname="23rd Street (SR 368)  and  Harrison Avenue" intnum="PC-61" />
 <marker lat="30.1885070213263" lng="-85.7608740047389" intname="US 98  and  Thomas Drive (Wildwood)" intnum="BC-5" />
 <marker lat="30.186501312461" lng="-85.7702541389365" intname="US 98 (Front Beach Rd)  and  Conector Road to PCB Pkwy 1\ 4 mile west of Thomas Dr" intnum="BC-6" />
 <marker lat="30.1885149065206" lng="-85.756909938356" intname="US 98  and  Navy Base Gate (Woodlawn)" intnum="BC-4" />
@@ -29,33 +21,14 @@
 <marker lat="30.1811826974654" lng="-85.8035878523102" intname="Hutchison Blvd (MIddle Beach Rd SR 392A)  and  Clarence Street" intnum="BC-34" />
 <marker lat="30.1783314434548" lng="-85.8007072456093" intname="Hutchison Blvd (Middle Beach Rd)  and  US 98 (Front Beach Road) \  Thomas Drive" intnum="BC-8" />
 <marker lat="30.1779383529439" lng="-85.8053218235519" intname="US 98 (Front Beach Rd)  and  S Thomas Drive" intnum="BC-9" />
-<marker lat="30.1895595509525" lng="-85.6499117925096" intname="23rd Street (SR 368)  and  SR 77" intnum="PC-57" />
 <marker lat="30.1893984847956" lng="-85.6409574841525" intname="US Highway 231  and  23rd Street" intnum="BC-1" />
 <marker lat="30.2647549483649" lng="-85.9750245338185" intname="US 98 (Front Beach Rd)  and  PCB Pkwy (Back Beach Road at Carillon Beach)" intnum="PCB-10" />
 <marker lat="30.199229099063" lng="-85.8457137825179" intname="US 98 (Front Beach Rd)  and  Hutchison Blvd (Middle Beach Road)" intnum="PCB-4" />
 <marker lat="30.1812556995803" lng="-85.7897850001973" intname="US 98 (Front Beach Rd)  and  Joan Avenue" intnum="BC-27" />
-<marker lat="30.1851785445212" lng="-85.7307951408987" intname="W Highway 98  and  Moody Ave \  Port Authority" intnum="PC-1" />
-<marker lat="30.1834617666368" lng="-85.7271734070397" intname="W Highway 98  and  23rd Street" intnum="PC-58" />
-<marker lat="30.1807380452386" lng="-85.7086938619091" intname="W Highway 98  and  Michigan Avenue" intnum="PC-2" />
-<marker lat="30.1778305257984" lng="-85.7014801588972" intname="W Highway 98  and  Beck Avenue" intnum="PC-4" />
-<marker lat="30.1753202392779" lng="-85.6837562355261" intname="W 15th Street  and  Lisenby Avenue" intnum="PC-38" />
-<marker lat="30.1752559109872" lng="-85.6754068247345" intname="W 15th Street  and  Balboa Avenue" intnum="PC-39" />
-<marker lat="30.1752186900408" lng="-85.6693681301983" intname="W 15th Street   and  Florida Avenue" intnum="PC-40" />
-<marker lat="30.1751609994284" lng="-85.6623884383215" intname="W 15th Street  and  Jenks Avenue" intnum="PC-41" />
-<marker lat="30.1751399494471" lng="-85.6601644493321" intname="W 15th Street  and  Harrison Avenue" intnum="PC-44" />
 <marker lat="30.1749394602381" lng="-85.6333708836435" intname="E 15th Street  and  Sherman Avenue" intnum="CCG-2" />
 <marker lat="30.1748744427633" lng="-85.6250181063947" intname="E 15th Street  and  East Avenue" intnum="CCG-1" />
 <marker lat="30.17492796523" lng="-85.6078091615957" intname="Tyndall Parkway (US 98)  and  Transmitter Rd" intnum="CS-1" />
-<marker lat="30.1681599376934" lng="-85.7015594806969" intname="Beck Avenue (SR 390)  and  W 11th Street" intnum="PC-35" />
 <marker lat="30.1600715929026" lng="-85.5911188055946" intname="Tyndall Parkway (US 98)  and  7th Street" intnum="null" />
-<marker lat="30.1588844420332" lng="-85.6663610118759" intname="Business Highway 98  and  Beach Drive" intnum="PC-29" />
-<marker lat="30.1588472411253" lng="-85.6626614105193" intname="Business Highway 98  and  Jenks Avenue" intnum="PC-23" />
-<marker lat="30.1588308320249" lng="-85.6615066137564" intname="Business Highway 98  and  Grace Avenue" intnum="PC-24" />
-<marker lat="30.1588203525466" lng="-85.6603601934448" intname="Business Highway 98  and  Harrison Avenue" intnum="PC-25" />
-<marker lat="30.1584338520729" lng="-85.6524510756511" intname="Business Highway 98  and  Hamilton Avenue" intnum="PC-27" />
-<marker lat="30.1574487108136" lng="-85.6503574820915" intname="Business Highway 98  and  N Cove Blvd and SR 77 (MLK Blvd)" intnum="PC-15" />
-<marker lat="30.1568025922366" lng="-85.6251585009038" intname="Business Highway 98  and  East Avenue" intnum="PC-12" />
-<marker lat="30.1559464160305" lng="-85.6208663206691" intname="Business Highway 98  and  Everitt Avenue" intnum="PC-14" />
 <marker lat="30.1530116941091" lng="-85.5911543434978" intname="Tyndall Parkway (US 98)  and  SR 22" intnum="CC-3" />
 <marker lat="30.1456258580258" lng="-85.5911758318814" intname="Tyndall Parkway (US 98)  and  Cherry Street" intnum="CC-2" />
 <marker lat="30.1383485412534" lng="-85.5911876969662" intname="Tyndall Parkway (US 98)  and  Hickory Street" intnum="CC-5" />
@@ -68,7 +41,6 @@
 <marker lat="30.2856701459856" lng="-85.6371102057162" intname="SR 77  and  CR 2321" intnum="BC-30" />
 <marker lat="30.245308954719" lng="-85.648591432108" intname="SR 77  and  9th Street" intnum="CLH-2" />
 <marker lat="30.2376014104252" lng="-85.6487470471852" intname="SR 77  and  14th Street" intnum="CLH-1" />
-<marker lat="30.1605177336679" lng="-85.6503223111596" intname="SR 77  and  E 7th Street" intnum="PC-20" />
 <marker lat="30.2023033147335" lng="-85.6496879390365" intname="SR 77  and  Baldwin Road" intnum="BC-15" />
 <marker lat="30.2406923951594" lng="-85.6487017588474" intname="SR 77 and  12th Street" intnum="CLH-3" />
 <marker lat="30.1530209109916" lng="-85.5995264117042" intname="SR 22  and  SR 22A (Bob Little Road)" intnum="CC-4" />
@@ -76,11 +48,6 @@
 <marker lat="30.2301097788858" lng="-85.8877818615532" intname="PCB Parkway (Back Beach Rd)  and  Highway 79" intnum="PCB-13" />
 <marker lat="30.2226429416545" lng="-85.8898898097572" intname="US 98 (Front Beach Rd)  and  Highway 79" intnum="PCB-8" />
 <marker lat="30.19621285515" lng="-85.6875886069082" intname="SR 390  and  Airport Road" intnum="BC-18" />
-<marker lat="30.1881924573874" lng="-85.6758163397091" intname="Airport Road (SR 391)  and  Northside Drive and Stanford Road" intnum="PC-64" />
-<marker lat="30.1824121273521" lng="-85.6677181607512" intname="Airport Road (SR 391)  and  W 19th Street" intnum="PC-51" />
-<marker lat="30.1784803504621" lng="-85.6623229446937" intname="Airport Road (SR 391)  and  Jenks Avenue" intnum="PC-42" />
-<marker lat="30.17785122025" lng="-85.6601119364544" intname="Airport Road (SR 391)  and  Harrison Avenue" intnum="PC-53" />
-<marker lat="30.1676155894426" lng="-85.6250740289256" intname="E 11th Street  and  East Avenue (SR 389)" intnum="PC-11" />
 <marker lat="30.20421381107" lng="-85.6736848258819" intname="SR 390  and  Baldwin Road" intnum="BC-23" />
 <marker lat="30.2042178143331" lng="-85.6665748027523" intname="Baldwin Road  and  State Avenue" intnum="BC-28" />
 <marker lat="30.2042163062555" lng="-85.6623859880486" intname="Baldwin Road  and  Jenks Avenue" intnum="BC-17" />
@@ -88,57 +55,23 @@
 <marker lat="30.1984371096502" lng="-85.6078006797299" intname="Transmitter Road  and  Game Farm Road" intnum="CS-8" />
 <marker lat="30.1960943578314" lng="-85.8119942864486" intname="PCB Parkway (Back Beach Road)  and  Richard Jackson Blvd" intnum="PCB-14" />
 <marker lat="30.194543668906" lng="-85.6917842868292" intname="SR 390  and  Frankford Avenue" intnum="BC-19" />
-<marker lat="30.1883310460625" lng="-85.7200114944252" intname="23rd Street (SR 368)  and  Collegiate Drive" intnum="PC-59" />
-<marker lat="30.1898404166472" lng="-85.7083835520217" intname="23rd Street (SR 368)  and  Michigan Avenue" intnum="PC-3" />
-<marker lat="30.1826699221965" lng="-85.7013529059742" intname="Beck Avenue (SR 390)  and  W 19th Street" intnum="PC-60" />
-<marker lat="30.1824105374401" lng="-85.6627389858127" intname="Jenks Avenue  and  19th Street" intnum="PC-52" />
-<marker lat="30.1824197891765" lng="-85.6600040226494" intname="Harrison Avenue  and  E 19th Street" intnum="PC-62" />
 <marker lat="30.1786201567878" lng="-85.760510125147" intname="Thomas Drive  and  Laird Street" intnum="BC-10" />
 <marker lat="30.1747530745893" lng="-85.760033491191" intname="Thomas Drive  and  Navy Base Gate" intnum="BC-14" />
-<marker lat="30.1758094169418" lng="-85.6601546820561" intname="US 231  and  Harrison Avenue" intnum="PC-65" />
 <marker lat="30.1721935898886" lng="-85.7897810825093" intname="Joan Avenue  and  North Lagoon Drive" intnum="BC-33" />
-<marker lat="30.1697111023418" lng="-85.6602250880173" intname="Harrison Avenue  and  E 12th Street" intnum="PC-66" />
 <marker lat="30.1680653325233" lng="-85.7897576350767" intname="Thomas Drive  and  Joan Avenue" intnum="BC-11" />
-<marker lat="30.1681695441462" lng="-85.6921596717542" intname="W 11th Street  and  Frankford Avenue" intnum="PC-54" />
-<marker lat="30.1680680873354" lng="-85.6838044743087" intname="W 11th Street  and  Lisenby Avenue" intnum="PC-33" />
-<marker lat="30.1679879204018" lng="-85.6753823019308" intname="W 11th Street  and  Balboa Avenue" intnum="PC-32" />
-<marker lat="30.1678619186465" lng="-85.6625468668719" intname="Jenks Avenue  and  11th Street" intnum="PC-31" />
-<marker lat="30.1678407716032" lng="-85.6602470931997" intname="Harrison Avenue  and  E 11th Street" intnum="PC-30" />
-<marker lat="30.1677429766741" lng="-85.6418216671414" intname="E 11th Street  and  Bay Avenue" intnum="PC-54" />
-<marker lat="30.1676730947687" lng="-85.63340919953" intname="E 11th Street  and  Sherman Avenue" intnum="PC-10" />
 <marker lat="30.1683068395238" lng="-85.7576727585506" intname="Thomas Drive  and  Patronis Drive" intnum="BC-31" />
 <marker lat="30.1676085810287" lng="-85.6164878535176" intname="E 11th Street  and  School Avenue" intnum="CS-7" />
 <marker lat="30.1676406115351" lng="-85.6078226104311" intname="E 11th Street  and  Transmitter Road" intnum="CS-2" />
-<marker lat="30.1606455671707" lng="-85.6603384566674" intname="Harrison Avenue  and  7th Street" intnum="PC-29" />
-<marker lat="30.1606287262506" lng="-85.6589383888772" intname="E 7th Street  and  Magnolia Avenue" intnum="PC-28" />
-<marker lat="30.1605658079382" lng="-85.6524232632486" intname="E 7th Street  and  Hamilton Avenue" intnum="PC-45" />
 <marker lat="30.1604341806349" lng="-85.6165047033218" intname="E 7th Street  and  School Avenue" intnum="CS-5" />
 <marker lat="30.1603896662339" lng="-85.6078170792715" intname="E 7th Street  and  Transmitter Road" intnum="CS-3" />
 <marker lat="30.1588995909023" lng="-85.7531503678914" intname="Thomas Drive  and  Magnolia Beach Rd" intnum="BC-13" />
-<marker lat="30.1570624378749" lng="-85.6626903041293" intname="Business Hwy 98 (W 5th St)  and  Jenks Avenue" intnum="PC-49" />
-<marker lat="30.157040147897" lng="-85.6603836432019" intname="Harrison Avenue  and  5th Street" intnum="PC-43" />
-<marker lat="30.1552403072921" lng="-85.6603732433843" intname="Harrison Avenue  and  4th Street" intnum="PC-48" />
-<marker lat="30.1552337166177" lng="-85.6589998757656" intname="E 4th Street  and  Magnolia Avenue" intnum="PC-46" />
-<marker lat="30.1551437161537" lng="-85.6503817436639" intname="E 4th Street  and  Cove Blvd" intnum="PC-16" />
-<marker lat="30.1547956695029" lng="-85.6632874589285" intname="Beach Drive  and  Government Street" intnum="PC-8" />
-<marker lat="30.1536981262131" lng="-85.6622034830893" intname="Harrison Avenue  and  Beach Drive" intnum="PC-47" />
-<marker lat="30.1531286029127" lng="-85.625165827485" intname="E 3rd Street)  and  East Avenue (SR 389)" intnum="PC-13" />
 <marker lat="30.1504521030422" lng="-85.7474920460354" intname="Thomas Drive  and  North Lagoon Drive" intnum="BC-25" />
 <marker lat="30.1456048205352" lng="-85.5995283601149" intname="SR 22A (Bob Little Road)  and  Cherry Street" intnum="C-56" />
 <marker lat="30.1454051259909" lng="-85.5743566555534" intname="Cherry Street  and  Berthe Avenue" intnum="CC-6" />
 <marker lat="30.1394570039654" lng="-85.7505771356511" intname="Thomas Drive  and  Bristol Street" intnum="BC-12" />
-<marker lat="30.175378633181" lng="-85.6921514850166" intname="W 15th Street  and  Frankford Avenue" intnum="PC-37" />
 <marker lat="30.2331948026807" lng="-85.6281215170129" intname="CR 390  and  CR 389" intnum="BC-20" />
 <marker lat="30.1531070037407" lng="-85.6171854951255" intname="Business Highway 98  and  SR 22 (3rd Street)" intnum="CS-4" />
-<marker lat="30.1754224633433" lng="-85.701544318258" intname="Beck Avenue (SR 390)  and  W 15th Street" intnum="PC-56" />
-<marker lat="30.1459254234533" lng="-85.6504333178826" intname="Cherry Street  and  Cove Blvd" intnum="PC-21" />
-<marker lat="30.1750814991582" lng="-85.6502002638767" intname="E 15th Street  and  SR 77 (MLK Blvd)" intnum="PC-18" />
-<marker lat="30.1829787925315" lng="-85.650027843465" intname="US 231  and  SR 77 (MLK Blvd)" intnum="PC-17" />
 <marker lat="30.2293834404941" lng="-85.6491714900212" intname="SR 77  and  Mowat School Road" intnum="CLH-4" />
-<marker lat="30.1588099058184" lng="-85.6589558783779" intname="Business Highway 98 (E 6th Street)  and  Magnolia Avenue" intnum="PC-26" />
-<marker lat="30.1677810990597" lng="-85.6502765070682" intname="SR 77  and  E 11th Street" intnum="PC-19" />
-<marker lat="30.1560654973589" lng="-85.6470952537349" intname="Business Highway 98  and  Bonita Avenue" intnum="PC-68" />
-<marker lat="30.1568158044082" lng="-85.6334871148149" intname="Business Highway 98  and  Sherman Avenue" intnum="PC-9" />
 <marker lat="30.2230764901756" lng="-85.6627950192974" intname="SR 390  and  Jenks Avenue" intnum="BC-21" />
 <marker lat="30.2240436072811" lng="-85.8712822594165" intname="PCB Parkway (Back Beach Rd)  and  Pier Park" intnum="null" />
 <marker lat="30.2105033595446" lng="-85.8490758067876" intname="PCB Parkway (Back Beach Rd)  and  Nautilus Street" intnum="null" />
@@ -170,7 +103,6 @@
 <marker lat="30.2056262519906" lng="-85.8355167002138" intname="PCB Parkway (Back Beach Rd)  and  Clara Avenue" intnum="null" />
 <marker lat="30.1906751137423" lng="-85.7927037654823" intname="PCB Parkway (Back Beach Rd)  and  Moylan Road" intnum="null" />
 <marker lat="30.1725457394908" lng="-85.7951128198809" intname="THOMAS DR  and  S THOMAS DR" intnum="null" />
-<marker lat="30.1809451836746" lng="-85.6528807122752" intname="US 231  and  19TH ST" intnum="null" />
 <marker lat="30.2208073148417" lng="-85.865979570794" intname="PCB Parkway (Back Beach Rd)  and  Powell Adams Rd" intnum="null" />
 <marker lat="30.2190287007722" lng="-85.8672575366117" intname="Powell Adams Rd  and  Starfish St" intnum="null" />
 <marker lat="30.2332362527203" lng="-85.5948010812595" intname="CR 390  and  Cato Road" intnum="null" />

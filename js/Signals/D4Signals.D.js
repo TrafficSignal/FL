@@ -1,5 +1,3 @@
-//Written by Emmanuel Posadas - November 2014
-
 
 function loadBrowardCountySignals(){ 
 	jQuery.get("xml/BrowardCountySignal.xml", {}, function(data) {
@@ -19,8 +17,7 @@ function loadBrowardCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/BrowardCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -54,8 +51,7 @@ function loadBocaRatonSignals(){
 			var contentString = '<div id="signalinfowindow"><img src="images/BocaRatonSmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="green">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="green">'+	
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -88,8 +84,7 @@ function loadPalmBeachCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/PalmBeachCountySmallSeal.gif">' + 
 				'Intersection/system number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -122,8 +117,7 @@ function loadTownofPalmBeachSignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/TownofPalmBeachSmallSeal.gif">' + 
 				'Intersection/system number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -156,8 +150,7 @@ function loadMartinCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/MartinCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -191,8 +184,7 @@ function loadFortPierceSignals(){
 			var contentString = '<div id="signalinfowindow"><img src="images/FortPierceSmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="green">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="green">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -226,8 +218,7 @@ function loadPortStLucieSignals(){
 			var contentString = '<div id="signalinfowindow"><img src="images/PortStLucieSmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="green">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="green">'+				
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -261,8 +252,7 @@ function loadStLucieCountySignals(){
 			var contentString = '<div id="signalinfowindow"><img src="images/StLucieCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="green">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="green">'+				
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -296,7 +286,6 @@ function loadIndianRiverCountySignals(){
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 

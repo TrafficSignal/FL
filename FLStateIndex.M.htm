@@ -6,7 +6,7 @@
 	<meta charset="UTF-8">
 	<noscript><b>JavaScript must be enabled in order for you to use this Application/Website</b> </noscript>
 <!--Style/CSS -->	
-	<link href="css/MobileMenu.css" rel="stylesheet" >
+	<link href="css/trintMobile.css" rel="stylesheet" >
 <!--JQUery -->
 	<script src="jquery/jquery.js"></script>
 <!-- Slide out and Accordion Menu  --> 
@@ -47,6 +47,7 @@
 </head>
 
 <body>
+
 <!--/slideout-menu-->
 <div class="slideout-menu">
 	<h3>  <div class="box-shadow-menu">MENU</div> <a href="#" class="slideout-menu-toggle"> &times;</a>  </h3>
@@ -59,14 +60,13 @@
 					<button class="button trint2-menu-toggle" onclick="">Yellow Button -- County Bounds </button>
 					<button class="button trint3-menu-toggle" onclick=""> Green Button -- Traffic Signals</button>
 				</div>
-			</div>
-		</li>
+		</div></li>
 		<li><div class="accordion-container"> 
 				<a href="#" class="accordion-toggle">District and County Limits <span class="toggle-icon">+</span></a>
-				<div class="accordion-content">
-				<!-- State Controls-->
-				<button class="button trint5-menu-toggle" onclick="loadFloridaStateSignals()">All Signals on State DB/GIS</button>
-					<button class="button trint6-menu-toggle" onclick="clearbasemap()">Statewide view - clear all</button>
+					<div class="accordion-content">
+					<!-- State Controls-->
+						<button class="button trint5-menu-toggle" onclick="loadFloridaStateSignals()">All Signals on State DB/GIS</button>
+						<button class="button trint6-menu-toggle" onclick="clearbasemap()">Statewide view - clear all</button>
 						<button class="button trint3-menu-toggle" onclick="loadFLStateBeacons()">Beacons Signals SHS </button>
 						<button class="button trint3-menu-toggle" onclick="loadFLStateSignals()">Full Color Signals SHS</button>
 						<button class="button trint3-menu-toggle" onclick="loadFLStateMidblocks()">Mid-Blocks Signals SHS</button>
@@ -74,8 +74,8 @@
 						<button class="button trint3-menu-toggle" onclick="loadFLStateEmergency()">Emergency Signals SHS</button>					
 					<br><br>
 					<!-- District 1 Controls -->
-					<button class="button trint4-menu-toggle"  onclick="clearD1basemap()">Zoom D1, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict1Info()">FDOT District 1 </button><br>
+						<button class="button trint4-menu-toggle"  onclick="clearD1basemap()">Zoom D1, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict1Info()">FDOT District 1 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLCharlotte()">Charlotte</button>
 						<button class="button trint2-menu-toggle" onclick="FLCollier()">Collier</button>
 						<button class="button trint2-menu-toggle" onclick="FLDeSoto()">DeSoto</button>
@@ -88,37 +88,39 @@
 						<button class="button trint2-menu-toggle" onclick="FLOkeechobee()">Okeechobee</button>
 						<button class="button trint2-menu-toggle" onclick="FLPolk()">Polk</button>
 						<button class="button trint2-menu-toggle" onclick="FLSarasota()">Sarasota</button>
-							<button class="button trint3-menu-toggle" onclick="loadLeeCountySignals()">Lee </button>
-							<button class="button trint3-menu-toggle" onclick="loadManateeCountySignals()">Manatee</button>
-							<button class="button trint3-menu-toggle" onclick="loadPolkCountySignals()">Polk</button>
-							<button class="button trint3-menu-toggle" onclick="loadSarasotaCountySignals()">Sarasota</button>
+						<button class="button trint3-menu-toggle" onclick="loadCharlotteCountySignals()">Charlotte </button>
+						<button class="button trint3-menu-toggle" onclick="loadLeeCountySignals()">Lee </button>
+						<button class="button trint3-menu-toggle" onclick="loadManateeCountySignals()">Manatee</button>
+						<button class="button trint3-menu-toggle" onclick="loadPolkCountySignals()">Polk</button>
+						<button class="button trint3-menu-toggle" onclick="loadSarasotaCountySignals()">Sarasota</button>
 						<br><br>
 					<!-- District 2 Controls -->
-					<button class="button trint4-menu-toggle"  onclick="clearD2basemap()">Zoom D2, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict2Info()">FDOT District 2 </button><br>
-							<button class="button trint2-menu-toggle" onclick="FLAlachua()" />Alachua </button>
-							<button class="button trint2-menu-toggle" onclick="FLBaker()" />Baker</button>
-							<button class="button trint2-menu-toggle" onclick="FLBradford()" />Bradford</button>
-							<button class="button trint2-menu-toggle" onclick="FLClay()" />Clay</button>
-							<button class="button trint2-menu-toggle" onclick="FLColumbia()" />Columbia</button>
-							<button class="button trint2-menu-toggle" onclick="FLDixie()" />Dixie</button>
-							<button class="button trint2-menu-toggle" onclick="FLDuval()" />Duval</button>
-							<button class="button trint2-menu-toggle" onclick="FLGilchrist()" />Gilchrist</button>
-							<button class="button trint2-menu-toggle" onclick="FLHamilton()" />Hamilton</button>
-							<button class="button trint2-menu-toggle" onclick="FLLafayette()" />Lafayette</button>
-							<button class="button trint2-menu-toggle" onclick="FLLevy()" />Levy</button>
-							<button class="button trint2-menu-toggle" onclick="FLMadison()" />Madison</button>
-							<button class="button trint2-menu-toggle" onclick="FLNassau()" />Nassau</button>
-							<button class="button trint2-menu-toggle" onclick="FLPutnam()" />Putnam </button>
-							<button class="button trint2-menu-toggle" onclick="FLStJohns()" />St. Johns </button>
-							<button class="button trint2-menu-toggle" onclick="FLSuwannee()" />Suwannee</button>
-							<button class="button trint2-menu-toggle" onclick="FLTaylor()" />Taylor</button>
-							<button class="button trint2-menu-toggle" onclick="FLUnion()" />Union</button>
-								<button class="button trint3-menu-toggle" onclick="loadStJohnsCountySignals()">St. John's </button>
+						<button class="button trint4-menu-toggle"  onclick="clearD2basemap()">Zoom D2, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict2Info()">FDOT District 2 </button><br>
+						<button class="button trint2-menu-toggle" onclick="FLAlachua()" />Alachua </button>
+						<button class="button trint2-menu-toggle" onclick="FLBaker()" />Baker</button>
+						<button class="button trint2-menu-toggle" onclick="FLBradford()" />Bradford</button>
+						<button class="button trint2-menu-toggle" onclick="FLClay()" />Clay</button>
+						<button class="button trint2-menu-toggle" onclick="FLColumbia()" />Columbia</button>
+						<button class="button trint2-menu-toggle" onclick="FLDixie()" />Dixie</button>
+						<button class="button trint2-menu-toggle" onclick="FLDuval()" />Duval</button>
+						<button class="button trint2-menu-toggle" onclick="FLGilchrist()" />Gilchrist</button>
+						<button class="button trint2-menu-toggle" onclick="FLHamilton()" />Hamilton</button>
+						<button class="button trint2-menu-toggle" onclick="FLLafayette()" />Lafayette</button>
+						<button class="button trint2-menu-toggle" onclick="FLLevy()" />Levy</button>
+						<button class="button trint2-menu-toggle" onclick="FLMadison()" />Madison</button>
+						<button class="button trint2-menu-toggle" onclick="FLNassau()" />Nassau</button>
+						<button class="button trint2-menu-toggle" onclick="FLPutnam()" />Putnam </button>
+						<button class="button trint2-menu-toggle" onclick="FLStJohns()" />St. Johns </button>
+						<button class="button trint2-menu-toggle" onclick="FLSuwannee()" />Suwannee</button>
+						<button class="button trint2-menu-toggle" onclick="FLTaylor()" />Taylor</button>
+						<button class="button trint2-menu-toggle" onclick="FLUnion()" />Union</button>
+						<button class="button trint3-menu-toggle" onclick="loadStJohnsCountySignals()">St. John's </button>
+						<button class="button trint3-menu-toggle" onclick="loadClayCountySignals()">Clay </button>
 						<br><br>
 					<!-- District 3 Controls -->
-					<button class="button trint4-menu-toggle"  onclick="clearD3basemap()">Zoom D3, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict3Info()">FDOT District 3 </button><br>
+						<button class="button trint4-menu-toggle"  onclick="clearD3basemap()">Zoom D3, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict3Info()">FDOT District 3 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLBay()">Bay</button>
 						<button class="button trint2-menu-toggle" onclick="FLCalhoun()">Calhoun</button>
 						<button class="button trint2-menu-toggle" onclick="FLEscambia()">Escambia</button>
@@ -135,31 +137,34 @@
 						<button class="button trint2-menu-toggle" onclick="FLWakulla()">Wakulla</button>
 						<button class="button trint2-menu-toggle" onclick="FLWalton()">Walton</button>
 						<button class="button trint2-menu-toggle" onclick="FLWashington()">Washington</button>
-							<button class="button trint3-menu-toggle" onclick="loadBayCountySignals()">Bay</button>
-							<button class="button trint3-menu-toggle" onclick="loadEscambiaCountySignals()">Escambia</button>
-							<button class="button trint3-menu-toggle" onclick="loadOkaloosaCountySignals()">Okaloosa</button>
-							<button class="button trint3-menu-toggle" onclick="loadTallahasseeSignals()">Tallahassee </button>
+						<button class="button trint3-menu-toggle" onclick="loadBayCountySignals()">Bay</button>
+						<button class="button trint3-menu-toggle" onclick="loadEscambiaCountySignals()">Escambia</button>
+						<button class="button trint3-menu-toggle" onclick="loadOkaloosaCountySignals()">Okaloosa</button>
+						<button class="button trint3-menu-toggle" onclick="loadPanamaCitySignals()">Panama</button>
+						<button class="button trint3-menu-toggle" onclick="loadPensacolaSignals()">Pensacola</button>
+						<button class="button trint3-menu-toggle" onclick="loadTallahasseeSignals()">Tallahassee </button>
 						<br><br>
 					<!-- District 4 Controls -->
-					<button class="button trint4-menu-toggle"  onclick="clearD4basemap()">Zoom D4, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict4Info()">FDOT District 4 </button><br>
+						<button class="button trint4-menu-toggle"  onclick="clearD4basemap()">Zoom D4, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict4Info()">FDOT District 4 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLIndianRiver()">Indian River</button>
 						<button class="button trint2-menu-toggle" onclick="FLStLucie()">St. Lucie</button>
 						<button class="button trint2-menu-toggle" onclick="FLMartin()">Martin</button>
 						<button class="button trint2-menu-toggle" onclick="FLPalmBeach()">Palm Beach</button>
 						<button class="button trint2-menu-toggle" onclick="FLBroward()">Broward</button>
-							<button class="button trint3-menu-toggle" onclick="loadBrowardCountySignals()">Broward </button>
-							<button class="button trint3-menu-toggle" onclick="loadBocaRatonSignals()"> Boca Raton </button>
-							<button class="button trint3-menu-toggle" onclick="loadFortPierceSignals()">Ft. Pierce  </button>
-							<button class="button trint3-menu-toggle" onclick="loadIndianRiverCountySignals()">Indian River  </button>
-							<button class="button trint3-menu-toggle" onclick="loadMartinCountySignals()">Martin </button>
-							<button class="button trint3-menu-toggle" onclick="loadPalmBeachCountySignals()">Palm Beach </button>
-							<button class="button trint3-menu-toggle" onclick="loadPortStLucieSignals()">Port St. Lucie </button>					
-							<button class="button trint3-menu-toggle" onclick="loadTownofPalmBeachSignals()">Town of Palm Beach </button>
-							<button class="button trint3-menu-toggle" onclick="loadStLucieCountySignals()">St. Lucie </button>
+						<button class="button trint3-menu-toggle" onclick="loadBrowardCountySignals()">Broward </button>
+						<button class="button trint3-menu-toggle" onclick="loadBocaRatonSignals()"> Boca Raton </button>
+						<button class="button trint3-menu-toggle" onclick="loadFortPierceSignals()">Ft. Pierce  </button>
+						<button class="button trint3-menu-toggle" onclick="loadIndianRiverCountySignals()">Indian River  </button>
+						<button class="button trint3-menu-toggle" onclick="loadMartinCountySignals()">Martin </button>
+						<button class="button trint3-menu-toggle" onclick="loadPalmBeachCountySignals()">Palm Beach </button>
+						<button class="button trint3-menu-toggle" onclick="loadPortStLucieSignals()">Port St. Lucie </button>					
+						<button class="button trint3-menu-toggle" onclick="loadTownofPalmBeachSignals()">Town of Palm Beach </button>
+						<button class="button trint3-menu-toggle" onclick="loadStLucieCountySignals()">St. Lucie </button>
 						<br><br>
-					<button class="button trint4-menu-toggle"  onclick="clearD5basemap()">Zoom D5, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict5Info()">FDOT District 5 </button><br>
+					<!-- District 5 Controls -->
+						<button class="button trint4-menu-toggle"  onclick="clearD5basemap()">Zoom D5, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict5Info()">FDOT District 5 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLBrevard()">Brevard</button>
 						<button class="button trint2-menu-toggle" onclick="FLFlagler()">Flagler</button>
 						<button class="button trint2-menu-toggle" onclick="FLLake()">Lake</button>
@@ -169,33 +174,39 @@
 						<button class="button trint2-menu-toggle" onclick="FLSeminole()">Seminole</button>
 						<button class="button trint2-menu-toggle" onclick="FLSumter()">Sumpter</button>
 						<button class="button trint2-menu-toggle" onclick="FLVolusia()">Volusia</button>						
-							<button class="button trint3-menu-toggle" onclick="loadBrevardCountySignals()">Brevard</button>
-							<button class="button trint3-menu-toggle" onclick="loadKissimmeeSignals()">Kissimmee</button>
-							<button class="button trint3-menu-toggle" onclick="loadOrlandoSignals()">Orlando</button>
-							<button class="button trint3-menu-toggle" onclick="loadOrangeCountySignals()">Orange</button>
-							<button class="button trint3-menu-toggle" onclick="loadSeminoleCountySignals()">Seminole </button>
-							<button class="button trint3-menu-toggle" onclick="loadVolusiaCountySignals()">Volusia </button>
+						<button class="button trint3-menu-toggle" onclick="loadBrevardCountySignals()">Brevard</button>
+						<button class="button trint3-menu-toggle" onclick="loadDaytonaBeachSignals()">Daytona Beach</button>
+						<button class="button trint3-menu-toggle" onclick="loadKissimmeeSignals()">Kissimmee</button>
+						<button class="button trint3-menu-toggle" onclick="loadMarionCountySignals()">Marion</button>
+						<button class="button trint3-menu-toggle" onclick="loadMelbourneSignals()">Melbourne</button>
+						<button class="button trint3-menu-toggle" onclick="loadOrlandoSignals()">Orlando</button>
+						<button class="button trint3-menu-toggle" onclick="loadOcalaSignals()">Ocala</button>
+						<button class="button trint3-menu-toggle" onclick="loadOrangeCountySignals()">Orange</button>
+						<button class="button trint3-menu-toggle" onclick="loadSeminoleCountySignals()">Seminole </button>
+						<button class="button trint3-menu-toggle" onclick="loadVolusiaCountySignals()">Volusia </button>
 						<br><br>
-					<button class="button trint4-menu-toggle"  onclick="clearD6basemap()">Zoom D6, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict6Info()">FDOT District 6 </button><br>
+					<!-- District 5 Controls -->
+						<button class="button trint4-menu-toggle"  onclick="clearD6basemap()">Zoom D6, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict6Info()">FDOT District 6 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLMiamiDade()">MIami Dade</button>
 						<button class="button trint2-menu-toggle" onclick="FLMonroe()">Monroe</button>	
-							<button class="button trint3-menu-toggle" onclick="loadMiamiDadeCountySignals()">Miami Dade </button>
+						<button class="button trint3-menu-toggle" onclick="loadMiamiDadeCountySignals()">Miami Dade </button>
 						<br><br>
-					<button class="button trint4-menu-toggle"  onclick="clearD7basemap()">Zoom D7, Clear Layers </button>
-					<button class="button trint-menu-toggle" onclick="FLDistrict7Info()">FDOT District 7 </button><br>
+					<!-- District 7 Controls -->
+						<button class="button trint4-menu-toggle"  onclick="clearD7basemap()">Zoom D7, Clear Layers </button>
+						<button class="button trint-menu-toggle" onclick="FLDistrict7Info()">FDOT District 7 </button><br>
 						<button class="button trint2-menu-toggle" onclick="FLCitrus()">Citrus</button>
 						<button class="button trint2-menu-toggle" onclick="FLHernando()">Hernando</button>
 						<button class="button trint2-menu-toggle" onclick="FLHillsborough()">Hillsborough</button>
 						<button class="button trint2-menu-toggle" onclick="FLPasco()">Pasco</button>
 						<button class="button trint2-menu-toggle" onclick="FLPinellas()">Pinellas</button>
-							<button class="button trint3-menu-toggle" onclick="loadHillsboroughCountySignals()"> Hillsborough </button>
-							<button class="button trint3-menu-toggle" onclick="loadPascoCountySignals()"> Pasco </button>
-							<button class="button trint3-menu-toggle" onclick="loadPinellasCountySignals()"> Pinellas </button>
-							<button class="button trint3-menu-toggle" onclick="loadTampaSignals()">Tampa</button>
+						<button class="button trint3-menu-toggle" onclick="loadHillsboroughCountySignals()"> Hillsborough </button>
+						<button class="button trint3-menu-toggle" onclick="loadPascoCountySignals()"> Pasco </button>
+						<button class="button trint3-menu-toggle" onclick="loadPinellasCountySignals()"> Pinellas </button>
+						<button class="button trint3-menu-toggle" onclick="loadTampaSignals()">Tampa</button>
 						<br><br>
 				</div>
-		</div><lI>
+		</div></li>
 		<li><div class="accordion-container">
 				<a href="#" class="accordion-toggle">  Third Party Data Layers <span class="toggle-icon">+</span></a>
 				<div class="accordion-content">
@@ -216,7 +227,7 @@
 		<li>
 			[ <a href="index.htm">Main </a> | <a href="info.htm">Info </a> ]
 		</li>
-	</ul>
+	</ul></div>
 </div>
 
 <div class="header">
@@ -227,21 +238,35 @@
 <div class="content main">
 <table class="mapconsole">
 		<tr>
-			<td> <script> google.maps.event.addDomListener(window, 'load', clearbasemap); </script><div id="map_canvas1"></div> </td>
-			<td>	</td>
+			<td> 
+			<!-- MapCanvas -->
+				<script> google.maps.event.addDomListener(window, 'load', clearbasemap); </script>
+				<div id="map_canvas1"></div> 
+			</td>
+			<td>	
+			</td>
 		</tr>
 		</table>
 </div>
 
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
-<!-- Mobile -->
-		<ins class="adsbygoogle"
-		style="display:inline-block;width:320px;height:100px"
-		data-ad-client="ca-pub-7074806197787335"
-		data-ad-slot="4605530607"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>0
+<div id="adsense">
+		<!-- Google Responsive Ad -->
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7074806197787335" data-ad-slot="6987673400" data-ad-format="auto"></ins>
+		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+	
+<div>
+
+<!-- Analytics--> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-59057956-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
 
 </body>
 </html>

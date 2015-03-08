@@ -32,12 +32,6 @@
 <marker lat="29.2470564606868" lng="-81.0674617206201" intname=" SR 5A\/NOVA RD and FLOMICH ST" intnum="115" />
 <marker lat="29.2390300567429" lng="-81.0578459951108" intname=" SR 5A\/NOVA RD and LPGA BL" intnum="116" />
 <marker lat="29.2326265197133" lng="-81.053856588758" intname=" SR 5A\/NOVA RD and 8TH ST" intnum="117" />
-<marker lat="29.1710867473785" lng="-81.0386750464094" intname=" SR 483\/CLYDE MORRIS BL and SR 400\/BEVILLE RD" intnum="119" />
-<marker lat="29.184572875211" lng="-81.0424570459393" intname=" SR 483\/CLYDE MORRIS BL and BELLEVUE AV" intnum="120" />
-<marker lat="29.2135269427541" lng="-81.0620514129797" intname=" SR 430\/MASON AV and SR 483\/CLYDE MORRIS BL" intnum="122" />
-<marker lat="29.2106025459162" lng="-81.0691513306268" intname=" SR 430\/MASON AV and JIMMY ANN DR" intnum="124" />
-<marker lat="29.2257928931428" lng="-81.0329785645598" intname=" SR 430\/MASON AV and SEGRAVE\/CARSWELL ST" intnum="125" />
-<marker lat="29.2094860298987" lng="-81.0741681024271" intname=" MASON AV and BILL FRANCE BL" intnum="126" />
 <marker lat="29.1661802870835" lng="-81.0235771773583" intname=" SR 5A\/NOVA RD and BIG TREE RD" intnum="127" />
 <marker lat="29.1676061863415" lng="-80.9997066495104" intname=" SR 5\/US 1\/RIDGEWOOD AV and RIDGE BL" intnum="129" />
 <marker lat="29.1713138046959" lng="-81.0108729188009" intname=" BIG TREE RD and GRAHAM ST" intnum="130" />
@@ -63,7 +57,6 @@
 <marker lat="29.2555228915207" lng="-81.0467663845822" intname=" SR 5\/US 1\/RIDGEWOOD AV and FLOMICH ST" intnum="150" />
 <marker lat="29.1170867532493" lng="-80.9933880362291" intname=" SR 5A\/NOVA RD and SPRUCE CREEK RD" intnum="151" />
 <marker lat="29.1445343654087" lng="-81.0142836238423" intname=" SR 5A\/NOVA RD and MADELINE AV" intnum="153" />
-<marker lat="29.2354900419773" lng="-81.0661951109053" intname=" DERBYSHIRE RD and LPGA BL" intnum="154" />
 <marker lat="29.1377260280667" lng="-81.0108589445718" intname=" SR 5A\/NOVA RD and HERBERT ST" intnum="155" />
 <marker lat="28.9728746795822" lng="-80.8959477071979" intname=" SR 5\/US 1\/RIDGEWOOD AV and SR 442\/INDIAN RIVER BL" intnum="156" />
 <marker lat="28.9102252821979" lng="-81.2596322748049" intname=" SAXON BL and NORMANDY BL N" intnum="157" />
@@ -73,8 +66,6 @@
 <marker lat="28.9256995779901" lng="-81.1910743345363" intname=" HOWLAND BL\/CR 4145 and ELKCAM BL" intnum="162" />
 <marker lat="28.9522768136186" lng="-81.2988640921552" intname=" SR 15-600\/US 17-92 and FRENCH AV" intnum="163" />
 <marker lat="28.9916292002697" lng="-80.9078394801891" intname=" SR 5\/US 1\/RIDGEWOOD AV and PARK AV" intnum="164" />
-<marker lat="29.2122193633541" lng="-81.0061567030662" intname=" SR 441\/PENINSULA DR and SILVER BEACH AV" intnum="166" />
-<marker lat="29.2195574671647" lng="-81.0274764416917" intname=" SR 5\/US 1\/RIDGEWOOD AV and FAIRVIEW AV" intnum="194" />
 <marker lat="29.1079982175072" lng="-81.0267072926783" intname=" SR 421\/DUNLAWTON AV and TAYLOR RD" intnum="192" />
 <marker lat="29.1810692762216" lng="-81.0070774339239" intname=" SR 5\/US 1\/RIDGEWOOD AV and FIRE STATION" intnum="223" />
 <marker lat="29.174236547415" lng="-81.0033181870933" intname=" SR 5\/US 1\/RIDGEWOOD AV and BIG TREE RD" intnum="128" />
@@ -84,11 +75,8 @@
 <marker lat="29.0115689907977" lng="-80.8808824138566" intname=" S ATLANTIC AV and E 24TH AV" intnum="444" />
 <marker lat="29.0259983106743" lng="-80.8896740783018" intname=" S ATLANTIC AV and E 7TH AV" intnum="443" />
 <marker lat="28.9341032773673" lng="-81.2988978651044" intname=" SR 15-600\/US 17-92 and RHODE ISLAND AV" intnum="331" />
-<marker lat="29.1922113272025" lng="-81.0531098917124" intname=" RICHARD PETTY BL and AEROSPACE BLVD" intnum="325" />
-<marker lat="29.1900583839829" lng="-81.0468959344548" intname=" SR 483\/CLYDE MORRIS BL and EMBRY RIDDLE UNIV" intnum="123" />
 <marker lat="28.8716019085356" lng="-81.2851495282814" intname=" DIRK\/DEBRY\/DOYLE\/CR 4162 and I-4 WB RAMP" intnum="394" />
 <marker lat="28.8827982253641" lng="-81.3087553885189" intname=" SR 15-600\/US 17-92 and COLOMBA RD" intnum="343" />
-<marker lat="29.226526170109" lng="-81.0311952799758" intname=" SR 5\/US 1\/RIDGEWOOD AV and MASON AV" intnum="269" />
 <marker lat="29.2291057453369" lng="-81.0325887866884" intname=" SR 5\/US 1\/RIDGEWOOD AV and 2ND ST" intnum="270" />
 <marker lat="29.2314175396434" lng="-81.0338320463696" intname=" SR 5\/US 1\/RIDGEWOOD AV and 3RD ST" intnum="271" />
 <marker lat="29.2359872177355" lng="-81.0363257315675" intname=" SR 5\/US 1\/RIDGEWOOD AV and 6TH ST" intnum="272" />
@@ -98,7 +86,6 @@
 <marker lat="28.9846738769555" lng="-81.2644008774437" intname=" MLK BLTWY\/CR 4101 and ORANGE CAMP RD" intnum="276" />
 <marker lat="29.1050163432967" lng="-81.0314203750496" intname=" TAYLOR RD\/CR 421 and WILLIAMSON BL\/CR 4009" intnum="277" />
 <marker lat="29.2520602917494" lng="-81.0555542648473" intname=" CENTER AV and FLOMICH ST" intnum="278" />
-<marker lat="29.1563771196884" lng="-81.0382585557162" intname=" SR 483\/CLYDE MORRIS BL and BIG TREE RD" intnum="279" />
 <marker lat="29.1430154457382" lng="-81.0352477351626" intname=" SR 483\/CLYDE MORRIS BL and MADELINE AV" intnum="280" />
 <marker lat="29.1296260957184" lng="-81.025853643288" intname=" SR 483\/CLYDE MORRIS BL and HERBERT ST" intnum="281" />
 <marker lat="29.041658468669" lng="-80.933928612123" intname=" SR 5\/US 1\/DIXIE FRWY and TURNBULL BAY RD" intnum="282" />
@@ -112,24 +99,17 @@
 <marker lat="28.9478139071544" lng="-80.8838428334562" intname=" SR 5\/US 1\/RIDGEWOOD AV and ROBERTS RD" intnum="291" />
 <marker lat="28.9145894413272" lng="-81.1819351120137" intname=" HOWLAND BL\/CR 4145 and NEWMARK DR" intnum="292" />
 <marker lat="29.3232739204028" lng="-81.0552912083601" intname=" SR  A1A\/OCEAN SHORE BL and ORMOND MALL" intnum="294" />
-<marker lat="29.2111637824169" lng="-81.0110807433869" intname=" ORANGE AV and ORANGE AV BRIDGE" intnum="295" />
 <marker lat="29.1080528941003" lng="-80.9732155074004" intname=" SR 5\/US 1\/RIDGEWOOD AV and SR 5A\/NOVA RD" intnum="296" />
 <marker lat="29.0292507175044" lng="-80.9026663076296" intname=" SR  A1A\/3RD ST and PENINSULA AV" intnum="297" />
 <marker lat="29.0221206333154" lng="-80.9220673772165" intname=" SR 44\/LYTLE AV and LIVE OAK ST" intnum="298" />
 <marker lat="29.0247710120865" lng="-80.923257592428" intname=" CANAL ST and LIVE OAK ST" intnum="299" />
 <marker lat="28.9119998905959" lng="-81.3026559325442" intname=" SR 15-600\/US 17-92 and SAXON BL" intnum="300" />
-<marker lat="29.2140825474441" lng="-81.0907403549941" intname=" WILLIAMSON BL\/CR 4009 and MASON AV" intnum="301" />
-<marker lat="29.1591125346219" lng="-81.067145110578" intname=" SR 400\/BEVILLE RD and WILLIAMSON BL\/CR 4009" intnum="302" />
-<marker lat="29.169307742455" lng="-81.0794433872609" intname=" WILLIAMSON BL\/CR 4009 and BELLEVUE AV EXT" intnum="303" />
-<marker lat="29.1819214262013" lng="-81.0791983494037" intname=" SR 600\/US 92\/INTL SPDY BL and WILLIAMSON BL\/CR 4009" intnum="304" />
 <marker lat="29.0544772914183" lng="-81.3250448909008" intname=" SR 15A\/SPRING GARDEN AV and CR 92 EXT" intnum="305" />
 <marker lat="29.0547326482366" lng="-81.3058199577367" intname=" CR 92 EXT and GATEWAY SHOP CNTR" intnum="306" />
 <marker lat="29.2452374716992" lng="-81.4631706965261" intname=" SR 15\/US 17 and WASHINGTON AV E" intnum="307" />
 <marker lat="29.0250965994971" lng="-80.9467067246253" intname=" ENTERPRISE AV and PIONEER TRL\/CR 4118" intnum="308" />
 <marker lat="29.0718972403709" lng="-81.3058638188856" intname=" SR 15\/US 17 and GLENWOOD RD" intnum="309" />
 <marker lat="28.9031603442707" lng="-81.2279894745141" intname=" PROVIDENCE BL and TIVOLI DR" intnum="310" />
-<marker lat="29.1752566434681" lng="-81.0783832516719" intname=" WILLIAMSON BL\/CR 4009 and MIDWAY AV\/THAMES RD" intnum="311" />
-<marker lat="29.1881501073394" lng="-81.0618454262323" intname=" CATALINA DR and MIDWAY AV" intnum="312" />
 <marker lat="29.013813126945" lng="-81.2988944480493" intname=" AMELIA AV and BERESFORD AV" intnum="313" />
 <marker lat="29.3097214666148" lng="-81.0989890976373" intname=" SR 5\/US 1 and AIRPORT RD" intnum="314" />
 <marker lat="29.0548768873661" lng="-81.3001590498721" intname=" SR 600\/US 92\/INTL SPDY BL and AMELIA AV" intnum="315" />
@@ -138,15 +118,12 @@
 <marker lat="29.0177947096778" lng="-81.2278361164385" intname=" SR 44 and I-4 EAST RAMP" intnum="319" />
 <marker lat="29.0172658946436" lng="-81.2361342886648" intname=" SR 44 and I-4 WEST RAMP" intnum="320" />
 <marker lat="28.9112972278099" lng="-81.2651499220324" intname=" SAXON BL and FINLAND DR" intnum="321" />
-<marker lat="29.2226316145974" lng="-81.0189546473588" intname=" MAIN ST and MAIN ST BRIDGE" intnum="323" />
 <marker lat="29.261770256505" lng="-81.0941215242493" intname=" SR 483\/CLYDE MORRIS BL and HAND AV" intnum="324" />
 <marker lat="28.8970765383445" lng="-81.3052570883229" intname=" SR 15-600\/US 17-92 and DOGWOOD TRL\/PINE MEADOW DR" intnum="326" />
 <marker lat="29.1684634521039" lng="-81.0181661762498" intname=" BIG TREE RD and MAGNOLIA AV" intnum="327" />
 <marker lat="29.1538157895252" lng="-80.9927699910017" intname=" SR 5\/US 1\/RIDGEWOOD AV and VENTURE DR" intnum="328" />
 <marker lat="28.8845002596011" lng="-81.2234901208758" intname=" NORMANDY BL E and SAXON BL" intnum="329" />
 <marker lat="29.0245172812058" lng="-81.3074139789084" intname=" CLARA AV and VOORHIS AV" intnum="330" />
-<marker lat="29.220969708244" lng="-81.1007029572401" intname=" LPGA BL and I-95 NORTH BOUND RAMP" intnum="332" />
-<marker lat="29.2191902979134" lng="-81.1049232637489" intname=" LPGA BL and I-95 SOUTH BOUND RAMP" intnum="333" />
 <marker lat="29.2560025329385" lng="-81.1131402824152" intname=" WILLIAMSON BL\/CR 4009 and ORMOND SQUARE SHOP CNTR" intnum="334" />
 <marker lat="28.8880108681223" lng="-81.1655481037307" intname=" HOWLAND BL\/CR 4145 and PINE RIDGE HIGH SCH" intnum="335" />
 <marker lat="28.9112168526092" lng="-81.2881174700115" intname=" SAXON BL and THREADGILL PL\/LOWE'S DRIVEWAY" intnum="336" />
@@ -160,12 +137,10 @@
 <marker lat="29.0090296195991" lng="-80.8792947852449" intname=" ATLANTIC AV and 27TH AV" intnum="345" />
 <marker lat="29.2556194001589" lng="-81.120706773432" intname=" SR 40\/GRANADA BL and BOOTH RD" intnum="346" />
 <marker lat="28.9486327713978" lng="-81.2554458676056" intname=" GRAVES AV\/CR 4145 and NORMANDY BL" intnum="347" />
-<marker lat="29.2499563271124" lng="-81.1091670924915" intname=" WILLIAMSON BL\/CR 4009 and HAND AV" intnum="349" />
 <marker lat="28.9486383259942" lng="-81.2711426544948" intname=" GRAVES AV\/CR 4145 and VETERANS MEMORIAL PKWY" intnum="350" />
 <marker lat="29.1586169894061" lng="-80.9998649905714" intname=" REED CANAL RD and CARMEN DR" intnum="352" />
 <marker lat="28.9477099675263" lng="-81.2447519238231" intname=" HOWLAND BL\/CR 4145 and WOLFPACK RUN" intnum="354" />
 <marker lat="29.024523845974" lng="-81.299175743369" intname=" AMELIA AV and VOORHIS AV" intnum="355" />
-<marker lat="29.2148948523086" lng="-81.0739077081036" intname=" SR 483\/CLYDE MORRIS BL and BILL FRANCE BL" intnum="356" />
 <marker lat="29.2738883174627" lng="-81.1294654358211" intname=" AIRPORT RD and TYMBER CREEK RD" intnum="357" />
 <marker lat="28.9556842733194" lng="-81.2584214202472" intname=" SR 472 and I-4 WEST BOUND RAMP" intnum="358" />
 <marker lat="28.9524706815914" lng="-81.2545933661768" intname=" SR 472 and I-4 EAST BOUND RAMP" intnum="359" />
@@ -179,7 +154,6 @@
 <marker lat="28.9033875548844" lng="-81.3050354384196" intname=" SR 15-600\/US 17-92 and DEBARY PLANTATION BL" intnum="368" />
 <marker lat="28.9165958226435" lng="-81.2817995651347" intname=" VETERANS MEMORIAL PKWY and HARLEY STRICKLAND BL" intnum="369" />
 <marker lat="29.0282571449018" lng="-81.2743965714283" intname=" SR 44 and BLUE LAKE AVE" intnum="371" />
-<marker lat="29.1358691053878" lng="-81.1419553226062" intname=" SR 600\/US 92\/INTL SPDY BL and INDIAN LAKE RD" intnum="372" />
 <marker lat="28.9542684185091" lng="-80.9359817427206" intname=" SR 442 and OLD MISSION RD" intnum="373" />
 <marker lat="29.1311864488837" lng="-80.9934652248252" intname=" SPRUCE CREEK RD and EASTPORT PKWY" intnum="374" />
 <marker lat="28.9339304400164" lng="-81.2818842130119" intname=" VETERANS MEMORIAL PKWY and RHODE ISLAND AV" intnum="375" />
@@ -196,7 +170,6 @@
 <marker lat="29.244486165028" lng="-81.0639161803054" intname=" SR 5A\/NOVA RD and 15TH ST" intnum="390" />
 <marker lat="29.1241625270043" lng="-80.9929824273725" intname=" SPRUCE CREEK RD and COMMONWEALTH BL" intnum="391" />
 <marker lat="28.9167197850117" lng="-81.2881756060791" intname=" HARLEY STRICKLAND BL and THREADGILL AV" intnum="392" />
-<marker lat="29.2018203580759" lng="-81.0873082326311" intname=" WILLIAMSON BL\/CR 4009 and DUNN AV" intnum="393" />
 <marker lat="29.0549235874067" lng="-81.2960291322275" intname=" SR 600\/US 92\/INTL SPDY BL and GARFIELD AVENUE" intnum="395" />
 <marker lat="29.2738992317748" lng="-81.0826630323379" intname=" SR 5A\/NOVA RD and VILAGE DRIVE\/WOODLAND BLVD" intnum="397" />
 <marker lat="29.2665024586469" lng="-81.0786737236602" intname=" SR 5A\/NOVA RD and DIVISION AVENUE" intnum="398" />
@@ -210,7 +183,6 @@
 <marker lat="29.2253725502406" lng="-81.3216324556189" intname=" SR 11 and SR 40" intnum="410" />
 <marker lat="29.0026382620968" lng="-80.9392933055033" intname=" OLD MISSION RD. and JOSEPHINE ST." intnum="413" />
 <marker lat="29.1064789283425" lng="-81.028028889814" intname=" SR421\/TAYLOR RD. and I-95 NB RAMP" intnum="417" />
-<marker lat="29.2371243034518" lng="-81.0909870101788" intname=" CLYDE MORRIS BLVD. and STRICKLAND RANGE RD." intnum="418" />
 <marker lat="29.0352263260157" lng="-81.3244148610788" intname=" SR 15A\/SPRING GARDEN AV and MINNESOTA AV" intnum="419" />
 <marker lat="28.922692510731" lng="-81.18738234428" intname=" HOWLAND BLVD and LAKE HELEN OSTEEN RD" intnum="421" />
 <marker lat="29.03610410175" lng="-81.2602884379452" intname=" KEPLER RD and MINNESOTA AV" intnum="422" />
@@ -219,7 +191,6 @@
 <marker lat="28.9660783414973" lng="-80.8919498185726" intname=" SR 5\/US 1\/RIDGEWOOD AV and S RIVERSIDE DR\/FALCON AV" intnum="351" />
 <marker lat="29.2827921459388" lng="-81.0354603760701" intname=" SR  A1A\/ATLANTIC AV and ORMOND BEACH FIRE STATION" intnum="402" />
 <marker lat="28.8732848974277" lng="-81.164748466674" intname=" HOWLAND BLVD and WALMART ENTRANCE" intnum="396" />
-<marker lat="29.2468006858407" lng="-81.1058371891168" intname=" FLORIDA HOSPITAL and WILLIAMSON BLVDand" intnum="427" />
 <marker lat="29.3005674212751" lng="-81.0441144753747" intname=" SR AIA and NEPTUNE AV" intnum="52" />
 <marker lat="29.3011844234231" lng="-81.0445480213513" intname=" SR A1A\/OCEAN SHORE BL and NEPTUNE" intnum="386" />
 <marker lat="29.0691814279902" lng="-81.2549574668933" intname=" SR 600\/US 92\/INTL SPDY BL and WEST PARKWAY" intnum="423" />
@@ -235,7 +206,6 @@
 <marker lat="29.1165686881998" lng="-81.0475018237208" intname=" WILLIAMSON BLVD and MCGINNIS AV" intnum="435" />
 <marker lat="29.1069056209297" lng="-81.0239693974387" intname=" TAYLOR RD and BOGGS FORD RD" intnum="436" />
 <marker lat="29.0129649129458" lng="-80.9795469151333" intname=" SR 44 and SUGAR MILL DR" intnum="414" />
-<marker lat="29.1891634905944" lng="-81.0454484845441" intname=" SR 483\/CLYDE MORRIS BL and AEROSPACE BLVD" intnum="445" />
 <marker lat="28.8793630286982" lng="-81.1749970489788" intname=" FORT SMITH BLVD and FIRE STATION 64" intnum=" 073W" />
 <marker lat="28.8796929555757" lng="-81.1744802478317" intname=" FORT SMITH BLVD and FIRE STATION 64" intnum=" 073E" />
 <marker lat="29.2458482177115" lng="-81.0416899396773" intname=" SR 5\/US 1\/RIDGEWOOD AV and LPGA BL" intnum="167" />
@@ -294,19 +264,14 @@
 <marker lat="29.0112032580162" lng="-81.0688606431731" intname=" SR 44 and SR 415" intnum="225" />
 <marker lat="28.8693431079503" lng="-81.2530014360136" intname=" DIRK\/DEBRY\/DOYLE\/CR 4162 and PROVIDENCE BL" intnum="226" />
 <marker lat="29.2990327022719" lng="-81.0850526455346" intname=" SR 5\/US 1 and SR 5A N\/NOVA RD" intnum="227" />
-<marker lat="29.2239116924581" lng="-81.0937634306924" intname=" WILLIAMSON BL\/CR 4009 and LPGA BL" intnum="228" />
 <marker lat="28.9486618884961" lng="-81.2657495298795" intname=" GRAVES AV\/CR 4145 and KENTUCKY AV\/CR 4101" intnum="229" />
 <marker lat="28.9112199328696" lng="-81.2919489893445" intname=" ENTERPRISE RD and SAXON BL" intnum="230" />
 <marker lat="28.9118725358045" lng="-81.2956494392354" intname=" SAXON BL and MARKET PLACE SHOP CNTR" intnum="231" />
 <marker lat="28.9008417275337" lng="-81.2397754532827" intname=" SAXON BL and TIVOLI DR" intnum="232" />
 <marker lat="29.2806976959111" lng="-81.0686944319723" intname=" SR 40\/GRANADA BL and ORCHARD ST" intnum="233" />
-<marker lat="29.1520842239987" lng="-81.1075451979968" intname=" SR 600\/US 92\/INTL SPDY BL and LPGA BL" intnum="234" />
 <marker lat="28.917516818306" lng="-81.2212791605888" intname=" ELKCAM BL and PROVIDENCE BL" intnum="235" />
 <marker lat="28.9411784784166" lng="-81.2215497182951" intname=" HOWLAND BL\/CR 4145 and PROVIDENCE BL" intnum="236" />
-<marker lat="29.1804438919451" lng="-81.0422319024742" intname=" SR 483\/CLYDE MORRIS BL and BELLEVUE AV EXT" intnum="237" />
-<marker lat="29.214917970494" lng="-81.0702348691283" intname=" SR 483\/CLYDE MORRIS BL and JIMMY ANN DR" intnum="238" />
 <marker lat="29.2715198553268" lng="-81.0971744918689" intname=" SR 40 and SR 483\/CLYDE MORRIS BL" intnum="239" />
-<marker lat="29.2269314118689" lng="-81.0865710624811" intname=" SR 483\/CLYDE MORRIS BL and LPGA BL" intnum="240" />
 <marker lat="29.1068224833917" lng="-80.9932848352618" intname=" TAYLOR RD and SPRUCE CREEK RD" intnum="241" />
 <marker lat="29.0286165949746" lng="-80.8929412737215" intname=" SR A1A\/3RD AV and 3RD AV" intnum="242" />
 <marker lat="28.8660636951781" lng="-81.3171131243368" intname=" SR 15-600\/US 17-92 and DIRKSEN DR\/CR 4162" intnum="243" />
@@ -314,16 +279,13 @@
 <marker lat="29.1234841501" lng="-81.0121294704469" intname=" SR 421\/DUNLAWTON AV and VILLAGE TRL S" intnum="245" />
 <marker lat="29.0251839200618" lng="-81.2598823008628" intname=" SR 44\/NEW YORK AV and KEPLER RD\/CR 4101" intnum="246" />
 <marker lat="28.9485003474781" lng="-81.2487121220612" intname=" HOWLAND BL\/CR 4145 and DELTONA HIGH SCH\/FOREST EDGE" intnum="248" />
-<marker lat="29.1671637733737" lng="-81.0871533857705" intname=" SR 600\/US 92\/INTL SPDY BL and TOMOKA FARMS RD\/CR 415" intnum="249" />
 <marker lat="28.9444356549636" lng="-81.2261924662677" intname=" HOWLAND BL\/CR 4145 and CATALINA BL" intnum="250" />
 <marker lat="29.2477453893091" lng="-81.0370932499839" intname=" RIVERSIDE DR and LPGA BL" intnum="252" />
 <marker lat="29.1250685487596" lng="-80.978309320344" intname=" SR 5\/US 1\/RIDGEWOOD AV and COMMONWEALTH BL" intnum="253" />
-<marker lat="29.1925075121708" lng="-81.0508533090047" intname=" SR 483\/CLYDE MORRIS BL and RICHARD PETTY BL" intnum="254" />
 <marker lat="29.3354995077609" lng="-81.1305580684124" intname=" SR 5\/US 1 and I-95 NORTHBOUND RAMP" intnum="255" />
 <marker lat="29.3372562756289" lng="-81.1329417445254" intname=" SR 5\/US 1 and I-95 SOUTHBOUND RAMP" intnum="256" />
 <marker lat="29.2533765694032" lng="-81.1290246505719" intname=" SR 40 and TYMBER CREEK RD" intnum="257" />
 <marker lat="28.8722082968067" lng="-81.2796507515907" intname=" DIRK\/DEBRY\/DOYLE\/CR 4162 and DELTONA BL" intnum="258" />
-<marker lat="29.1919643048552" lng="-81.0623741512356" intname=" MIDWAY AV and RICHARD PETTY BL" intnum="259" />
 <marker lat="29.2691924471528" lng="-81.0290792235847" intname=" SR  A1A\/OCEAN SHORE BL and HARVARD DR" intnum="261" />
 <marker lat="29.2571006844673" lng="-81.1154751015738" intname=" SR 40 and I-95 NORTH BOUND RAMP" intnum="262" />
 <marker lat="29.2568124926719" lng="-81.1165784818515" intname=" SR 40 and I-95 SOUTH BOUND RAMP" intnum="263" />

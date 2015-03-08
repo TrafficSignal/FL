@@ -1,4 +1,3 @@
-
 <!DOCTYPE html">
 <html>
 <head>
@@ -24,95 +23,141 @@
 			$('#hidebtn').on('click', function(){
 				$('#disclaiminfo').hide(1000);
 				$('#updateinfo').hide(1000);
+			});
+			$('#hideadbtn').on('click', function(){
+				$('#adsense').toggle(1000);
 			});		
 		 });
 	</script>
 <!--CSS Style Sheets -->
-	<link href="css/index.css" rel="stylesheet" >
+	<link href="css/index.css" rel="stylesheet"  />
+	<link href="css/style1.css" rel="stylesheet" />
 </head>
 
 <body>
+<!--Background Image-->
+		<ul class="cb-slideshow">
+            <li><span>Image 01</span></li>
+            <li><span>Image 02</span></li>
+            <li><span>Image 03</span></li>
+            <li><span>Image 04</span></li>
+            <li><span>Image 05</span></li>
+			<li><span>Image 06</span></li>
+        </ul>
+
 <div id="topnav">
 	[ <A href="info.htm"> Contact Information  </a> | <A href="http://trint.us/Dev4/"> Client Login  </a>  |  <A href="https://github.com/TrafficSignal/">GitHub </a> ] <br>
-	<button id='updatebtn'>Update Info</button><button id='disclaimbtn'>Disclaimer Info</button><button id='hidebtn'>Hide Info</button>
+	<button id='updatebtn'>Update Info</button><button id='disclaimbtn'>Disclaimer Info</button><button id='hidebtn'>Hide Info</button><button id='hideadbtn'>Hide Ads</button>
 </div>
 
 <br><br>
 <div id="desktopversion">
-Desktop Version
-	[ <A href="FLStateIndex.D.htm">  FL Traffic Signals  </a> ]
+Desktops<br>
+	[ <A href="FLStateIndex.D.htm">  Florida Traffic Signals  </a> ]
 </div>
-  <br><br>
 
   <div id="mobileversion">
- Smartphone and Tablet Version
-	[ <A href="FLStateIndex.M.htm">  FL Traffic Signals </a> ]
+Phones/Tablets<br>
+	[ <A href="FLStateIndex.M.htm">  Florida Traffic Signals </a> ]
  </div>	
-	<br><br>
-	
+	<br>
+
 <div id="updateinfo">
 <span id="infotitle"> Monthly Status Update</span>
-	<p>Next Scheduled Update, 02/28/2015; last updated 02/21/2015 </p>
-	<p>02/23-02/20 -2015 - Traffic Signal Data request  to  City of Pensacola, City of Ocala, Marion County, Charlotte County, Clay County</p>
-	<p>02/23-02/20 -2015 - Follow up/Retry Data request from Lake County,  City of Gainesville, City of Saint Petersburg, City of Daytona Beach  </p>
-	<p>02/21/15 - City of Kissimmee Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/21/15 - City of Orlando Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/21/15 - Pinellas County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/21/15 - Sarasota County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/21/15 - Bay County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/21/15 - St.John's County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/16-02/20 -2015 - Traffic Signal Data request  to Saint Petersburg, Sarasota County, Saint John's County, City of Daytona Beach, Bay County </p>
-	<p>02/16-02/20 -2015 - Follow up/Retry Data request from Pinellas County, Lake County, City of Gainesville  </p>
-	<p>02/14/15 - Okaloosa County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/14/15 - Escambia County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/14/15 - City of Tallahassee Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/14/15 - Orange County (City of Orlando) Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/14/15 - Manatee County  Traffic Signals, data obtained and now mapped in TRINT. (No Data on Local Names - requesting lists) </p>d
-	<p>02/14/15 - Brevard County Traffic Signals, data obtained and now mapped in TRINT. </p>d
-	<p>02/07/15 - Added Categories for Signals on SHS (State Highway System). Beacon, Full Color, Mid-Block, Emergency Signal, School Signal as found in 
-<a href="ftp://ftp.dot.state.fl.us/fdot/co/planning/transtat/gis/TRANSTAT_metadata/traffic_signal_locations.shp.xml">FDOT Metadata</a></p>
-	<p>02/07/15 - Pasco County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/07/15 - Seminole County Traffic Signals, data obtained and now mapped in TRINT.  </p>
-	<p>02/07/15 - Lee County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/07/15 - Polk County Traffic Signals, data obtained and now mapped in TRINT. </p>
-	<p>02/07/15 - Traffic Signal Data requested from Orange County, Escambia County, Lake County, Okaloosa County, Manatee County </p>
-	<p>02/07/15 - Traffic Signal Data requested from Pinellas County, City of Gainesville, City of Tallahassee. Data not yet received </p>
-	<p>02/07/15 - City of Jacksonville declined to share data, data request again through Florida Statutes 119 - Public Records Request </p>
-	<p> Map Traffic Signal Agencies, by Florida Districts:
-			<ul><li>D1 - Lee County, Manatee County, Polk County</li>
-			<li>D2 - St John's County</li>
-			<li>D3 - Bay County, Escambia County, Okaloosa County, City of Tallahassee</li>
+		<p> Traffic Signal Maintaining Agencies (TSMA) mapped in TRINT, by Florida (FDOT) Districts :
+			<ul><li>D1 - Charlotte County, Lee County, Manatee County, Polk County</li>
+			<li>D2 - St John's County, Clay County</li>
+			<li>D3 - Bay County, Escambia County, Okaloosa County, Panama City, City of Pensacola, City of Tallahassee</li>
 			<li>D4 - Broward County, City of Boca Raton, City of Ft Pierce, Indian River County, Martin County, Palm Beach County, City of Port St. Lucie, Town of Palm Beach</li>
-			<li>D5 - Brevard County, Orange County, City of Orlando, City of Kissimmee, Seminole County, Volusia County</li>
+			<li>D5 - Brevard County, City of Daytona Beach, Orange County, City of Ocala, City of Orlando, City of Kissimmee, Marion County, City of Melbourne, Seminole County, Volusia County</li>
 			<li>D6 - Miami-Dade County</li>
-			<li>D7 - Hillsborough County, Pasco County, Pinellas County, City of Tampa </li>
-			</uL></p>	
-		
+			<li>D7 - Hillsborough County, Pasco County, Pinellas County, City of Tampa </li></ul>
+		</p>
+		<p>
+			Upcoming Data Request
+			<ul><li>03/09-03/13 -2015 - Traffic Signal Data request:  Santa Rosa County, City of Bradenton, City of Sarasota, City of Winter Haven, Lake City</li>
+			<li>03/09-03/13 -2015 - Follow up/Retry  Data request : Hernando County, Citrus County, </li> </ul>
+		</p>
+		<p>
+			March 2015 - Week 1
+			<ul><li>Next Scheduled Update, 03/14/2015; last updated 03/07/2015 </li>
+			<li>03/07/15 - Clay County Traffic Signals, data obtained and now mapped in TRINT. </li>d
+			<li>03/07/15 - City of Ocala Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>03/07/15 - City of Pensacola Traffic Signals, data obtained and now mapped in TRINT. (No Data on Local Names, reverse geocoding required) </li>
+			<li>03/07/15 - Panama City Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>03/07/15 - City of Melbourne (via Brevard County) Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>03/07/15 - City of Daytona Beach (via Volusia County) Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>03/02-03/07 -2015 - Traffic Signal Data request : Panama City, Collier County, Hernando County, Citrus County</li>
+			<li>03/02-03/07 -2015 - Follow up/Retry  Data request : City of Pensacola, City of Gainesville, City of Daytona Beach, City of Ocala</li></ul>
+		</p>
+		<p>
+			February 2015 - Week 4
+			<ul><li>02/28/15 - Marion County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/28/15 - Charlotte County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/28/15 - Lake County Traffic Signals, list data obtained, geocoding and verification required prior to mapping </li>
+			<li>02/28/15 - Manatee County, over 30% complete for street name geocoding and verification </li>
+			<li>02/28/15 - Pinellas County, over 10% complete for street name geocoding and verification </li>
+			<li>02/23-02/20 -2015 - Traffic Signal Data request : City of Pensacola, City of Ocala, Marion County, Charlotte County, Clay County</li>
+			<li>02/23-02/20 -2015 - Follow up/Retry Data request: Lake County,  City of Gainesville, City of Saint Petersburg, City of Daytona Beach  </li></ul>
+		</p>
+		<p>
+			February 2015 - Week 3
+			<ul><li>02/21/15 - City of Kissimmee Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/21/15 - City of Orlando Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/21/15 - Pinellas County Traffic Signals, data obtained and now mapped in TRINT. (No Data on Local Names , reverse geocoding required)</li>
+			<li>02/21/15 - Sarasota County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/21/15 - Bay County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/21/15 - St.John's County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/16-02/20 -2015 - Traffic Signal Data request: Saint Petersburg, Sarasota County, Saint John's County, City of Daytona Beach, Bay County </li>
+			<li>02/16-02/20 -2015 - Follow up/Retry Data request: Pinellas County, Lake County, City of Gainesville  </li></ul>
+		</p>
+		<p>
+			February 2015 - Week 2
+			<ul><li>02/14/15 - Okaloosa County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/14/15 - Escambia County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/14/15 - City of Tallahassee Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/14/15 - Orange County (City of Orlando) Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/14/15 - Manatee County  Traffic Signals, data obtained and now mapped in TRINT. (No Data on Local Names - requesting list, reverse geocoding required) </li>
+			<li>02/14/15 - Brevard County Traffic Signals, data obtained and now mapped in TRINT. </li></ul>
+		</p>
+		<p>		
+			February 2015 - Week 1
+			<ul><li>02/07/15 - Added Categories for Signals on SHS (State Highway System). Beacon, Full Color, Mid-Block, Emergency Signal, School Signal as found in 
+					<a href="ftp://ftp.dot.state.fl.us/fdot/co/planning/transtat/gis/TRANSTAT_metadata/traffic_signal_locations.shp.xml">FDOT Metadata</a></li>
+			<li>02/07/15 - Pasco County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/07/15 - Seminole County Traffic Signals, data obtained and now mapped in TRINT.  </li>
+			<li>02/07/15 - Lee County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/07/15 - Polk County Traffic Signals, data obtained and now mapped in TRINT. </li>
+			<li>02/07/15 - Traffic Signal Data requested from Orange County, Escambia County, Lake County, Okaloosa County, Manatee County </li>
+			<li>02/07/15 - Traffic Signal Data requested from Pinellas County, City of Gainesville, City of Tallahassee. Data not yet received </li></ul>
+		</p>
 </div>
+
 <div id="disclaiminfo">
 <span id="infotitle"> Disclaimer</span>
 <p>Data is as current as possible on posting date. Transportation Intelligence, LLC makes no representations or guarantees as to the completeness or accuracy of this data (and/or any provided attribute data thereof). </p>
 <p>Data is provided as is, without warranty of any kind, either expressed or implied, including without limitation any warranties that this data is fit for a particular purpose. 
 Transportation Intelligence, LLC  shall have no liability whatsoever relative to the use of provided data. Full responsibility and liability relating to the use of provided data rests with the user.
 Any data that is obtained from the this website may have  (naming, spatial or metadata) inaccuracies </p>
-
 <p>That being said. If you find any errors, please contact us at <a href='mailto:data@trint.us?Subject=Data%20Error'>data@trint.us </a> so we can correct inaccuracies as soon as possible.
 </p>
 </div>
-	<br><br>
+	<br>
 
 <div id="adsense">
-<!-- Mobile -->
+<!-- Responsive Add-->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
+     style="display:block"
      data-ad-client="ca-pub-7074806197787335"
-     data-ad-slot="4605530607"></ins>
+     data-ad-slot="6987673400"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-<!-- Analytics   -->
+</div>
+ 
+<!-- Analytics-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -122,7 +167,6 @@ Any data that is obtained from the this website may have  (naming, spatial or me
   ga('send', 'pageview');
 </script>	
 
-</div>
 
  
 </body>

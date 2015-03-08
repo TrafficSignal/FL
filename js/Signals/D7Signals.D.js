@@ -17,8 +17,7 @@ function loadHillsboroughCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/HillsboroughCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+		
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -51,8 +50,7 @@ function loadPascoCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/PascoCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -85,8 +83,7 @@ function loadPinellasCountySignals(){
 				var contentString = '<div id="signalinfowindow"><img src="images/PinellasCountySmallSeal.gif">' + 
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
-				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
+				'<font size="1" color="purple">'+			
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -120,7 +117,6 @@ function loadTampaSignals(){
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 

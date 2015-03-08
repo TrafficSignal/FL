@@ -20,7 +20,6 @@ function loadMiamiDadeCountySignals(){
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+
-				'[ Data Sets here: For example Timing Sheets, Cabinet Picture, Plans, Count, Crash Data, Simulation Files, Data last retimed or whatever data set can be linked or displayed ]'
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
