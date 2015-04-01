@@ -1,5 +1,6 @@
 Bay County		-Purple
 Boca Raton -		-Green
+Bradenton		-Yellow
 Brevard			-Brown
 Broward County 		-Blue
 Charlotte		-YellowGreen
@@ -7,8 +8,10 @@ Clay			-Blue
 Daytona Beach		-Green
 Escambia		-Blue
 Fort Pierce		-LightBlue
+Gainesville		-LightBlue
 HillsboroughCounty	-Green
 Indian River		-Orange
+Jacksonville		-Purple
 Kissimmee		-LightBlue
 Lee 			-LightBlue
 Marion			-AshBlue
@@ -16,6 +19,7 @@ Martin			-AshBlue
 Manatee			-Green
 Melbourne		-Red
 Miami Dade		-Red
+Naples			-Brown	
 Okaloosa		-Ashblue
 Ocala			-Purple
 Orange			-Orange
@@ -27,10 +31,12 @@ Pensacola		-YellowGreen
 Pinellas		-Yellow
 Polk			-Purple
 Port Saint Lucie	-Brown
-Sarasota		-AshBlue
+Sarasota County		-AshBlue
+Sarasota City		-Orange
 Seminole		-Yellow
 St John's		-Browm
 St Lucie		-YellowGreen
+St Petersburg		-Ash Blue
 Tallahassee		-Red
 Tampa			-Red
 Town of Palm Beach	-Yellow
@@ -38,12 +44,12 @@ Volusia			-YellowGreen
 
 Count
 Green - 	4 (Boca, Hillsborough, Manatee, Daytona Beach) 
-Brown - 	3 (Brevard, Port Saint Lucie, St John's)
+Brown - 	4 (Brevard, Port Saint Lucie, St John's, Naples)
 Blue		4 (Broward, Escambia, Orlando, Clay)
-Orange		4 (Pasco, Indian River, Orange, Panama City)
+Orange		5 (Pasco, Indian River, Orange, Panama City, Sarasota City)
 Red		4 (Tampa, Miami Dade, Talhasee, Melbourne)
-LightBlue	3 (Fort Pierce, Lee, Kissimme)
-AshBlue		3 (Martin, Okaloosa, Sarasota, Marion)
-Purple		3 (Palm Beach, Polk, Bay, Ocala)
-Yellow		3 (Seminole, Town of Palm Beach, Pinellas)
+LightBlue	4 (Fort Pierce, Lee, Kissimme, Gainesville)
+AshBlue		4 (Martin, Okaloosa, Sarasota, Marion. St Petersburg)
+Purple		4 (Palm Beach, Polk, Bay, Ocala, Jacksonville)
+Yellow		4 (Seminole, Town of Palm Beach, Pinellas, Bradenton)
 YellowGreen	4 (Saint Lucie, Volusia, Charlotte, Pensacola)

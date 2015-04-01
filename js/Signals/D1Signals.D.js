@@ -1,3 +1,36 @@
+function loadBradentonSignals(){ 
+	$.get("xml/BradentonSignal.xml", {}, function(data) {
+		$(data).find("marker").each(function() {
+			var marker = $(this);
+			var intname = $(this).attr('intname');
+			var intnum = $(this).attr('intnum');
+			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
+		//Icon Sytyle
+			var image = 'images/BradentonSignal.png' ;
+			var marker = new google.maps.Marker({
+				position: latlng, 
+				map: map,
+				icon: image
+				});
+		//Contents of Info Window
+				var contentString = '<div id="signalinfowindow"><img src="images/BradentonSmallSeal.gif">' + 
+				'Intersection number: <b>' +intnum+ '</b><br>' +
+				'Intersection name:<b>' +intname+ '</b><br>' +
+				'<font size="1" color="purple">'+		
+				'</div>' ;
+ 		//Info Window 
+			var infowindow = new google.maps.InfoWindow({ 
+			content:contentString,
+			maxWidth:500
+			});  
+		//Event Listener, Opens Info Window on click
+			google.maps.event.addListener(marker, 'click', function() {
+				infowindow.open(map,marker); 
+			});
+		}); 
+    });
+}
+
 // Read the data from XML using Jquery for Charlotte County Traffic Signals
 function loadCharlotteCountySignals(){ 
 	$.get("xml/CharlotteCountySignal.xml", {}, function(data) {
@@ -31,7 +64,6 @@ function loadCharlotteCountySignals(){
 		}); 
     });
 }
-
 
 // Read the data from XML using Jquery for Lee County Traffic Signals
 function loadLeeCountySignals(){ 
@@ -87,6 +119,39 @@ function loadManateeCountySignals(){
 				'Intersection number: <b>' +intnum+ '</b><br>' +
 				'Intersection name:<b>' +intname+ '</b><br>' +
 				'<font size="1" color="purple">'+			
+				'</div>' ;
+ 		//Info Window 
+			var infowindow = new google.maps.InfoWindow({ 
+			content:contentString,
+			maxWidth:500
+			});  
+		//Event Listener, Opens Info Window on click
+			google.maps.event.addListener(marker, 'click', function() {
+				infowindow.open(map,marker); 
+			});
+		}); 
+    });
+}
+
+function loadNaplesSignals(){ 
+	$.get("xml/NaplesSignal.xml", {}, function(data) {
+		$(data).find("marker").each(function() {
+			var marker = $(this);
+			var intname = $(this).attr('intname');
+			var intnum = $(this).attr('intnum');
+			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
+		//Icon Sytyle
+			var image = 'images/NaplesSignal.png' ;
+			var marker = new google.maps.Marker({
+				position: latlng, 
+				map: map,
+				icon: image
+				});
+		//Contents of Info Window
+				var contentString = '<div id="signalinfowindow"><img src="images/NaplesSmallSeal.gif">' + 
+				'Intersection number: <b>' +intnum+ '</b><br>' +
+				'Intersection name:<b>' +intname+ '</b><br>' +
+				'<font size="1" color="purple">'+		
 				'</div>' ;
  		//Info Window 
 			var infowindow = new google.maps.InfoWindow({ 
@@ -168,3 +233,38 @@ function loadSarasotaCountySignals(){
 		}); 
     });
 }
+
+// Read the data from XML using Jquery for Sarasota City Traffic Signals
+function loadSarasotaSignals(){ 
+	$.get("xml/SarasotaSignal.xml", {}, function(data) {
+		$(data).find("marker").each(function() {
+			var marker = $(this);
+			var intname = $(this).attr('intname');
+			var intnum = $(this).attr('intnum');
+			var latlng = new google.maps.LatLng(parseFloat(marker.attr("lat")),parseFloat(marker.attr("lng")));
+		//Icon Sytyle
+			var image = 'images/SarasotaSignal.png' ;
+			var marker = new google.maps.Marker({
+				position: latlng, 
+				map: map,
+				icon: image
+				});
+		//Contents of Info Window
+				var contentString = '<div id="signalinfowindow"><img src="images/SarasotaSmallSeal.gif">' + 
+				'Intersection number: <b>' +intnum+ '</b><br>' +
+				'Intersection name:<b>' +intname+ '</b><br>' +
+				'<font size="1" color="purple">'+
+				'</div>' ;
+ 		//Info Window 
+			var infowindow = new google.maps.InfoWindow({ 
+			content:contentString,
+			maxWidth:500
+			});  
+		//Event Listener, Opens Info Window on click
+			google.maps.event.addListener(marker, 'click', function() {
+				infowindow.open(map,marker); 
+			});
+		}); 
+    });
+}
+

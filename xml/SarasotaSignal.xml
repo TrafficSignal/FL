@@ -1,0 +1,98 @@
+<markers>
+<marker lat="27.3671869" lng="-82.5516904" intname="US 41  and MYRTLE ST" intnum="1" />
+<marker lat="27.3599166" lng="-82.5490607" intname="US 41  and MLK" intnum="2" />
+<marker lat="27.3450478" lng="-82.5468667999999" intname="US 41  and 10TH ST" intnum="3" />
+<marker lat="27.2968405" lng="-82.5248351999999" intname="US 41 and 6TH ST" intnum="4" />
+<marker lat="27.338246" lng="-82.4082698" intname="US 41  and FRUITVILLERD" intnum="5" />
+<marker lat="27.3345218999999" lng="-82.5436903" intname="US 41  and GULF STREAM AVE" intnum="6" />
+<marker lat="27.3343958" lng="-82.5444146" intname="US 41 and MAIN ST" intnum="7" />
+<marker lat="27.3813019" lng="-82.5567038" intname="US 41  and RINGLING" intnum="8" />
+<marker lat="27.3367867999999" lng="-82.538625" intname="US 41  and ORANGE AVE" intnum="9" />
+<marker lat="27.3361809" lng="-82.5343597" intname="US 41  and OSPREY AVE" intnum="10" />
+<marker lat="27.3292224" lng="-82.5309513999999" intname="US 41  and US 301(MOUND)" intnum="11" />
+<marker lat="27.3276399" lng="-82.5294579" intname="US 41  and BAY ST" intnum="12" />
+<marker lat="27.322155" lng="-82.5296" intname="US 41  and BAHIAVI STA ST" intnum="13" />
+<marker lat="27.3191592999999" lng="-82.5297174" intname="US 41  and WALDEMERE ST" intnum="14" />
+<marker lat="27.316434" lng="-82.5257907" intname="US 41  and HILLVIEW ST" intnum="15" />
+<marker lat="27.308073" lng="-82.529975" intname="US 41  and WEBBER ST" intnum="16" />
+<marker lat="27.3026757" lng="-82.5585282999999" intname="US 41  and SIE STADR" intnum="17" />
+<marker lat="27.2988519" lng="-82.5304756" intname="US 41  and BEERIDGE" intnum="18" />
+<marker lat="27.3286356" lng="-82.5307276" intname="US 301  and 17TH ST" intnum="19" />
+<marker lat="27.3486935999999" lng="-82.5304211" intname="US 301  and 12TH ST" intnum="20" />
+<marker lat="27.34448" lng="-82.5310614" intname="US 301  and 1OTH ST" intnum="21" />
+<marker lat="27.338786" lng="-82.5309991999999" intname="US 301  and FRUITVILLERD" intnum="22" />
+<marker lat="27.3364646" lng="-82.5310014" intname="US 301  and MAIN ST" intnum="23" />
+<marker lat="27.3356569" lng="-82.5309987" intname="US 301  and RINGLINGBLVD" intnum="24" />
+<marker lat="27.3313986" lng="-82.5309762" intname="US 301  and OAK ST" intnum="25" />
+<marker lat="27.3708599" lng="-82.546943" intname="MLK  and OLDBRADENTONRD" intnum="26" />
+<marker lat="27.355317" lng="-82.5448754999999" intname="MLK  and COCOANUT AVE" intnum="27" />
+<marker lat="27.3553218" lng="-82.5428667999999" intname="MLK and CENTRAL AVE" intnum="28" />
+<marker lat="27.3526764999999" lng="-82.538511" intname="MLK and ORANGE AVE" intnum="29" />
+<marker lat="27.3176778" lng="-82.5337800999999" intname="MLK and OSPREY AVE" intnum="30" />
+<marker lat="27.3549368" lng="-82.5384728999999" intname="ORANGE AVE  and 20TH ST" intnum="31" />
+<marker lat="27.3526764999999" lng="-82.538511" intname="ORANGE AVE and 17TH ST" intnum="32" />
+<marker lat="27.3486468" lng="-82.5385654" intname="ORANGE AVE  and 12TH ST" intnum="33" />
+<marker lat="27.3445382" lng="-82.5386256" intname="ORANGE AVE and 10TH ST" intnum="34" />
+<marker lat="27.3411864" lng="-82.5386222" intname="ORANGE AVE  and 6TH ST" intnum="35" />
+<marker lat="27.3164183" lng="-82.537843" intname="ORANGE AVE  and HILLVIEW ST" intnum="36" />
+<marker lat="27.323492" lng="-82.5378701" intname="ORANGE AVE  and GULFVIEWDR" intnum="37" />
+<marker lat="27.3485369" lng="-82.5172205" intname="12TH  ST and SPRINGFIELD AVE" intnum="38" />
+<marker lat="27.3486490999999" lng="-82.5181303" intname="12TH  ST and EUCLID AVE" intnum="39" />
+<marker lat="27.3486439" lng="-82.5283260999999" intname="12TH ST and EA ST AVE" intnum="40" />
+<marker lat="27.3485432" lng="-82.5242369" intname="12TH ST and LIME AVE" intnum="41" />
+<marker lat="27.3448971" lng="-82.5447143" intname="10TH ST  and COCOANUT AVE" intnum="42" />
+<marker lat="27.3449692999999" lng="-82.5426911999999" intname="10TH ST  and CENTRAL AVE" intnum="43" />
+<marker lat="27.3448596" lng="-82.5405497" intname="10TH ST  and LEMON AVE" intnum="44" />
+<marker lat="27.337394" lng="-82.542449" intname="6TH ST  and CENTRAL AVE" intnum="45" />
+<marker lat="27.3412053" lng="-82.5408382" intname="6TH ST/Blvd of The Arts and LEMON AVE" intnum="46" />
+<marker lat="27.3411684" lng="-82.534446" intname="6TH ST  and OSPREY AVE" intnum="47" />
+<marker lat="27.3372716" lng="-82.5437583" intname="1 ST ST  and PINEAPPLE AVE" intnum="48" />
+<marker lat="27.3388159" lng="-82.5446692" intname="FRUITVILLE RD  and COCOANUT AVE" intnum="49" />
+<marker lat="27.3388196" lng="-82.5426767" intname="FRUITVILLE RD  and CENTRAL AVE" intnum="50" />
+<marker lat="27.3388211" lng="-82.5405655999999" intname="FRUITVILLE RD  and LEMON AVE" intnum="51" />
+<marker lat="27.3388306999999" lng="-82.5386237" intname="FRUITVILLE RD  and ORANGE AVE" intnum="52" />
+<marker lat="27.3388238" lng="-82.5361266" intname="FRUITVILLE RD  and GOODRICH AVE" intnum="53" />
+<marker lat="27.338805" lng="-82.5344326999999" intname="FRUITVILLE RD  and OSPREY AVE" intnum="54" />
+<marker lat="27.3388961" lng="-82.5330462" intname="FRUITVILLE RD  and LINKS AVE" intnum="55" />
+<marker lat="27.338635" lng="-82.5282723" intname="FRUITVILLE RD  and EA ST AVE" intnum="56" />
+<marker lat="27.3378098999999" lng="-82.5259552" intname="FRUITVILLE RD  and SCHOOL AVE" intnum="57" />
+<marker lat="27.3374539" lng="-82.5201236" intname="FRUITVILLE RD  and LIME AVE" intnum="58" />
+<marker lat="27.3374485" lng="-82.5221808" intname="FRUITVILLE RD  and SHADE AVE" intnum="59" />
+<marker lat="27.3374566" lng="-82.5139661999999" intname="FRUITVILLE RD  and TUTTLE AVE" intnum="60" />
+<marker lat="27.3921051" lng="-82.5055404" intname="FRUITVILLE RD  and LOCKWOODRDG" intnum="61" />
+<marker lat="27.337403" lng="-82.4973442" intname="FRUITVILLE RD  and BENEVARD" intnum="62" />
+<marker lat="27.3375422999999" lng="-82.4863361" intname="FRUITVILLE RD  and MIMOSADR" intnum="63" />
+<marker lat="27.3378271" lng="-82.4809154" intname="FRUITVILLE RD  and MCINTOSHRD" intnum="64" />
+<marker lat="27.3439115" lng="-82.5405649" intname="MAIN  ST and LEMON AVE" intnum="65" />
+<marker lat="27.3364687" lng="-82.5386271" intname="MAIN  ST  and ORANGE AVE" intnum="66" />
+<marker lat="27.3514806" lng="-82.5345103999999" intname="MAIN  ST  and OSPREY AVE" intnum="67" />
+<marker lat="27.3364666" lng="-82.533014" intname="MAIN  ST  and LINKS AVE" intnum="68" />
+<marker lat="27.33648" lng="-82.5141114999999" intname="RINGLING BLVD  and TUTTLE AVE" intnum="69" />
+<marker lat="27.3355849" lng="-82.5221822" intname="RINGLING BLVD  and SHADE AVE" intnum="70" />
+<marker lat="27.3356136" lng="-82.5241835" intname="RINGLING BLVD  and LIME AVE" intnum="71" />
+<marker lat="27.3355387" lng="-82.5263045" intname="RINGLING BLVD  and SCHOOL AVE" intnum="72" />
+<marker lat="27.3356253" lng="-82.5282583" intname="RINGLING BLVD  and EA ST AVE" intnum="73" />
+<marker lat="27.3351824" lng="-82.5343464" intname="RINGLING BLVD  and OSPREY AVE" intnum="74" />
+<marker lat="27.3350115" lng="-82.5364826" intname="RINGLING BLVD  and PINECOURT" intnum="75" />
+<marker lat="27.3348882999999" lng="-82.5386453" intname="RINGLINGBLVD and ORANGE AVE" intnum="76" />
+<marker lat="27.3228635" lng="-82.5338104" intname="BAHIA VI STA  ST  and OSPREY AVE" intnum="77" />
+<marker lat="27.322839" lng="-82.5218941" intname="BAHIA VI STA  ST and SHADE AVE" intnum="78" />
+<marker lat="27.322816" lng="-82.517971" intname="BAHIA VI STA  ST  and EUCLID AVE" intnum="79" />
+<marker lat="27.3338325999999" lng="-82.5140451" intname="TUTTLE AVE and DAVIS" intnum="80" />
+<marker lat="27.3268918" lng="-82.5139921" intname="TUTTLE AVE and BROWNING ST" intnum="81" />
+<marker lat="27.3228034" lng="-82.5141159" intname="TUTTLE AVE and BAHIAVI STA ST" intnum="82" />
+<marker lat="27.3155319" lng="-82.5140284999999" intname="TUTTLE AVE and HYDEPARK" intnum="83" />
+<marker lat="27.3082856999999" lng="-82.5140674" intname="TUTTLE AVE and WEBBER" intnum="84" />
+<marker lat="27.3191743" lng="-82.533787" intname="OSPREY AVE  and WALDEMERE" intnum="85" />
+<marker lat="27.316448" lng="-82.5337703" intname="OSPREY AVE  and HILLVIEW ST" intnum="86" />
+<marker lat="27.3082999" lng="-82.533703" intname="OSPREY AVE  and WEBBER ST" intnum="87" />
+<marker lat="27.3064579" lng="-82.5336892" intname="OSPREY AVE  and SOUTH DR" intnum="88" />
+<marker lat="27.3027762" lng="-82.5336755999999" intname="OSPREY AVE  and SIE STA DR" intnum="89" />
+<marker lat="27.3267109" lng="-82.5620741" intname="RINGLING CSWY  and BIRDKEY DR" intnum="90" />
+<marker lat="27.3290298999999" lng="-82.5590142" intname="RINGLING CSWY  and GOLDENGATE" intnum="91" />
+<marker lat="27.3331977" lng="-82.526172" intname="SCHOOL AVE and PUBLIX" intnum="92" />
+<marker lat="27.339652" lng="-82.5406687" intname="4TH ST  and LEMON  AVE" intnum="93" />
+<marker lat="27.3380548" lng="-82.5446397" intname="2ND and PINEAPPLE AVE" intnum="94" />
+<marker lat="27.3355292" lng="-82.5308867" intname="RINGLING BLVD and COURTHOUSE" intnum="95" />
+<marker lat="27.3356384" lng="-82.549859" intname="J.RINGLING  and  K.THOMPSON/ SUNSET DR" intnum="96" />
+</markers>

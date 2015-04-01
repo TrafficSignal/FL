@@ -47,7 +47,6 @@
 </head>
 
 <body>
-
 <!--/slideout-menu-->
 <div class="slideout-menu">
 	<h3>  <div class="box-shadow-menu">MENU</div> <a href="#" class="slideout-menu-toggle"> &times;</a>  </h3>
@@ -88,11 +87,14 @@
 						<button class="button trint2-menu-toggle" onclick="FLOkeechobee()">Okeechobee</button>
 						<button class="button trint2-menu-toggle" onclick="FLPolk()">Polk</button>
 						<button class="button trint2-menu-toggle" onclick="FLSarasota()">Sarasota</button>
+						<button class="button trint3-menu-toggle" onclick="loadBradentonSignals()">Bradenton </button>
 						<button class="button trint3-menu-toggle" onclick="loadCharlotteCountySignals()">Charlotte </button>
 						<button class="button trint3-menu-toggle" onclick="loadLeeCountySignals()">Lee </button>
 						<button class="button trint3-menu-toggle" onclick="loadManateeCountySignals()">Manatee</button>
+						<button class="button trint3-menu-toggle" onclick="loadNaplesSignals()">Naples </button>
 						<button class="button trint3-menu-toggle" onclick="loadPolkCountySignals()">Polk</button>
-						<button class="button trint3-menu-toggle" onclick="loadSarasotaCountySignals()">Sarasota</button>
+						<button class="button trint3-menu-toggle" onclick="loadSarasotaCountySignals()">Sarasota County</button>
+						<button class="button trint3-menu-toggle" onclick="loadSarasotaSignals()">Sarasota</button>
 						<br><br>
 					<!-- District 2 Controls -->
 						<button class="button trint4-menu-toggle"  onclick="clearD2basemap()">Zoom D2, Clear Layers </button>
@@ -115,8 +117,10 @@
 						<button class="button trint2-menu-toggle" onclick="FLSuwannee()" />Suwannee</button>
 						<button class="button trint2-menu-toggle" onclick="FLTaylor()" />Taylor</button>
 						<button class="button trint2-menu-toggle" onclick="FLUnion()" />Union</button>
-						<button class="button trint3-menu-toggle" onclick="loadStJohnsCountySignals()">St. John's </button>
 						<button class="button trint3-menu-toggle" onclick="loadClayCountySignals()">Clay </button>
+						<button class="button trint3-menu-toggle" onclick="loadGainesvilleSignals()">Gainesville </button>
+						<button class="button trint3-menu-toggle" onclick="loadJacksonvilleSignals()">Jacksonville (partial) </button>
+						<button class="button trint3-menu-toggle" onclick="loadStJohnsCountySignals()">St. John's </button>
 						<br><br>
 					<!-- District 3 Controls -->
 						<button class="button trint4-menu-toggle"  onclick="clearD3basemap()">Zoom D3, Clear Layers </button>
@@ -177,6 +181,7 @@
 						<button class="button trint3-menu-toggle" onclick="loadBrevardCountySignals()">Brevard</button>
 						<button class="button trint3-menu-toggle" onclick="loadDaytonaBeachSignals()">Daytona Beach</button>
 						<button class="button trint3-menu-toggle" onclick="loadKissimmeeSignals()">Kissimmee</button>
+						<button class="button trint3-menu-toggle" onclick="loadLakeCountySignals()">Lake</button>
 						<button class="button trint3-menu-toggle" onclick="loadMarionCountySignals()">Marion</button>
 						<button class="button trint3-menu-toggle" onclick="loadMelbourneSignals()">Melbourne</button>
 						<button class="button trint3-menu-toggle" onclick="loadOrlandoSignals()">Orlando</button>
@@ -203,6 +208,7 @@
 						<button class="button trint3-menu-toggle" onclick="loadHillsboroughCountySignals()"> Hillsborough </button>
 						<button class="button trint3-menu-toggle" onclick="loadPascoCountySignals()"> Pasco </button>
 						<button class="button trint3-menu-toggle" onclick="loadPinellasCountySignals()"> Pinellas </button>
+						<button class="button trint3-menu-toggle" onclick="loadStPetersburgSignals()"> St. Petersburg (Partial) </button>
 						<button class="button trint3-menu-toggle" onclick="loadTampaSignals()">Tampa</button>
 						<br><br>
 				</div>
@@ -250,14 +256,13 @@
 </div>
 
 <div id="adsense">
-		<!-- Google Responsive Ad -->
+		<!-- Google Responsive Ad	-->
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7074806197787335" data-ad-slot="6987673400" data-ad-format="auto"></ins>
 		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-	
-<div>
+ <div>
 
-<!-- Analytics--> 
+<!-- Analytics-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -32,13 +32,10 @@
 <marker lat="28.09363" lng="-80.6265" intname="nasa and  airport " intnum="ML0031" />
 <marker lat="28.0934012276372" lng="-80.6175684928894" intname="nasa and  apollo " intnum="ML0032" />
 <marker lat="28.093057" lng="-80.6152403354645" intname="nasa and  hickory " intnum="ML0033" />
-<marker lat="28.078789" lng="-80.627114" intname="new haven and  airport " intnum="ML0034" />
-<marker lat="28.0787771520001" lng="-80.6247353553771" intname="new haven and  country club " intnum="ML0035" />
-<marker lat="28.0785878305191" lng="-80.6215167045593" intname="new haven (us 192) and   babcock " intnum="ML0036" />
+<marker lat="28.078789" lng="-80.627114" intname="New Haven and  Airport " intnum="ML0034" />
+<marker lat="28.0787771520001" lng="-80.6247353553771" intname="New haven and  Country Club " intnum="ML0035" />
+<marker lat="28.0785878305191" lng="-80.6215167045593" intname="Nw haven (us 192) and  Babcock " intnum="ML0036" />
 <marker lat="28.078976" lng="-80.616496" intname="new haven (US 192) and  strawbridge/pine " intnum="ML0037" />
-<marker lat="28.0784931696534" lng="-80.6095862388611" intname="new haven (US 192) and  livingston " intnum="ML0038" />
-<marker lat="28.0784553052838" lng="-80.6078374385834" intname="new haven (US 192) and  waverly " intnum="ML0039" />
-<marker lat="28.0784269069978" lng="-80.6060671806335" intname="new haven (US 192) and  municipal " intnum="ML0040" />
 <marker lat="28.157549" lng="-80.655404" intname="parkway and  croton " intnum="ML0041" />
 <marker lat="28.1575248425505" lng="-80.6474590301514" intname="parkway and  stewart " intnum="ML0042" />
 <marker lat="28.171984" lng="-80.65566" intname="post and  croton " intnum="ML0043" />
@@ -69,4 +66,8 @@
 <marker lat="28.092611" lng="-80.64043614" intname="nasa and  woody burke " intnum="ML0076" />
 <marker lat="28.092701" lng="-80.651583" intname="nasa and  gateway " intnum="ML0077" />
 <marker lat="28.138637" lng="-80.584137" intname="S.R. 518 (EAU GALLIE BLVD) and  SAN JUAN AVE (WAL Mart) " intnum="ML0078" />
+<marker lat="28.1574761" lng="-80.6413817" intname="US 1 and Parkway Dr " intnum="MLNNNN" />
+<marker lat="28.1291887" lng="-80.6264056" intname="SR 518 and Highland Ave " intnum="MLNNNN" />
+<marker lat="28.1300548" lng="-80.6256968" intname="SR 518/Montreal and Pineapple Ave " intnum="MLNNNN" />
+<marker lat="28.1291887" lng="-80.6264056" intname="SR 508/NASA Blvd and S Babcock St" intnum="MLNNNN" />
 </markers>	
