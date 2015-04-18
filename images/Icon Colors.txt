@@ -4,11 +4,14 @@ Bradenton		-Yellow
 Brevard			-Brown
 Broward County 		-Blue
 Charlotte		-YellowGreen
+Collier			-Red
 Clay			-Blue
 Daytona Beach		-Green
 Escambia		-Blue
 Fort Pierce		-LightBlue
 Gainesville		-LightBlue
+Hernando		-LightBlue
+Highlands		-BLue
 HillsboroughCounty	-Green
 Indian River		-Orange
 Jacksonville		-Purple
@@ -29,6 +32,7 @@ Panama City		-Orange
 Pasco			-Orange
 Pensacola		-YellowGreen
 Pinellas		-Yellow
+Plant City		-Purple
 Polk			-Purple
 Port Saint Lucie	-Brown
 Sarasota County		-AshBlue
@@ -45,11 +49,11 @@ Volusia			-YellowGreen
 Count
 Green - 	4 (Boca, Hillsborough, Manatee, Daytona Beach) 
 Brown - 	4 (Brevard, Port Saint Lucie, St John's, Naples)
-Blue		4 (Broward, Escambia, Orlando, Clay)
+Blue		5 (Broward, Escambia, Orlando, Clay, Highalands)
 Orange		5 (Pasco, Indian River, Orange, Panama City, Sarasota City)
-Red		4 (Tampa, Miami Dade, Talhasee, Melbourne)
-LightBlue	4 (Fort Pierce, Lee, Kissimme, Gainesville)
+Red		5 (Tampa, Miami Dade, Talhasee, Melbourne, Collier)
+LightBlue	5 (Fort Pierce, Lee, Kissimme, Gainesville, Hernando)
 AshBlue		4 (Martin, Okaloosa, Sarasota, Marion. St Petersburg)
-Purple		4 (Palm Beach, Polk, Bay, Ocala, Jacksonville)
+Purple		5 (Palm Beach, Polk, Bay, Ocala, Jacksonville, Plant City)
 Yellow		4 (Seminole, Town of Palm Beach, Pinellas, Bradenton)
 YellowGreen	4 (Saint Lucie, Volusia, Charlotte, Pensacola)

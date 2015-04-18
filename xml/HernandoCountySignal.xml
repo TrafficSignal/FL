@@ -1,0 +1,93 @@
+<markers>
+
+<marker lat="28.555601" lng="-82.3976631999999" intname=" Jefferson St  and  Ponce De Leon Blvd" intnum="Z1-I1" />
+<marker lat="28.555367" lng="-82.394337" intname=" Jefferson St  and  Mildred Ave (MSTR) " intnum="Z1-I2" />
+<marker lat="28.556333" lng="-82.3878482" intname=" Main St  and  Fort Dade Ave" intnum="Z1-I3" />
+<marker lat="28.555636" lng="-82.3878726" intname=" Main St  and  Jefferson St " intnum="Z1-I4" />
+<marker lat="28.554885" lng="-82.38785" intname=" Main St  and  Broad St" intnum="Z1-I5" />
+<marker lat="28.5549397999999" lng="-82.3814346" intname=" Jefferson St  and  Broad St" intnum="Z1-I6" />
+<marker lat="28.5340435999999" lng="-82.4071466999999" intname=" US 41/Broad St  and  Wiscon Rd" intnum="Z2-I1" />
+<marker lat="28.5411017" lng="-82.4064583" intname=" SR 50/Cortez Blvd  and  Buck Hope Rd " intnum="Z2-I2" />
+<marker lat="28.540316" lng="-82.4038026" intname=" US 41/Broad St  and  SR50/Cortez Blvd" intnum="Z2-I3" />
+<marker lat="28.5422099" lng="-82.4030484" intname=" US 41/Broad St  and  South Plaza (MSTR) " intnum="Z2-I4" />
+<marker lat="28.5454463" lng="-82.4007324" intname=" US 41/Broad St  and  Dr ML King Blvd" intnum="Z2-I5" />
+<marker lat="28.550266" lng="-82.3979147" intname=" US 41/Broad St  and  SR 700" intnum="Z2-I6" />
+<marker lat="28.5518762" lng="-82.396825" intname=" US 41/Broad St  and  Benton Av" intnum="Z2-I7" />
+<marker lat="28.5382196" lng="-82.3878101" intname=" SR 50/Cortez Blvd  and  Mitchell / Main" intnum="Z3-I1" />
+<marker lat="28.5387875" lng="-82.3751957" intname=" SR 50/Cortez Blvd  and  Emerson Rd (MSTR) " intnum="Z3-I2" />
+<marker lat="28.5431608" lng="-82.3677186" intname=" SR 50/Cortez Blvd  and  Jasmine Dr" intnum="Z3-I3" />
+<marker lat="28.5330481" lng="-82.5348678" intname=" SR 50  and  Oak Hill Hospital" intnum="Z4-I1" />
+<marker lat="28.533367" lng="-82.5276448" intname=" SR 50  and  Kadri Dr / Highpoint Blvd" intnum="Z4-I2" />
+<marker lat="28.5336771" lng="-82.5114487" intname=" SR 50  and  Mariner Blvd" intnum="Z4-I3" />
+<marker lat="28.5336206" lng="-82.5052547" intname=" SR 50  and  Wal-Mart / Coastal Wy" intnum="Z4-I4" />
+<marker lat="28.5337469" lng="-82.4998192" intname=" SR 50  and  Sunshine Grove Rd (MSTR) " intnum="Z4-I5" />
+<marker lat="28.5337553" lng="-82.4915676" intname=" SR 50  and  Barclay Ave / Brookridge By" intnum="Z4-I6" />
+<marker lat="28.5337898" lng="-82.4804172" intname=" SR 50  and  Suncoast Pkwy W (SB Ramps) " intnum="Z4-I7" />
+<marker lat="28.5337593" lng="-82.4785363" intname=" SR 50  and  Suncoast Pkwy E (NB Ramps) " intnum="Z4-I8" />
+<marker lat="28.5348712" lng="-82.4732601" intname=" SR 50  and  Wiscon Rd / Winter St" intnum="Z4-I9" />
+<marker lat="28.5317531" lng="-82.5114605" intname=" Mariner Blvd  and  Service Road 5031" intnum="Z4-I10" />
+<marker lat="28.4919151" lng="-82.5987211" intname=" US 19  and  Forest Oaks Blvd" intnum="Z5-I1" />
+<marker lat="28.4966997" lng="-82.5942946" intname=" US 19  and  Breakwater Blvd / Berkeley Blvd " intnum="Z5-I2" />
+<marker lat="28.5101912" lng="-82.5801389" intname=" US19  and  Northcliffe Blvd (MSTR)" intnum="Z5-I3" />
+<marker lat="28.5334350999999" lng="-82.5221305" intname=" US 19  and  SR 50" intnum="Z5-I4" />
+<marker lat="28.520768" lng="-82.5644785" intname=" SR 50  and  Deltona Blvd" intnum="Z5-I5" />
+<marker lat="28.5274363" lng="-82.5514217" intname=" SR 50  and  Nightwalker Av" intnum="Z5-I6" />
+<marker lat="28.4920058" lng="-82.5987709" intname=" US 19  and  Forest Oaks Blvd" intnum="Z6-I1" />
+<marker lat="28.4596192" lng="-82.6273533" intname=" US 19  and  Spring Hill Dr" intnum="Z6-I2" />
+<marker lat="28.4671543" lng="-82.6214582" intname=" US 19  and  Trenton Ave (MSTR) " intnum="Z6-I3" />
+<marker lat="28.4740682" lng="-82.6145121" intname=" US 19  and  Pine Forest Blvd" intnum="Z6-I4" />
+<marker lat="28.4339888" lng="-82.490187" intname=" Anderson Snow Rd. and  County Line Rd. " intnum="Z7-I1" />
+<marker lat="28.4339953" lng="-82.485786" intname=" Suncoast Pkwy (W)  and  County Line Rd. " intnum="Z7-I2" />
+<marker lat="28.4339953" lng="-82.485786" intname=" Suncoast Pkwy (E)  and  County Line Rd. " intnum="Z7-I3" />
+<marker lat="28.4337137" lng="-82.4619841" intname=" US 41 (Broad St.)  and  County Line Rd. " intnum="Z7-I4" />
+<marker lat="28.4517883" lng="-82.4521923" intname=" US 41 (Broad St)  and  Ayres Rd." intnum="Z7-I5" />
+<marker lat="28.4574306" lng="-82.6218135" intname=" Spring Hill  and  Kenlake" intnum="Z8-I1" />
+<marker lat="28.450497" lng="-82.5980479" intname=" Spring Hill Dr and  Pinehurst Dr (Mid) " intnum="Z8-I2" />
+<marker lat="28.4521519" lng="-82.6095204" intname=" Spring Hill  and  Pinehurst (East) " intnum="Z8-I3" />
+<marker lat="28.4521991" lng="-82.5874215" intname=" Spring Hill Dr and  Deltona (MSTR) " intnum="Z8-I4" />
+<marker lat="28.454952" lng="-82.581412" intname=" Spring Hill  and  Waterfall" intnum="Z8-I5" />
+<marker lat="28.4338871" lng="-82.5485708" intname=" Mariner  and  County Line" intnum="Z9-I1" />
+<marker lat="28.4363784999999" lng="-82.5478723999999" intname=" Mariner  and  Quality" intnum="Z9-I2" />
+<marker lat="28.442358" lng="-82.5428139" intname=" Mariner  and  Wexford/Fairchild " intnum="Z9-I3" />
+<marker lat="28.453552" lng="-82.5393886999999" intname=" Mariner  and  Henderson" intnum="Z9-I4" />
+<marker lat="28.4616635" lng="-82.540212" intname=" Mariner  and  Spring Hill" intnum="Z9-I5" />
+<marker lat="28.4561443" lng="-82.5392714" intname=" Mariner Blvd  and  Linden Dr (MSTR)" intnum="Z9-I6" />
+<marker lat="28.483299" lng="-82.5435529" intname=" Mariner  and  Landover " intnum="Z9-I7" />
+<marker lat="28.491224" lng="-82.541942" intname=" Mariner  and  Northcliffe" intnum="Z9-I8" />
+<marker lat="28.4949718999999" lng="-82.5507028" intname=" Northcliffe  and  Landover" intnum="Z9-I9" />
+<marker lat="28.490244" lng="-82.553094" intname=" Northcliffe Blvd  and  Explorer School " intnum="Z9-I10" />
+<marker lat="28.4710918" lng="-82.4964022999999" intname=" SpringHill Dr.  and  Coronado (W)" intnum="Z10-1" />
+<marker lat="28.4669973999999" lng="-82.5112792" intname=" Spring Hill Dr. and  Linden Dr." intnum="Z10-2" />
+<marker lat="28.4710918" lng="-82.4964022999999" intname=" Spring Hill Dr.  and  Coronado E) " intnum="Z10-3" />
+<marker lat="28.492037" lng="-82.4887512999999" intname=" Barclay Ave. and  Elgin Blvd." intnum="Z10-4" />
+<marker lat="28.4779728" lng="-82.4878297" intname=" Spring Hill Dr.  and  Barclay Ave." intnum="Z10-5" />
+<marker lat="28.4794456999999" lng="-82.480908" intname=" Spring Hill Dr. and  SuncoastPkwy(W)(M) " intnum="Z10-6" />
+<marker lat="28.4794456999999" lng="-82.480908" intname=" Spring Hill Dr. and  Suncoast Pkwy(E)" intnum="Z10-7" />
+<marker lat="28.4816251999999" lng="-82.4775958" intname=" Spring Hill Dr. and  Aerial Way" intnum="Z10-8" />
+<marker lat="28.507951" lng="-82.5213935" intname=" Mariner Blvd  and  Elgin Blvd" intnum="Z11-1" />
+<marker lat="28.5059086" lng="-82.5160528" intname=" Elgin Blvd  and  Landover (M)" intnum="Z11-2" />
+<marker lat="28.5014412" lng="-82.5039128" intname=" Elgin Blvd  and  Sterling Hill" intnum="Z11-3" />
+<marker lat="28.495714" lng="-82.502105" intname=" Elgin Blvd  and  Challenger School" intnum="Z11-4" />
+<marker lat="28.4920564" lng="-82.4287669" intname=" Powell Rd. and US 41(Broad St)" intnum="Z12-2" />
+<marker lat="28.4810058999999" lng="-82.4354271" intname=" Spring Hill Dr. and  US41(Broad St.)" intnum="Z12-3" />
+<marker lat="28.5330043" lng="-82.4801834" intname=" SR 50/Cortez Blvd. and I-75" intnum="Z13-1" />
+<marker lat="28.5230317" lng="-82.23356" intname=" SR 50/Cortez Blvd.  and Windmere Rd (M) " intnum="Z13-2" />
+<marker lat="28.5227586" lng="-82.2198822" intname=" SR 50/Cortez Blvd. and Kettering" intnum="Z13-3" />
+<marker lat="28.5078043" lng="-82.1700067" intname=" SR 50 /Cortez Blvd and Treiman Blvd (301)" intnum="Z13-1" />
+<marker lat="28.5078322" lng="-82.1952058" intname=" SR50/Cortez Blvd. and Mckethan Blvd (98)" intnum="Int 2" />
+<marker lat="28.5627168" lng="-82.5004853" intname=" Sunshine Grove Rd and Ken Austin Pkwy." intnum="Int 3" />
+<marker lat="28.52305" lng="-82.3032248" intname=" SR50/Cortez Blvd. and Mondon Hill Road" intnum="Int 4" />
+<marker lat="28.5525541" lng="-82.4205774" intname=" SR50/Cortez Blvd. and Cobb Road" intnum="Int 5" />
+<marker lat="28.5779782" lng="-82.4001867" intname=" US98/Ponce Blvd. and Yontz Road" intnum="Int 7" />
+<marker lat="28.4919169" lng="-82.4613388999999" intname=" Powell Road and California Street" intnum="Int 8" />
+<marker lat="28.5337025" lng="-82.4587839" intname=" Wiscon Road and California Street" intnum="Int 9" />
+<marker lat="28.5986623" lng="-82.5518162" intname=" Weeki Wachee High School  and US 19" intnum="Int 10" />
+<marker lat="28.6134339" lng="-82.405611" intname=" US98/Ponce Blvd. and Cobb Road" intnum="Int 11" />
+<marker lat="28.480996" lng="-82.4613590999999" intname=" Spring Hill Drive and California Street" intnum="Int 12" />
+<marker lat="28.4862847999999" lng="-82.5738676" intname=" Deltona Blvd. and Forest Oaks Blvd." intnum="Int 13" />
+<marker lat="28.492037" lng="-82.4887512999999" intname=" Elgin Blvd. and Barclay Ave." intnum="Int 14" />
+<marker lat="28.50022" lng="-82.5647936" intname=" Deltona Blvd. and Northcliffe Blvd. " intnum="Int 16" />
+<marker lat="28.4725587" lng="-82.5827883999999" intname=" Deltona Blvd. and Abeline Road " intnum="Int 17" />
+<marker lat="28.513825" lng="-82.5620085" intname=" Deltona Blvd. and Elgin Blvd." intnum="Int 18" />
+<marker lat="28.6849822" lng="-82.4953805" intname=" US98/PonceDeLeon and Suncoast Pkwy " intnum="Int 19" />
+</markers>	

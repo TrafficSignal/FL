@@ -1,0 +1,206 @@
+<markers>
+<marker lat="26.2117506" lng="-81.76835" intname="Airport Pulling Rd and Carillon Plaza/Pine Ridge Crossing" intnum="SIG015" />
+<marker lat="26.2032728" lng="-81.7682037" intname="Airport Pulling Rd and Clubhouse Dr/Rustic Oaks Cir" intnum="SIG016" />
+<marker lat="26.1599049" lng="-81.7670411" intname="Airport Pulling Rd and Corporate Flight Dr/Enterprise Ave" intnum="SIG019" />
+<marker lat="26.2153755" lng="-81.768501" intname="Airport Pulling Rd and Cougar Dr" intnum="SIG017" />
+<marker lat="26.2404606" lng="-81.7689593999999" intname="Airport Pulling Rd and Emerald Lake Dr/Old Groves Rd" intnum="SIG018" />
+<marker lat="26.1421571" lng="-81.7665356" intname="Airport Pulling Rd and Estey Ave" intnum="SIG020" />
+<marker lat="26.1794286999999" lng="-81.7674093" intname="Airport Pulling Rd and Estuary Dr" intnum="SIG021" />
+<marker lat="26.1977523" lng="-81.7680723" intname="Airport Pulling Rd and Europa Dr/ Pinewoods Cir" intnum="SIG022" />
+<marker lat="26.1353037" lng="-81.7665951" intname="Airport Pulling Rd and Francis Ave/ Glades Blvd" intnum="SIG023" />
+<marker lat="26.1746148" lng="-81.76673" intname="Airport Pulling Rd and Golden Gate Pkwy" intnum="SIG024" />
+<marker lat="26.1894044" lng="-81.7678294" intname="Airport Pulling Rd and Grey Oaks Blvd W/Poinciana Dr" intnum="SIG025" />
+<marker lat="26.1641775999999" lng="-81.7669014" intname="Airport Pulling Rd and Horseshoe Dr N/Progress Ave" intnum="SIG026" />
+<marker lat="26.2724383" lng="-81.769802" intname="Airport Pulling Rd and Immokalee Rd" intnum="SIG027" />
+<marker lat="26.2239773999999" lng="-81.7683396" intname="Airport Pulling Rd and J and C Blvd/Foutainview Cir" intnum="SIG028" />
+<marker lat="26.1673431" lng="-81.7669632" intname="Airport Pulling Rd and Longboat Dr" intnum="SIG029" />
+<marker lat="26.1660051999999" lng="-81.7670807" intname="Airport Pulling Rd and Mercantile Ave" intnum="SIG030" />
+<marker lat="26.2189735" lng="-81.768348" intname="Airport Pulling Rd and Naples Blvd/Ardesia Ln" intnum="SIG031" />
+<marker lat="26.1459128" lng="-81.7665916" intname="Airport Pulling Rd and North Rd" intnum="SIG032" />
+<marker lat="26.2328396" lng="-81.7686945999999" intname="Airport Pulling Rd and Orange Blossom Dr" intnum="SIG033" />
+<marker lat="26.2524684" lng="-81.7694631" intname="Airport Pulling Rd and Pelican Marsh Blvd/Tiburon Blvd E" intnum="SIG034" />
+<marker lat="26.2117506" lng="-81.7683508" intname="Airport Pulling Rd and Pine Ridge Rd" intnum="SIG038" />
+<marker lat="26.1533155" lng="-81.7667676" intname="Airport Pulling Rd and Radio Rd" intnum="SIG041" />
+<marker lat="26.2439209" lng="-81.7691388" intname="Airport Pulling Rd and Vanderbilt Beach Rd" intnum="SIG042" />
+<marker lat="26.1473248" lng="-81.6868045" intname="Collier Blvd and Business Cir S" intnum="SIG052" />
+<marker lat="26.1660498" lng="-81.6865421" intname="Collier Blvd and City Gate Dr/ Magnolia Pond Dr" intnum="SIG053" />
+<marker lat="26.2289478" lng="-81.6877269" intname="Collier Blvd and Golden Gate Blvd" intnum="SIG056" />
+<marker lat="26.2289478" lng="-81.6877269" intname="Collier Blvd and Golden Gate Pkwy" intnum="SIG057" />
+<marker lat="26.0874891" lng="-81.6874628" intname="Collier Blvd and Grand Lely Dr/Veronawalk Blvd" intnum="SIG058" />
+<marker lat="26.199519" lng="-81.6871074999999" intname="Collier Blvd and Green Blvd" intnum="SIG059" />
+<marker lat="26.1588275" lng="-81.6825873" intname="Collier Blvd and I-75 N" intnum="SIG060" />
+<marker lat="26.1588275" lng="-81.6825873" intname="Collier Blvd and I-75 S" intnum="SIG061" />
+<marker lat="26.2730059" lng="-81.6895765" intname="Collier Blvd and Immokalee Rd" intnum="SIG062" />
+<marker lat="26.1007461" lng="-81.7027253999999" intname="Collier Blvd and Lely Cultural Pkwy" intnum="SIG063" />
+<marker lat="26.26487" lng="-81.6684626" intname="Collier Blvd and Pine Ridge Rd" intnum="SIG064" />
+<marker lat="26.1091164999999" lng="-81.7058751" intname="Collier Blvd and Rattlesnake Hammock Rd" intnum="SIG065" />
+<marker lat="26.2438133999999" lng="-81.6881548" intname="Collier Blvd and Vanderbilt Beach Rd" intnum="SIG068" />
+<marker lat="25.982508" lng="-81.7029445" intname="Collier Blvd(SR 951) and Capri Blvd (Isle of Capri)" intnum="SIG070" />
+<marker lat="25.9974553" lng="-81.701896" intname="Collier Blvd(SR 951) and Mainsail Dr" intnum="SIG072" />
+<marker lat="26.0475582" lng="-81.6999756" intname="Collier Blvd(SR 951) and Manatee Rd" intnum="SIG073" />
+<marker lat="26.1473049" lng="-81.6867544" intname="Collier Blvd(SR 951) and WalMart (S of US 41)" intnum="SIG066" />
+<marker lat="26.1385998" lng="-81.7666168" intname="Davis Blvd and Airport Rd" intnum="SIG078" />
+<marker lat="26.1548924999999" lng="-81.6866083" intname="Davis Blvd and Collier Blvd" intnum="SIG079" />
+<marker lat="26.138752" lng="-81.7304684" intname="Davis Blvd and County Barn Rd" intnum="SIG080" />
+<marker lat="26.1386143" lng="-81.7449290999999" intname="Davis Blvd and Kings Way" intnum="SIG082" />
+<marker lat="26.1384912" lng="-81.7576281" intname="Davis Blvd and Lakewood Blvd" intnum="SIG083" />
+<marker lat="26.1541622" lng="-81.6962496999999" intname="Davis Blvd and Radio Rd" intnum="SIG084" />
+<marker lat="26.1389489" lng="-81.7180579" intname="Davis Blvd and Santa Barbara Blvd" intnum="SIG085" />
+<marker lat="26.1383961" lng="-81.7706930999999" intname="Davis Blvd and Shadowlawn Drive" intnum="SIG086" />
+<marker lat="26.2294395" lng="-81.632939" intname="Golden Gate Blvd and 13th St NW" intnum="SIG089" />
+<marker lat="26.2296278" lng="-81.6168395" intname="Golden Gate Blvd and 5th St NW" intnum="SIG091" />
+<marker lat="26.2305963" lng="-81.5445567999999" intname="Golden Gate Blvd and Everglades Blvd" intnum="SIG095" />
+<marker lat="26.2298627" lng="-81.6066592" intname="Golden Gate Blvd and Wilson Blvd" intnum="SIG097" />
+<marker lat="26.1844343" lng="-81.6962946" intname="Golden Gate Pkwy and 44th St SW" intnum="SIG098" />
+<marker lat="26.1789871" lng="-81.7084794" intname="Golden Gate Pkwy and 50th St SW" intnum="SIG099" />
+<marker lat="26.1749226" lng="-81.7145489" intname="Golden Gate Pkwy and 53rd St SW" intnum="SIG100" />
+<marker lat="26.1735663999999" lng="-81.7750542" intname="Golden Gate Pkwy and Bears Paw Trail/Estuary Blvd" intnum="SIG101" />
+<marker lat="26.1821474" lng="-81.7042646999999" intname="Golden Gate Pkwy and Coronado Pkwy" intnum="SIG102" />
+<marker lat="26.1716067" lng="-81.7915714999999" intname="Golden Gate Pkwy and Goodlette Frank Rd" intnum="SIG105" />
+<marker lat="26.1790337" lng="-81.7358798999999" intname="Golden Gate Pkwy and I-75 E" intnum="SIG106" />
+<marker lat="26.1790337" lng="-81.7358798999999" intname="Golden Gate Pkwy and I-75 W" intnum="SIG107" />
+<marker lat="26.1740725" lng="-81.7511943999999" intname="Golden Gate Pkwy and Livingston Rd" intnum="SIG108" />
+<marker lat="26.1742393999999" lng="-81.7188712999999" intname="Golden Gate Pkwy and Santa Barbara Blvd" intnum="SIG110" />
+<marker lat="26.1836462999999" lng="-81.7020235" intname="Golden Gate Pkwy and Sunshine Blvd/47th St SW" intnum="SIG111" />
+<marker lat="26.1812636" lng="-81.7054413" intname="Golden Gate Pkwy and Tropicana Blvd" intnum="SIG112" />
+<marker lat="26.1638449" lng="-81.7912014" intname="Goodlette Frank Rd and 13th Ave N" intnum="SIG115" />
+<marker lat="26.1647979" lng="-81.7912144999999" intname="Goodlette Frank Rd and 14th Ave N" intnum="SIG116" />
+<marker lat="26.174251" lng="-81.791447" intname="Goodlette Frank Rd and 22nd Ave N" intnum="SIG117" />
+<marker lat="26.1687185" lng="-81.7915373" intname="Goodlette Frank Rd and Fleischmann Blvd" intnum="SIG122" />
+<marker lat="26.2043385" lng="-81.7919898" intname="Goodlette Frank Rd and Granada Blvd/Moorings Park Dr" intnum="SIG123" />
+<marker lat="26.2722032" lng="-81.7896613" intname="Goodlette Frank Rd and Immokalee Rd" intnum="SIG124" />
+<marker lat="26.1884901" lng="-81.7916764" intname="Goodlette Frank Rd and Ohio Dr" intnum="SIG127" />
+<marker lat="26.2334808" lng="-81.789506" intname="Goodlette Frank Rd and Orange Blossom Dr" intnum="SIG128" />
+<marker lat="26.2114659" lng="-81.7921247" intname="Goodlette Frank Rd and Pine Ridge Rd" intnum="SIG134" />
+<marker lat="26.1967163" lng="-81.792036" intname="Goodlette Frank Rd and Solana Rd" intnum="SIG135" />
+<marker lat="26.2464961" lng="-81.78785" intname="Goodlette Frank Rd and Vanderbilt Bch Rd" intnum="SIG136" />
+<marker lat="26.1810906" lng="-81.7913726" intname="Goodlette Frank Rd and Wilderness Dr" intnum="SIG137" />
+<marker lat="26.1994536" lng="-81.702623" intname="Green Blvd and Sunshine Blvd" intnum="SIG139" />
+<marker lat="26.2720333" lng="-81.7954817" intname="Immokalee Rd and Arthrex Blvd/Colliers Reserve Dr" intnum="SIG153" />
+<marker lat="26.2723887" lng="-81.7435417" intname="Immokalee Rd and I-75 E" intnum="SIG158" />
+<marker lat="26.2723887" lng="-81.7435417" intname="Immokalee Rd and I-75 W" intnum="SIG159" />
+<marker lat="26.2726356" lng="-81.7597136" intname="Immokalee Rd and Lakeland Ave/The Lane" intnum="SIG160" />
+<marker lat="26.2726286" lng="-81.7542636" intname="Immokalee Rd and Livingston Rd" intnum="SIG164" />
+<marker lat="26.2728175999999" lng="-81.7206667999999" intname="Immokalee Rd and Logan Blvd" intnum="SIG165" />
+<marker lat="26.2729256" lng="-81.7377846999999" intname="Immokalee Rd and Northbrooke Dr/Tarpon Bay Blvd" intnum="SIG167" />
+<marker lat="26.2922903" lng="-81.5952088" intname="Immokalee Rd and Oil Well Rd" intnum="SIG168" />
+<marker lat="26.2862031" lng="-81.5949225" intname="Immokalee Rd and Orange Tree Blvd" intnum="SIG169" />
+<marker lat="26.2723947" lng="-81.778471" intname="Immokalee Rd and Palm River Blvd/Parnu St" intnum="SIG170" />
+<marker lat="26.27806" lng="-81.5991014" intname="Immokalee Rd and Randall Blvd/4th St NE" intnum="SIG171" />
+<marker lat="26.2727587" lng="-81.7477964" intname="Immokalee Rd and Strand Blvd/Juliet Blvd" intnum="SIG173" />
+<marker lat="26.2727598" lng="-81.7330676" intname="Immokalee Rd and Valewood Dr" intnum="SIG174" />
+<marker lat="26.2723931" lng="-81.7821664" intname="Immokalee Rd and Veterans Park Dr" intnum="SIG175" />
+<marker lat="26.2764055" lng="-81.607328" intname="Immokalee Rd and Wilson Blvd" intnum="SIG176" />
+<marker lat="26.4328528" lng="-81.4497196" intname="Lake Trafford Rd and Carson Rd" intnum="SIG177" />
+<marker lat="26.2617323" lng="-81.7533267" intname="Livingston Rd and County Park" intnum="SIG191" />
+<marker lat="26.1608121" lng="-81.7506544999999" intname="Livingston Rd and Enterprise Ave" intnum="SIG192" />
+<marker lat="26.1878316" lng="-81.7512682" intname="Livingston Rd and Grey Oaks Blvd E/Wyndemere Way" intnum="SIG193" />
+<marker lat="26.2334739" lng="-81.7523014" intname="Livingston Rd and Orange Blossom Dr" intnum="SIG195" />
+<marker lat="26.2216207" lng="-81.7521942999999" intname="Livingston Rd and Osceola Trail/Sable Ridge Way" intnum="SIG196" />
+<marker lat="26.2115404" lng="-81.7515872999999" intname="Livingston Rd and Pine Ridge Rd" intnum="SIG197" />
+<marker lat="26.1644744" lng="-81.7504774" intname="Livingston Rd and Progress Ave/Briarwood Blvd" intnum="SIG198" />
+<marker lat="26.1535962" lng="-81.7506237" intname="Livingston Rd and Radio Rd" intnum="SIG199" />
+<marker lat="26.2437336" lng="-81.7530008999999" intname="Livingston Rd and Vanderbilt Beach Rd" intnum="SIG200" />
+<marker lat="26.2195063" lng="-81.7716455" intname="Naples Blvd and Dick's Sporting Goods" intnum="SIG376" />
+<marker lat="26.219649" lng="-81.7718354" intname="Naples Blvd and Hollywood Blvd" intnum="SIG203" />
+<marker lat="26.4267507" lng="-81.416506" intname="New Market Rd and Charlotte St" intnum="SIG204" />
+<marker lat="26.2934519" lng="-81.5455277" intname="Oil Well Rd and Everglades Blvd" intnum="SIG210" />
+<marker lat="26.2115308" lng="-81.7804609" intname="Pine Ridge Rd and Forest Lakes Blvd" intnum="SIG225" />
+<marker lat="26.2115104" lng="-81.7343945" intname="Pine Ridge Rd and I-75 E" intnum="SIG226" />
+<marker lat="26.2115104" lng="-81.7343945" intname="Pine Ridge Rd and I-75 W" intnum="SIG227" />
+<marker lat="26.2117410999999" lng="-81.759777" intname="Pine Ridge Rd and Kensington Park Blvd/Osceola Trl" intnum="SIG228" />
+<marker lat="26.2118454" lng="-81.7179145" intname="Pine Ridge Rd and Logan Blvd" intnum="SIG229" />
+<marker lat="26.2115941" lng="-81.7306361" intname="Pine Ridge Rd and Napa Blvd" intnum="SIG230" />
+<marker lat="26.2114928999999" lng="-81.7744283999999" intname="Pine Ridge Rd and Naples Blvd" intnum="SIG231" />
+<marker lat="26.2112076" lng="-81.7960815" intname="Pine Ridge Rd and Pine Ridge Crossing" intnum="SIG232" />
+<marker lat="26.2115207999999" lng="-81.7814327" intname="Pine Ridge Rd and Shirley St" intnum="SIG238" />
+<marker lat="26.2116359" lng="-81.7266909" intname="Pine Ridge Rd and Vineyards Blvd" intnum="SIG239" />
+<marker lat="26.2114872" lng="-81.7434829" intname="Pine Ridge Rd and Whippoorwill Ln/Kramer Dr" intnum="SIG240" />
+<marker lat="26.2115295" lng="-81.7651653" intname="Pine Ridge Rd and YMCA/Carillon Plaza" intnum="SIG241" />
+<marker lat="26.1543343" lng="-81.7226707" intname="Radio Rd and Countryside Dr/Devonshire Blvd" intnum="SIG243" />
+<marker lat="26.1533195" lng="-81.758844" intname="Radio Rd and Donna St/ Industrial Blvd" intnum="SIG244" />
+<marker lat="26.1540276" lng="-81.740824" intname="Radio Rd and San Marcos Blvd" intnum="SIG246" />
+<marker lat="26.1543533" lng="-81.718792" intname="Radio Rd and Santa Barbara Blvd" intnum="SIG247" />
+<marker lat="26.109309" lng="-81.7298781999999" intname="Rattlesnake Hammock Rd and County Barn Rd" intnum="SIG248" />
+<marker lat="26.1091155" lng="-81.7025147" intname="Rattlesnake Hammock Rd and Grand Lely Dr/Skyway Dr" intnum="SIG249" />
+<marker lat="26.1091655999999" lng="-81.7452394" intname="Rattlesnake Hammock Rd and Hawaii Blvd" intnum="SIG250" />
+<marker lat="26.1091756" lng="-81.7178898" intname="Rattlesnake Hammock Rd and Saint Andrews Blvd/Santa Barbara Blvd" intnum="SIG251" />
+<marker lat="26.1576496" lng="-81.7186177" intname="Santa Barbara Blvd and Berkshire Pines Rd/Devonshire Blvd" intnum="SIG256" />
+<marker lat="26.1829311" lng="-81.7189946999999" intname="Santa Barbara Blvd and Coronado Pkwy" intnum="SIG262" />
+<marker lat="26.1992371" lng="-81.7193577" intname="Santa Barbara Blvd and Green Blvd" intnum="SIG264" />
+<marker lat="26.1666502" lng="-81.7188636999999" intname="Santa Barbara Bvld and Prince Andrew Blvd/Recreation Ln" intnum="SIG267" />
+<marker lat="26.2111661" lng="-81.8039352" intname="Seagate Dr and Myra Janco Daniels Blvd/West Blvd" intnum="SIG270" />
+<marker lat="26.4257657" lng="-81.4335745" intname="SR 29 and Immokalee Dr" intnum="SIG292" />
+<marker lat="26.4331096" lng="-81.4336184" intname="SR 29 and Lake Trafford Rd" intnum="SIG293" />
+<marker lat="26.4184841" lng="-81.4173267" intname="SR 29 and N 1st St" intnum="SIG278" />
+<marker lat="26.4182611" lng="-81.4255408" intname="SR 29 and N 9th St" intnum="SIG279" />
+<marker lat="26.2687118" lng="-81.8014208" intname="US 41 and 107th Ave N/ Creekside Blvd" intnum="SIG317" />
+<marker lat="26.2542488" lng="-81.8013362" intname="US 41 and 91st Ave N/Strada Place" intnum="SIG318" />
+<marker lat="26.2615985" lng="-81.8014754999999" intname="US 41 and 99th Ave N/Pelican Marsh Blvd" intnum="SIG319" />
+<marker lat="26.1269242" lng="-81.7665117999999" intname="US 41 and Airport Pulling Rd/Peters Ave" intnum="SIG320" />
+<marker lat="26.1155465" lng="-81.7555903" intname="US 41 and Avalon Dr/Lakewood Blvd(Outer/Highland)" intnum="SIG321" />
+<marker lat="26.0739675999999" lng="-81.7167318" intname="US 41 and Barefoot Williams Rd" intnum="SIG322" />
+<marker lat="26.1297528" lng="-81.7705771999999" intname="US 41 and Bayshore Dr/Shadowlawn Dr" intnum="SIG323" />
+<marker lat="26.0823702" lng="-81.7255269" intname="US 41 and Broward St" intnum="SIG324" />
+<marker lat="26.0634625" lng="-81.6993141999999" intname="US 41 and Collier Blvd" intnum="SIG326" />
+<marker lat="26.1353" lng="-81.7785451" intname="US 41 and Commercial Dr/Palm St" intnum="SIG327" />
+<marker lat="26.1249355" lng="-81.7639573" intname="US 41 and Espinal Blvd (Courthouse Shadows)" intnum="SIG332" />
+<marker lat="26.1180835" lng="-81.7577321" intname="US 41 and Guilford Rd" intnum="SIG333" />
+<marker lat="26.2722754" lng="-81.801689" intname="US 41 and Immokalee Rd/111th Ave N" intnum="SIG334" />
+<marker lat="26.2892454" lng="-81.8016035" intname="US 41 and Imperial Golf Course Blvd" intnum="SIG335" />
+<marker lat="26.1032980999999" lng="-81.7691533" intname="US 41 and Old US41" intnum="SIG337" />
+<marker lat="26.1221823999999" lng="-81.7617359" intname="US 41 and Palm Dr" intnum="SIG338" />
+<marker lat="26.2179487" lng="-81.8004498" intname="US 41 and Pelican Bay Blvd N" intnum="SIG339" />
+<marker lat="26.2304493999999" lng="-81.8107292" intname="US 41 and Pelican Bay Blvd S" intnum="SIG340" />
+<marker lat="26.2112891" lng="-81.8005286999999" intname="US 41 and Pine Ridge Rd/Seagate Dr" intnum="SIG341" />
+<marker lat="26.0656438" lng="-81.7030931" intname="US 41 and Price St/Triangle Blvd" intnum="SIG342" />
+<marker lat="26.1083191" lng="-81.7491659" intname="US 41 and Rattlesnake Hammock Rd/Thomasson Dr" intnum="SIG343" />
+<marker lat="26.097643" lng="-81.7380916" intname="US 41 and Saint Andrews Blvd" intnum="SIG344" />
+<marker lat="26.0734069" lng="-81.7273227999999" intname="US 41 and Southwest Blvd" intnum="SIG346" />
+<marker lat="26.2441219" lng="-81.7374162" intname="US 41 and Vanderbilt Beach Rd" intnum="SIG348" />
+<marker lat="26.2943948999999" lng="-81.8052772999999" intname="US 41 and Wiggins Pass Rd" intnum="SIG352" />
+<marker lat="26.2512512" lng="-81.8063941" intname="Vanderbilt Beach Rd and Gulf Pavillion Dr/ Hammock Oak Dr" intnum="SIG353" />
+<marker lat="26.2438309" lng="-81.712218" intname="Vanderbilt Beach Rd and Island Walk Blvd" intnum="SIG354" />
+<marker lat="26.2438337" lng="-81.718326" intname="Vanderbilt Beach Rd and Logan Blvd" intnum="SIG355" />
+<marker lat="26.252156" lng="-81.812513" intname="Vanderbilt Beach Rd and North Pointe Dr" intnum="SIG356" />
+<marker lat="26.2440943" lng="-81.7345944" intname="Vanderbilt Beach Rd and Oakes Blvd" intnum="SIG357" />
+<marker lat="26.2506852999999" lng="-81.7966865999999" intname="Vanderbilt Beach Rd and Strada Pl" intnum="SIG359" />
+<marker lat="26.2528724" lng="-81.8171028" intname="Vanderbilt Beach Rd and Vanderbilt Dr" intnum="SIG360" />
+<marker lat="26.243771" lng="-81.7432876" intname="Vanderbilt Beach Rd and Village Walk Cir/Wilshire Lakes Blvd" intnum="SIG361" />
+<marker lat="26.2440471" lng="-81.7304629" intname="Vanderbilt Beach Rd and Vineyards Blvd" intnum="SIG362" />
+<marker lat="26.272324" lng="-81.817753" intname="Vanderbilt Dr and 111th Ave N/ Bluebill Ave" intnum="SIG363" />
+<marker lat="26.2939834" lng="-81.8184435" intname="Vanderbilt Dr and Wiggins Pass Rd" intnum="SIG367" />
+<marker lat="26.1128602" lng="-81.7702941" intname="Bayshore Dr and Fire Station 22 (Jeepers Dr)" intnum="SIG043" />
+<marker lat="26.2511703" lng="-81.688353" intname="Collier Blvd and Wolfe Road" intnum="SIG069" />
+<marker lat="26.0461023" lng="-81.7000273" intname="Collier Blvd(SR 951) and Fire Station 23 (S of Manatee)" intnum="SIG071" />
+<marker lat="26.1383672" lng="-81.7576898" intname="Davis Blvd and Fire Station 20 (E of Lakewood Blvd)" intnum="SIG081" />
+<marker lat="26.3077056" lng="-81.5946487" intname="Immokalee Rd and EMS 10 (S of 41st NE)" intnum="SIG154" />
+<marker lat="26.2775041" lng="-81.6003354" intname="Immokalee Rd and Fire Station 10 (W of Randall Blvd)" intnum="SIG156" />
+<marker lat="26.2113299" lng="-81.7892425" intname="Pine Ridge Rd and Fire Station 40 (E of Goodlette Rd)" intnum="SIG221" />
+<marker lat="26.2115396" lng="-81.7491729" intname="Pine Ridge Rd and Fire Station 46 (E of Livingston Rd)" intnum="SIG224" />
+<marker lat="26.1820421" lng="-81.7688568" intname="Poinciana ES and Fire Station 24 (E of Airport Rd)" intnum="SIG242" />
+<marker lat="26.1441069" lng="-81.7181766" intname="Santa Barbara Blvd and EMS Station 75 (N of Davis)" intnum="SIG263" />
+<marker lat="26.2686862" lng="-81.7818981" intname="Veterans Park Dr and Fire Station 45 (S of Immokalee Rd)" intnum="SIG368" />
+<marker lat="26.2509198" lng="-81.6884643" intname="Wolfe Rd and Fire Station 73 (W of Collier Blvd)" intnum="SIG373" />
+<marker lat="26.1209472" lng="-81.7704137" intname="Bayshore Dr and Lakeview Dr/ Plantation Way (HAWK)" intnum="SIG047" />
+<marker lat="26.1273394" lng="-81.7704952" intname="Bayshore Dr and Weeks Ave (HAWK)" intnum="SIG049" />
+<marker lat="26.2524684" lng="-81.7694631" intname="Airport Pulling Rd and Pelican Marsh ES" intnum="SIG035" />
+<marker lat="26.1894044" lng="-81.7678294" intname="Airport Pulling Rd and Poinciana ES" intnum="SIG039" />
+<marker lat="26.2652296" lng="-81.6890493" intname="Collier Blvd and Crystal Lake Dr/Oak Ridge MS" intnum="SIG055" />
+<marker lat="26.2585092" lng="-81.6888467" intname="Collier Blvd and Tree Farm Rd" intnum="SIG067" />
+<marker lat="26.263412" lng="-81.545" intname="Everglades Blvd and 18th Ave NE" intnum="SIG087" />
+<marker lat="26.2290756" lng="-81.6715449" intname="Golden Gate Blvd and Big Cypress ES" intnum="SIG092" />
+<marker lat="26.226334" lng="-81.674534" intname="Golden Gate Blvd and Max Hasse Park" intnum="SIG096" />
+<marker lat="26.171852" lng="-81.7958041" intname="Golden Gate Pkwy and Naples HS/Coastland Center Mall" intnum="SIG109" />
+<marker lat="26.2149354" lng="-81.7918666" intname="Goodlette Frank Rd and Panther Ln" intnum="SIG129" />
+<marker lat="26.2728499" lng="-81.7055631" intname="Immokalee Rd and Gulf Coast HS/Dancing Wind Ln" intnum="SIG157" />
+<marker lat="26.2729553" lng="-81.7100711" intname="Immokalee Rd and Laurel Oaks ES/Preserve Ln" intnum="SIG163" />
+<marker lat="26.2942018" lng="-81.7586651" intname="Livingston Rd and Learning Ln/Ravina Way(N Naples MS)" intnum="SIG194" />
+<marker lat="26.3023784999999" lng="-81.7624508" intname="Livingston Rd and Veterans Memorial Blvd" intnum="SIG201" />
+<marker lat="26.2926541" lng="-81.5865404" intname="Oil Well Rd and Corkscrew ES/MS" intnum="SIG205" />
+<marker lat="26.2928363" lng="-81.5792428" intname="Oil Well Rd and Palmetto Ridge HS/Victory Ln" intnum="SIG213" />
+<marker lat="26.214398" lng="-81.787441" intname="Pine Ridge Rd and Pine Ridge MS" intnum="SIG233" />
+<marker lat="26.144898" lng="-81.715727" intname="Santa Barbara Blvd and Calusa Park ES" intnum="SIG257" />
+<marker lat="26.4045589" lng="-81.3931583" intname="SR 29 and Farm Worker Way/Village Oaks ES" intnum="SIG288" />
+<marker lat="26.049276" lng="-81.6771201" intname="US 41 and Manatee Rd" intnum="SIG336" />
+</markers>	

@@ -1,236 +1,307 @@
 <markers>
-<marker lat="27.7735986" lng="-82.6316241" intname="Bayshore Dr and 2nd   Ave NE" intnum="35" />
-<marker lat="27.777595" lng="-82.6312036" intname="Beach Dr and 5 Ave ne" intnum="37" />
-<marker lat="27.7735796" lng="-82.6327374999999" intname="Beach Dr and 2 Ave ne" intnum="39" />
-<marker lat="27.866871" lng="-82.628113" intname="Bnghton and Gandy" intnum="45" />
-<marker lat="27.8284937" lng="-82.6345792" intname="1 St and 62 Ave n" intnum="48" />
-<marker lat="27.8145533999999" lng="-82.7436888" intname="1 St and 47 Ave n" intnum="52" />
-<marker lat="27.8085398" lng="-82.6344779" intname="1 St and 40 Ave n" intnum="55" />
-<marker lat="27.7921569" lng="-82.6344248999999" intname="1 St and 22 Ave n" intnum="66" />
-<marker lat="27.7749481999999" lng="-82.6340155" intname="1 St and 3 Ave n" intnum="75" />
-<marker lat="27.7734878999999" lng="-82.6340052" intname="1 St and 2 Ave n" intnum="76" />
-<marker lat="27.7775942" lng="-82.6340494" intname="1 St and 5 Ave a" intnum="82" />
-<marker lat="27.7749413999999" lng="-82.6355751999999" intname="2 St and 3 Ave n" intnum="92" />
-<marker lat="27.773487" lng="-82.6355608" intname="2 St and 2 Ave n" intnum="93" />
-<marker lat="27.858128" lng="-82.647734" intname="2 St and l Ave n" intnum="94" />
-<marker lat="27.771203" lng="-82.6355323" intname="2 St and Central" intnum="95" />
-<marker lat="27.858128" lng="-82.647734" intname="2 St and l Ave s" intnum="96" />
-<marker lat="27.7694552" lng="-82.6354998" intname="2 St and 2 Ave a" intnum="97" />
-<marker lat="27.769148" lng="-82.6984952" intname="2 St and 48v s" intnum="99" />
-<marker lat="27.765719" lng="-82.6355174999999" intname="2 St and 5 Ave s" intnum="100" />
-<marker lat="27.7775581" lng="-82.6371285" intname="3 St and 5 Ave n" intnum="106" />
-<marker lat="27.7763741" lng="-82.6371176" intname="3 St and 4 Ave n" intnum="107" />
-<marker lat="27.7749298999999" lng="-82.6371144" intname="3 St and 3 Ave n" intnum="108" />
-<marker lat="27.7735212" lng="-82.6371064" intname="3 St and 2 Ave n" intnum="109" />
-<marker lat="27.7694448999999" lng="-82.63707" intname="3 St and 2 Ave a" intnum="113" />
-<marker lat="27.7685563" lng="-82.6370707999999" intname="3 St and 3 Ave s" intnum="114" />
-<marker lat="27.7671243999999" lng="-82.6370522" intname="3 St and 4 Ave s" intnum="115" />
-<marker lat="27.7656969" lng="-82.6370316" intname="3 St and 5 Ave s" intnum="116" />
-<marker lat="27.914158" lng="-82.7036216999999" intname="3 St and Bay s" intnum="117" />
-<marker lat="27.7921098" lng="-82.6385493" intname="4 St and 22 Ave n" intnum="165" />
-<marker lat="27.7775407" lng="-82.6385424" intname="4 St and 5 Ave n" intnum="176" />
-<marker lat="27.7749274999999" lng="-82.6385122" intname="4 St and 3 Ave n" intnum="178" />
-<marker lat="27.7735021" lng="-82.6385145" intname="4 St and 2 Ave n" intnum="179" />
-<marker lat="27.7694384" lng="-82.6384584" intname="4 St and 2 Ave s" intnum="183" />
-<marker lat="27.7685394" lng="-82.63846" intname="4 St and 3 Ave s" intnum="184" />
-<marker lat="27.767138" lng="-82.6384413" intname="4 St and 4 Ave s" intnum="185" />
-<marker lat="27.765685" lng="-82.638448" intname="4 St and 5 Ave s" intnum="186" />
-<marker lat="27.7642599" lng="-82.6384271" intname="4 St and 6 Ave s" intnum="187" />
-<marker lat="27.7812119" lng="-82.6385394" intname="4 St and 9 Ave a" intnum="189" />
-<marker lat="27.7763557" lng="-82.6401819" intname="5 St and 4 Ave n" intnum="210" />
-<marker lat="27.7734864" lng="-82.6402055" intname="5 St and 2 Ave n" intnum="212" />
-<marker lat="27.771252" lng="-82.639931" intname="5 St and Central" intnum="214" />
-<marker lat="27.7694286" lng="-82.6401602" intname="5 St and 2 Ave s" intnum="216" />
-<marker lat="27.7642583" lng="-82.6400980999999" intname="5 St and 6 Ave s" intnum="220" />
-<marker lat="27.7720462" lng="-82.641742" intname="6 St and 1 Ave n" intnum="224" />
-<marker lat="27.770321" lng="-82.641715" intname="6 St and 1 Ave s" intnum="226" />
-<marker lat="27.7694176" lng="-82.6417160999999" intname="6 St and 2 Ave s" intnum="227" />
-<marker lat="27.7685614" lng="-82.641711" intname="6 St and 3 Ave s" intnum="228" />
-<marker lat="27.7671078" lng="-82.6416982" intname="6 St and 4 Ave a" intnum="228" />
-<marker lat="27.761434" lng="-82.641202" intname="6 St and Say s" intnum="230" />
-<marker lat="27.7642395999999" lng="-82.641658" intname="6 St and 6 Ave a" intnum="231" />
-<marker lat="27.7811849" lng="-82.6457877" intname="Highland and 9 Ave n" intnum="247" />
-<marker lat="27.7766272" lng="-82.6446207" intname="8 St and 4 Ave n" intnum="251" />
-<marker lat="27.7752856" lng="-82.6448294" intname="8 St and 3 Ave n" intnum="252" />
-<marker lat="27.858128" lng="-82.647734" intname="8 St and l Ave n" intnum="255" />
-<marker lat="27.7711649" lng="-82.6448266999999" intname="8 St and Central" intnum="256" />
-<marker lat="27.7693905" lng="-82.6448273" intname="8 St and 2 Ave s" intnum="258" />
-<marker lat="27.768531" lng="-82.644822" intname="8 St and 3 Ave s" intnum="259" />
-<marker lat="27.767092" lng="-82.644808" intname="8 St and 4 Ave s" intnum="260" />
-<marker lat="27.7656522" lng="-82.6448039" intname="8 St and 5 Ave s" intnum="261" />
-<marker lat="27.7642164" lng="-82.6447612999999" intname="8 St and 6 Ave s" intnum="262" />
-<marker lat="27.86986" lng="-82.6471046" intname="MLK and Roosevelt" intnum="282" />
-<marker lat="27.865118" lng="-82.647141" intname="MLK and 102 Ave n" intnum="284" />
-<marker lat="27.8534252" lng="-82.646962" intname="MLK and Gandy" intnum="287" />
-<marker lat="27.8597902" lng="-82.6468837999999" intname="MLK and Executive" intnum="289" />
-<marker lat="27.847563" lng="-82.6469406" intname="MLK and 83 Ave n" intnum="295" />
-<marker lat="27.8356454" lng="-82.6468763" intname="MLK and 70 Ave n" intnum="302" />
-<marker lat="27.8211787" lng="-82.6468313" intname="MLK and 54 Ave n" intnum="310" />
-<marker lat="27.772554" lng="-82.648277" intname="MLK and Arlington" intnum="345" />
-<marker lat="27.7711392999999" lng="-82.6466502999999" intname="MLK and Central" intnum="347" />
-<marker lat="27.7702746" lng="-82.6466395" intname="MLK and 1 Ave s" intnum="348" />
-<marker lat="27.7693754" lng="-82.6466357" intname="MLK and 2 Ave s" intnum="349" />
-<marker lat="27.7685227" lng="-82.6466375" intname="MLK and 3 Ave s" intnum="350" />
-<marker lat="27.767076" lng="-82.64664" intname="MLK and 4 Ave s" intnum="351" />
-<marker lat="27.7656487" lng="-82.6466253" intname="MLK and 5 Ave s" intnum="353" />
-<marker lat="27.7641896" lng="-82.6466255" intname="MLK and 6 Ave s" intnum="354" />
-<marker lat="27.752083" lng="-82.646588" intname="MLK and 18 Ave s" intnum="383" />
-<marker lat="27.748465" lng="-82.6465849" intname="MLK and 22 Ave s" intnum="366" />
-<marker lat="27.7448235999999" lng="-82.646571" intname="MLK and 26 Ave s" intnum="389" />
-<marker lat="27.7269561" lng="-82.6449909" intname="MLK and 45 Ave s" intnum="372" />
-<marker lat="27.7252667999999" lng="-82.6464056" intname="MLK and Country Club" intnum="375" />
-<marker lat="27.7193757" lng="-82.6464344" intname="MLK and 54 Ave s" intnum="379" />
-<marker lat="27.712145" lng="-82.646371" intname="MLK and 62 Ave s" intnum="383" />
-<marker lat="27.8066191999999" lng="-82.6498323" intname="Haines and 38 Ave n" intnum="392" />
-<marker lat="27.772001" lng="-82.651756" intname="13 St and 1 Ave n" intnum="405" />
-<marker lat="27.8352031" lng="-82.6549603999999" intname="16 St and Gandy" intnum="412" />
-<marker lat="27.8750267" lng="-82.6540326" intname="16 St and Roosevelt" intnum="414" />
-<marker lat="27.8284235" lng="-82.6550124999999" intname="16 St and 62 Ave n" intnum="416" />
-<marker lat="27.8252074" lng="-82.6586148" intname="18 St and 58 Ave n" intnum="418" />
-<marker lat="27.8212082" lng="-82.6550192" intname="16 St and 54 Ave n" intnum="421" />
-<marker lat="27.8108094" lng="-82.6549959" intname="16 St and Haines" intnum="425" />
-<marker lat="27.8065997" lng="-82.6549783" intname="16 St and 38 Ave n" intnum="428" />
-<marker lat="27.799312" lng="-82.6549602999999" intname="16 St and 30 Ave n" intnum="432" />
-<marker lat="27.7920288" lng="-82.6549509" intname="16 St and 22 Ave n" intnum="435" />
-<marker lat="27.7883873" lng="-82.6549188" intname="16 St and 17 Ave n" intnum="438" />
-<marker lat="27.7847517" lng="-82.6549077999999" intname="16 St and 13 Ave n" intnum="440" />
-<marker lat="27.7811303" lng="-82.6548919" intname="16 St and 9 Ave n" intnum="442" />
-<marker lat="27.7792993" lng="-82.6548765" intname="16 St and 7 Ave n" intnum="444" />
-<marker lat="27.7774746999999" lng="-82.6548640999999" intname="16 St and 5 Ave n" intnum="448" />
-<marker lat="27.7763705" lng="-82.654865" intname="16 St and 4 Ave n" intnum="447" />
-<marker lat="27.7719879" lng="-82.6548544" intname="16 St and 1 Ave n" intnum="450" />
-<marker lat="27.7710992" lng="-82.6548412" intname="16 St and Central" intnum="451" />
-<marker lat="27.7702218" lng="-82.6548387" intname="16 St and 1 Ave s" intnum="452" />
-<marker lat="27.7763705" lng="-82.654865" intname="16 St and 4 Ave s" intnum="456" />
-<marker lat="27.765621" lng="-82.654817" intname="16 St and 5 Ave s" intnum="457" />
-<marker lat="27.7629297" lng="-82.6548043999999" intname="16 St and 7 Ave s" intnum="459" />
-<marker lat="27.7611173999999" lng="-82.6547836" intname="16 St and 9 Ave s" intnum="460" />
-<marker lat="27.7520549" lng="-82.6548173" intname="16 St and 18 Ave s" intnum="465" />
-<marker lat="27.7484270999999" lng="-82.6546871" intname="16 St and 22 Ave s" intnum="468" />
-<marker lat="27.7193358" lng="-82.6546438" intname="16 St and 54 Ave s" intnum="474" />
-<marker lat="27.712059" lng="-82.6545975" intname="16 St and 62 Ave s" intnum="478" />
-<marker lat="27.8211193" lng="-82.6590527999999" intname="19 St and 54 Ave n" intnum="480" />
-<marker lat="27.7893186" lng="-82.6608265999999" intname="I-275 and 22 Ave n" intnum="488" />
-<marker lat="27.7719435999999" lng="-82.6602905" intname="20 St and 1 Ave n" intnum="493" />
-<marker lat="27.771076" lng="-82.660283" intname="20 St and Central" intnum="494" />
-<marker lat="27.7702027" lng="-82.6602697" intname="20 St and 1 Ave s" intnum="495" />
-<marker lat="27.8953836999999" lng="-82.6436144999999" intname="I-275 and Gandy" intnum="500" />
-<marker lat="27.8210654999999" lng="-82.6631777" intname="22 St and 54 Ave n" intnum="505" />
-<marker lat="27.7719236" lng="-82.6630515" intname="22 St and 1 Ave n" intnum="517" />
-<marker lat="27.7701794999999" lng="-82.6630412999999" intname="22 St and 1 Ave s" intnum="519" />
-<marker lat="27.7773710999999" lng="-82.6631065999999" intname="22 St and 5 Ave 5" intnum="522" />
-<marker lat="27.7610943999999" lng="-82.6630041" intname="22 St and 9 Ave s" intnum="525" />
-<marker lat="27.755692" lng="-82.6629776" intname="22 St and 15 Ave a" intnum="528" />
-<marker lat="27.7520228999999" lng="-82.6630628999999" intname="22 St and 18 Ave a" intnum="531" />
-<marker lat="27.7484034" lng="-82.6630057999999" intname="22 St and 22 Ave a" intnum="533" />
-<marker lat="27.7194168" lng="-82.6628762" intname="22 St and 54 Ave a" intnum="537" />
-<marker lat="27.7919399" lng="-82.6672222" intname="25 St and 22 Ave n" intnum="548" />
-<marker lat="27.8878984" lng="-82.6668835999999" intname="Carrilon Pkwyand" intnum="550" />
-<marker lat="27.8792403" lng="-82.6716456999999" intname="28 St and 118 Ave n" intnum="552" />
-<marker lat="27.8065148" lng="-82.6713786" intname="28 St and 38 Ave n" intnum="556" />
-<marker lat="27.7992267" lng="-82.6713542" intname="28 St and 30 Ave n" intnum="559" />
-<marker lat="27.7919276" lng="-82.6712943999999" intname="28 St and 22 Ave n" intnum="562" />
-<marker lat="27.7846343" lng="-82.6712952" intname="28 St and 13 Ave n" intnum="565" />
-<marker lat="27.7809942" lng="-82.6713032999999" intname="28 St and 9 Ave n" intnum="567" />
-<marker lat="27.7773065999999" lng="-82.6712775999999" intname="28 St and 5 Ave n" intnum="570" />
-<marker lat="27.771874" lng="-82.6712682999999" intname="28 St and 1 Ave n" intnum="573" />
-<marker lat="27.770922" lng="-82.671104" intname="28 St and Central" intnum="574" />
-<marker lat="27.766489" lng="-82.671203" intname="28 St and 5 Ave s" intnum="578" />
-<marker lat="27.7556203" lng="-82.6711324" intname="28 St and 15 Ave s" intnum="584" />
-<marker lat="27.7520267" lng="-82.6710903" intname="28 St and 18 Ave a" intnum="587" />
-<marker lat="27.7773866" lng="-82.6753117999999" intname="31 St and 5 Ave n" intnum="594" />
-<marker lat="27.858128" lng="-82.647734" intname="31 St and l Ave n" intnum="597" />
-<marker lat="27.7709865" lng="-82.6753246999999" intname="31 St and Central" intnum="598" />
-<marker lat="27.858128" lng="-82.647734" intname="31 St and l Ave s" intnum="599" />
-<marker lat="27.7664777999999" lng="-82.6753181999999" intname="31 St and 5 Ave s" intnum="602" />
-<marker lat="27.7483061" lng="-82.6752188" intname="31 St and 22 Ave s" intnum="608" />
-<marker lat="27.7973874999999" lng="-82.6754161" intname="31 St and 28 Ave s" intnum="610" />
-<marker lat="27.7191887" lng="-82.6751603" intname="31 St and 54 Ave s" intnum="615" />
-<marker lat="27.8345196" lng="-82.6756383" intname="31 St and Pinellas Pt" intnum="620" />
-<marker lat="27.771874" lng="-82.6768843" intname="32 St and 1 Ave n" intnum="625" />
-<marker lat="27.7193986" lng="-82.6780901" intname="I-275 and 54 Ave s" intnum="830" />
-<marker lat="27.7471461999999" lng="-82.6768485999999" intname="I-275 and 22 Ave s" intnum="638" />
-<marker lat="27.8064359" lng="-82.6796018" intname="34 St and 38 Ave n" intnum="643" />
-<marker lat="27.7991768" lng="-82.6795810999999" intname="34 St and 30 Ave n" intnum="647" />
-<marker lat="27.7918052" lng="-82.6795507" intname="34 St and 22 Ave n" intnum="651" />
-<marker lat="27.7882197" lng="-82.6805437" intname="3451 6 17 Ave nand" intnum="652" />
-<marker lat="27.7845718" lng="-82.6795101" intname="34 St and 13 Ave n" intnum="654" />
-<marker lat="27.7809414" lng="-82.6794818999999" intname="34 St and 9 Ave n" intnum="657" />
-<marker lat="27.7772505" lng="-82.679333" intname="34 St and 5 Ave n" intnum="660" />
-<marker lat="27.7709849" lng="-82.6794967" intname="34 St and Central" intnum="666" />
-<marker lat="27.766444" lng="-82.6793554" intname="34 St and 5 Ave s" intnum="670" />
-<marker lat="27.7592129" lng="-82.6794772" intname="34 St and 11 Ave s" intnum="672" />
-<marker lat="27.7555974" lng="-82.6793586" intname="34 St and 15 Ave s" intnum="674" />
-<marker lat="27.7519911" lng="-82.6794336" intname="34 St and 18 Ave s" intnum="677" />
-<marker lat="27.7483016" lng="-82.6793835" intname="34 St and 22 Ave s" intnum="679" />
-<marker lat="27.7447701" lng="-82.6793796" intname="34 St and 26 Ave s" intnum="681" />
-<marker lat="27.8028473999999" lng="-82.6796015" intname="34 St and 34 Ave s" intnum="684" />
-<marker lat="27.7337703" lng="-82.6793684" intname="34 St and 38 Ave s" intnum="887" />
-<marker lat="27.7264906" lng="-82.6792230999999" intname="34 St and 46 Ave s" intnum="690" />
-<marker lat="27.7191724999999" lng="-82.6793005999999" intname="34 St and 54 Ave S" intnum="693" />
-<marker lat="27.8064782" lng="-82.6836397999999" intname="37 St and 38 Ave n" intnum="701" />
-<marker lat="27.7809167" lng="-82.683521" intname="37 St and 9 Ave n" intnum="705" />
-<marker lat="27.77734" lng="-82.6834978" intname="37 St and 5 Ave n" intnum="708" />
-<marker lat="27.7718532" lng="-82.6834718" intname="37 St and 1 Ave n" intnum="712" />
-<marker lat="27.7700075" lng="-82.6834233999999" intname="37 St and 1 Ave s" intnum="714" />
-<marker lat="27.7664408" lng="-82.683446" intname="37 St and 5 Ave s" intnum="718" />
-<marker lat="27.7555525999999" lng="-82.6834811999999" intname="37 St and 15 ave s" intnum="723" />
-<marker lat="27.7519712" lng="-82.6834342" intname="37 St and 18 ave s" intnum="725" />
-<marker lat="27.7483511" lng="-82.6833769" intname="37 St and 22 ave s" intnum="727" />
-<marker lat="27.8064103" lng="-82.6918803" intname="43 St and 38 ave n" intnum="746" />
-<marker lat="27.7918367" lng="-82.6918043" intname="43 St and 22 ave n" intnum="750" />
-<marker lat="27.7483226999999" lng="-82.6909985" intname="43 St and 22 ave s" intnum="755" />
-<marker lat="27.8063805999999" lng="-82.7000058" intname="49 St and 38 ave n" intnum="762" />
-<marker lat="27.7990753999999" lng="-82.7000468999999" intname="49 St and 30 ave n" intnum="766" />
-<marker lat="27.7918103" lng="-82.7000150999999" intname="49 St and 22 ave n" intnum="770" />
-<marker lat="27.7808731" lng="-82.6999304" intname="49 St and 9 ave n" intnum="775" />
-<marker lat="27.7771923" lng="-82.6998860999999" intname="49 St and 5 ave n" intnum="778" />
-<marker lat="27.77183" lng="-82.699849" intname="49 St and 1 ave n" intnum="781" />
-<marker lat="27.7700581" lng="-82.699845" intname="49 St and 1 Ave s" intnum="783" />
-<marker lat="27.7664159" lng="-82.6998225" intname="49 St and 5 Ave s" intnum="786" />
-<marker lat="27.7636926" lng="-82.699802" intname="49 St and Fairfield" intnum="788" />
-<marker lat="27.7591817999999" lng="-82.6997616" intname="49 St and 11 Ave s" intnum="790" />
-<marker lat="27.755569" lng="-82.6997368" intname="49 St and 15 Ave s" intnum="793" />
-<marker lat="27.8063739" lng="-82.7123203999999" intname="58 St and 38 Ave n" intnum="810" />
-<marker lat="27.7989993" lng="-82.7121431" intname="58 St and 30 Ave n" intnum="814" />
-<marker lat="27.7918888" lng="-82.7124145" intname="58 St and 22 Ave n" intnum="818" />
-<marker lat="27.7844881" lng="-82.7122691" intname="58 St and 13 Ave n" intnum="822" />
-<marker lat="27.7808533" lng="-82.712263" intname="58 St and 9 Ave n" intnum="825" />
-<marker lat="27.7772464" lng="-82.7122434" intname="58 St and 5 Ave n" intnum="828" />
-<marker lat="27.825043" lng="-82.6345587" intname="S8 St and 1 Ave n" intnum="832" />
-<marker lat="27.7808550999999" lng="-82.7144347" intname="Tyrone and 9 Ave n" intnum="842" />
-<marker lat="27.7772548" lng="-82.7141763" intname="Tyrone and 5 Ave n" intnum="845" />
-<marker lat="27.8063693" lng="-82.7209697" intname="62 St and 38 Ave n" intnum="856" />
-<marker lat="27.7911193999999" lng="-82.7269913" intname="Tyrone and 22 Ave n" intnum="868" />
-<marker lat="27.8064137" lng="-82.7287119" intname="66 St and 38 Ave n" intnum="873" />
-<marker lat="27.798964" lng="-82.7285965" intname="66 St and 30 ave n" intnum="876" />
-<marker lat="27.7954116" lng="-82.7285581" intname="66 St and 26 ave n" intnum="878" />
-<marker lat="27.7925215999999" lng="-82.7285204" intname="66 St and Tyrone" intnum="880" />
-<marker lat="27.7905421" lng="-82.7285114" intname="66 St and 22 ave n" intnum="882" />
-<marker lat="27.7873196" lng="-82.728512" intname="66 St and 18 ave n" intnum="884" />
-<marker lat="27.7844647" lng="-82.7285049" intname="66 St and 13 ave n" intnum="886" />
-<marker lat="27.7808278" lng="-82.728319" intname="66 St and 9 ave n" intnum="889" />
-<marker lat="27.7771697" lng="-82.7283238" intname="66 St and 5 ave n" intnum="892" />
-<marker lat="27.7875142" lng="-82.7285125" intname="66 St and Pasadena" intnum="895" />
-<marker lat="27.825043" lng="-82.6345587" intname="68 St and 1 ave n" intnum="897" />
-<marker lat="27.7708393999999" lng="-82.7283976999999" intname="66 St and Central" intnum="898" />
-<marker lat="27.707691" lng="-82.63887" intname="68 St and l ave s" intnum="900" />
-<marker lat="27.795565" lng="-82.732613" intname="68 St and Tyrone" intnum="903" />
-<marker lat="27.7918506" lng="-82.7337818" intname="68 St and 22av n" intnum="905" />
-<marker lat="27.7904748" lng="-82.733702" intname="68 St and Crosswinds" intnum="906" />
-<marker lat="27.7772235999999" lng="-82.7339026999999" intname="69 St and 5 Ave n" intnum="915" />
-<marker lat="27.8063844999999" lng="-82.736942" intname="71 St and 38 Ave n" intnum="922" />
-<marker lat="27.791809" lng="-82.739345" intname="72 St and 22 Ave n" intnum="928" />
-<marker lat="27.770814" lng="-82.7379471" intname="72 St and Central" intnum="932" />
-<marker lat="27.7707508" lng="-82.7409424" intname="Park and Central" intnum="940" />
-<marker lat="27.7913259" lng="-82.7538925999999" intname="Park and Country Club" intnum="948" />
-<marker lat="27.7707384" lng="-82.7471759" intname="79 St and Central Ave" intnum="952" />
-<marker lat="27.8061955" lng="-82.7491604" intname="Tyrone and 38 Ave n" intnum="960" />
-<marker lat="27.7918506" lng="-82.7337818" intname="Park and 22 Ave n" intnum="990" />
-<marker lat="27.8209859" lng="-82.720433" intname="62 St and 54 Ave n" intnum="898" />
-<marker lat="27.7709625" lng="-82.7066977" intname="S8 St 6 54 Ave nand" intnum="899" />
-<marker lat="27.8136366" lng="-82.732695" intname="68 St and 46 Ave n" intnum="921" />
-<marker lat="27.8465257999999" lng="-82.6960212" intname="82 St and 46 Ave n" intnum="923" />
-<marker lat="27.8138312" lng="-82.7122689" intname="58 St and 46 Ave n" intnum="925" />
-<marker lat="27.8104530999999" lng="-82.7122805999999" intname="58 St and 42 Ave n" intnum="926" />
+<marker lat="27.7735986" lng="-82.6316241" intname="Bayshore Dr  and  2nd   Ave NE" intnum="35" />
+<marker lat="27.777595" lng="-82.6312036" intname="Beach Dr  and  5 Ave ne" intnum="37" />
+<marker lat="27.7735796" lng="-82.6327374999999" intname="Beach Dr  and  2 Ave ne" intnum="39" />
+<marker lat="27.866871" lng="-82.628113" intname="Bnghton  and  Gandy" intnum="45" />
+<marker lat="27.8284937" lng="-82.6345792" intname="1 St  and  62 Ave n" intnum="48" />
+<marker lat="27.8145533999999" lng="-82.7436888" intname="1 St  and  47 Ave n" intnum="52" />
+<marker lat="27.8085398" lng="-82.6344779" intname="1 St  and  40 Ave n" intnum="55" />
+<marker lat="27.8030509" lng="-82.6346512" intname="1 St  and  34 Ave n" intnum="59" />
+<marker lat="27.7921569" lng="-82.6344248999999" intname="1 St  and  22 Ave n" intnum="66" />
+<marker lat="27.7775017" lng="-82.6342691" intname="1 St  and  S  Ave n" intnum="73" />
+<marker lat="27.7762852" lng="-82.6341921" intname="1 St  and  4 Ave n" intnum="74" />
+<marker lat="27.7749481999999" lng="-82.6340155" intname="1 St  and  3 Ave n" intnum="75" />
+<marker lat="27.7734878999999" lng="-82.6340052" intname="1 St  and  2 Ave n" intnum="76" />
+<marker lat="27.7721241" lng="-82.6340801" intname="1 St  and  l Ave n" intnum="77" />
+<marker lat="27.7712786" lng="-82.6339775" intname="1 St  and  Central" intnum="78" />
+<marker lat="27.7703041" lng="-82.6341222" intname="1 St  and  l Ave s" intnum="79" />
+<marker lat="27.7775942" lng="-82.6340494" intname="1 St  and  5 Ave a" intnum="82" />
+<marker lat="27.7763745" lng="-82.6356001" intname="2 St  and  4 Ave n" intnum="91" />
+<marker lat="27.7749413999999" lng="-82.6355751999999" intname="2 St  and  3 Ave n" intnum="92" />
+<marker lat="27.773487" lng="-82.6355608" intname="2 St  and  2 Ave n" intnum="93" />
+<marker lat="27.858128" lng="-82.647734" intname="2 St  and  l Ave n" intnum="94" />
+<marker lat="27.771203" lng="-82.6355323" intname="2 St  and  Central" intnum="95" />
+<marker lat="27.858128" lng="-82.647734" intname="2 St  and  l Ave s" intnum="96" />
+<marker lat="27.7694552" lng="-82.6354998" intname="2 St  and  2 Ave a" intnum="97" />
+<marker lat="27.769148" lng="-82.6984952" intname="2 St  and  48v s" intnum="99" />
+<marker lat="27.765719" lng="-82.6355174999999" intname="2 St  and  5 Ave s" intnum="100" />
+<marker lat="27.7775581" lng="-82.6371285" intname="3 St  and  5 Ave n" intnum="106" />
+<marker lat="27.7763741" lng="-82.6371176" intname="3 St  and  4 Ave n" intnum="107" />
+<marker lat="27.7749298999999" lng="-82.6371144" intname="3 St  and  3 Ave n" intnum="108" />
+<marker lat="27.7735212" lng="-82.6371064" intname="3 St  and  2 Ave n" intnum="109" />
+<marker lat="27.7720086" lng="-82.6371797" intname="3 St  and  l Ave n" intnum="110" />
+<marker lat="27.7711574" lng="-82.6371952" intname="3 St  and  Central" intnum="111" />
+<marker lat="27.7704533" lng="-82.6370879" intname="3 St  and  l Ave a" intnum="112" />
+<marker lat="27.7694448999999" lng="-82.63707" intname="3 St  and  2 Ave a" intnum="113" />
+<marker lat="27.7685563" lng="-82.6370707999999" intname="3 St  and  3 Ave s" intnum="114" />
+<marker lat="27.7671243999999" lng="-82.6370522" intname="3 St  and  4 Ave s" intnum="115" />
+<marker lat="27.7656969" lng="-82.6370316" intname="3 St  and  5 Ave s" intnum="116" />
+<marker lat="27.914158" lng="-82.7036216999999" intname="3 St  and  Bay s" intnum="117" />
+<marker lat="27.8649321" lng="-82.6387166" intname="4 St  and  Gandy" intnum="125" />
+<marker lat="27.8603778" lng="-82.6387236" intname="4 St  and  Koger" intnum="129" />
+<marker lat="27.857555" lng="-82.6388477" intname="4 St  and  94 Ave n" intnum="131" />
+<marker lat="27.847507" lng="-82.6386665" intname="4 St  and  83 Ave n" intnum="135" />
+<marker lat="27.843074" lng="-82.6387857" intname="4 St  and  77 Ave n" intnum="138" />
+<marker lat="27.8371077" lng="-82.6386276" intname="4 St  and  72 Ave n" intnum="141" />
+<marker lat="27.8284321" lng="-82.6386038" intname="4 St  and  62 Ave n" intnum="145" />
+<marker lat="27.8212575" lng="-82.6385614" intname="4 St  and  54 Ave n" intnum="149" />
+<marker lat="27.8066947" lng="-82.6385143" intname="4 St  and  38 Ave n" intnum="155" />
+<marker lat="27.803038" lng="-82.6384984" intname="4 St  and  34 Ave n" intnum="158" />
+<marker lat="27.799265" lng="-82.6385575" intname="4 St  and  30 Ave n" intnum="161" />
+<marker lat="27.7948328" lng="-82.638551" intname="4 St  and  25 Ave n" intnum="163" />
+<marker lat="27.7921098" lng="-82.6385493" intname="4 St  and  22 Ave n" intnum="165" />
+<marker lat="27.7812119" lng="-82.6385394" intname="4 St  and  9 Ave n" intnum="172" />
+<marker lat="27.7775407" lng="-82.6385424" intname="4 St  and  5 Ave n" intnum="176" />
+<marker lat="27.7763707" lng="-82.6385187" intname="4 St  and  4 Ave n" intnum="177" />
+<marker lat="27.7749274999999" lng="-82.6385122" intname="4 St  and  3 Ave n" intnum="178" />
+<marker lat="27.7735021" lng="-82.6385145" intname="4 St  and  2 Ave n" intnum="179" />
+<marker lat="27.7721711" lng="-82.6384974" intname="4 St  and  l Ave n" intnum="180" />
+<marker lat="27.7711743" lng="-82.6384904" intname="4 St  and  Central" intnum="181" />
+<marker lat="27.7702357" lng="-82.6385011" intname="4 St  and  1 Ave s" intnum="182" />
+<marker lat="27.7694384" lng="-82.6384584" intname="4 St  and  2 Ave s" intnum="183" />
+<marker lat="27.7685394" lng="-82.63846" intname="4 St  and  3 Ave s" intnum="184" />
+<marker lat="27.767138" lng="-82.6384413" intname="4 St  and  4 Ave s" intnum="185" />
+<marker lat="27.765685" lng="-82.638448" intname="4 St  and  5 Ave s" intnum="186" />
+<marker lat="27.7642599" lng="-82.6384271" intname="4 St  and  6 Ave s" intnum="187" />
+<marker lat="27.7812119" lng="-82.6385394" intname="4 St  and  9 Ave a" intnum="189" />
+<marker lat="27.7484355" lng="-82.6384393" intname="4 St  and  22 Ave s" intnum="195" />
+<marker lat="27.7763557" lng="-82.6401819" intname="5 St  and  4 Ave n" intnum="210" />
+<marker lat="27.7734864" lng="-82.6402055" intname="5 St  and  2 Ave n" intnum="212" />
+<marker lat="27.7721711" lng="-82.6384974" intname="5 St  and  l Ave n" intnum="213" />
+<marker lat="27.771252" lng="-82.639931" intname="5 St  and  Central" intnum="214" />
+<marker lat="27.7702707" lng="-82.6401677" intname="5 St  and  l Avea" intnum="215" />
+<marker lat="27.7694286" lng="-82.6401602" intname="5 St  and  2 Ave s" intnum="216" />
+<marker lat="27.7642583" lng="-82.6400980999999" intname="5 St  and  6 Ave s" intnum="220" />
+<marker lat="27.7720462" lng="-82.641742" intname="6 St  and  1 Ave n" intnum="224" />
+<marker lat="27.7711657" lng="-82.6415886" intname="6 St  and  Central" intnum="225" />
+<marker lat="27.770321" lng="-82.641715" intname="6 St  and  1 Ave s" intnum="226" />
+<marker lat="27.7694176" lng="-82.6417160999999" intname="6 St  and  2 Ave s" intnum="227" />
+<marker lat="27.7685614" lng="-82.641711" intname="6 St  and  3 Ave s" intnum="228" />
+<marker lat="27.7671078" lng="-82.6416982" intname="6 St  and  4 Ave a" intnum="228" />
+<marker lat="27.761434" lng="-82.641202" intname="6 St  and  Say s" intnum="230" />
+<marker lat="27.7642395999999" lng="-82.641658" intname="6 St  and  6 Ave a" intnum="231" />
+<marker lat="27.7335957" lng="-82.6409052" intname="6 St   and  39 Ave s" intnum="235" />
+<marker lat="27.7811849" lng="-82.6457877" intname="Highland  and  9 Ave n" intnum="247" />
+<marker lat="27.7642048" lng="-82.6446858" intname="8 St  and  Say n" intnum="250" />
+<marker lat="27.7766272" lng="-82.6446207" intname="8 St  and  4 Ave n" intnum="251" />
+<marker lat="27.7752856" lng="-82.6448294" intname="8 St  and  3 Ave n" intnum="252" />
+<marker lat="27.858128" lng="-82.647734" intname="8 St  and  l Ave n" intnum="255" />
+<marker lat="27.7711649" lng="-82.6448266999999" intname="8 St  and  Central" intnum="256" />
+<marker lat="27.7702452" lng="-82.6448744" intname="8 St  and  l Avea" intnum="257" />
+<marker lat="27.7693905" lng="-82.6448273" intname="8 St  and  2 Ave s" intnum="258" />
+<marker lat="27.768531" lng="-82.644822" intname="8 St  and  3 Ave s" intnum="259" />
+<marker lat="27.767092" lng="-82.644808" intname="8 St  and  4 Ave s" intnum="260" />
+<marker lat="27.7656522" lng="-82.6448039" intname="8 St  and  5 Ave s" intnum="261" />
+<marker lat="27.7642164" lng="-82.6447612999999" intname="8 St  and  6 Ave s" intnum="262" />
+<marker lat="27.86986" lng="-82.6471046" intname="MLK  and  Roosevelt" intnum="282" />
+<marker lat="27.865118" lng="-82.647141" intname="MLK  and  102 Ave n" intnum="284" />
+<marker lat="27.8534252" lng="-82.646962" intname="MLK  and  Gandy" intnum="287" />
+<marker lat="27.8597902" lng="-82.6468837999999" intname="MLK  and  Executive" intnum="289" />
+<marker lat="27.857545" lng="-82.6468754" intname="MLK  and  94 Ave n" intnum="291" />
+<marker lat="27.847563" lng="-82.6469406" intname="MLK  and  83 Ave n" intnum="295" />
+<marker lat="27.8424454" lng="-82.6469374" intname="MLK  and  77ay n" intnum="298" />
+<marker lat="27.8356454" lng="-82.6468763" intname="MLK  and  70 Ave n" intnum="302" />
+<marker lat="27.8284823" lng="-82.6468792" intname="MLK  and  62 Ave n" intnum="306" />
+<marker lat="27.8211787" lng="-82.6468313" intname="MLK  and  54 Ave n" intnum="310" />
+<marker lat="27.8068603" lng="-82.6467771" intname="MLK  and  38 Ave n" intnum="318" />
+<marker lat="27.8029226" lng="-82.6467233" intname="MLK  and  34 Ave n" intnum="321" />
+<marker lat="27.7993256" lng="-82.6467497" intname="MLK  and  30 Ave n" intnum="324" />
+<marker lat="27.7918769" lng="-82.6466387" intname="MLK  and  22 Ave n" intnum="330" />
+<marker lat="27.7810148" lng="-82.6466225" intname="MLK  and  9 Ave n" intnum="336" />
+<marker lat="27.7791953" lng="-82.6466075" intname="MLK  and  7 Ave n" intnum="338" />
+<marker lat="27.7775866" lng="-82.6466247" intname="MLK  and  5 Ave n" intnum="340" />
+<marker lat="27.7764588" lng="-82.6466119" intname="MLK  and  4 Ave n" intnum="341" />
+<marker lat="27.7750471" lng="-82.6467595" intname="MLK  and  3 Ave n" intnum="342" />
+<marker lat="27.7731925" lng="-82.6467018" intname="MLK  and  2 Ave n" intnum="344" />
+<marker lat="27.772554" lng="-82.648277" intname="MLK  and  Arlington" intnum="345" />
+<marker lat="27.7717766" lng="-82.6466872" intname="MLK  and  1 Ave n" intnum="348" />
+<marker lat="27.7711392999999" lng="-82.6466502999999" intname="MLK  and  Central" intnum="347" />
+<marker lat="27.7702746" lng="-82.6466395" intname="MLK  and  1 Ave s" intnum="348" />
+<marker lat="27.7693754" lng="-82.6466357" intname="MLK  and  2 Ave s" intnum="349" />
+<marker lat="27.7685227" lng="-82.6466375" intname="MLK  and  3 Ave s" intnum="350" />
+<marker lat="27.767076" lng="-82.64664" intname="MLK  and  4 Ave s" intnum="351" />
+<marker lat="27.7656487" lng="-82.6466253" intname="MLK  and  5 Ave s" intnum="353" />
+<marker lat="27.7641896" lng="-82.6466255" intname="MLK  and  6 Ave s" intnum="354" />
+<marker lat="27.7592964" lng="-82.6466778" intname="MLK  and  ll Ave s" intnum="358" />
+<marker lat="27.752083" lng="-82.646588" intname="MLK  and  18 Ave s" intnum="383" />
+<marker lat="27.748465" lng="-82.6465849" intname="MLK  and  22 Ave s" intnum="366" />
+<marker lat="27.7448235999999" lng="-82.646571" intname="MLK  and  26 Ave s" intnum="389" />
+<marker lat="27.7269561" lng="-82.6449909" intname="MLK  and  45 Ave s" intnum="372" />
+<marker lat="27.7252667999999" lng="-82.6464056" intname="MLK  and  Country Club" intnum="375" />
+<marker lat="27.7193757" lng="-82.6464344" intname="MLK  and  54 Ave s" intnum="379" />
+<marker lat="27.712145" lng="-82.646371" intname="MLK  and  62 Ave s" intnum="383" />
+<marker lat="27.8066191999999" lng="-82.6498323" intname="Haines  and  38 Ave n" intnum="392" />
+<marker lat="27.772001" lng="-82.651756" intname="13 St  and  1 Ave n" intnum="405" />
+<marker lat="27.8352031" lng="-82.6549603999999" intname="16 St  and  Gandy" intnum="412" />
+<marker lat="27.8750267" lng="-82.6540326" intname="16 St  and  Roosevelt" intnum="414" />
+<marker lat="27.8284235" lng="-82.6550124999999" intname="16 St  and  62 Ave n" intnum="416" />
+<marker lat="27.8252074" lng="-82.6586148" intname="18 St  and  58 Ave n" intnum="418" />
+<marker lat="27.8212082" lng="-82.6550192" intname="16 St  and  54 Ave n" intnum="421" />
+<marker lat="27.8108094" lng="-82.6549959" intname="16 St  and  Haines" intnum="425" />
+<marker lat="27.8065997" lng="-82.6549783" intname="16 St  and  38 Ave n" intnum="428" />
+<marker lat="27.799312" lng="-82.6549602999999" intname="16 St  and  30 Ave n" intnum="432" />
+<marker lat="27.7920288" lng="-82.6549509" intname="16 St  and  22 Ave n" intnum="435" />
+<marker lat="27.7883873" lng="-82.6549188" intname="16 St  and  17 Ave n" intnum="438" />
+<marker lat="27.7847517" lng="-82.6549077999999" intname="16 St  and  13 Ave n" intnum="440" />
+<marker lat="27.7811303" lng="-82.6548919" intname="16 St  and  9 Ave n" intnum="442" />
+<marker lat="27.7792993" lng="-82.6548765" intname="16 St  and  7 Ave n" intnum="444" />
+<marker lat="27.7774746999999" lng="-82.6548640999999" intname="16 St  and  5 Ave n" intnum="448" />
+<marker lat="27.7763705" lng="-82.654865" intname="16 St  and  4 Ave n" intnum="447" />
+<marker lat="27.7719879" lng="-82.6548544" intname="16 St  and  1 Ave n" intnum="450" />
+<marker lat="27.7710992" lng="-82.6548412" intname="16 St  and  Central" intnum="451" />
+<marker lat="27.7702218" lng="-82.6548387" intname="16 St  and  1 Ave s" intnum="452" />
+<marker lat="27.7763705" lng="-82.654865" intname="16 St  and  4 Ave s" intnum="456" />
+<marker lat="27.765621" lng="-82.654817" intname="16 St  and  5 Ave s" intnum="457" />
+<marker lat="27.7629297" lng="-82.6548043999999" intname="16 St  and  7 Ave s" intnum="459" />
+<marker lat="27.7611173999999" lng="-82.6547836" intname="16 St  and  9 Ave s" intnum="460" />
+<marker lat="27.7557153" lng="-82.6547327" intname="16 St  and  15ev s" intnum="463" />
+<marker lat="27.7520549" lng="-82.6548173" intname="16 St  and  18 Ave s" intnum="465" />
+<marker lat="27.7484270999999" lng="-82.6546871" intname="16 St  and  22 Ave s" intnum="468" />
+<marker lat="27.7193358" lng="-82.6546438" intname="16 St  and  54 Ave s" intnum="474" />
+<marker lat="27.712059" lng="-82.6545975" intname="16 St  and  62 Ave s" intnum="478" />
+<marker lat="27.8211193" lng="-82.6590527999999" intname="19 St  and  54 Ave n" intnum="480" />
+<marker lat="27.7774751" lng="-82.6588355" intname="1-275  and  5 Ave n" intnum="482" />
+<marker lat="27.7893186" lng="-82.6608265999999" intname="I-275  and  22 Ave n" intnum="488" />
+<marker lat="27.7719435999999" lng="-82.6602905" intname="20 St  and  1 Ave n" intnum="493" />
+<marker lat="27.771076" lng="-82.660283" intname="20 St  and  Central" intnum="494" />
+<marker lat="27.7702027" lng="-82.6602697" intname="20 St  and  1 Ave s" intnum="495" />
+<marker lat="27.8953836999999" lng="-82.6436144999999" intname="I-275  and  Gandy" intnum="500" />
+<marker lat="27.8210654999999" lng="-82.6631777" intname="22 St  and  54 Ave n" intnum="505" />
+<marker lat="27.8066072" lng="-82.6615397" intname="1-275  and  38 Ave n" intnum="508" />
+<marker lat="27.7719236" lng="-82.6630515" intname="22 St  and  1 Ave n" intnum="517" />
+<marker lat="27.7710435" lng="-82.6630446" intname="22 St  and  Central" intnum="518" />
+<marker lat="27.7701794999999" lng="-82.6630412999999" intname="22 St  and  1 Ave s" intnum="519" />
+<marker lat="27.7773710999999" lng="-82.6631065999999" intname="22 St  and  5 Ave 5" intnum="522" />
+<marker lat="27.7610943999999" lng="-82.6630041" intname="22 St  and  9 Ave s" intnum="525" />
+<marker lat="27.755692" lng="-82.6629776" intname="22 St  and  15 Ave a" intnum="528" />
+<marker lat="27.7520228999999" lng="-82.6630628999999" intname="22 St  and  18 Ave a" intnum="531" />
+<marker lat="27.7484034" lng="-82.6630057999999" intname="22 St  and  22 Ave a" intnum="533" />
+<marker lat="27.7194168" lng="-82.6628762" intname="22 St  and  54 Ave a" intnum="537" />
+<marker lat="27.7118361" lng="-82.6627931" intname="22518 62 Ave s and " intnum="540" />
+<marker lat="27.7919399" lng="-82.6672222" intname="25 St  and  22 Ave n" intnum="548" />
+<marker lat="27.8878984" lng="-82.6668835999999" intname="Carrilon Pkwy and " intnum="550" />
+<marker lat="27.8792403" lng="-82.6716456999999" intname="28 St  and  118 Ave n" intnum="552" />
+<marker lat="27.8065148" lng="-82.6713786" intname="28 St  and  38 Ave n" intnum="556" />
+<marker lat="27.7992267" lng="-82.6713542" intname="28 St  and  30 Ave n" intnum="559" />
+<marker lat="27.7919276" lng="-82.6712943999999" intname="28 St  and  22 Ave n" intnum="562" />
+<marker lat="27.7846343" lng="-82.6712952" intname="28 St  and  13 Ave n" intnum="565" />
+<marker lat="27.7809942" lng="-82.6713032999999" intname="28 St  and  9 Ave n" intnum="567" />
+<marker lat="27.7773065999999" lng="-82.6712775999999" intname="28 St  and  5 Ave n" intnum="570" />
+<marker lat="27.771874" lng="-82.6712682999999" intname="28 St  and  1 Ave n" intnum="573" />
+<marker lat="27.770922" lng="-82.671104" intname="28 St  and  Central" intnum="574" />
+<marker lat="27.7701248" lng="-82.671251" intname="28 St  and  l Ave s" intnum="575" />
+<marker lat="27.766489" lng="-82.671203" intname="28 St  and  5 Ave s" intnum="578" />
+<marker lat="27.7556203" lng="-82.6711324" intname="28 St  and  15 Ave s" intnum="584" />
+<marker lat="27.7520267" lng="-82.6710903" intname="28 St  and  18 Ave a" intnum="587" />
+<marker lat="27.7773866" lng="-82.6753117999999" intname="31 St  and  5 Ave n" intnum="594" />
+<marker lat="27.858128" lng="-82.647734" intname="31 St  and  l Ave n" intnum="597" />
+<marker lat="27.7709865" lng="-82.6753246999999" intname="31 St  and  Central" intnum="598" />
+<marker lat="27.858128" lng="-82.647734" intname="31 St  and  l Ave s" intnum="599" />
+<marker lat="27.7664777999999" lng="-82.6753181999999" intname="31 St  and  5 Ave s" intnum="602" />
+<marker lat="27.7519414" lng="-82.6754315" intname="31 St  and  l8 Ave s" intnum="606" />
+<marker lat="27.7483061" lng="-82.6752188" intname="31 St  and  22 Ave s" intnum="608" />
+<marker lat="27.7973874999999" lng="-82.6754161" intname="31 St  and  28 Ave s" intnum="610" />
+<marker lat="27.7191887" lng="-82.6751603" intname="31 St  and  54 Ave s" intnum="615" />
+<marker lat="27.8345196" lng="-82.6756383" intname="31 St  and  Pinellas Pt" intnum="620" />
+<marker lat="27.771874" lng="-82.6768843" intname="32 St  and  1 Ave n" intnum="625" />
+<marker lat="27.7709824" lng="-82.6765721" intname="32 St  and  Central" intnum="626" />
+<marker lat="27.7193986" lng="-82.6780901" intname="I-275  and  54 Ave s" intnum="830" />
+<marker lat="27.7471461999999" lng="-82.6768485999999" intname="I-275  and  22 Ave s" intnum="638" />
+<marker lat="27.8064359" lng="-82.6796018" intname="34 St  and  38 Ave n" intnum="643" />
+<marker lat="27.7991768" lng="-82.6795810999999" intname="34 St  and  30 Ave n" intnum="647" />
+<marker lat="27.7918052" lng="-82.6795507" intname="34 St  and  22 Ave n" intnum="651" />
+<marker lat="27.7882197" lng="-82.6805437" intname="3451 6 17 Ave n and " intnum="652" />
+<marker lat="27.7845718" lng="-82.6795101" intname="34 St  and  13 Ave n" intnum="654" />
+<marker lat="27.7809414" lng="-82.6794818999999" intname="34 St  and  9 Ave n" intnum="657" />
+<marker lat="27.7772505" lng="-82.679333" intname="34 St  and  5 Ave n" intnum="660" />
+<marker lat="27.7716423" lng="-82.6792891" intname="34 St  and  l Ave n" intnum="665" />
+<marker lat="27.7709849" lng="-82.6794967" intname="34 St  and  Central" intnum="666" />
+<marker lat="27.7698706" lng="-82.6794504" intname="34 St  and  l Ave s" intnum="667" />
+<marker lat="27.766444" lng="-82.6793554" intname="34 St  and  5 Ave s" intnum="670" />
+<marker lat="27.7592129" lng="-82.6794772" intname="34 St  and  11 Ave s" intnum="672" />
+<marker lat="27.7555974" lng="-82.6793586" intname="34 St  and  15 Ave s" intnum="674" />
+<marker lat="27.7519911" lng="-82.6794336" intname="34 St  and  18 Ave s" intnum="677" />
+<marker lat="27.7483016" lng="-82.6793835" intname="34 St  and  22 Ave s" intnum="679" />
+<marker lat="27.7447701" lng="-82.6793796" intname="34 St  and  26 Ave s" intnum="681" />
+<marker lat="27.8028473999999" lng="-82.6796015" intname="34 St  and  34 Ave s" intnum="684" />
+<marker lat="27.7337703" lng="-82.6793684" intname="34 St  and  38 Ave s" intnum="887" />
+<marker lat="27.7264906" lng="-82.6792230999999" intname="34 St  and  46 Ave s" intnum="690" />
+<marker lat="27.7191724999999" lng="-82.6793005999999" intname="34 St  and  54 Ave S" intnum="693" />
+<marker lat="27.7189902" lng="-82.6884334" intname="Eckerd College  and  54 Ave s" intnum="694" />
+<marker lat="27.8064782" lng="-82.6836397999999" intname="37 St  and  38 Ave n" intnum="701" />
+<marker lat="27.7809167" lng="-82.683521" intname="37 St  and  9 Ave n" intnum="705" />
+<marker lat="27.77734" lng="-82.6834978" intname="37 St  and  5 Ave n" intnum="708" />
+<marker lat="27.7718532" lng="-82.6834718" intname="37 St  and  1 Ave n" intnum="712" />
+<marker lat="27.7710587" lng="-82.6833925" intname="37 St  and  Central" intnum="713" />
+<marker lat="27.7700075" lng="-82.6834233999999" intname="37 St  and  1 Ave s" intnum="714" />
+<marker lat="27.7664408" lng="-82.683446" intname="37 St  and  5 Ave s" intnum="718" />
+<marker lat="27.7555525999999" lng="-82.6834811999999" intname="37 St  and  15 ave s" intnum="723" />
+<marker lat="27.7519712" lng="-82.6834342" intname="37 St  and  18 ave s" intnum="725" />
+<marker lat="27.7483511" lng="-82.6833769" intname="37 St  and  22 ave s" intnum="727" />
+<marker lat="27.7709651" lng="-82.687525" intname="40 St  and  Central" intnum="733" />
+<marker lat="27.8064103" lng="-82.6918803" intname="43 St  and  38 ave n" intnum="746" />
+<marker lat="27.7918367" lng="-82.6918043" intname="43 St  and  22 ave n" intnum="750" />
+<marker lat="27.7483226999999" lng="-82.6909985" intname="43 St  and  22 ave s" intnum="755" />
+<marker lat="27.8063805999999" lng="-82.7000058" intname="49 St  and  38 ave n" intnum="762" />
+<marker lat="27.7990753999999" lng="-82.7000468999999" intname="49 St  and  30 ave n" intnum="766" />
+<marker lat="27.7918103" lng="-82.7000150999999" intname="49 St  and  22 ave n" intnum="770" />
+<marker lat="27.7808731" lng="-82.6999304" intname="49 St  and  9 ave n" intnum="775" />
+<marker lat="27.7771923" lng="-82.6998860999999" intname="49 St  and  5 ave n" intnum="778" />
+<marker lat="27.77183" lng="-82.699849" intname="49 St  and  1 ave n" intnum="781" />
+<marker lat="27.7708967" lng="-82.6998155" intname="49 St  and  Central" intnum="782" />
+<marker lat="27.7700581" lng="-82.699845" intname="49 St  and  1 Ave s" intnum="783" />
+<marker lat="27.7664159" lng="-82.6998225" intname="49 St  and  5 Ave s" intnum="786" />
+<marker lat="27.7636926" lng="-82.699802" intname="49 St  and  Fairfield" intnum="788" />
+<marker lat="27.7591817999999" lng="-82.6997616" intname="49 St  and  11 Ave s" intnum="790" />
+<marker lat="27.755569" lng="-82.6997368" intname="49 St  and  15 Ave s" intnum="793" />
+<marker lat="27.7482717" lng="-82.6996976" intname="49 St  and  22 Ave s" intnum="795" />
+<marker lat="27.7165829" lng="-82.7012279" intname="Leeland  and  Bayway Dr" intnum="797" />
+<marker lat="27.8063739" lng="-82.7123203999999" intname="58 St  and  38 Ave n" intnum="810" />
+<marker lat="27.7989993" lng="-82.7121431" intname="58 St  and  30 Ave n" intnum="814" />
+<marker lat="27.7918888" lng="-82.7124145" intname="58 St  and  22 Ave n" intnum="818" />
+<marker lat="27.7844881" lng="-82.7122691" intname="58 St  and  13 Ave n" intnum="822" />
+<marker lat="27.7808533" lng="-82.712263" intname="58 St  and  9 Ave n" intnum="825" />
+<marker lat="27.7772464" lng="-82.7122434" intname="58 St  and  5 Ave n" intnum="828" />
+<marker lat="27.825043" lng="-82.6345587" intname="S8 St  and  1 Ave n" intnum="832" />
+<marker lat="27.7707915" lng="-82.7119723" intname="58 St  and  Central" intnum="833" />
+<marker lat="27.7698104" lng="-82.712094" intname="58 St  and  l ave s" intnum="834" />
+<marker lat="27.7808550999999" lng="-82.7144347" intname="Tyrone  and  9 Ave n" intnum="842" />
+<marker lat="27.7772548" lng="-82.7141763" intname="Tyrone  and  5 Ave n" intnum="845" />
+<marker lat="27.8063693" lng="-82.7209697" intname="62 St  and  38 Ave n" intnum="856" />
+<marker lat="27.7709127" lng="-82.7243188" intname="64 St  and  Central" intnum="862" />
+<marker lat="27.7699335" lng="-82.7243834" intname="64 St  and  l Ave S" intnum="863" />
+<marker lat="27.7911193999999" lng="-82.7269913" intname="Tyrone  and  22 Ave n" intnum="868" />
+<marker lat="27.8064137" lng="-82.7287119" intname="66 St  and  38 Ave n" intnum="873" />
+<marker lat="27.798964" lng="-82.7285965" intname="66 St  and  30 ave n" intnum="876" />
+<marker lat="27.7954116" lng="-82.7285581" intname="66 St  and  26 ave n" intnum="878" />
+<marker lat="27.7925215999999" lng="-82.7285204" intname="66 St  and  Tyrone" intnum="880" />
+<marker lat="27.7905421" lng="-82.7285114" intname="66 St  and  22 ave n" intnum="882" />
+<marker lat="27.7873196" lng="-82.728512" intname="66 St  and  18 ave n" intnum="884" />
+<marker lat="27.7844647" lng="-82.7285049" intname="66 St  and  13 ave n" intnum="886" />
+<marker lat="27.7808278" lng="-82.728319" intname="66 St  and  9 ave n" intnum="889" />
+<marker lat="27.7771697" lng="-82.7283238" intname="66 St  and  5 ave n" intnum="892" />
+<marker lat="27.7875142" lng="-82.7285125" intname="66 St  and  Pasadena" intnum="895" />
+<marker lat="27.825043" lng="-82.6345587" intname="68 St  and  1 ave n" intnum="897" />
+<marker lat="27.7708393999999" lng="-82.7283976999999" intname="66 St  and  Central" intnum="898" />
+<marker lat="27.707691" lng="-82.63887" intname="68 St  and  l ave s" intnum="900" />
+<marker lat="27.795565" lng="-82.732613" intname="68 St  and  Tyrone" intnum="903" />
+<marker lat="27.7918506" lng="-82.7337818" intname="68 St  and  22av n" intnum="905" />
+<marker lat="27.7904748" lng="-82.733702" intname="68 St  and  Crosswinds" intnum="906" />
+<marker lat="27.7708207" lng="-82.7318446" intname="Pasadena  and  Central" intnum="910" />
+<marker lat="27.7708555" lng="-82.7319348" intname="Pasadena  and  l ave s" intnum="912" />
+<marker lat="27.7772235999999" lng="-82.7339026999999" intname="69 St  and  5 Ave n" intnum="915" />
+<marker lat="27.8063844999999" lng="-82.736942" intname="71 St  and  38 Ave n" intnum="922" />
+<marker lat="27.791809" lng="-82.739345" intname="72 St  and  22 Ave n" intnum="928" />
+<marker lat="27.770814" lng="-82.7379471" intname="72 St  and  Central" intnum="932" />
+<marker lat="27.7707508" lng="-82.7409424" intname="Park  and  Central" intnum="940" />
+<marker lat="27.7913259" lng="-82.7538925999999" intname="Park  and  Country Club" intnum="948" />
+<marker lat="27.7707384" lng="-82.7471759" intname="79 St  and  Central Ave" intnum="952" />
+<marker lat="27.8061955" lng="-82.7491604" intname="Tyrone  and  38 Ave n" intnum="960" />
+<marker lat="27.7918506" lng="-82.7337818" intname="Park  and  22 Ave n" intnum="990" />
+<marker lat="27.8209859" lng="-82.720433" intname="62 St  and  54 Ave n" intnum="898" />
+<marker lat="27.7709625" lng="-82.7066977" intname="S8 St 6 54 Ave n and " intnum="899" />
+<marker lat="27.8136366" lng="-82.732695" intname="68 St  and  46 Ave n" intnum="921" />
+<marker lat="27.8465257999999" lng="-82.6960212" intname="82 St  and  46 Ave n" intnum="923" />
+<marker lat="27.8138312" lng="-82.7122689" intname="58 St  and  46 Ave n" intnum="925" />
+<marker lat="27.8104530999999" lng="-82.7122805999999" intname="58 St  and  42 Ave n" intnum="926" />
 </markers>
