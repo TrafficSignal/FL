@@ -13,71 +13,147 @@
 			$('#updateinfo').hide();
 			$('#disclaiminfo').hide();
 			$('#errinfo').hide();
+			$('#privinfo').hide();
 			$('#updatebtn').on('click', function(){
 				$('#updateinfo').toggle(1000);
 				$('#disclaiminfo').hide(1000);
 				$('#errinfo').hide(1000);
+				$('#privinfo').hide(1000);
 			});
 			$('#disclaimbtn').on('click', function(){
 				$('#disclaiminfo').toggle(1000);
 				$('#updateinfo').hide(1000);
 				$('#errinfo').hide(1000);
+				$('#privinfo').hide(1000);
 			});		
 			$('#errbtn').on('click', function(){
 				$('#errinfo').toggle(1000);
 				$('#updateinfo').hide(1000);
 				$('#disclaiminfo').hide(1000);
-			});		
+				$('#privinfo').hide(1000);
+			});	
+			$('#privbtn').on('click', function(){
+				$('#privinfo').toggle(1000);
+				$('#updateinfo').hide(1000);
+				$('#disclaiminfo').hide(1000);
+				$('#errinfo').hide(1000);
+			});				
 			$('#hidebtn').on('click', function(){
 				$('#disclaiminfo').hide(1000);
 				$('#updateinfo').hide(1000);
 				$('#errinfo').hide(1000);
+				$('#privinfo').hide(1000);
 			});
-			$('#hideadbtn').on('click', function(){
-				$('#adsense').toggle(1000);
-			});		
 		 });
 	</script>
 <!--CSS Style Sheets -->
-	<link href="css/index.css" rel="stylesheet"  />
 	<link href="css/style1.css" rel="stylesheet" />
+	<link href="css/index.css" rel="stylesheet" />
+	<link href="css/bootstrap.min.css" rel="stylesheet" />
+<!--Bootstap -->
+	<script src="js/bootstrap.min.js"></script>
 </head>
 
 <body>
 <!--Background Image-->
 		<ul class="cb-slideshow">
-            <li><span>Image 01	<img src="images/trint_logo.png"></span></li>
-            <li><span>Image 02 	<img src="images/trint_logo.png"></span></li>
-            <li><span>Image 03	<img src="images/trint_logo.png"></span></li>
-            <li><span>Image 04	<img src="images/trint_logo.png"></span></li>
-            <li><span>Image 05	<img src="images/trint_logo.png"></span></li>
-			<li><span>Image 06	<img src="images/trint_logo.png"></span></li>
+            <li><span>Image 01</span></li>
+            <li><span>Image 02</span></li>
+            <li><span>Image 03</span></li>
+            <li><span>Image 04</span></li>
+            <li><span>Image 05</span></li>
+			<li><span>Image 06</span></li>
         </ul>
 
-<div id="topnav">
-	[ <A href="info.htm"> Contact Info | Privacy Policy  </a> | <A href="#" id='updatebtn'>Update Info</a>  | <A href="#" id='errbtn'>TSMA and Exception Info</a>| <A href="#" id='disclaimbtn'>Disclaimer Info</a> | <A href="https://github.com/TrafficSignal/">GitHub </a> ] <br>
-	<button id='hidebtn'>Hide All Info</button><button id='hideadbtn'>Hide Ads</button>
+<!--Top Nav Bar -->
+<div class="container">
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><img src="images/trint_logo_xsm.png"></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+      	<li><a href="#" id='updatebtn'>Update log</a></li>
+		<li><a href="#" id='errbtn'> TSMA log</a></li>
+		<li><a href="#" id='disclaimbtn'>Disclaimer </a></li>
+		<li><a href="#" id='privbtn'> Privacy Policy  </a></li>
+		<li><a href="#" id='hidebtn'>Hide all logs</a></li>
+	  </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Information<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+			<li><a href="info.htm">Contact Information</a></li>
+			<li><a href="https://github.com/TrafficSignal/">GitHub </a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 </div>
 
+<!--1st Row  -->
+<div class="container">
+	<div class="row">
+		<div class="col-sm-6">  
+			<div style="background:rgba(0, 255, 0, 0.5)" class="jumbotron ">
+			<h1>Mobile</h1>
+			<p>Florida Traffic Signal Map</p>
+			<p><a class="btn btn-danger btn-lg" href="FLStateIndex.M.htm" role="button">Load Map</a></p>
+			</div>
+		</div>
+		<div class="col-sm-6"> 
+			<div style="background:rgba(0, 102, 255, 0.5)" class="jumbotron">
+			<h1>Desktop</h1>
+			<p>Florida Traffic Signal Map</p>
+			<p><a class="btn btn-danger btn-lg" href="FLStateIndex.D.htm" role="button">Load Map</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--2nd Row  -->
+<div class="container">
+	<div class="row">
+		<div class="col-sm-6">  
+			<div style="background:rgba(255, 102, 255, 0.5)" class="jumbotron">
+				<!-- Google Responsive Ad	-->
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7074806197787335" data-ad-slot="6987673400" data-ad-format="auto"></ins>
+					<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+			</div>
+		</div>
+		<div class="col-sm-6">  
+			<div style="background:rgba(255, 255, 0, 0.5)" class="jumbotron">
+				<img src="images/trint_logo2.png">
+				<h3></h3>
+				<p><a href="mailto:info@trint.us">info@trint.us</a> for more details</p>
+			</div>
+		</div>
+		<div class="col-sm-4"> 
+		</div>
+	</div>
+</div>
 <br><br>
-<div id="desktopversion">
-Desktops<br>
-	[ <A href="FLStateIndex.D.htm">  Florida Traffic Signals  </a> ]
-</div>
-
-  <div id="mobileversion">
-Mobile<br>
-	[ <A href="FLStateIndex.M.htm">  Florida Traffic Signals </a> ]
- </div>	
-	<br>
 
 <div id="errinfo">
-<span id="infotitle"> Exception List and Traffic Signal Maintaining Agencies (TSMA)  in Florida </span>
+<span id="infotitle"><h3>Exception List and Traffic Signal Maintaining Agencies (TSMA)  in Florida </h3> </span>
 		<p><ul>
 			<b>Exceptions:</b>
 			<li>Only Traffic Signal Maintaining Agencies that have more than 20 interconnected signals and/or 
 			more than 20 traffic signals in the State Highway System (SHS) have been mapped by TRINT.  Fifty seven TSMA are being mapped by TRINT (49 complete, 8 in process)</li>
 			<li>There are over 100 Traffic Signal Maintaining Agencies/TSMA that DO NOT meet the criteria above</li>
+			<br>
 			<b>Clarifications in process:</b>
 			<li>Only 1/3 of signals have been mapped in Jacksonville TSMA 381 (Signals) - TRINT is requesting tabular list from TSMA</li>
 			<li>TRINT is requesting clarifications on 3 Traffic Signals in Lake County</li>
@@ -85,8 +161,13 @@ Mobile<br>
 			<li>TRINT is requesting clarifications on several Traffic Signals that have jurisdiction overlap City of Naples and Collier County </li>
 			<li>TRINT is requesting clarifications on several Traffic Signals that have jurisdiction overlap City of Bradenton and Manatee County </li>
 			<li>TRINT is requesting clarifications on one (SR 39 and Sam Allen Rd) Traffic Signal that have jurisdiction overlap Plant City and Hillsborough County </li>
-			<li>Several TSMA have not been mapped that have more than 20 interconnected or SHS signals. Namely: 
-			Citrus County,  Putnam County, Sumpter County, Lake City, City of Winter Haven, City of Winter Park, City of Clearwater</li>
+			<br>
+			<b>Data not yet obtained:</b>
+			<li>Several TSMA have not been mapped that TRINT believes to have more than 20 interconnected traffic signals.  These government agencies or entities have not shared shared data with
+			Transportation Intelligence/TRINT.  Trint has requested any list (even handwritten ones), forms. maps,  from such TSMAs.  Some more advanced agencies provide KML, GIS/Shape file. 
+			some less advanced agencies provide a excel file, text file or PDF file. There were also a couple of TSMAs that provided a handwritten list. 
+			However there are TSMA that have yet to share traffic signal information even after 30 days  (with weekly request) </li>
+			<li> These TSMA are: 	Citrus County,  Putnam County, Lake City, City of Winter Haven, and  City of Clearwater</li>
 			<li>Please report any data inaccuracies that you find at <a href='mailto:data@trint.us?Subject=Data%20Error'>data@trint.us</a> </li>
 		</ul></p>
 		<p><ul>
@@ -102,16 +183,14 @@ Mobile<br>
 </div>
 	
 <div id="updateinfo">
-<span id="infotitle"> <b>Next Scheduled Update:</b> 04/18/2015; <b>Last updated</b> 04/11/2015</span>
+<span id="infotitle"><h3>Update Log</h3></span>
 		<p><ul>
-		<b>Look ahead</b>
-			<li>No update this week, conintues geocoding for TSMA that provided list (non-geocoded information) data</li>
-			<li>Follow up/Retry  Data request: Citrus County,  Putnam County, Sumpter County, Lake City, City of Winter Haven, City of Winter Park, City of Clearwater</li>
-			<li>Two month rolling update below</li>
-		</ul></p>	
+			<b>April 2016 - </b>
+			<li>04/18/15 - Change menu interface to <a href="http://www.getbootstrap.com">Bootstrap</a> </li> 
+		</ul></p>
 		<p><ul>
 			<b>April 2015 - Week  2</b>
-			<li>04/11/15 - Geocoding the following TSMA(s): Santa Rosa County, City of Jacksonville Signal, City of Lakeland </li> 
+			<li>04/11/15 - Geocoding the following TSMA(s): Santa Rosa County, City of Jacksonville, Sumter County Traffic Signals</li> 
 		</ul></p>
 		<p><ul>
 			<b>April 2015 - Week  1</b>
@@ -126,7 +205,6 @@ Mobile<br>
 			<li>03/28/15 - Geocoding ongoing for the following Traffic Signal Maintaining Agencies: Plamt City, Highlands County,  City of Jacksonville, City of St. Petersburg </li>
 			<li>03/28/15 - City of Sarasota Traffic Signals, geocoding completed and now mapped in TRINT   </li> 
 			<li>03/28/15 - City of Naples Traffic Signals, data obtained and now  mapped in TRINT </li>
-			<li>03/16-03/20 -2015 - Follow up/Retry  Data request : Citrus County,  Putnam County, Sumpter County, Lake City, City of Winter Haven, City of Winter Park</li>
 		</ul></p>
 		<p><ul>
 			<b>March 2015 - Week  3</b>
@@ -136,8 +214,6 @@ Mobile<br>
 			<li>03/21/15 - City of St. Petersburg Traffic Signals, data obtained and partially mapped (235 Signals geocoded) in TRINT  </li>
 			<li>03/21/15 - City of Jacksonville  Traffic Signals, data obtained and partially mapped (381 Signals geocoded)  in TRINT  </li> 
 			<li>03/21/15 - City of Bradenton  Traffic Signals, data obtained and now mapped in TRINT. (Note: Jurisdiction Clarification with Manatee County in process)  </li> 
-			<li>03/16-03/20 -2015 - Traffic Signal Data request:  City of St. Augustine (via Summerville Electric) , Sumpter County, City of Winter Park, City of Clearwater, City of Naples.</li>
-			<li>03/16-03/20 -2015 - Follow up/Retry  Data request : Citrus County, Santa Rosa County, Putnam County (inclusive of Crescent City, Palatka, Hastings, via Summerville Electric), City of Winter Haven, Lake City </li>
 		</ul></p>
 		<p><ul>
 			<b>March 2015 - Week  2</b>
@@ -148,8 +224,6 @@ Mobile<br>
 			<li>03/14/15 - Updated City of Melbourne added 4 new signals data  </li> 
 			<li>03/14/15 - Lake County Traffic Signals, data obtained, geocoded and now mapped in TRINT  </li> 
 			<li>03/13/15 - List of signalized intersections obtained from City of St Petersburg, City of Brandenton, City of Sarasota, Highlands County, Plant City, Hernando County,  </li>
-			<li>03/09-03/13 -2015 - Traffic Signal Data request:  Santa Rosa County, City of Bradenton, City of Sarasota, City of Winter Haven, Lake City</li>
-			<li>03/09-03/13 -2015 - Follow up/Retry  Data request : Hernando County, Citrus County, </li>
 		</ul></p>
 		<p><ul>
 			<b>March 2015 - Week  1</b>
@@ -159,8 +233,6 @@ Mobile<br>
 			<li>03/07/15 - Panama City Traffic Signals, data obtained and now mapped in TRINT. </li>
 			<li>03/07/15 - City of Melbourne (via Brevard County) Traffic Signals, data obtained and now mapped in TRINT. </li>
 			<li>03/07/15 - City of Daytona Beach (via Volusia County) Traffic Signals, data obtained and now mapped in TRINT. </li>
-			<li>03/02-03/07 -2015 - Traffic Signal Data request : Panama City, Collier County, Hernando County, Citrus County</li>
-			<li>03/02-03/07 -2015 - Follow up/Retry  Data request : City of Pensacola, City of Gainesville, City of Daytona Beach, City of Ocala</li>
 		</ul></p>
 		<p><ul>
 			<b>February 2015 - Week 4</b>
@@ -169,8 +241,6 @@ Mobile<br>
 			<li>02/28/15 - Lake County Traffic Signals, list data obtained, geocoding and verification required prior to mapping </li>
 			<li>02/28/15 - Manatee County, over 30% complete for street name geocoding and verification </li>
 			<li>02/28/15 - Pinellas County, over 10% complete for street name geocoding and verification </li>
-			<li>02/23-02/20 -2015 - Traffic Signal Data request : City of Pensacola, City of Ocala, Marion County, Charlotte County, Clay County</li>
-			<li>02/23-02/20 -2015 - Follow up/Retry Data request: Lake County,  City of Gainesville, City of Saint Petersburg, City of Daytona Beach  </li>
 		</ul></p>
 		<p><ul>
 			<b>February 2015 - Week 3</b>
@@ -180,8 +250,6 @@ Mobile<br>
 			<li>02/21/15 - Sarasota County Traffic Signals, data obtained and now mapped in TRINT. </li>
 			<li>02/21/15 - Bay County Traffic Signals, data obtained and now mapped in TRINT. </li>
 			<li>02/21/15 - St.John's County Traffic Signals, data obtained and now mapped in TRINT. </li>
-			<li>02/16-02/20 -2015 - Traffic Signal Data request: Saint Petersburg, Sarasota County, Saint John's County, City of Daytona Beach, Bay County </li>
-			<li>02/16-02/20 -2015 - Follow up/Retry Data request: Pinellas County, Lake County, City of Gainesville  </li>
 		</ul></p>
 		<p><ul>
 			<b>February 2015 - Week 2</b>
@@ -193,10 +261,17 @@ Mobile<br>
 			<li>02/14/15 - Brevard County Traffic Signals, data obtained and now mapped in TRINT. </li>
 			</ul>
 		</p>
+		<p><ul>
+			<b>February 2015 - Week 1</b>
+				<li>Collected Data for all TSMA (Traffic Signal Maintaining Agencies) in District 4 </li>
+			</ul>
+		</p>
+		<p>TRINT - Transportation Intelligence, LLC -  Registered  as a LLC in the State of  Florida on January 2015</p>
 </div>
 
 <div id="disclaiminfo">
-<span id="infotitle"> Disclaimer</span>
+<span id="infotitle"><h3>Disclaimer</h3></span>
+<br>
 <p>Data is as current as possible on posting date. Transportation Intelligence, LLC makes no representations or guarantees as to the completeness or accuracy of this data (and/or any provided attribute data thereof). </p>
 <p>Data is provided as is, without warranty of any kind, either expressed or implied, including without limitation any warranties that this data is fit for a particular purpose. 
 Transportation Intelligence, LLC  shall have no liability whatsoever relative to the use of provided data. Full responsibility and liability relating to the use of provided data rests with the user.
@@ -204,21 +279,24 @@ Any data that is obtained from the this website may have  (naming, spatial or me
 <p>That being said. If you find any errors, please contact us at <a href='mailto:data@trint.us?Subject=Data%20Error'>data@trint.us </a> so we can correct inaccuracies as soon as possible.
 </p>
 </div>
-	<br>
 
-<div id="adsense">
-<!-- Responsive Add -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7074806197787335"
-     data-ad-slot="6987673400"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div id="privinfo">
+<span id="infotitle"><h3>Privacy Policy </h3></span>
+<br>
+<p>This Privacy Policy governs the manner in which Transportation Intelligence LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.trint.us website ("Site"). This privacy policy applies to the Site and all products and services offered by Transportation Intelligence LLC. </p>
+<p>Personal identification information: We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. </p>
+<p>Non-personal identification information: We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. </p>
+<p> Web browser cookies: Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. </p>
+<p> How we use collected information: Transportation Intelligence LLC may collect and use Users personal information for the following purposes: - To improve customer service Information you provide helps us respond to your customer service requests and support needs more efficiently.- To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.- To improve our Site We may use feedback you provide to improve our products and services. We do not share this information with outside parties except to the extent necessary to provide the service. </p>
+<p> How we protect your information We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your information, and data stored on our Site. </p>
+<p> Sharing your personal information: We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</p>
+<p> Google Adsense: Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html </p>
+<p> Changes to this privacy policy Transportation Intelligence LLC has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. </p>
+<p> Your acceptance of these terms: By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. </p>
+<p><b>Contacting us: </b>
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Transportation Intelligence LLC at 850-888-8039 or info@trint.us This document was last updated on March 29, 2015 Privacy policy created by Generate Privacy Policy</p>
 </div>
-
+	
  <!-- Analytics-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
